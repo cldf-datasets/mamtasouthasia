@@ -127,6 +127,18 @@ def update_cldf_schema(cldf):
     cldf.add_component('LanguageTable')
     cldf.add_component('ParameterTable')
     cldf.add_component('ExampleTable')
+    cldf.add_columns(
+        'ValueTable',
+         {
+            'dc:extent': 'multivalued',
+            'datatype': {
+                'base': 'string',
+                'format': '[a-zA-Z0-9_\\-]+',
+            },
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
+            'separator': ';',
+            'name': 'Example_IDs',
+        })
 
 
 class Dataset(BaseDataset):
