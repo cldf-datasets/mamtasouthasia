@@ -8,11 +8,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Special numerals in South Asian languages",
+    "dcat:accessURL": "https://github.com/cldf-datasets/mamtasouthasia",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "mamtasouthasia",
+            "rdf:about": "https://github.com/cldf-datasets/mamtasouthasia",
             "rdf:type": "prov:Entity",
-            "dc:created": "0092a66",
+            "dc:created": "015f80a",
             "dc:title": "Repository"
         },
         {
@@ -93,6 +94,16 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "dc:extent": "multivalued",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Example_IDs"
                     }
                 ],
                 "foreignKeys": [
@@ -113,6 +124,17 @@
                         ],
                         "reference": {
                             "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Example_IDs"
+                        ],
+                        "reference": {
+                            "resource": "examples.csv",
                             "columnReference": [
                                 "ID"
                             ]

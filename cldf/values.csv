@@ -1,704 +1,704 @@
-ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source
-LP1-kull1236,kull1236,LP1,pɛlɑ,,,
-LP1-dogr1250,dogr1250,LP1,pɛlɑ,,,
-LP1-garh1243,garh1243,LP1,pehlu,,,
-LP1-kuma1273,kuma1273,LP1,pehlɑ,,,
-LP1-gadd1242,gadd1242,LP1,pɛlɑ,,,
-LP1-goan1235,goan1235,LP1,pəjlɛ̃,,,
-LP1-nepa1254,nepa1254,LP1,prətʰəm,,,
-LP1-kudm1238,kudm1238,LP1,mir,,,
-LP1-beng1280,beng1280,LP1,prot̪om,,,
-LP1-assa1263,assa1263,LP1,prɒt̪ʰɒm,,,
-LP1-marw1260,marw1260,LP1,pɛlo,,,
-LP1-panj1256,panj1256,LP1,pehlɑ,,,
-LP1-adiv1239,adiv1239,LP1,prətʰ̪əmə,,,
-LP1-kash1277,kash1277,LP1,ɡʋəɖnjuk,,,
-LP1-mara1378,mara1378,LP1,pəhɪlɑ,,,
-LP1-guja1252,guja1252,LP1,pehlʊ,,,
-LP1-sind1272,sind1272,LP1,pero,,,
-LP1-paha1251,paha1251,LP1,ekmɑ,,,
-LP1-sada1242,sada1242,LP1,pehlɑ,,,
-LP1-wagd1238,wagd1238,LP1,pelo,,,
-LP1-west2380,west2380,LP1,pəhilɑ,,,
-LP1-sans1269,sans1269,LP1,prətʰəməh(M)/prətʰəmɑ(F)/prətʰməm(N),,,
-LP1-sylh1242,sylh1242,LP1,fort̪om,,,
-LP1-urdu1245,urdu1245,LP1,pehlɑ,,,
-LP1-halb1244,halb1244,LP1,pəhil,,,
-LP1-maga1260,maga1260,LP1,pehlɑ,,,
-LP2-kull1236,kull1236,LP2,duǰǰɑ,,,
-LP2-dogr1250,dogr1250,LP2,duʋɑ,,,
-LP2-garh1243,garh1243,LP2,dusru,,,
-LP2-kuma1273,kuma1273,LP2,dusrɑ,,,
-LP2-gadd1242,gadd1242,LP2,duɑ,,,
-LP2-goan1235,goan1235,LP2,d̪usrɛ̃,,,
-LP2-nepa1254,nepa1254,LP2,ditijə,,,
-LP2-kudm1238,kudm1238,LP2,dusrɑ,,,
-LP2-beng1280,beng1280,LP2,d̪ɪt̪io,,,
-LP2-assa1263,assa1263,LP2,d̪rɪt̪ɪɒ,,,
-LP2-marw1260,marw1260,LP2,duɟ̌o,,,
-LP2-panj1256,panj1256,LP2,d̪uǰɑ,,,
-LP2-adiv1239,adiv1239,LP2,d̪ɪt̪ɪjə,,,
-LP2-kash1277,kash1277,LP2,d̪oɪjəm,,,
-LP2-mara1378,mara1378,LP2,d̪usrɑ,,,
-LP2-guja1252,guja1252,LP2,bɪǰʊ,,,
-LP2-sind1272,sind1272,LP2,beo,,,
-LP2-paha1251,paha1251,LP2,duɑ,,,
-LP2-sada1242,sada1242,LP2,dusrɑ,,,
-LP2-wagd1238,wagd1238,LP2,biǰo,,,
-LP2-west2380,west2380,LP2,dusrɑ,,,
-LP2-sans1269,sans1269,LP2,dʋitijəh/dʋitijɑ/dʋitijəm,,,
-LP2-sylh1242,sylh1242,LP2,d̪it̪ijo,,,
-LP2-urdu1245,urdu1245,LP2,dusrɑ,,,
-LP2-halb1244,halb1244,LP2,dusər,,,
-LP2-maga1260,maga1260,LP2,dusrɑ,,,
-LP3-kull1236,kull1236,LP3,triǰɑ,,,
-LP3-dogr1250,dogr1250,LP3,trijɑ,,,
-LP3-garh1243,garh1243,LP3,tisru,,,
-LP3-kuma1273,kuma1273,LP3,tisrɑ,,,
-LP3-gadd1242,gadd1242,LP3,trijɑ,,,
-LP3-goan1235,goan1235,LP3,t̪ɪsrɛ̃,,,
-LP3-nepa1254,nepa1254,LP3,tritijə,,,
-LP3-beng1280,beng1280,LP3,t̪rɪt̪io,,,
-LP3-assa1263,assa1263,LP3,t̪rɪt̪ɪɒ,,,
-LP3-marw1260,marw1260,LP3,tɪɟ̌o,,,
-LP3-panj1256,panj1256,LP3,t̪ɪǰɑ,,,
-LP3-adiv1239,adiv1239,LP3,t̪rut̪ɪjə,,,
-LP3-kash1277,kash1277,LP3,t̪reɪjəm,,,
-LP3-mara1378,mara1378,LP3,t̪ɪsrɑ,,,
-LP3-guja1252,guja1252,LP3,t̪ɪǰʊ,,,
-LP3-sind1272,sind1272,LP3,ʈɪo,,,
-LP3-paha1251,paha1251,LP3,trijɑ,,,
-LP3-sada1242,sada1242,LP3,tisrɑ,,,
-LP3-wagd1238,wagd1238,LP3,tisro,,,
-LP3-west2380,west2380,LP3,tisrɑ,,,
-LP3-sans1269,sans1269,LP3,tritijəh/tritijɑ/tritijəm,,,
-LP3-sylh1242,sylh1242,LP3,t̪rit̪ijo,,,
-LP3-urdu1245,urdu1245,LP3,tisrɑ,,,
-LP3-halb1244,halb1244,LP3,tisər,,,
-LP3-maga1260,maga1260,LP3,tisrɑ,,,
-LP4-kull1236,kull1236,LP4,čɔutʰɑ,,,
-LP4-dogr1250,dogr1250,LP4,čotʰɑ,,,
-LP4-garh1243,garh1243,LP4,čotʰu,,,
-LP4-kuma1273,kuma1273,LP4,čotʰɑ,,,
-LP4-gadd1242,gadd1242,LP4,čotʰɑ,,,
-LP4-goan1235,goan1235,LP4,t͡səvt̪ɛ̃,,,
-LP4-nepa1254,nepa1254,LP4,tʃəturtʰ,,,
-LP4-beng1280,beng1280,LP4,čot̪urt̪ʰo,,,
-LP4-assa1263,assa1263,LP4,sot̪ʊrt̪ʰ,,,
-LP4-marw1260,marw1260,LP4,čoʈʰo,,,
-LP4-panj1256,panj1256,LP4,čəut̪ʰɑ,,,
-LP4-adiv1239,adiv1239,LP4,čət̪urt̪ʰə,,,
-LP4-kash1277,kash1277,LP4,tʃurjem,,,
-LP4-mara1378,mara1378,LP4,čəʊt̪ʰɑ,,,
-LP4-guja1252,guja1252,LP4,čɔʊt̪ʰu,,,
-LP4-sind1272,sind1272,LP4,čot̪ʰo,,,
-LP4-paha1251,paha1251,LP4,čotʰɑ,,,
-LP4-sada1242,sada1242,LP4,čɔtʰɑ,,,
-LP4-wagd1238,wagd1238,LP4,čɔtʰo,,,
-LP4-west2380,west2380,LP4,čəutʰɑ,,,
-LP4-sans1269,sans1269,LP4,čəturtʰəh/čəturtʰɑ/čəturtʰəm,,,
-LP4-sylh1242,sylh1242,LP4,sot̪urt̪ʰo,,,
-LP4-urdu1245,urdu1245,LP4,tʃotʰɑ,,,
-LP4-halb1244,halb1244,LP4,čəʋtʰɑ,,,
-LP4-maga1260,maga1260,LP4,čɔtʰɑ,,,
-LP5-kull1236,kull1236,LP5,põnǰʋɑ̃,,,
-LP5-dogr1250,dogr1250,LP5,pəimɑ,,,
-LP5-garh1243,garh1243,LP5,pɑ̃ču,,,
-LP5-kuma1273,kuma1273,LP5,pɑ̃čʋɑ,,,
-LP5-gadd1242,gadd1242,LP5,pəimɑ,,,
-LP5-goan1235,goan1235,LP5,pɑ̃t͡səvɛ̃,,,
-LP5-nepa1254,nepa1254,LP5,pɑ̃tʃõ,,,
-LP5-beng1280,beng1280,LP5,pɔnčom,,,
-LP5-assa1263,assa1263,LP5,pɑ:s nɒmbor,,,
-LP5-marw1260,marw1260,LP5,pɑ̃nčvo,,,
-LP5-panj1256,panj1256,LP5,pənǰʋɑ̃,,,
-LP5-adiv1239,adiv1239,LP5,pənčəmə,,,
-LP5-kash1277,kash1277,LP5,pũtʃjəm,,,
-LP5-mara1378,mara1378,LP5,pɑ̃nčʋɑ,,,
-LP5-guja1252,guja1252,LP5,pɑ̃nčmʊ,,,
-LP5-sind1272,sind1272,LP5,pənǰo,,,
-LP5-paha1251,paha1251,LP5,pənǰmɑ,,,
-LP5-sada1242,sada1242,LP5,pɑ̃čʋɑ,,,
-LP5-wagd1238,wagd1238,LP5,pɑčʋo,,,
-LP5-west2380,west2380,LP5,pəčmɑ,,,
-LP5-sans1269,sans1269,LP5,pə̃nčməh/pə̃nčmɑ/pə̃nčməm,,,
-LP5-sylh1242,sylh1242,LP5,fɔncom,,,
-LP5-urdu1245,urdu1245,LP5,pɑ̃tʃʋɑ̃,,,
-LP5-halb1244,halb1244,LP5,pɑ̃čʋɑ̃,,,
-LP5-maga1260,maga1260,LP5,pɑ̃nčʋɑ,,,
-LP6-kull1236,kull1236,LP6,čʰəuʋɑ̃,,,
-LP6-dogr1250,dogr1250,LP6,šədmɑ,,,
-LP6-garh1243,garh1243,LP6,čʰəʈu,,,
-LP6-kuma1273,kuma1273,LP6,čʰəʈɑ,,,
-LP6-gadd1242,gadd1242,LP6,čʰemmɑ,,,
-LP6-goan1235,goan1235,LP6,səvvɛ̃,,,
-LP6-nepa1254,nepa1254,LP6,ʃɛʈõ,,,
-LP6-beng1280,beng1280,LP6,šɔštom,,,
-LP6-assa1263,assa1263,LP6,soɪ nɒmbor,,,
-LP6-marw1260,marw1260,LP6,čʰəʈʰo,,,
-LP6-panj1256,panj1256,LP6,ʃeʋɑ̃,,,
-LP6-adiv1239,adiv1239,LP6,səsʈʰə,,,
-LP6-kash1277,kash1277,LP6,šəɪjəm,,,
-LP6-mara1378,mara1378,LP6,šɑhʋɑ,,,
-LP6-guja1252,guja1252,LP6,čʰəʈʈʰʊ,,,
-LP6-sind1272,sind1272,LP6,čəo,,,
-LP6-paha1251,paha1251,LP6,čʰemmɑ,,,
-LP6-sada1242,sada1242,LP6,čʰəʈʋɑ,,,
-LP6-wagd1238,wagd1238,LP6,čʰəʈʈo,,,
-LP6-west2380,west2380,LP6,čʰəʈʈɑ,,,
-LP6-sans1269,sans1269,LP6,ʂəsʈəh/ʂəsʈʰəmɑ/ʂəsʈʰəm,,,
-LP6-sylh1242,sylh1242,LP6,ʃɔʃʈʰo,,,
-LP6-urdu1245,urdu1245,LP6,tʃʰəʈɑ,,,
-LP6-halb1244,halb1244,LP6,čʰəʈʋɑ̃,,,
-LP6-maga1260,maga1260,LP6,čʰəʈʈʰɑ,,,
-LP7-kull1236,kull1236,LP7,sɔtuʋɑ̃,,,
-LP7-dogr1250,dogr1250,LP7,sətmɑ,,,
-LP7-garh1243,garh1243,LP7,sətu,,,
-LP7-kuma1273,kuma1273,LP7,sətʋɑ,,,
-LP7-gadd1242,gadd1242,LP7,sətuʋɑ,,,
-LP7-goan1235,goan1235,LP7,sɑt̪vɛ̃,,,
-LP7-nepa1254,nepa1254,LP7,sɑtõ,,,
-LP7-beng1280,beng1280,LP7,šɔptom,,,
-LP7-assa1263,assa1263,LP7,hɑ:t nɒmbor,,,
-LP7-marw1260,marw1260,LP7,sɑ:təvo,,,
-LP7-panj1256,panj1256,LP7,sət̪ʋɑ̃,,,
-LP7-adiv1239,adiv1239,LP7,səpt̪əmə,,,
-LP7-kash1277,kash1277,LP7,səɪt̪jəm,,,
-LP7-mara1378,mara1378,LP7,šɑt̪t̪ʋɑ,,,
-LP7-guja1252,guja1252,LP7,sət̪mʊ,,,
-LP7-sind1272,sind1272,LP7,sət̪t̪o,,,
-LP7-paha1251,paha1251,LP7,sətmɑ,,,
-LP7-sada1242,sada1242,LP7,sətʋɑ,,,
-LP7-wagd1238,wagd1238,LP7,sɑtʋo,,,
-LP7-west2380,west2380,LP7,sətmɑ,,,
-LP7-sans1269,sans1269,LP7,səptəməh/səptəmɑ/səptəməm,,,
-LP7-sylh1242,sylh1242,LP7,ʃɔpt̪ɔm,,,
-LP7-urdu1245,urdu1245,LP7,sɑtʋɑ̃,,,
-LP7-halb1244,halb1244,LP7,sɑtʋɑ̃,,,
-LP7-maga1260,maga1260,LP7,sɑtʋɑ,,,
-LP8-kull1236,kull1236,LP8,əʈʰuʋɑ̃,,,
-LP8-dogr1250,dogr1250,LP8,əʈʰmɑ,,,
-LP8-garh1243,garh1243,LP8,əʈʰu,,,
-LP8-kuma1273,kuma1273,LP8,əʈʰʋɑ,,,
-LP8-gadd1242,gadd1242,LP8,əʈʰʋɑ,,,
-LP8-goan1235,goan1235,LP8,ɑʈvɛ̃,,,
-LP8-nepa1254,nepa1254,LP8,ɑʈʰõ,,,
-LP8-beng1280,beng1280,LP8,ɔštom,,,
-LP8-assa1263,assa1263,LP8,ɑʈʰ nɒmbor,,,
-LP8-marw1260,marw1260,LP8,ɑ:ʈʰvo,,,
-LP8-panj1256,panj1256,LP8,əʈʰʋɑ̃,,,
-LP8-adiv1239,adiv1239,LP8,əsʈəmə,,,
-LP8-kash1277,kash1277,LP8,u:ʈʰəjəm,,,
-LP8-mara1378,mara1378,LP8,ɑ:ʈʰʋɑ,,,
-LP8-guja1252,guja1252,LP8,ɑ:ʈʰmʊ,,,
-LP8-sind1272,sind1272,LP8,əʈʰo,,,
-LP8-paha1251,paha1251,LP8,əʈʰmɑ,,,
-LP8-sada1242,sada1242,LP8,əʈʰʋɑ,,,
-LP8-wagd1238,wagd1238,LP8,ɑʈʰʋo,,,
-LP8-west2380,west2380,LP8,əʈʰmɑ,,,
-LP8-sans1269,sans1269,LP8,əsʈəməh/əsʈəmɑ/əsʈəməm,,,
-LP8-sylh1242,sylh1242,LP8,ɔʃʈɔm,,,
-LP8-urdu1245,urdu1245,LP8,ɑʈʰʋɑ̃,,,
-LP8-halb1244,halb1244,LP8,ɑʈʋɑ̃,,,
-LP8-maga1260,maga1260,LP8,ɑʈʰʋɑ,,,
-LP9-kull1236,kull1236,LP9,nɔuʋɑ̃,,,
-LP9-dogr1250,dogr1250,LP9,nɔmɑ,,,
-LP9-garh1243,garh1243,LP9,nəu,,,
-LP9-kuma1273,kuma1273,LP9,nɔʋɑ,,,
-LP9-gadd1242,gadd1242,LP9,nomɑ,,,
-LP9-goan1235,goan1235,LP9,ɳəvvɛ̃,,,
-LP9-nepa1254,nepa1254,LP9,nɔʋõ,,,
-LP9-beng1280,beng1280,LP9,nɔbom,,,
-LP9-assa1263,assa1263,LP9,nɒ nɒmbor,,,
-LP9-marw1260,marw1260,LP9,nəvo,,,
-LP9-panj1256,panj1256,LP9,nɔʋɑ̃,,,
-LP9-adiv1239,adiv1239,LP9,nəʋəmə,,,
-LP9-kash1277,kash1277,LP9,nəijəm,,,
-LP9-mara1378,mara1378,LP9,nəuʋɑ,,,
-LP9-guja1252,guja1252,LP9,nəʋmʊ,,,
-LP9-sind1272,sind1272,LP9,nəʋo,,,
-LP9-paha1251,paha1251,LP9,nommɑ,,,
-LP9-sada1242,sada1242,LP9,nɔʋɑ,,,
-LP9-wagd1238,wagd1238,LP9,nəʋo,,,
-LP9-west2380,west2380,LP9,nɔmɑ,,,
-LP9-sans1269,sans1269,LP9,nəʋəməh/nəʋmɑ/nəʋməm,,,
-LP9-sylh1242,sylh1242,LP9,nɔbom,,,
-LP9-urdu1245,urdu1245,LP9,nɔʋɑ̃,,,
-LP9-halb1244,halb1244,LP9,nəʋɑ̃,,,
-LP9-maga1260,maga1260,LP9,nɔʋɑ,,,
-LP10-kull1236,kull1236,LP10,dəsʋɑ̃,,,
-LP10-dogr1250,dogr1250,LP10,dəsmɑ,,,
-LP10-garh1243,garh1243,LP10,dəsu,,,
-LP10-kuma1273,kuma1273,LP10,dəsʋɑ,,,
-LP10-gadd1242,gadd1242,LP10,dəsmɑ,,,
-LP10-goan1235,goan1235,LP10,dʰɑvɛ̃,,,
-LP10-nepa1254,nepa1254,LP10,dəsʋõ,,,
-LP10-beng1280,beng1280,LP10,d̪ɔšom,,,
-LP10-assa1263,assa1263,LP10,d̪ɒh nɒmbor,,,
-LP10-marw1260,marw1260,LP10,dəsvo,,,
-LP10-panj1256,panj1256,LP10,d̪əsʋɑ̃,,,
-LP10-adiv1239,adiv1239,LP10,d̪əsəmə,,,
-LP10-kash1277,kash1277,LP10,d̪əhjəm,,,
-LP10-mara1378,mara1378,LP10,d̪ɑhʋɑ,,,
-LP10-guja1252,guja1252,LP10,d̪əsmʊ,,,
-LP10-sind1272,sind1272,LP10,ɖəo,,,
-LP10-paha1251,paha1251,LP10,dəsmɑ,,,
-LP10-sada1242,sada1242,LP10,bəsʋɑ,,,
-LP10-wagd1238,wagd1238,LP10,dəsʋo,,,
-LP10-west2380,west2380,LP10,dəsmɑ,,,
-LP10-sans1269,sans1269,LP10,dəʃməh/dəʃmɑ/dəʃməm,,,
-LP10-sylh1242,sylh1242,LP10,d̪ɔʃom,,,
-LP10-urdu1245,urdu1245,LP10,dəsʋɑ̃,,,
-LP10-halb1244,halb1244,LP10,dəsʋɑ̃,,,
-LP10-maga1260,maga1260,LP10,dəsʋɑ,,,
-LP11-kull1236,kull1236,LP11,ɡjɑrʋɑ̃,,,
-LP11-dogr1250,dogr1250,LP11,ɡjɑrmɑ,,,
-LP11-garh1243,garh1243,LP11,iɡjɑrʋu,,,
-LP11-kuma1273,kuma1273,LP11,iɡjɑrʋɑ,,,
-LP11-gadd1242,gadd1242,LP11,jɑrmɑ,,,
-LP11-goan1235,goan1235,LP11,ɪkrɑvɛ̃,,,
-LP11-nepa1254,nepa1254,LP11,eɡɑrõ,,,
-LP11-beng1280,beng1280,LP11,ɛkɑd̪ɔš,,,
-LP11-assa1263,assa1263,LP11,ɛɡɑrɒ nɒmbor,,,
-LP11-marw1260,marw1260,LP11,ɪɡjɑrvo,,,
-LP11-panj1256,panj1256,LP11,ɡjɑrʋɑ̃,,,
-LP11-adiv1239,adiv1239,LP11,ekɑd̪əsə,,,
-LP11-kash1277,kash1277,LP11,kəhjəm,,,
-LP11-mara1378,mara1378,LP11,əkrɑʋɑ,,,
-LP11-guja1252,guja1252,LP11,əɡjɑrmʊ,,,
-LP11-sind1272,sind1272,LP11,yɑro,,,
-LP11-paha1251,paha1251,LP11,jɑrmɑ,,,
-LP11-sada1242,sada1242,LP11,eɡɑrʋɑ,,,
-LP11-wagd1238,wagd1238,LP11,ɡjɑrʋo,,,
-LP11-west2380,west2380,LP11,eɡərmɑ,,,
-LP11-sans1269,sans1269,LP11,ekɑdəʃməh/ekɑdəʃmɑ/ekɑdəʃməm,,,
-LP11-sylh1242,sylh1242,LP11,æxɑd̪ɔʃ,,,
-LP11-urdu1245,urdu1245,LP11,ɡijɑrʋɑ̃,,,
-LP11-halb1244,halb1244,LP11,iɡɑrʋɑ̃,,,
-LP11-maga1260,maga1260,LP11,ɡjɑrʋɑ,,,
-LP12-kull1236,kull1236,LP12,bɑrʋɑ̃,,,
-LP12-dogr1250,dogr1250,LP12,bɑrmɑ,,,
-LP12-garh1243,garh1243,LP12,bɑrʋu,,,
-LP12-kuma1273,kuma1273,LP12,bɑrʋɑ,,,
-LP12-gadd1242,gadd1242,LP12,bɑrmɑ,,,
-LP12-goan1235,goan1235,LP12,bɑrɑvɛ̃,,,
-LP12-nepa1254,nepa1254,LP12,bɑrõ,,,
-LP12-beng1280,beng1280,LP12,d̪ɑd̪ɔš,,,
-LP12-assa1263,assa1263,LP12,bɑ:rɒ nɒmbor,,,
-LP12-marw1260,marw1260,LP12,bɑrvo,,,
-LP12-panj1256,panj1256,LP12,bɑrʋɑ̃,,,
-LP12-adiv1239,adiv1239,LP12,d̪ʋɑd̪əsə,,,
-LP12-kash1277,kash1277,LP12,bəhjəm,,,
-LP12-mara1378,mara1378,LP12,bɑrɑʋɑ,,,
-LP12-guja1252,guja1252,LP12,bɑ:rmʊ,,,
-LP12-sind1272,sind1272,LP12,bɑro,,,
-LP12-paha1251,paha1251,LP12,bɑrmɑ,,,
-LP12-sada1242,sada1242,LP12,bɑrʋɑ,,,
-LP12-wagd1238,wagd1238,LP12,bɑrʋo,,,
-LP12-west2380,west2380,LP12,bərʋɑ̃,,,
-LP12-sans1269,sans1269,LP12,dʋɑdəʃməh/dʋɑdəʃmɑ/dʋɑdəʃməm,,,
-LP12-sylh1242,sylh1242,LP12,d̪ɑdɔʃ,,,
-LP12-urdu1245,urdu1245,LP12,bɑrʋɑ̃,,,
-LP12-halb1244,halb1244,LP12,bɑrʋɑ̃,,,
-LP12-maga1260,maga1260,LP12,bɑrʋɑ,,,
-LP13-kull1236,kull1236,LP13,teruʋɑ̃,,,
-LP13-dogr1250,dogr1250,LP13,termɑ,,,
-LP13-garh1243,garh1243,LP13,terʋu,,,
-LP13-kuma1273,kuma1273,LP13,terʋɑ,,,
-LP13-gadd1242,gadd1242,LP13,termɑ,,,
-LP13-goan1235,goan1235,LP13,t̪ɛrɑvɛ̃,,,
-LP13-nepa1254,nepa1254,LP13,terõ,,,
-LP13-beng1280,beng1280,LP13,t̪ærot̪ɔmo,,,
-LP13-assa1263,assa1263,LP13,t̪ɛrɒ nɒmbor,,,
-LP13-marw1260,marw1260,LP13,tervo,,,
-LP13-panj1256,panj1256,LP13,t̪ehrəʋɑ̃,,,
-LP13-adiv1239,adiv1239,LP13,t̪rəjod̪əsə,,,
-LP13-kash1277,kash1277,LP13,t̪ruʋəhjəm,,,
-LP13-mara1378,mara1378,LP13,t̪erɑʋɑ,,,
-LP13-guja1252,guja1252,LP13,t̪e:rmʊ,,,
-LP13-sind1272,sind1272,LP13,ʈero,,,
-LP13-paha1251,paha1251,LP13,termɑ,,,
-LP13-sada1242,sada1242,LP13,terʋɑ,,,
-LP13-wagd1238,wagd1238,LP13,terʋo,,,
-LP13-west2380,west2380,LP13,terʋɑ̃,,,
-LP13-sans1269,sans1269,LP13,trəjodəʃməh/trəjodəʃmɑ/trəjodəʃməm,,,
-LP13-sylh1242,sylh1242,LP13,t̪rojod̪ɔʃ,,,
-LP13-urdu1245,urdu1245,LP13,terʋɑ̃,,,
-LP13-halb1244,halb1244,LP13,terʋɑ̃,,,
-LP13-maga1260,maga1260,LP13,terʋɑ,,,
-LP14-kull1236,kull1236,LP14,čɔduʋɑ̃,,,
-LP14-dogr1250,dogr1250,LP14,čɔdmɑ,,,
-LP14-garh1243,garh1243,LP14,čɔdʋu,,,
-LP14-kuma1273,kuma1273,LP14,čɔdʋɑ,,,
-LP14-gadd1242,gadd1242,LP14,čodmɑ,,,
-LP14-goan1235,goan1235,LP14,t͡səvd̪ɑvɛ̃,,,
-LP14-nepa1254,nepa1254,LP14,tʃɔdõ,,,
-LP14-beng1280,beng1280,LP14,čod̪d̪ot̪ɔmo,,,
-LP14-assa1263,assa1263,LP14,soɪd̪ʰɒ nɒmbor,,,
-LP14-marw1260,marw1260,LP14,čəʊdəvo,,,
-LP14-panj1256,panj1256,LP14,čɔd̪ʋɑ̃,,,
-LP14-adiv1239,adiv1239,LP14,čət̪urd̪əsə,,,
-LP14-kash1277,kash1277,LP14,tʃjəd̪əhjəm,,,
-LP14-mara1378,mara1378,LP14,čəʊd̪ɑʋɑ,,,
-LP14-guja1252,guja1252,LP14,cəʊd̪mʊ,,,
-LP14-sind1272,sind1272,LP14,čəd̪ʋo,,,
-LP14-paha1251,paha1251,LP14,čodmɑ,,,
-LP14-sada1242,sada1242,LP14,čɔdʋɑ,,,
-LP14-wagd1238,wagd1238,LP14,čɔudʋo,,,
-LP14-west2380,west2380,LP14,čəudəhʋɑ̃,,,
-LP14-sans1269,sans1269,LP14,čəturdəʃməh/čəturdəʃmɑ/čəturdəʃməm,,,
-LP14-sylh1242,sylh1242,LP14,sot̪urd̪ɔʃ,,,
-LP14-urdu1245,urdu1245,LP14,tʃodʰʋɑ̃,,,
-LP14-halb1244,halb1244,LP14,čəʋdəʋɑ̃,,,
-LP14-maga1260,maga1260,LP14,čɔdʋɑ,,,
-LP15-kull1236,kull1236,LP15,pəndruʋɑ̃,,,
-LP15-dogr1250,dogr1250,LP15,pəndrəmɑ,,,
-LP15-garh1243,garh1243,LP15,pəndərʋu,,,
-LP15-kuma1273,kuma1273,LP15,pəndərʋɑ,,,
-LP15-gadd1242,gadd1242,LP15,pəndrəmɑ,,,
-LP15-goan1235,goan1235,LP15,pə̃d̪rɑvɛ̃,,,
-LP15-nepa1254,nepa1254,LP15,pəndrõ,,,
-LP15-beng1280,beng1280,LP15,ponerot̪ɔmo,,,
-LP15-assa1263,assa1263,LP15,pʊnd̪ʰɒrɒ nɒmbor,,,
-LP15-marw1260,marw1260,LP15,pəndərvo,,,
-LP15-panj1256,panj1256,LP15,pənd̪ərʋɑ̃,,,
-LP15-adiv1239,adiv1239,LP15,pənčəd̪əsə,,,
-LP15-kash1277,kash1277,LP15,pənd̪əhjəm,,,
-LP15-mara1378,mara1378,LP15,pə̃nd̪rɑʋɑ,,,
-LP15-guja1252,guja1252,LP15,pənd̪ərmʊ,,,
-LP15-sind1272,sind1272,LP15,pənd̪rʋo,,,
-LP15-paha1251,paha1251,LP15,pəndrəmɑ,,,
-LP15-sada1242,sada1242,LP15,pənrəhʋɑ,,,
-LP15-wagd1238,wagd1238,LP15,pəndərʋo,,,
-LP15-west2380,west2380,LP15,pəndrəhʋɑ̃,,,
-LP15-sans1269,sans1269,LP15,pə̃nčdəʃməh/pə̃nčdəʃmɑ/pə̃nčdəʃməm,,,
-LP15-sylh1242,sylh1242,LP15,fɔncod̪ɔʃ,,,
-LP15-urdu1245,urdu1245,LP15,pəndrəʰʋɑ̃,,,
-LP15-halb1244,halb1244,LP15,pəndərʋɑ̃,,,
-LP15-maga1260,maga1260,LP15,pəndərʋɑ,,,
-LP16-kull1236,kull1236,LP16,ʃoluʋɑ̃,,,
-LP16-dogr1250,dogr1250,LP16,šolmɑ,,,
-LP16-garh1243,garh1243,LP16,ʃolʋu,,,
-LP16-kuma1273,kuma1273,LP16,ʃolʋɑ,,,
-LP16-gadd1242,gadd1242,LP16,solmɑ,,,
-LP16-goan1235,goan1235,LP16,sɔɭɑvɛ̃,,,
-LP16-nepa1254,nepa1254,LP16,ʃorəõ,,,
-LP16-beng1280,beng1280,LP16,šolot̪ɔmo,,,
-LP16-assa1263,assa1263,LP16,hʊllɒ nɒmbor,,,
-LP16-marw1260,marw1260,LP16,soləvo,,,
-LP16-panj1256,panj1256,LP16,soɭʋɑ̃,,,
-LP16-adiv1239,adiv1239,LP16,səst̪əd̪əsə,,,
-LP16-kash1277,kash1277,LP16,šrehjəm,,,
-LP16-mara1378,mara1378,LP16,ʃolɑʋɑ,,,
-LP16-guja1252,guja1252,LP16,ʃolmʊ,,,
-LP16-sind1272,sind1272,LP16,soro,,,
-LP16-paha1251,paha1251,LP16,solmɑ,,,
-LP16-sada1242,sada1242,LP16,solʋɑ,,,
-LP16-wagd1238,wagd1238,LP16,soləʋo,,,
-LP16-west2380,west2380,LP16,soləhʋɑ̃,,,
-LP16-sans1269,sans1269,LP16,ʂoɖdəʃməh/ʂoɖdəʃmɑ/ʂoɖdəʃməm,,,
-LP16-sylh1242,sylh1242,LP16,ʃɔʃʈod̪ɔʃ,,,
-LP16-urdu1245,urdu1245,LP16,solʋɑ̃,,,
-LP16-halb1244,halb1244,LP16,solʋɑ̃,,,
-LP16-maga1260,maga1260,LP16,solʋɑ,,,
-LP17-kull1236,kull1236,LP17,sətɑruʋɑ̃,,,
-LP17-dogr1250,dogr1250,LP17,sətɑrmɑ,,,
-LP17-garh1243,garh1243,LP17,sətɑrʋu,,,
-LP17-kuma1273,kuma1273,LP17,sətrəhʋɑ,,,
-LP17-gadd1242,gadd1242,LP17,sətɑrma,,,
-LP17-goan1235,goan1235,LP17,st̪rɑvɛ̃,,,
-LP17-nepa1254,nepa1254,LP17,sətrəõ,,,
-LP17-beng1280,beng1280,LP17,šɔterot̪ɔmo,,,
-LP17-assa1263,assa1263,LP17,hʊtɒrɒ nɒmbor,,,
-LP17-marw1260,marw1260,LP17,sətərvo,,,
-LP17-panj1256,panj1256,LP17,sət̪ɑrʋɑ̃,,,
-LP17-adiv1239,adiv1239,LP17,səpt̪əd̪əsə,,,
-LP17-kash1277,kash1277,LP17,sɑd̪əhjəm,,,
-LP17-mara1378,mara1378,LP17,šət̪rɑʋɑ,,,
-LP17-guja1252,guja1252,LP17,sət̪t̪ərmʊ,,,
-LP17-sind1272,sind1272,LP17,sət̪ro,,,
-LP17-paha1251,paha1251,LP17,sətɑrmɑ,,,
-LP17-sada1242,sada1242,LP17,sətrəʋɑ,,,
-LP17-wagd1238,wagd1238,LP17,sətərʋo,,,
-LP17-west2380,west2380,LP17,sətrehʋɑ̃,,,
-LP17-sans1269,sans1269,LP17,səptdəʃməh/səptdəʃmɑ/səptdəʃməm,,,
-LP17-sylh1242,sylh1242,LP17,ʃɔpt̪od̪ɔʃ,,,
-LP17-urdu1245,urdu1245,LP17,sɑtɑrʋɑ̃,,,
-LP17-halb1244,halb1244,LP17,sətərʋɑ̃,,,
-LP17-maga1260,maga1260,LP17,sətrəhʋɑ,,,
-LP18-kull1236,kull1236,LP18,ʈʰɑruʋɑ̃,,,
-LP18-dogr1250,dogr1250,LP18,ʈʰɑrmɑ,,,
-LP18-garh1243,garh1243,LP18,əʈʰərʋu,,,
-LP18-kuma1273,kuma1273,LP18,əʈʰərəhʋɑ,,,
-LP18-gadd1242,gadd1242,LP18,ʈʰɑrmɑ,,,
-LP18-goan1235,goan1235,LP18,əʈrɑvɛ̃,,,
-LP18-nepa1254,nepa1254,LP18,əʈʰɑrʋõ,,,
-LP18-beng1280,beng1280,LP18,ɑ:ʈʰerot̪ɔmo,,,
-LP18-assa1263,assa1263,LP18,ʊʈʰɒrɒ nɒmbor,,,
-LP18-marw1260,marw1260,LP18,əʈʰɑrvo,,,
-LP18-panj1256,panj1256,LP18,əʈʰɑrʋɑ̃,,,
-LP18-adiv1239,adiv1239,LP18,əsʈd̪əsə,,,
-LP18-kash1277,kash1277,LP18,ərd̪əhjəm,,,
-LP18-mara1378,mara1378,LP18,əʈʰrɑʋɑ,,,
-LP18-guja1252,guja1252,LP18,əɖʰɑ:rmʊ,,,
-LP18-sind1272,sind1272,LP18,əʈʈʰɑro,,,
-LP18-paha1251,paha1251,LP18,ʈʰɑrmɑ,,,
-LP18-sada1242,sada1242,LP18,əʈʰɑrʋɑ,,,
-LP18-wagd1238,wagd1238,LP18,əʈʰɑrʋo,,,
-LP18-west2380,west2380,LP18,əʈʰərʋɑ̃,,,
-LP18-sans1269,sans1269,LP18,əsʈɑdəʃməh/əsʈɑdəʃmɑ/əsʈɑdəʃməm,,,
-LP18-sylh1242,sylh1242,LP18,ɔʃʈɑd̪ɔʃ,,,
-LP18-urdu1245,urdu1245,LP18,ɑʈʰɑrʋɑ̃,,,
-LP18-halb1244,halb1244,LP18,əʈʰɑrʋɑ̃,,,
-LP18-maga1260,maga1260,LP18,ɑʈʰɑrʋɑ,,,
-LP19-kull1236,kull1236,LP19,unnɑnuʋɑ̃,,,
-LP19-dogr1250,dogr1250,LP19,unnimɑ,,,
-LP19-garh1243,garh1243,LP19,unnisu,,,
-LP19-kuma1273,kuma1273,LP19,unnisʋɑ,,,
-LP19-gadd1242,gadd1242,LP19,unnimɑ,,,
-LP19-goan1235,goan1235,LP19,ekuɳɪsɑvɛ̃,,,
-LP19-nepa1254,nepa1254,LP19,unnisʋõ,,,
-LP19-beng1280,beng1280,LP19,uništ̪ɔmo,,,
-LP19-assa1263,assa1263,LP19,ʊnoɪs nɒmbor,,,
-LP19-marw1260,marw1260,LP19,ʊɡnɪsvo,,,
-LP19-panj1256,panj1256,LP19,unnɪsʋɑ̃,,,
-LP19-adiv1239,adiv1239,LP19,unənʋɪŋɡsə,,,
-LP19-kash1277,kash1277,LP19,kunʋuhjəm,,,
-LP19-mara1378,mara1378,LP19,ekonɑʋɪ,,,
-LP19-guja1252,guja1252,LP19,oɡnɪšmʊ,,,
-LP19-sind1272,sind1272,LP19,uɲɪjo,,,
-LP19-paha1251,paha1251,LP19,unmɑ,,,
-LP19-sada1242,sada1242,LP19,unnisʋɑ,,,
-LP19-wagd1238,wagd1238,LP19,unnisʋo,,,
-LP19-west2380,west2380,LP19,unnisʋɑ̃,,,
-LP19-sans1269,sans1269,LP19,nəvdəʃməh/ekonʋinʃətitəməh/nəʋdəʃəsmɑ/ekonʋinʃətitəmɑ/nəʋdəʃməm/ekonʋinʃətitəməm,,,
-LP19-sylh1242,sylh1242,LP19,unobiʃ,,,
-LP19-urdu1245,urdu1245,LP19,unisʋɑ̃,,,
-LP19-halb1244,halb1244,LP19,onisʋɑ̃,,,
-LP19-maga1260,maga1260,LP19,unnisʋɑ,,,
-LP20-kull1236,kull1236,LP20,biʋɑ̃,,,
-LP20-dogr1250,dogr1250,LP20,bimɑ,,,
-LP20-garh1243,garh1243,LP20,bisʋu,,,
-LP20-kuma1273,kuma1273,LP20,bisʋɑ,,,
-LP20-gadd1242,gadd1242,LP20,bimɑ,,,
-LP20-goan1235,goan1235,LP20,vɪsəvɛ̃,,,
-LP20-nepa1254,nepa1254,LP20,bisʋõ,,,
-LP20-assa1263,assa1263,LP20,bɪs nɒmbor,,,
-LP20-marw1260,marw1260,LP20,bɪ:svo,,,
-LP20-panj1256,panj1256,LP20,ʋɪʋɑ̃,,,
-LP20-adiv1239,adiv1239,LP20,ʋɪŋɡsə,,,
-LP20-kash1277,kash1277,LP20,ʋuhjəm,,,
-LP20-mara1378,mara1378,LP20,ʋɪsɑʋɑ,,,
-LP20-guja1252,guja1252,LP20,ʋɪšmʊ,,,
-LP20-sind1272,sind1272,LP20,bɪo,,,
-LP20-paha1251,paha1251,LP20,bimɑ,,,
-LP20-sada1242,sada1242,LP20,bisʋɑ,,,
-LP20-wagd1238,wagd1238,LP20,bisʋo,,,
-LP20-west2380,west2380,LP20,bisʋɑ̃,,,
-LP20-sans1269,sans1269,LP20,ʋĩnʃətitəməh/ʋĩnʃətitəmɑ/ʋĩnʃətitəməm,,,
-LP20-sylh1242,sylh1242,LP20,biʃ,,,
-LP20-urdu1245,urdu1245,LP20,bisʋɑ̃,,,
-LP20-halb1244,halb1244,LP20,bisʋɑ̃,,,
-LP20-maga1260,maga1260,LP20,bisʋɑ,,,
-LP21-kull1236,kull1236,LP21,ikkiʋɑ̃,,,
-LP21-dogr1250,dogr1250,LP21,ikkimɑ,,,
-LP21-garh1243,garh1243,LP21,ikkisʋu,,,
-LP21-kuma1273,kuma1273,LP21,ikkisʋɑ,,,
-LP21-gadd1242,gadd1242,LP21,ikkimɑ,,,
-LP21-goan1235,goan1235,LP21,ekvɪsvɛ̃,,,
-LP21-nepa1254,nepa1254,LP21,ekɑisõ,,,
-LP21-assa1263,assa1263,LP21,ɛkʊɪs nɒmbor,,,
-LP21-marw1260,marw1260,LP21,ɪkɪsvo,,,
-LP21-panj1256,panj1256,LP21,ɪkkɪʋɑ̃,,,
-LP21-adiv1239,adiv1239,LP21,ekəʋɪŋɡsə,,,
-LP21-kash1277,kash1277,LP21,əkʰʋuhjəm,,,
-LP21-mara1378,mara1378,LP21,ekʋɪsɑʋɑ,,,
-LP21-guja1252,guja1252,LP21,ekʋɪšmʊ,,,
-LP21-sind1272,sind1272,LP21,ɪkkɪjo,,,
-LP21-paha1251,paha1251,LP21,ikmɑ,,,
-LP21-sada1242,sada1242,LP21,ekkisʋɑ,,,
-LP21-wagd1238,wagd1238,LP21,ekkisʋo,,,
-LP21-west2380,west2380,LP21,ekisʋɑ̃,,,
-LP21-sans1269,sans1269,LP21,dʋɑʋĩnʃətitəməh/dʋɑʋĩnʃətitəmɑ/dʋɑʋĩnʃətitəməm,,,
-LP21-urdu1245,urdu1245,LP21,ikisʋɑ̃,,,
-LP21-halb1244,halb1244,LP21,iskisʋɑ̃,,,
-LP21-maga1260,maga1260,LP21,ekkisʋɑ,,,
-LP22-kull1236,kull1236,LP22,bɑiʋɑ̃,,,
-LP22-dogr1250,dogr1250,LP22,bɑimɑ,,,
-LP22-garh1243,garh1243,LP22,bɑisʋu,,,
-LP22-kuma1273,kuma1273,LP22,bɑisʋɑ,,,
-LP22-gadd1242,gadd1242,LP22,bɑimɑ,,,
-LP22-goan1235,goan1235,LP22,bɑvɪsvɛ̃,,,
-LP22-nepa1254,nepa1254,LP22,bɑisõ,,,
-LP22-assa1263,assa1263,LP22,bɑɪs nɒmbor,,,
-LP22-marw1260,marw1260,LP22,bɑ:ɪsvo,,,
-LP22-panj1256,panj1256,LP22,bɑɪʋɑ̃,,,
-LP22-adiv1239,adiv1239,LP22,d̪ʋɑʋɪŋɡsə,,,
-LP22-kash1277,kash1277,LP22,žut̪t̪oʋuhjəm,,,
-LP22-mara1378,mara1378,LP22,bɑʋɪsɑʋɑ,,,
-LP22-guja1252,guja1252,LP22,bɑʋɪšmʊ,,,
-LP22-sind1272,sind1272,LP22,bɑʋɪjo,,,
-LP22-paha1251,paha1251,LP22,bɑimɑ,,,
-LP22-sada1242,sada1242,LP22,bɑisʋɑ,,,
-LP22-wagd1238,wagd1238,LP22,bɑisʋo,,,
-LP22-west2380,west2380,LP22,bɑisʋɑ̃,,,
-LP22-sans1269,sans1269,LP22,trəjodʋɑʋĩnʃətitəməh/trəjodʋɑʋĩnʃətitəmɑ/trəjodʋɑʋĩnʃətitəməm,,,
-LP22-urdu1245,urdu1245,LP22,bɑisʋɑ̃,,,
-LP22-halb1244,halb1244,LP22,bɑisʋɑ̃,,,
-LP22-maga1260,maga1260,LP22,bɑisʋɑ,,,
-LP23-kull1236,kull1236,LP23,ek ʃoru,,,
-LP23-dogr1250,dogr1250,LP23,ek muɖɑ,,,
-LP23-garh1243,garh1243,LP23,ek ləɖkɑ,,,
-LP23-kuma1273,kuma1273,LP23,ek čəl,,,
-LP23-gadd1242,gadd1242,LP23,əkʰ čʰokro,,,
-LP23-goan1235,goan1235,LP23,ek t͡səlɔ,,,
-LP23-nepa1254,nepa1254,LP23,eoʈɑ keʈo,,,
-LP23-kudm1238,kudm1238,LP23,ənɑ ʈɑ beʈɑčʰəuɑ,,,
-LP23-beng1280,beng1280,LP23,ækʈɑ/ekʈɪ čʰele,,,
-LP23-assa1263,assa1263,LP23,ɛdʒɒn lɒrɑ:,,,
-LP23-marw1260,marw1260,LP23,ek čʰoro,,,
-LP23-panj1256,panj1256,LP23,ɪkk munɖɑ,,,
-LP23-adiv1239,adiv1239,LP23,ǰəɳə bɑɭəkə,,,
-LP23-kash1277,kash1277,LP23,əkʰ ləɖk,,,
-LP23-mara1378,mara1378,LP23,ek mulɡɑ,,,
-LP23-guja1252,guja1252,LP23,ek čʰokro,,,
-LP23-sind1272,sind1272,LP23,ɪkk čʰokro,,,
-LP23-paha1251,paha1251,LP23,ek munɖɑ,,,
-LP23-sada1242,sada1242,LP23,eɡo čʰorɑ,,,
-LP23-wagd1238,wagd1238,LP23,ek ʃoro,,,
-LP23-west2380,west2380,LP23,eɡo ləikɑ,,,
-LP23-sans1269,sans1269,LP23,ekəh bɑləkəh,,,
-LP23-sylh1242,sylh1242,LP23,æxʈɑ sele,,,
-LP23-urdu1245,urdu1245,LP23,ɑek ləɽkɑ,,,
-LP23-halb1244,halb1244,LP23,ɡoʈək lekɑ,,,
-LP23-maga1260,maga1260,LP23,eɡo čʰorɑ,,,
-LP24-kull1236,kull1236,LP24,dui ʃoru,,,
-LP24-dogr1250,dogr1250,LP24,do muɖe,,,
-LP24-garh1243,garh1243,LP24,dui ləɖkɑ,,,
-LP24-kuma1273,kuma1273,LP24,di čəl,,,
-LP24-gadd1242,gadd1242,LP24,do čʰokro,,,
-LP24-goan1235,goan1235,LP24,d̪on t͡səlɛ,,,
-LP24-nepa1254,nepa1254,LP24,duiʈɑ keʈɑ,,,
-LP24-kudm1238,kudm1238,LP24,dənɑ ʈɑ beʈɑčʰəuɑ,,,
-LP24-beng1280,beng1280,LP24,d̪uʈo/ d̪uʈɪ čʰele,,,
-LP24-assa1263,assa1263,LP24,dʊdʒɒn lɒrɑ:,,,
-LP24-marw1260,marw1260,LP24,do čʰorɑ,,,
-LP24-panj1256,panj1256,LP24,d̪o munɖe,,,
-LP24-adiv1239,adiv1239,LP24,d̪uɪ ǰəɳə bɑɭəkə,,,
-LP24-kash1277,kash1277,LP24,žə ləɖk,,,
-LP24-mara1378,mara1378,LP24,d̪on mulə,,,
-LP24-guja1252,guja1252,LP24,be čʰokrɑo,,,
-LP24-sind1272,sind1272,LP24,bə čʰokrɑ,,,
-LP24-paha1251,paha1251,LP24,do munɖe,,,
-LP24-sada1242,sada1242,LP24,duiɡo čʰorɑmən,,,
-LP24-wagd1238,wagd1238,LP24,be ʃorə,,,
-LP24-west2380,west2380,LP24,duɡo ləikɑ,,,
-LP24-sans1269,sans1269,LP24,dʋɔ bɑlkɔ,,,
-LP24-sylh1242,sylh1242,LP24,duiʈɑ sele,,,
-LP24-urdu1245,urdu1245,LP24,do ləɽke,,,
-LP24-halb1244,halb1244,LP24,duj ǰʰən lekɑ mən,,,
-LP24-maga1260,maga1260,LP24,du-ɡo čʰorɑ,,,
-LP27-kull1236,kull1236,LP27,põnǰ bʰeɖ-ɑ̃,,,
-LP27-dogr1250,dogr1250,LP27,pənǰ piɖɖɑ̃,,,
-LP27-garh1243,garh1243,LP27,pɑ̃č bʰẽɖči,,,
-LP27-kuma1273,kuma1273,LP27,pɑ̃č bʰeɽ,,,
-LP27-gadd1242,gadd1242,LP27,pənǰ bɛrɑ,,,
-LP27-goan1235,goan1235,LP27,pɑ̃t͡s mɛ̃dɛ,,,
-LP27-nepa1254,nepa1254,LP27,pɑ̃tʃõ ʈɑ bʰeɽɑ əru,,,
-LP27-kudm1238,kudm1238,LP27,mɑčɑʈi bʰeɖi,,,
-LP27-beng1280,beng1280,LP27,pɑ̃čʈɑ bʰærɑ,,,
-LP27-assa1263,assa1263,LP27,pɑ:stɑ: bʰɛrɑ:,,,
-LP27-marw1260,marw1260,LP27,pɑ̃:nč bʰɛɽɑ,,,
-LP27-panj1256,panj1256,LP27,pənǰ peɖɖɑ,,,
-LP27-adiv1239,adiv1239,LP27,pãnčə menɖʰɑ,,,
-LP27-kash1277,kash1277,LP27,pɑ̃tʃ kəʈʰ,,,
-LP27-mara1378,mara1378,LP27,pɑ̃:tʃ menɖrəjɑ,,,
-LP27-guja1252,guja1252,LP27,pɑ̃nč ɡʰeʈɑ,,,
-LP27-sind1272,sind1272,LP27,pənǰ bʰeɖ,,,
-LP27-paha1251,paha1251,LP27,pənǰ peɖɑ,,,
-LP27-sada1242,sada1242,LP27,pɑčɡo bʰeɽ,,,
-LP27-wagd1238,wagd1238,LP27,pɑč bʰeɖ,,,
-LP27-west2380,west2380,LP27,pɑ̃čɡo bʰeɽ,,,
-LP27-sans1269,sans1269,LP27,pə̃nč eɖkɑh,,,
-LP27-sylh1242,sylh1242,LP27,fɑsʈɑ bʰæɽɑ,,,
-LP27-urdu1245,urdu1245,LP27,pɑ̃tʃ bhɛɽẽ,,,
-LP27-halb1244,halb1244,LP27,pɑ̃č ʈʰən menɖi,,,
-LP27-maga1260,maga1260,LP27,du-ɡo bʰeɽɑ,,,
-LP25-kull1236,kull1236,LP25,trɑi ʃorijɑ̃,,,
-LP25-dogr1250,dogr1250,LP25,trɛ kuɖijɑ̃,,,
-LP25-garh1243,garh1243,LP25,tin ləɖki,,,
-LP25-kuma1273,kuma1273,LP25,tin čeli,,,
-LP25-gadd1242,gadd1242,LP25,trɛ čʰukri,,,
-LP25-goan1235,goan1235,LP25,t̪ɪn t͡səljo,,,
-LP25-nepa1254,nepa1254,LP25,tinoʈɑ keʈi əru,,,
-LP25-kudm1238,kudm1238,LP25,ʈenɑʈi beʈičʰəuɑ,,,
-LP25-beng1280,beng1280,LP25,t̪i:nʈe meje,,,
-LP25-assa1263,assa1263,LP25,tɪnɪdʒonɪ sʊɑ:lɪ,,,
-LP25-marw1260,marw1260,LP25,tɪn čʰorəjɑ,,,
-LP25-panj1256,panj1256,LP25,t̪ɪnn kuɖɪjɑ̃,,,
-LP25-adiv1239,adiv1239,LP25,t̪ɪnɪ ǰəɳə ǰʰɪe,,,
-LP25-kash1277,kash1277,LP25,trɛ kʋerijə,,,
-LP25-mara1378,mara1378,LP25,t̪ɪn muɭɪ,,,
-LP25-guja1252,guja1252,LP25,t̪roɳ čʰokərɪjo,,,
-LP25-sind1272,sind1272,LP25,ʈre čʰokrɪju,,,
-LP25-paha1251,paha1251,LP25,trɛ kuɽijɑ̃,,,
-LP25-sada1242,sada1242,LP25,tinɡo čʰorimən,,,
-LP25-wagd1238,wagd1238,LP25,trəɳ ʃorijẽ,,,
-LP25-west2380,west2380,LP25,tinɡo čʰəuri,,,
-LP25-sans1269,sans1269,LP25,tisrəh bɑlikɑh,,,
-LP25-sylh1242,sylh1242,LP25,tinʈɑ meje,,,
-LP25-urdu1245,urdu1245,LP25,tin ləɽkiɑ̃,,,
-LP25-halb1244,halb1244,LP25,tin ǰʰən leki mən,,,
-LP25-maga1260,maga1260,LP25,tin-ɡo čʰɔri,,,
-LP28-kull1236,kull1236,LP28,ɔʈʰ buʈe,,,
-LP28-dogr1250,dogr1250,LP28,əʈʰ buʈe,,,
-LP28-garh1243,garh1243,LP28,ɑʈʰ peɖ,,,
-LP28-kuma1273,kuma1273,LP28,ɑʈʰ ɖɑu,,,
-LP28-gadd1242,gadd1242,LP28,əʈʰ buʈ,,,
-LP28-goan1235,goan1235,LP28,ɑʈ zʰɑdɑ̃,,,
-LP28-nepa1254,nepa1254,LP28,ɑʈʰoʈɑ rukʰ həru,,,
-LP28-kudm1238,kudm1238,LP28,əʈʰəi ʈɑ ɡɑčʰ,,,
-LP28-beng1280,beng1280,LP28,ɑʈʈɪ ɡɑčʰ,,,
-LP28-assa1263,assa1263,LP28,ɑ:ʈʰdɑ:l ɡɒs,,,
-LP28-marw1260,marw1260,LP28,ɑ:ʈʰ peɽ,,,
-LP28-panj1256,panj1256,LP28,ɑʈʰ rukʰ,,,
-LP28-adiv1239,adiv1239,LP28,ɑ:ʈʰtɪ ɡəčʰə,,,
-LP28-kash1277,kash1277,LP28,uəʈʰ kul,,,
-LP28-mara1378,mara1378,LP28,ɑ:ʈʰ ǰʰɑr,,,
-LP28-guja1252,guja1252,LP28,ɑ:ʈʰ ǰʰɑɽʋɑ/ʋrukʃʰo,,,
-LP28-sind1272,sind1272,LP28,əʈʰ peɽ,,,
-LP28-paha1251,paha1251,LP28,əʈʰ buʈe,,,
-LP28-sada1242,sada1242,LP28,ɑʈʰɡo ɡəčʰ,,,
-LP28-wagd1238,wagd1238,LP28,ɑʈ ǰʰɑr,,,
-LP28-west2380,west2380,LP28,ɑʈʰɡo per,,,
-LP28-sans1269,sans1269,LP28,əsʈ ʋrikʃʰɑɳi,,,
-LP28-sylh1242,sylh1242,LP28,ɑʈʈɑ ɡɑs,,,
-LP28-urdu1245,urdu1245,LP28,ɑʈʰ dɑrəkʰt,,,
-LP28-halb1244,halb1244,LP28,ɑʈ ʈʰən rukʰ mən,,,
-LP28-maga1260,maga1260,LP28,ɑʈʰ ɡo ɡɑčʰ,,,
-LP26-kull1236,kull1236,LP26,mu-ɑɡɛ tʃɑr bɛɡ sɑ,,,
-LP26-dogr1250,dogr1250,LP26,mere koɭ čɑr bɛɡ ɛ,,,
-LP26-garh1243,garh1243,LP26,mem čɑr bɛɡ čʰi,,,
-LP26-kuma1273,kuma1273,LP26,mer pɑs čɑr ǰʰol čʰe,,,
-LP26-gadd1242,gadd1242,LP26,mu əlɛ čɑr ǰoɽ-en,,,
-LP26-goan1235,goan1235,LP26,mhəzɛ lɑɡɪ̃ cɑr pot̪ɪjo ɑsɑt̪,,,
-LP26-nepa1254,nepa1254,LP26,moi sitɑ tinoʈɑ bɛɡ əru čʰən,,,
-LP26-kudm1238,kudm1238,LP26,mər ʈʰin čɑrɑʈɑ tʰeilɑ ɑheik,,,
-LP26-beng1280,beng1280,LP26,ɑmɑr čɑrʈe bæɡ ɑčʰe,,,
-LP26-assa1263,assa1263,LP26,mor sɑ:rɪt̪a bɛɡ ɑsɛ,,,
-LP26-marw1260,marw1260,LP26,mʰɑrɛ kənɛ tʃɑ:r t̪ʰɛlɑ hɛ,,,
-LP26-panj1256,panj1256,LP26,mere koɭ čɑr t̪ʰɛle hən,,,
-LP26-adiv1239,adiv1239,LP26,morə čɑrotɪ muɳɑ əčʰɪ,,,
-LP26-kash1277,kash1277,LP26,meh čʰə tʃor bəst,,,
-LP26-mara1378,mara1378,LP26,mɑǰʰɑ kəɽe t̪ɪn pɪsʋjɑ ɑhet̪,,,
-LP26-guja1252,guja1252,LP26,mɑrɪ pɑse čɑr t̪ʰelɑ čʰe,,,
-LP26-sind1272,sind1272,LP26,muhɪnǰe ʋəʈʰ čɑr ǰolɑ ən,,,
-LP26-paha1251,paha1251,LP26,mere kol čɑr bəstɑ ən,,,
-LP26-sada1242,sada1242,LP26,mor ǰə čɑirɡo ǰʰolɑ ɑhe,,,
-LP26-wagd1238,wagd1238,LP26,mɑre pɑe ʃɑr bɛɡ he,,,
-LP26-west2380,west2380,LP26,həmrɑ pɑs čɑrɡo bɛɡ həu,,,
-LP26-sans1269,sans1269,LP26,məm čətʋɑrəh sjutɑh sənti,,,
-LP26-sylh1242,sylh1242,LP26,ɑmɑr sɑiʈʈɑ bæɡ ɑse,,,
-LP26-urdu1245,urdu1245,LP26,mere pɑs tʃɑr bəste hɛ̃,,,
-LP26-halb1244,halb1244,LP26,močo ləɡe čɑr ʈʰən beɡ ɑsot,,,
-LP26-maga1260,maga1260,LP26,həmər pɑs čɑir ɡo tʰəilɑ hɛ,,,
+ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
+LP1-kull1236,kull1236,LP1,pɛlɑ,,,,kull1236-firstman;kull1236-firstwoman
+LP1-dogr1250,dogr1250,LP1,pɛlɑ,,,,dogr1250-firstman;dogr1250-firstwoman
+LP1-garh1243,garh1243,LP1,pehlu,,,,garh1243-firstman;garh1243-firstwoman
+LP1-kuma1273,kuma1273,LP1,pehlɑ,,,,kuma1273-firstman;kuma1273-firstwoman
+LP1-gadd1242,gadd1242,LP1,pɛlɑ,,,,gadd1242-firstman;gadd1242-firstwoman
+LP1-goan1235,goan1235,LP1,pəjlɛ̃,,,,goan1235-firstman;goan1235-firstwoman
+LP1-nepa1254,nepa1254,LP1,prətʰəm,,,,nepa1254-firstman;nepa1254-firstwoman
+LP1-kudm1238,kudm1238,LP1,mir,,,,kudm1238-firstman
+LP1-beng1280,beng1280,LP1,prot̪om,,,,beng1280-firstman;beng1280-firstwoman
+LP1-assa1263,assa1263,LP1,prɒt̪ʰɒm,,,,assa1263-firstman;assa1263-firstwoman
+LP1-marw1260,marw1260,LP1,pɛlo,,,,marw1260-firstman;marw1260-firstwoman
+LP1-panj1256,panj1256,LP1,pehlɑ,,,,panj1256-firstman;panj1256-firstwoman
+LP1-adiv1239,adiv1239,LP1,prətʰ̪əmə,,,,adiv1239-firstman;adiv1239-firstwoman
+LP1-kash1277,kash1277,LP1,ɡʋəɖnjuk,,,,kash1277-firstman;kash1277-firstwoman
+LP1-mara1378,mara1378,LP1,pəhɪlɑ,,,,mara1378-firstman;mara1378-firstwoman
+LP1-guja1252,guja1252,LP1,pehlʊ,,,,guja1252-firstman;guja1252-firstwoman
+LP1-sind1272,sind1272,LP1,pero,,,,sind1272-firstman;sind1272-firstwoman
+LP1-paha1251,paha1251,LP1,ekmɑ,,,,paha1251-firstman;paha1251-firstwoman
+LP1-sada1242,sada1242,LP1,pehlɑ,,,,sada1242-firstman;sada1242-firstwoman
+LP1-wagd1238,wagd1238,LP1,pelo,,,,wagd1238-firstman;wagd1238-firstwoman
+LP1-west2380,west2380,LP1,pəhilɑ,,,,west2380-firstman;west2380-firstwoman
+LP1-sans1269,sans1269,LP1,prətʰəməh(M)/prətʰəmɑ(F)/prətʰməm(N),,,,sans1269-firstman;sans1269-firstwoman
+LP1-sylh1242,sylh1242,LP1,fort̪om,,,,sylh1242-firstman;sylh1242-firstwoman
+LP1-urdu1245,urdu1245,LP1,pehlɑ,,,,urdu1245-firstman;urdu1245-firstwoman
+LP1-halb1244,halb1244,LP1,pəhil,,,,halb1244-firstman;halb1244-firstwoman
+LP1-maga1260,maga1260,LP1,pehlɑ,,,,maga1260-firstman;maga1260-firstwoman
+LP2-kull1236,kull1236,LP2,duǰǰɑ,,,,kull1236-secondman;kull1236-secondwoman
+LP2-dogr1250,dogr1250,LP2,duʋɑ,,,,dogr1250-secondman;dogr1250-secondwoman
+LP2-garh1243,garh1243,LP2,dusru,,,,garh1243-secondman;garh1243-secondwoman
+LP2-kuma1273,kuma1273,LP2,dusrɑ,,,,kuma1273-secondman;kuma1273-secondwoman
+LP2-gadd1242,gadd1242,LP2,duɑ,,,,gadd1242-secondman;gadd1242-secondwoman
+LP2-goan1235,goan1235,LP2,d̪usrɛ̃,,,,goan1235-secondman;goan1235-secondwoman
+LP2-nepa1254,nepa1254,LP2,ditijə,,,,nepa1254-secondman;nepa1254-secondwoman
+LP2-kudm1238,kudm1238,LP2,dusrɑ,,,,
+LP2-beng1280,beng1280,LP2,d̪ɪt̪io,,,,beng1280-secondman;beng1280-secondwoman
+LP2-assa1263,assa1263,LP2,d̪rɪt̪ɪɒ,,,,assa1263-secondman;assa1263-secondwoman
+LP2-marw1260,marw1260,LP2,duɟ̌o,,,,marw1260-secondman;marw1260-secondwoman
+LP2-panj1256,panj1256,LP2,d̪uǰɑ,,,,panj1256-secondman;panj1256-secondwoman
+LP2-adiv1239,adiv1239,LP2,d̪ɪt̪ɪjə,,,,adiv1239-secondman;adiv1239-secondwoman
+LP2-kash1277,kash1277,LP2,d̪oɪjəm,,,,kash1277-secondman;kash1277-secondwoman
+LP2-mara1378,mara1378,LP2,d̪usrɑ,,,,mara1378-secondman;mara1378-secondwoman
+LP2-guja1252,guja1252,LP2,bɪǰʊ,,,,guja1252-secondman;guja1252-secondwoman
+LP2-sind1272,sind1272,LP2,beo,,,,sind1272-secondman;sind1272-secondwoman
+LP2-paha1251,paha1251,LP2,duɑ,,,,paha1251-secondman;paha1251-secondwoman
+LP2-sada1242,sada1242,LP2,dusrɑ,,,,sada1242-secondman;sada1242-secondwoman
+LP2-wagd1238,wagd1238,LP2,biǰo,,,,wagd1238-secondman;wagd1238-secondwoman
+LP2-west2380,west2380,LP2,dusrɑ,,,,west2380-secondman;west2380-secondwoman
+LP2-sans1269,sans1269,LP2,dʋitijəh/dʋitijɑ/dʋitijəm,,,,sans1269-secondman;sans1269-secondwoman
+LP2-sylh1242,sylh1242,LP2,d̪it̪ijo,,,,sylh1242-secondman;sylh1242-secondwoman
+LP2-urdu1245,urdu1245,LP2,dusrɑ,,,,urdu1245-secondman;urdu1245-secondwoman
+LP2-halb1244,halb1244,LP2,dusər,,,,halb1244-secondman;halb1244-secondwoman
+LP2-maga1260,maga1260,LP2,dusrɑ,,,,maga1260-secondman;maga1260-secondwoman
+LP3-kull1236,kull1236,LP3,triǰɑ,,,,kull1236-thirdman;kull1236-thirdwoman
+LP3-dogr1250,dogr1250,LP3,trijɑ,,,,dogr1250-thirdman;dogr1250-thirdwoman
+LP3-garh1243,garh1243,LP3,tisru,,,,garh1243-thirdman;garh1243-thirdwoman
+LP3-kuma1273,kuma1273,LP3,tisrɑ,,,,kuma1273-thirdman;kuma1273-thirdwoman
+LP3-gadd1242,gadd1242,LP3,trijɑ,,,,gadd1242-thirdman;gadd1242-thirdwoman
+LP3-goan1235,goan1235,LP3,t̪ɪsrɛ̃,,,,goan1235-thirdman;goan1235-thirdwoman
+LP3-nepa1254,nepa1254,LP3,tritijə,,,,nepa1254-thirdman;nepa1254-thirdwoman
+LP3-beng1280,beng1280,LP3,t̪rɪt̪io,,,,beng1280-thirdman;beng1280-thirdwoman
+LP3-assa1263,assa1263,LP3,t̪rɪt̪ɪɒ,,,,assa1263-thirdman;assa1263-thirdwoman
+LP3-marw1260,marw1260,LP3,tɪɟ̌o,,,,marw1260-thirdman;marw1260-thirdwoman
+LP3-panj1256,panj1256,LP3,t̪ɪǰɑ,,,,panj1256-thirdman;panj1256-thirdwoman
+LP3-adiv1239,adiv1239,LP3,t̪rut̪ɪjə,,,,adiv1239-thirdman;adiv1239-thirdwoman
+LP3-kash1277,kash1277,LP3,t̪reɪjəm,,,,kash1277-thirdman;kash1277-thirdwoman
+LP3-mara1378,mara1378,LP3,t̪ɪsrɑ,,,,mara1378-thirdman;mara1378-thirdwoman
+LP3-guja1252,guja1252,LP3,t̪ɪǰʊ,,,,guja1252-thirdman;guja1252-thirdwoman
+LP3-sind1272,sind1272,LP3,ʈɪo,,,,sind1272-thirdman;sind1272-thirdwoman
+LP3-paha1251,paha1251,LP3,trijɑ,,,,paha1251-thirdman;paha1251-thirdwoman
+LP3-sada1242,sada1242,LP3,tisrɑ,,,,sada1242-thirdman;sada1242-thirdwoman
+LP3-wagd1238,wagd1238,LP3,tisro,,,,wagd1238-thirdman;wagd1238-thirdwoman
+LP3-west2380,west2380,LP3,tisrɑ,,,,west2380-thirdman;west2380-thirdwoman
+LP3-sans1269,sans1269,LP3,tritijəh/tritijɑ/tritijəm,,,,sans1269-thirdman;sans1269-thirdwoman
+LP3-sylh1242,sylh1242,LP3,t̪rit̪ijo,,,,sylh1242-thirdman;sylh1242-thirdwoman
+LP3-urdu1245,urdu1245,LP3,tisrɑ,,,,urdu1245-thirdman;urdu1245-thirdwoman
+LP3-halb1244,halb1244,LP3,tisər,,,,halb1244-thirdman;halb1244-thirdwoman
+LP3-maga1260,maga1260,LP3,tisrɑ,,,,maga1260-thirdman;maga1260-thirdwoman
+LP4-kull1236,kull1236,LP4,čɔutʰɑ,,,,kull1236-fourthman;kull1236-fourthwoman
+LP4-dogr1250,dogr1250,LP4,čotʰɑ,,,,dogr1250-fourthman;dogr1250-fourthwoman
+LP4-garh1243,garh1243,LP4,čotʰu,,,,garh1243-fourthman;garh1243-fourthwoman
+LP4-kuma1273,kuma1273,LP4,čotʰɑ,,,,kuma1273-fourthman;kuma1273-fourthwoman
+LP4-gadd1242,gadd1242,LP4,čotʰɑ,,,,gadd1242-fourthman;gadd1242-fourthwoman
+LP4-goan1235,goan1235,LP4,t͡səvt̪ɛ̃,,,,goan1235-fourthman;goan1235-fourthwoman
+LP4-nepa1254,nepa1254,LP4,tʃəturtʰ,,,,nepa1254-fourthman;nepa1254-fourthwoman
+LP4-beng1280,beng1280,LP4,čot̪urt̪ʰo,,,,beng1280-fourthman;beng1280-fourthwoman
+LP4-assa1263,assa1263,LP4,sot̪ʊrt̪ʰ,,,,assa1263-fourthman;assa1263-fourthwoman
+LP4-marw1260,marw1260,LP4,čoʈʰo,,,,marw1260-fourthman;marw1260-fourthwoman
+LP4-panj1256,panj1256,LP4,čəut̪ʰɑ,,,,panj1256-fourthman;panj1256-fourthwoman
+LP4-adiv1239,adiv1239,LP4,čət̪urt̪ʰə,,,,adiv1239-fourthman;adiv1239-fourthwoman
+LP4-kash1277,kash1277,LP4,tʃurjem,,,,kash1277-fourthman;kash1277-fourthwoman
+LP4-mara1378,mara1378,LP4,čəʊt̪ʰɑ,,,,mara1378-fourthman;mara1378-fourthwoman
+LP4-guja1252,guja1252,LP4,čɔʊt̪ʰu,,,,guja1252-fourthman;guja1252-fourthwoman
+LP4-sind1272,sind1272,LP4,čot̪ʰo,,,,sind1272-fourthman;sind1272-fourthwoman
+LP4-paha1251,paha1251,LP4,čotʰɑ,,,,paha1251-fourthman;paha1251-fourthwoman
+LP4-sada1242,sada1242,LP4,čɔtʰɑ,,,,sada1242-fourthman;sada1242-fourthwoman
+LP4-wagd1238,wagd1238,LP4,čɔtʰo,,,,wagd1238-fourthman;wagd1238-fourthwoman
+LP4-west2380,west2380,LP4,čəutʰɑ,,,,west2380-fourthman;west2380-fourthwoman
+LP4-sans1269,sans1269,LP4,čəturtʰəh/čəturtʰɑ/čəturtʰəm,,,,sans1269-fourthman;sans1269-fourthwoman
+LP4-sylh1242,sylh1242,LP4,sot̪urt̪ʰo,,,,sylh1242-fourthman;sylh1242-fourthwoman
+LP4-urdu1245,urdu1245,LP4,tʃotʰɑ,,,,urdu1245-fourthman;urdu1245-fourthwoman
+LP4-halb1244,halb1244,LP4,čəʋtʰɑ,,,,halb1244-fourthman;halb1244-fourthwoman
+LP4-maga1260,maga1260,LP4,čɔtʰɑ,,,,maga1260-fourthman;maga1260-fourthwoman
+LP5-kull1236,kull1236,LP5,põnǰʋɑ̃,,,,kull1236-fifthman;kull1236-fifthwoman
+LP5-dogr1250,dogr1250,LP5,pəimɑ,,,,dogr1250-fifthman;dogr1250-fifthwoman
+LP5-garh1243,garh1243,LP5,pɑ̃ču,,,,garh1243-fifthman;garh1243-fifthwoman
+LP5-kuma1273,kuma1273,LP5,pɑ̃čʋɑ,,,,kuma1273-fifthman;kuma1273-fifthwoman
+LP5-gadd1242,gadd1242,LP5,pəimɑ,,,,gadd1242-fifthman;gadd1242-fifthwoman
+LP5-goan1235,goan1235,LP5,pɑ̃t͡səvɛ̃,,,,goan1235-fifthman;goan1235-fifthwoman
+LP5-nepa1254,nepa1254,LP5,pɑ̃tʃõ,,,,nepa1254-fifthman;nepa1254-fifthwoman
+LP5-beng1280,beng1280,LP5,pɔnčom,,,,beng1280-fifthman;beng1280-fifthwoman
+LP5-assa1263,assa1263,LP5,pɑ:s nɒmbor,,,,assa1263-fifthman;assa1263-fifthwoman
+LP5-marw1260,marw1260,LP5,pɑ̃nčvo,,,,marw1260-fifthman;marw1260-fifthwoman
+LP5-panj1256,panj1256,LP5,pənǰʋɑ̃,,,,panj1256-fifthman;panj1256-fifthwoman
+LP5-adiv1239,adiv1239,LP5,pənčəmə,,,,adiv1239-fifthman;adiv1239-fifthwoman
+LP5-kash1277,kash1277,LP5,pũtʃjəm,,,,kash1277-fifthman;kash1277-fifthwoman
+LP5-mara1378,mara1378,LP5,pɑ̃nčʋɑ,,,,mara1378-fifthman;mara1378-fifthwoman
+LP5-guja1252,guja1252,LP5,pɑ̃nčmʊ,,,,guja1252-fifthman;guja1252-fifthwoman
+LP5-sind1272,sind1272,LP5,pənǰo,,,,sind1272-fifthman;sind1272-fifthwoman
+LP5-paha1251,paha1251,LP5,pənǰmɑ,,,,paha1251-fifthman;paha1251-fifthwoman
+LP5-sada1242,sada1242,LP5,pɑ̃čʋɑ,,,,sada1242-fifthman;sada1242-fifthwoman
+LP5-wagd1238,wagd1238,LP5,pɑčʋo,,,,wagd1238-fifthman;wagd1238-fifthwoman
+LP5-west2380,west2380,LP5,pəčmɑ,,,,west2380-fifthman;west2380-fifthwoman
+LP5-sans1269,sans1269,LP5,pə̃nčməh/pə̃nčmɑ/pə̃nčməm,,,,sans1269-fifthman;sans1269-fifthwoman
+LP5-sylh1242,sylh1242,LP5,fɔncom,,,,sylh1242-fifthman;sylh1242-fifthwoman
+LP5-urdu1245,urdu1245,LP5,pɑ̃tʃʋɑ̃,,,,urdu1245-fifthman;urdu1245-fifthwoman
+LP5-halb1244,halb1244,LP5,pɑ̃čʋɑ̃,,,,halb1244-fifthman;halb1244-fifthwoman
+LP5-maga1260,maga1260,LP5,pɑ̃nčʋɑ,,,,maga1260-fifthman;maga1260-fifthwoman
+LP6-kull1236,kull1236,LP6,čʰəuʋɑ̃,,,,kull1236-sixthwoman
+LP6-dogr1250,dogr1250,LP6,šədmɑ,,,,dogr1250-sixthwoman
+LP6-garh1243,garh1243,LP6,čʰəʈu,,,,garh1243-sixthwoman
+LP6-kuma1273,kuma1273,LP6,čʰəʈɑ,,,,kuma1273-sixthwoman
+LP6-gadd1242,gadd1242,LP6,čʰemmɑ,,,,gadd1242-sixthwoman
+LP6-goan1235,goan1235,LP6,səvvɛ̃,,,,goan1235-sixthwoman
+LP6-nepa1254,nepa1254,LP6,ʃɛʈõ,,,,nepa1254-sixthwoman
+LP6-beng1280,beng1280,LP6,šɔštom,,,,beng1280-sixthwoman
+LP6-assa1263,assa1263,LP6,soɪ nɒmbor,,,,assa1263-sixthwoman
+LP6-marw1260,marw1260,LP6,čʰəʈʰo,,,,marw1260-sixthwoman
+LP6-panj1256,panj1256,LP6,ʃeʋɑ̃,,,,panj1256-sixthwoman
+LP6-adiv1239,adiv1239,LP6,səsʈʰə,,,,adiv1239-sixthwoman
+LP6-kash1277,kash1277,LP6,šəɪjəm,,,,kash1277-sixthwoman
+LP6-mara1378,mara1378,LP6,šɑhʋɑ,,,,mara1378-sixthwoman
+LP6-guja1252,guja1252,LP6,čʰəʈʈʰʊ,,,,guja1252-sixthwoman
+LP6-sind1272,sind1272,LP6,čəo,,,,sind1272-sixthwoman
+LP6-paha1251,paha1251,LP6,čʰemmɑ,,,,paha1251-sixthwoman
+LP6-sada1242,sada1242,LP6,čʰəʈʋɑ,,,,sada1242-sixthwoman
+LP6-wagd1238,wagd1238,LP6,čʰəʈʈo,,,,wagd1238-sixthwoman
+LP6-west2380,west2380,LP6,čʰəʈʈɑ,,,,west2380-sixthwoman
+LP6-sans1269,sans1269,LP6,ʂəsʈəh/ʂəsʈʰəmɑ/ʂəsʈʰəm,,,,sans1269-sixthwoman
+LP6-sylh1242,sylh1242,LP6,ʃɔʃʈʰo,,,,sylh1242-sixthwoman
+LP6-urdu1245,urdu1245,LP6,tʃʰəʈɑ,,,,urdu1245-sixthwoman
+LP6-halb1244,halb1244,LP6,čʰəʈʋɑ̃,,,,halb1244-sixthwoman
+LP6-maga1260,maga1260,LP6,čʰəʈʈʰɑ,,,,maga1260-sixthwoman
+LP7-kull1236,kull1236,LP7,sɔtuʋɑ̃,,,,kull1236-seventhboy
+LP7-dogr1250,dogr1250,LP7,sətmɑ,,,,dogr1250-seventhboy
+LP7-garh1243,garh1243,LP7,sətu,,,,garh1243-seventhboy
+LP7-kuma1273,kuma1273,LP7,sətʋɑ,,,,kuma1273-seventhboy
+LP7-gadd1242,gadd1242,LP7,sətuʋɑ,,,,gadd1242-seventhboy
+LP7-goan1235,goan1235,LP7,sɑt̪vɛ̃,,,,goan1235-seventhboy
+LP7-nepa1254,nepa1254,LP7,sɑtõ,,,,nepa1254-seventhboy
+LP7-beng1280,beng1280,LP7,šɔptom,,,,beng1280-seventhboy
+LP7-assa1263,assa1263,LP7,hɑ:t nɒmbor,,,,assa1263-seventhboy
+LP7-marw1260,marw1260,LP7,sɑ:təvo,,,,marw1260-seventhboy
+LP7-panj1256,panj1256,LP7,sət̪ʋɑ̃,,,,panj1256-seventhboy
+LP7-adiv1239,adiv1239,LP7,səpt̪əmə,,,,adiv1239-seventhboy
+LP7-kash1277,kash1277,LP7,səɪt̪jəm,,,,kash1277-seventhboy
+LP7-mara1378,mara1378,LP7,šɑt̪t̪ʋɑ,,,,mara1378-seventhboy
+LP7-guja1252,guja1252,LP7,sət̪mʊ,,,,guja1252-seventhboy
+LP7-sind1272,sind1272,LP7,sət̪t̪o,,,,sind1272-seventhboy
+LP7-paha1251,paha1251,LP7,sətmɑ,,,,paha1251-seventhboy
+LP7-sada1242,sada1242,LP7,sətʋɑ,,,,sada1242-seventhboy
+LP7-wagd1238,wagd1238,LP7,sɑtʋo,,,,wagd1238-seventhboy
+LP7-west2380,west2380,LP7,sətmɑ,,,,west2380-seventhboy
+LP7-sans1269,sans1269,LP7,səptəməh/səptəmɑ/səptəməm,,,,sans1269-seventhboy
+LP7-sylh1242,sylh1242,LP7,ʃɔpt̪ɔm,,,,sylh1242-seventhboy
+LP7-urdu1245,urdu1245,LP7,sɑtʋɑ̃,,,,urdu1245-seventhboy
+LP7-halb1244,halb1244,LP7,sɑtʋɑ̃,,,,halb1244-seventhboy
+LP7-maga1260,maga1260,LP7,sɑtʋɑ,,,,maga1260-seventhboy
+LP8-kull1236,kull1236,LP8,əʈʰuʋɑ̃,,,,kull1236-eighthgirl
+LP8-dogr1250,dogr1250,LP8,əʈʰmɑ,,,,dogr1250-eighthgirl
+LP8-garh1243,garh1243,LP8,əʈʰu,,,,garh1243-eighthgirl
+LP8-kuma1273,kuma1273,LP8,əʈʰʋɑ,,,,kuma1273-eighthgirl
+LP8-gadd1242,gadd1242,LP8,əʈʰʋɑ,,,,gadd1242-eighthgirl
+LP8-goan1235,goan1235,LP8,ɑʈvɛ̃,,,,goan1235-eighthgirl
+LP8-nepa1254,nepa1254,LP8,ɑʈʰõ,,,,nepa1254-eighthgirl
+LP8-beng1280,beng1280,LP8,ɔštom,,,,beng1280-eighthgirl
+LP8-assa1263,assa1263,LP8,ɑʈʰ nɒmbor,,,,assa1263-eighthgirl
+LP8-marw1260,marw1260,LP8,ɑ:ʈʰvo,,,,marw1260-eighthgirl
+LP8-panj1256,panj1256,LP8,əʈʰʋɑ̃,,,,panj1256-eighthgirl
+LP8-adiv1239,adiv1239,LP8,əsʈəmə,,,,adiv1239-eighthgirl
+LP8-kash1277,kash1277,LP8,u:ʈʰəjəm,,,,kash1277-eighthgirl
+LP8-mara1378,mara1378,LP8,ɑ:ʈʰʋɑ,,,,mara1378-eighthgirl
+LP8-guja1252,guja1252,LP8,ɑ:ʈʰmʊ,,,,guja1252-eighthgirl
+LP8-sind1272,sind1272,LP8,əʈʰo,,,,sind1272-eighthgirl
+LP8-paha1251,paha1251,LP8,əʈʰmɑ,,,,paha1251-eighthgirl
+LP8-sada1242,sada1242,LP8,əʈʰʋɑ,,,,sada1242-eighthgirl
+LP8-wagd1238,wagd1238,LP8,ɑʈʰʋo,,,,wagd1238-eighthgirl
+LP8-west2380,west2380,LP8,əʈʰmɑ,,,,west2380-eighthgirl
+LP8-sans1269,sans1269,LP8,əsʈəməh/əsʈəmɑ/əsʈəməm,,,,sans1269-eighthgirl
+LP8-sylh1242,sylh1242,LP8,ɔʃʈɔm,,,,sylh1242-eighthgirl
+LP8-urdu1245,urdu1245,LP8,ɑʈʰʋɑ̃,,,,urdu1245-eighthgirl
+LP8-halb1244,halb1244,LP8,ɑʈʋɑ̃,,,,halb1244-eighthgirl
+LP8-maga1260,maga1260,LP8,ɑʈʰʋɑ,,,,maga1260-eighthgirl
+LP9-kull1236,kull1236,LP9,nɔuʋɑ̃,,,,
+LP9-dogr1250,dogr1250,LP9,nɔmɑ,,,,
+LP9-garh1243,garh1243,LP9,nəu,,,,
+LP9-kuma1273,kuma1273,LP9,nɔʋɑ,,,,
+LP9-gadd1242,gadd1242,LP9,nomɑ,,,,
+LP9-goan1235,goan1235,LP9,ɳəvvɛ̃,,,,
+LP9-nepa1254,nepa1254,LP9,nɔʋõ,,,,
+LP9-beng1280,beng1280,LP9,nɔbom,,,,
+LP9-assa1263,assa1263,LP9,nɒ nɒmbor,,,,
+LP9-marw1260,marw1260,LP9,nəvo,,,,
+LP9-panj1256,panj1256,LP9,nɔʋɑ̃,,,,
+LP9-adiv1239,adiv1239,LP9,nəʋəmə,,,,
+LP9-kash1277,kash1277,LP9,nəijəm,,,,
+LP9-mara1378,mara1378,LP9,nəuʋɑ,,,,
+LP9-guja1252,guja1252,LP9,nəʋmʊ,,,,
+LP9-sind1272,sind1272,LP9,nəʋo,,,,
+LP9-paha1251,paha1251,LP9,nommɑ,,,,
+LP9-sada1242,sada1242,LP9,nɔʋɑ,,,,
+LP9-wagd1238,wagd1238,LP9,nəʋo,,,,
+LP9-west2380,west2380,LP9,nɔmɑ,,,,
+LP9-sans1269,sans1269,LP9,nəʋəməh/nəʋmɑ/nəʋməm,,,,
+LP9-sylh1242,sylh1242,LP9,nɔbom,,,,
+LP9-urdu1245,urdu1245,LP9,nɔʋɑ̃,,,,
+LP9-halb1244,halb1244,LP9,nəʋɑ̃,,,,
+LP9-maga1260,maga1260,LP9,nɔʋɑ,,,,
+LP10-kull1236,kull1236,LP10,dəsʋɑ̃,,,,
+LP10-dogr1250,dogr1250,LP10,dəsmɑ,,,,
+LP10-garh1243,garh1243,LP10,dəsu,,,,
+LP10-kuma1273,kuma1273,LP10,dəsʋɑ,,,,
+LP10-gadd1242,gadd1242,LP10,dəsmɑ,,,,
+LP10-goan1235,goan1235,LP10,dʰɑvɛ̃,,,,
+LP10-nepa1254,nepa1254,LP10,dəsʋõ,,,,
+LP10-beng1280,beng1280,LP10,d̪ɔšom,,,,
+LP10-assa1263,assa1263,LP10,d̪ɒh nɒmbor,,,,
+LP10-marw1260,marw1260,LP10,dəsvo,,,,
+LP10-panj1256,panj1256,LP10,d̪əsʋɑ̃,,,,
+LP10-adiv1239,adiv1239,LP10,d̪əsəmə,,,,
+LP10-kash1277,kash1277,LP10,d̪əhjəm,,,,
+LP10-mara1378,mara1378,LP10,d̪ɑhʋɑ,,,,
+LP10-guja1252,guja1252,LP10,d̪əsmʊ,,,,
+LP10-sind1272,sind1272,LP10,ɖəo,,,,
+LP10-paha1251,paha1251,LP10,dəsmɑ,,,,
+LP10-sada1242,sada1242,LP10,bəsʋɑ,,,,
+LP10-wagd1238,wagd1238,LP10,dəsʋo,,,,
+LP10-west2380,west2380,LP10,dəsmɑ,,,,
+LP10-sans1269,sans1269,LP10,dəʃməh/dəʃmɑ/dəʃməm,,,,
+LP10-sylh1242,sylh1242,LP10,d̪ɔʃom,,,,
+LP10-urdu1245,urdu1245,LP10,dəsʋɑ̃,,,,
+LP10-halb1244,halb1244,LP10,dəsʋɑ̃,,,,
+LP10-maga1260,maga1260,LP10,dəsʋɑ,,,,
+LP11-kull1236,kull1236,LP11,ɡjɑrʋɑ̃,,,,
+LP11-dogr1250,dogr1250,LP11,ɡjɑrmɑ,,,,
+LP11-garh1243,garh1243,LP11,iɡjɑrʋu,,,,
+LP11-kuma1273,kuma1273,LP11,iɡjɑrʋɑ,,,,
+LP11-gadd1242,gadd1242,LP11,jɑrmɑ,,,,
+LP11-goan1235,goan1235,LP11,ɪkrɑvɛ̃,,,,
+LP11-nepa1254,nepa1254,LP11,eɡɑrõ,,,,
+LP11-beng1280,beng1280,LP11,ɛkɑd̪ɔš,,,,
+LP11-assa1263,assa1263,LP11,ɛɡɑrɒ nɒmbor,,,,
+LP11-marw1260,marw1260,LP11,ɪɡjɑrvo,,,,
+LP11-panj1256,panj1256,LP11,ɡjɑrʋɑ̃,,,,
+LP11-adiv1239,adiv1239,LP11,ekɑd̪əsə,,,,
+LP11-kash1277,kash1277,LP11,kəhjəm,,,,
+LP11-mara1378,mara1378,LP11,əkrɑʋɑ,,,,
+LP11-guja1252,guja1252,LP11,əɡjɑrmʊ,,,,
+LP11-sind1272,sind1272,LP11,yɑro,,,,
+LP11-paha1251,paha1251,LP11,jɑrmɑ,,,,
+LP11-sada1242,sada1242,LP11,eɡɑrʋɑ,,,,
+LP11-wagd1238,wagd1238,LP11,ɡjɑrʋo,,,,
+LP11-west2380,west2380,LP11,eɡərmɑ,,,,
+LP11-sans1269,sans1269,LP11,ekɑdəʃməh/ekɑdəʃmɑ/ekɑdəʃməm,,,,
+LP11-sylh1242,sylh1242,LP11,æxɑd̪ɔʃ,,,,
+LP11-urdu1245,urdu1245,LP11,ɡijɑrʋɑ̃,,,,
+LP11-halb1244,halb1244,LP11,iɡɑrʋɑ̃,,,,
+LP11-maga1260,maga1260,LP11,ɡjɑrʋɑ,,,,
+LP12-kull1236,kull1236,LP12,bɑrʋɑ̃,,,,
+LP12-dogr1250,dogr1250,LP12,bɑrmɑ,,,,
+LP12-garh1243,garh1243,LP12,bɑrʋu,,,,
+LP12-kuma1273,kuma1273,LP12,bɑrʋɑ,,,,
+LP12-gadd1242,gadd1242,LP12,bɑrmɑ,,,,
+LP12-goan1235,goan1235,LP12,bɑrɑvɛ̃,,,,
+LP12-nepa1254,nepa1254,LP12,bɑrõ,,,,
+LP12-beng1280,beng1280,LP12,d̪ɑd̪ɔš,,,,
+LP12-assa1263,assa1263,LP12,bɑ:rɒ nɒmbor,,,,
+LP12-marw1260,marw1260,LP12,bɑrvo,,,,
+LP12-panj1256,panj1256,LP12,bɑrʋɑ̃,,,,
+LP12-adiv1239,adiv1239,LP12,d̪ʋɑd̪əsə,,,,
+LP12-kash1277,kash1277,LP12,bəhjəm,,,,
+LP12-mara1378,mara1378,LP12,bɑrɑʋɑ,,,,
+LP12-guja1252,guja1252,LP12,bɑ:rmʊ,,,,
+LP12-sind1272,sind1272,LP12,bɑro,,,,
+LP12-paha1251,paha1251,LP12,bɑrmɑ,,,,
+LP12-sada1242,sada1242,LP12,bɑrʋɑ,,,,
+LP12-wagd1238,wagd1238,LP12,bɑrʋo,,,,
+LP12-west2380,west2380,LP12,bərʋɑ̃,,,,
+LP12-sans1269,sans1269,LP12,dʋɑdəʃməh/dʋɑdəʃmɑ/dʋɑdəʃməm,,,,
+LP12-sylh1242,sylh1242,LP12,d̪ɑdɔʃ,,,,
+LP12-urdu1245,urdu1245,LP12,bɑrʋɑ̃,,,,
+LP12-halb1244,halb1244,LP12,bɑrʋɑ̃,,,,
+LP12-maga1260,maga1260,LP12,bɑrʋɑ,,,,
+LP13-kull1236,kull1236,LP13,teruʋɑ̃,,,,
+LP13-dogr1250,dogr1250,LP13,termɑ,,,,
+LP13-garh1243,garh1243,LP13,terʋu,,,,
+LP13-kuma1273,kuma1273,LP13,terʋɑ,,,,
+LP13-gadd1242,gadd1242,LP13,termɑ,,,,
+LP13-goan1235,goan1235,LP13,t̪ɛrɑvɛ̃,,,,
+LP13-nepa1254,nepa1254,LP13,terõ,,,,
+LP13-beng1280,beng1280,LP13,t̪ærot̪ɔmo,,,,
+LP13-assa1263,assa1263,LP13,t̪ɛrɒ nɒmbor,,,,
+LP13-marw1260,marw1260,LP13,tervo,,,,
+LP13-panj1256,panj1256,LP13,t̪ehrəʋɑ̃,,,,
+LP13-adiv1239,adiv1239,LP13,t̪rəjod̪əsə,,,,
+LP13-kash1277,kash1277,LP13,t̪ruʋəhjəm,,,,
+LP13-mara1378,mara1378,LP13,t̪erɑʋɑ,,,,
+LP13-guja1252,guja1252,LP13,t̪e:rmʊ,,,,
+LP13-sind1272,sind1272,LP13,ʈero,,,,
+LP13-paha1251,paha1251,LP13,termɑ,,,,
+LP13-sada1242,sada1242,LP13,terʋɑ,,,,
+LP13-wagd1238,wagd1238,LP13,terʋo,,,,
+LP13-west2380,west2380,LP13,terʋɑ̃,,,,
+LP13-sans1269,sans1269,LP13,trəjodəʃməh/trəjodəʃmɑ/trəjodəʃməm,,,,
+LP13-sylh1242,sylh1242,LP13,t̪rojod̪ɔʃ,,,,
+LP13-urdu1245,urdu1245,LP13,terʋɑ̃,,,,
+LP13-halb1244,halb1244,LP13,terʋɑ̃,,,,
+LP13-maga1260,maga1260,LP13,terʋɑ,,,,
+LP14-kull1236,kull1236,LP14,čɔduʋɑ̃,,,,
+LP14-dogr1250,dogr1250,LP14,čɔdmɑ,,,,
+LP14-garh1243,garh1243,LP14,čɔdʋu,,,,
+LP14-kuma1273,kuma1273,LP14,čɔdʋɑ,,,,
+LP14-gadd1242,gadd1242,LP14,čodmɑ,,,,
+LP14-goan1235,goan1235,LP14,t͡səvd̪ɑvɛ̃,,,,
+LP14-nepa1254,nepa1254,LP14,tʃɔdõ,,,,
+LP14-beng1280,beng1280,LP14,čod̪d̪ot̪ɔmo,,,,
+LP14-assa1263,assa1263,LP14,soɪd̪ʰɒ nɒmbor,,,,
+LP14-marw1260,marw1260,LP14,čəʊdəvo,,,,
+LP14-panj1256,panj1256,LP14,čɔd̪ʋɑ̃,,,,
+LP14-adiv1239,adiv1239,LP14,čət̪urd̪əsə,,,,
+LP14-kash1277,kash1277,LP14,tʃjəd̪əhjəm,,,,
+LP14-mara1378,mara1378,LP14,čəʊd̪ɑʋɑ,,,,
+LP14-guja1252,guja1252,LP14,cəʊd̪mʊ,,,,
+LP14-sind1272,sind1272,LP14,čəd̪ʋo,,,,
+LP14-paha1251,paha1251,LP14,čodmɑ,,,,
+LP14-sada1242,sada1242,LP14,čɔdʋɑ,,,,
+LP14-wagd1238,wagd1238,LP14,čɔudʋo,,,,
+LP14-west2380,west2380,LP14,čəudəhʋɑ̃,,,,
+LP14-sans1269,sans1269,LP14,čəturdəʃməh/čəturdəʃmɑ/čəturdəʃməm,,,,
+LP14-sylh1242,sylh1242,LP14,sot̪urd̪ɔʃ,,,,
+LP14-urdu1245,urdu1245,LP14,tʃodʰʋɑ̃,,,,
+LP14-halb1244,halb1244,LP14,čəʋdəʋɑ̃,,,,
+LP14-maga1260,maga1260,LP14,čɔdʋɑ,,,,
+LP15-kull1236,kull1236,LP15,pəndruʋɑ̃,,,,
+LP15-dogr1250,dogr1250,LP15,pəndrəmɑ,,,,
+LP15-garh1243,garh1243,LP15,pəndərʋu,,,,
+LP15-kuma1273,kuma1273,LP15,pəndərʋɑ,,,,
+LP15-gadd1242,gadd1242,LP15,pəndrəmɑ,,,,
+LP15-goan1235,goan1235,LP15,pə̃d̪rɑvɛ̃,,,,
+LP15-nepa1254,nepa1254,LP15,pəndrõ,,,,
+LP15-beng1280,beng1280,LP15,ponerot̪ɔmo,,,,
+LP15-assa1263,assa1263,LP15,pʊnd̪ʰɒrɒ nɒmbor,,,,
+LP15-marw1260,marw1260,LP15,pəndərvo,,,,
+LP15-panj1256,panj1256,LP15,pənd̪ərʋɑ̃,,,,
+LP15-adiv1239,adiv1239,LP15,pənčəd̪əsə,,,,
+LP15-kash1277,kash1277,LP15,pənd̪əhjəm,,,,
+LP15-mara1378,mara1378,LP15,pə̃nd̪rɑʋɑ,,,,
+LP15-guja1252,guja1252,LP15,pənd̪ərmʊ,,,,
+LP15-sind1272,sind1272,LP15,pənd̪rʋo,,,,
+LP15-paha1251,paha1251,LP15,pəndrəmɑ,,,,
+LP15-sada1242,sada1242,LP15,pənrəhʋɑ,,,,
+LP15-wagd1238,wagd1238,LP15,pəndərʋo,,,,
+LP15-west2380,west2380,LP15,pəndrəhʋɑ̃,,,,
+LP15-sans1269,sans1269,LP15,pə̃nčdəʃməh/pə̃nčdəʃmɑ/pə̃nčdəʃməm,,,,
+LP15-sylh1242,sylh1242,LP15,fɔncod̪ɔʃ,,,,
+LP15-urdu1245,urdu1245,LP15,pəndrəʰʋɑ̃,,,,
+LP15-halb1244,halb1244,LP15,pəndərʋɑ̃,,,,
+LP15-maga1260,maga1260,LP15,pəndərʋɑ,,,,
+LP16-kull1236,kull1236,LP16,ʃoluʋɑ̃,,,,
+LP16-dogr1250,dogr1250,LP16,šolmɑ,,,,
+LP16-garh1243,garh1243,LP16,ʃolʋu,,,,
+LP16-kuma1273,kuma1273,LP16,ʃolʋɑ,,,,
+LP16-gadd1242,gadd1242,LP16,solmɑ,,,,
+LP16-goan1235,goan1235,LP16,sɔɭɑvɛ̃,,,,
+LP16-nepa1254,nepa1254,LP16,ʃorəõ,,,,
+LP16-beng1280,beng1280,LP16,šolot̪ɔmo,,,,
+LP16-assa1263,assa1263,LP16,hʊllɒ nɒmbor,,,,
+LP16-marw1260,marw1260,LP16,soləvo,,,,
+LP16-panj1256,panj1256,LP16,soɭʋɑ̃,,,,
+LP16-adiv1239,adiv1239,LP16,səst̪əd̪əsə,,,,
+LP16-kash1277,kash1277,LP16,šrehjəm,,,,
+LP16-mara1378,mara1378,LP16,ʃolɑʋɑ,,,,
+LP16-guja1252,guja1252,LP16,ʃolmʊ,,,,
+LP16-sind1272,sind1272,LP16,soro,,,,
+LP16-paha1251,paha1251,LP16,solmɑ,,,,
+LP16-sada1242,sada1242,LP16,solʋɑ,,,,
+LP16-wagd1238,wagd1238,LP16,soləʋo,,,,
+LP16-west2380,west2380,LP16,soləhʋɑ̃,,,,
+LP16-sans1269,sans1269,LP16,ʂoɖdəʃməh/ʂoɖdəʃmɑ/ʂoɖdəʃməm,,,,
+LP16-sylh1242,sylh1242,LP16,ʃɔʃʈod̪ɔʃ,,,,
+LP16-urdu1245,urdu1245,LP16,solʋɑ̃,,,,
+LP16-halb1244,halb1244,LP16,solʋɑ̃,,,,
+LP16-maga1260,maga1260,LP16,solʋɑ,,,,
+LP17-kull1236,kull1236,LP17,sətɑruʋɑ̃,,,,
+LP17-dogr1250,dogr1250,LP17,sətɑrmɑ,,,,
+LP17-garh1243,garh1243,LP17,sətɑrʋu,,,,
+LP17-kuma1273,kuma1273,LP17,sətrəhʋɑ,,,,
+LP17-gadd1242,gadd1242,LP17,sətɑrma,,,,
+LP17-goan1235,goan1235,LP17,st̪rɑvɛ̃,,,,
+LP17-nepa1254,nepa1254,LP17,sətrəõ,,,,
+LP17-beng1280,beng1280,LP17,šɔterot̪ɔmo,,,,
+LP17-assa1263,assa1263,LP17,hʊtɒrɒ nɒmbor,,,,
+LP17-marw1260,marw1260,LP17,sətərvo,,,,
+LP17-panj1256,panj1256,LP17,sət̪ɑrʋɑ̃,,,,
+LP17-adiv1239,adiv1239,LP17,səpt̪əd̪əsə,,,,
+LP17-kash1277,kash1277,LP17,sɑd̪əhjəm,,,,
+LP17-mara1378,mara1378,LP17,šət̪rɑʋɑ,,,,
+LP17-guja1252,guja1252,LP17,sət̪t̪ərmʊ,,,,
+LP17-sind1272,sind1272,LP17,sət̪ro,,,,
+LP17-paha1251,paha1251,LP17,sətɑrmɑ,,,,
+LP17-sada1242,sada1242,LP17,sətrəʋɑ,,,,
+LP17-wagd1238,wagd1238,LP17,sətərʋo,,,,
+LP17-west2380,west2380,LP17,sətrehʋɑ̃,,,,
+LP17-sans1269,sans1269,LP17,səptdəʃməh/səptdəʃmɑ/səptdəʃməm,,,,
+LP17-sylh1242,sylh1242,LP17,ʃɔpt̪od̪ɔʃ,,,,
+LP17-urdu1245,urdu1245,LP17,sɑtɑrʋɑ̃,,,,
+LP17-halb1244,halb1244,LP17,sətərʋɑ̃,,,,
+LP17-maga1260,maga1260,LP17,sətrəhʋɑ,,,,
+LP18-kull1236,kull1236,LP18,ʈʰɑruʋɑ̃,,,,
+LP18-dogr1250,dogr1250,LP18,ʈʰɑrmɑ,,,,
+LP18-garh1243,garh1243,LP18,əʈʰərʋu,,,,
+LP18-kuma1273,kuma1273,LP18,əʈʰərəhʋɑ,,,,
+LP18-gadd1242,gadd1242,LP18,ʈʰɑrmɑ,,,,
+LP18-goan1235,goan1235,LP18,əʈrɑvɛ̃,,,,
+LP18-nepa1254,nepa1254,LP18,əʈʰɑrʋõ,,,,
+LP18-beng1280,beng1280,LP18,ɑ:ʈʰerot̪ɔmo,,,,
+LP18-assa1263,assa1263,LP18,ʊʈʰɒrɒ nɒmbor,,,,
+LP18-marw1260,marw1260,LP18,əʈʰɑrvo,,,,
+LP18-panj1256,panj1256,LP18,əʈʰɑrʋɑ̃,,,,
+LP18-adiv1239,adiv1239,LP18,əsʈd̪əsə,,,,
+LP18-kash1277,kash1277,LP18,ərd̪əhjəm,,,,
+LP18-mara1378,mara1378,LP18,əʈʰrɑʋɑ,,,,
+LP18-guja1252,guja1252,LP18,əɖʰɑ:rmʊ,,,,
+LP18-sind1272,sind1272,LP18,əʈʈʰɑro,,,,
+LP18-paha1251,paha1251,LP18,ʈʰɑrmɑ,,,,
+LP18-sada1242,sada1242,LP18,əʈʰɑrʋɑ,,,,
+LP18-wagd1238,wagd1238,LP18,əʈʰɑrʋo,,,,
+LP18-west2380,west2380,LP18,əʈʰərʋɑ̃,,,,
+LP18-sans1269,sans1269,LP18,əsʈɑdəʃməh/əsʈɑdəʃmɑ/əsʈɑdəʃməm,,,,
+LP18-sylh1242,sylh1242,LP18,ɔʃʈɑd̪ɔʃ,,,,
+LP18-urdu1245,urdu1245,LP18,ɑʈʰɑrʋɑ̃,,,,
+LP18-halb1244,halb1244,LP18,əʈʰɑrʋɑ̃,,,,
+LP18-maga1260,maga1260,LP18,ɑʈʰɑrʋɑ,,,,
+LP19-kull1236,kull1236,LP19,unnɑnuʋɑ̃,,,,
+LP19-dogr1250,dogr1250,LP19,unnimɑ,,,,
+LP19-garh1243,garh1243,LP19,unnisu,,,,
+LP19-kuma1273,kuma1273,LP19,unnisʋɑ,,,,
+LP19-gadd1242,gadd1242,LP19,unnimɑ,,,,
+LP19-goan1235,goan1235,LP19,ekuɳɪsɑvɛ̃,,,,
+LP19-nepa1254,nepa1254,LP19,unnisʋõ,,,,
+LP19-beng1280,beng1280,LP19,uništ̪ɔmo,,,,
+LP19-assa1263,assa1263,LP19,ʊnoɪs nɒmbor,,,,
+LP19-marw1260,marw1260,LP19,ʊɡnɪsvo,,,,
+LP19-panj1256,panj1256,LP19,unnɪsʋɑ̃,,,,
+LP19-adiv1239,adiv1239,LP19,unənʋɪŋɡsə,,,,
+LP19-kash1277,kash1277,LP19,kunʋuhjəm,,,,
+LP19-mara1378,mara1378,LP19,ekonɑʋɪ,,,,
+LP19-guja1252,guja1252,LP19,oɡnɪšmʊ,,,,
+LP19-sind1272,sind1272,LP19,uɲɪjo,,,,
+LP19-paha1251,paha1251,LP19,unmɑ,,,,
+LP19-sada1242,sada1242,LP19,unnisʋɑ,,,,
+LP19-wagd1238,wagd1238,LP19,unnisʋo,,,,
+LP19-west2380,west2380,LP19,unnisʋɑ̃,,,,
+LP19-sans1269,sans1269,LP19,nəvdəʃməh/ekonʋinʃətitəməh/nəʋdəʃəsmɑ/ekonʋinʃətitəmɑ/nəʋdəʃməm/ekonʋinʃətitəməm,,,,
+LP19-sylh1242,sylh1242,LP19,unobiʃ,,,,
+LP19-urdu1245,urdu1245,LP19,unisʋɑ̃,,,,
+LP19-halb1244,halb1244,LP19,onisʋɑ̃,,,,
+LP19-maga1260,maga1260,LP19,unnisʋɑ,,,,
+LP20-kull1236,kull1236,LP20,biʋɑ̃,,,,
+LP20-dogr1250,dogr1250,LP20,bimɑ,,,,
+LP20-garh1243,garh1243,LP20,bisʋu,,,,
+LP20-kuma1273,kuma1273,LP20,bisʋɑ,,,,
+LP20-gadd1242,gadd1242,LP20,bimɑ,,,,
+LP20-goan1235,goan1235,LP20,vɪsəvɛ̃,,,,
+LP20-nepa1254,nepa1254,LP20,bisʋõ,,,,
+LP20-assa1263,assa1263,LP20,bɪs nɒmbor,,,,
+LP20-marw1260,marw1260,LP20,bɪ:svo,,,,
+LP20-panj1256,panj1256,LP20,ʋɪʋɑ̃,,,,
+LP20-adiv1239,adiv1239,LP20,ʋɪŋɡsə,,,,
+LP20-kash1277,kash1277,LP20,ʋuhjəm,,,,
+LP20-mara1378,mara1378,LP20,ʋɪsɑʋɑ,,,,
+LP20-guja1252,guja1252,LP20,ʋɪšmʊ,,,,
+LP20-sind1272,sind1272,LP20,bɪo,,,,
+LP20-paha1251,paha1251,LP20,bimɑ,,,,
+LP20-sada1242,sada1242,LP20,bisʋɑ,,,,
+LP20-wagd1238,wagd1238,LP20,bisʋo,,,,
+LP20-west2380,west2380,LP20,bisʋɑ̃,,,,
+LP20-sans1269,sans1269,LP20,ʋĩnʃətitəməh/ʋĩnʃətitəmɑ/ʋĩnʃətitəməm,,,,
+LP20-sylh1242,sylh1242,LP20,biʃ,,,,
+LP20-urdu1245,urdu1245,LP20,bisʋɑ̃,,,,
+LP20-halb1244,halb1244,LP20,bisʋɑ̃,,,,
+LP20-maga1260,maga1260,LP20,bisʋɑ,,,,
+LP21-kull1236,kull1236,LP21,ikkiʋɑ̃,,,,
+LP21-dogr1250,dogr1250,LP21,ikkimɑ,,,,
+LP21-garh1243,garh1243,LP21,ikkisʋu,,,,
+LP21-kuma1273,kuma1273,LP21,ikkisʋɑ,,,,
+LP21-gadd1242,gadd1242,LP21,ikkimɑ,,,,
+LP21-goan1235,goan1235,LP21,ekvɪsvɛ̃,,,,
+LP21-nepa1254,nepa1254,LP21,ekɑisõ,,,,
+LP21-assa1263,assa1263,LP21,ɛkʊɪs nɒmbor,,,,
+LP21-marw1260,marw1260,LP21,ɪkɪsvo,,,,
+LP21-panj1256,panj1256,LP21,ɪkkɪʋɑ̃,,,,
+LP21-adiv1239,adiv1239,LP21,ekəʋɪŋɡsə,,,,
+LP21-kash1277,kash1277,LP21,əkʰʋuhjəm,,,,
+LP21-mara1378,mara1378,LP21,ekʋɪsɑʋɑ,,,,
+LP21-guja1252,guja1252,LP21,ekʋɪšmʊ,,,,
+LP21-sind1272,sind1272,LP21,ɪkkɪjo,,,,
+LP21-paha1251,paha1251,LP21,ikmɑ,,,,
+LP21-sada1242,sada1242,LP21,ekkisʋɑ,,,,
+LP21-wagd1238,wagd1238,LP21,ekkisʋo,,,,
+LP21-west2380,west2380,LP21,ekisʋɑ̃,,,,
+LP21-sans1269,sans1269,LP21,dʋɑʋĩnʃətitəməh/dʋɑʋĩnʃətitəmɑ/dʋɑʋĩnʃətitəməm,,,,
+LP21-urdu1245,urdu1245,LP21,ikisʋɑ̃,,,,
+LP21-halb1244,halb1244,LP21,iskisʋɑ̃,,,,
+LP21-maga1260,maga1260,LP21,ekkisʋɑ,,,,
+LP22-kull1236,kull1236,LP22,bɑiʋɑ̃,,,,
+LP22-dogr1250,dogr1250,LP22,bɑimɑ,,,,
+LP22-garh1243,garh1243,LP22,bɑisʋu,,,,
+LP22-kuma1273,kuma1273,LP22,bɑisʋɑ,,,,
+LP22-gadd1242,gadd1242,LP22,bɑimɑ,,,,
+LP22-goan1235,goan1235,LP22,bɑvɪsvɛ̃,,,,
+LP22-nepa1254,nepa1254,LP22,bɑisõ,,,,
+LP22-assa1263,assa1263,LP22,bɑɪs nɒmbor,,,,
+LP22-marw1260,marw1260,LP22,bɑ:ɪsvo,,,,
+LP22-panj1256,panj1256,LP22,bɑɪʋɑ̃,,,,
+LP22-adiv1239,adiv1239,LP22,d̪ʋɑʋɪŋɡsə,,,,
+LP22-kash1277,kash1277,LP22,žut̪t̪oʋuhjəm,,,,
+LP22-mara1378,mara1378,LP22,bɑʋɪsɑʋɑ,,,,
+LP22-guja1252,guja1252,LP22,bɑʋɪšmʊ,,,,
+LP22-sind1272,sind1272,LP22,bɑʋɪjo,,,,
+LP22-paha1251,paha1251,LP22,bɑimɑ,,,,
+LP22-sada1242,sada1242,LP22,bɑisʋɑ,,,,
+LP22-wagd1238,wagd1238,LP22,bɑisʋo,,,,
+LP22-west2380,west2380,LP22,bɑisʋɑ̃,,,,
+LP22-sans1269,sans1269,LP22,trəjodʋɑʋĩnʃətitəməh/trəjodʋɑʋĩnʃətitəmɑ/trəjodʋɑʋĩnʃətitəməm,,,,
+LP22-urdu1245,urdu1245,LP22,bɑisʋɑ̃,,,,
+LP22-halb1244,halb1244,LP22,bɑisʋɑ̃,,,,
+LP22-maga1260,maga1260,LP22,bɑisʋɑ,,,,
+LP23-kull1236,kull1236,LP23,ek ʃoru,,,,kull1236-onesheep;kull1236-onegirl;kull1236-onetree;kull1236-ihaveonebrother;kull1236-ihaveonesister;kull1236-ihaveonealmirah;kull1236-ihaveonebag
+LP23-dogr1250,dogr1250,LP23,ek muɖɑ,,,,dogr1250-onesheep;dogr1250-onegirl;dogr1250-onetree;dogr1250-ihaveonebrother;dogr1250-ihaveonesister;dogr1250-ihaveonealmirah;dogr1250-ihaveonebag
+LP23-garh1243,garh1243,LP23,ek ləɖkɑ,,,,garh1243-onesheep;garh1243-onegirl;garh1243-onetree;garh1243-ihaveonebrother;garh1243-ihaveonesister;garh1243-ihaveonealmirah;garh1243-ihaveonebag
+LP23-kuma1273,kuma1273,LP23,ek čəl,,,,kuma1273-onesheep;kuma1273-onegirl;kuma1273-onetree;kuma1273-ihaveonebrother;kuma1273-ihaveonesister;kuma1273-ihaveonealmirah;kuma1273-ihaveonebag
+LP23-gadd1242,gadd1242,LP23,əkʰ čʰokro,,,,gadd1242-onesheep;gadd1242-onegirl;gadd1242-onetree;gadd1242-ihaveonebrother;gadd1242-ihaveonesister;gadd1242-ihaveonealmirah;gadd1242-ihaveonebag
+LP23-goan1235,goan1235,LP23,ek t͡səlɔ,,,,goan1235-onesheep;goan1235-onegirl;goan1235-onetree;goan1235-ihaveonebrother;goan1235-ihaveonesister;goan1235-ihaveonealmirah;goan1235-ihaveonebag
+LP23-nepa1254,nepa1254,LP23,eoʈɑ keʈo,,,,nepa1254-onesheep;nepa1254-onegirl;nepa1254-onetree;nepa1254-ihaveonebrother;nepa1254-ihaveonesister;nepa1254-ihaveonealmirah;nepa1254-ihaveonebag
+LP23-kudm1238,kudm1238,LP23,ənɑ ʈɑ beʈɑčʰəuɑ,,,,kudm1238-onesheep;kudm1238-onegirl;kudm1238-onetree;kudm1238-ihaveonebrother;kudm1238-ihaveonesister;kudm1238-ihaveonealmirah;kudm1238-ihaveonebag
+LP23-beng1280,beng1280,LP23,ækʈɑ/ekʈɪ čʰele,,,,beng1280-onesheep;beng1280-onegirl;beng1280-onetree;beng1280-ihaveonebrother;beng1280-ihaveonesister;beng1280-ihaveonealmirah;beng1280-ihaveonebag
+LP23-assa1263,assa1263,LP23,ɛdʒɒn lɒrɑ:,,,,assa1263-onesheep;assa1263-onegirl;assa1263-onetree;assa1263-ihaveonebrother;assa1263-ihaveonesister;assa1263-ihaveonealmirah;assa1263-ihaveonebag
+LP23-marw1260,marw1260,LP23,ek čʰoro,,,,marw1260-onesheep;marw1260-onegirl;marw1260-onetree;marw1260-ihaveonebrother;marw1260-ihaveonesister;marw1260-ihaveonealmirah;marw1260-ihaveonebag
+LP23-panj1256,panj1256,LP23,ɪkk munɖɑ,,,,panj1256-onesheep;panj1256-onegirl;panj1256-onetree;panj1256-ihaveonebrother;panj1256-ihaveonesister;panj1256-ihaveonealmirah;panj1256-ihaveonebag
+LP23-adiv1239,adiv1239,LP23,ǰəɳə bɑɭəkə,,,,adiv1239-onesheep;adiv1239-onegirl;adiv1239-onetree;adiv1239-ihaveonebrother;adiv1239-ihaveonesister;adiv1239-ihaveonealmirah;adiv1239-ihaveonebag
+LP23-kash1277,kash1277,LP23,əkʰ ləɖk,,,,kash1277-onesheep;kash1277-onegirl;kash1277-onetree;kash1277-ihaveonebrother;kash1277-ihaveonesister;kash1277-ihaveonealmirah;kash1277-ihaveonebag
+LP23-mara1378,mara1378,LP23,ek mulɡɑ,,,,mara1378-onesheep;mara1378-onegirl;mara1378-onetree;mara1378-ihaveonebrother;mara1378-ihaveonesister;mara1378-ihaveonealmirah;mara1378-ihaveonebag
+LP23-guja1252,guja1252,LP23,ek čʰokro,,,,guja1252-onesheep;guja1252-onegirl;guja1252-onetree;guja1252-ihaveonebrother;guja1252-ihaveonesister;guja1252-ihaveonealmirah;guja1252-ihaveonebag
+LP23-sind1272,sind1272,LP23,ɪkk čʰokro,,,,sind1272-onesheep;sind1272-onegirl;sind1272-onetree;sind1272-ihaveonebrother;sind1272-ihaveonesister;sind1272-ihaveonealmirah;sind1272-ihaveonebag
+LP23-paha1251,paha1251,LP23,ek munɖɑ,,,,paha1251-onesheep;paha1251-onegirl;paha1251-onetree;paha1251-ihaveonebrother;paha1251-ihaveonesister;paha1251-ihaveonealmirah;paha1251-ihaveonebag
+LP23-sada1242,sada1242,LP23,eɡo čʰorɑ,,,,sada1242-onesheep;sada1242-onegirl;sada1242-onetree;sada1242-ihaveonebrother;sada1242-ihaveonesister;sada1242-ihaveonealmirah;sada1242-ihaveonebag
+LP23-wagd1238,wagd1238,LP23,ek ʃoro,,,,wagd1238-onesheep;wagd1238-onegirl;wagd1238-onetree;wagd1238-ihaveonebrother;wagd1238-ihaveonesister;wagd1238-ihaveonealmirah;wagd1238-ihaveonebag
+LP23-west2380,west2380,LP23,eɡo ləikɑ,,,,west2380-onesheep;west2380-onegirl;west2380-onetree;west2380-ihaveonebrother;west2380-ihaveonesister;west2380-ihaveonealmirah;west2380-ihaveonebag
+LP23-sans1269,sans1269,LP23,ekəh bɑləkəh,,,,sans1269-onesheep;sans1269-onegirl;sans1269-onetree;sans1269-ihaveonebrother;sans1269-ihaveonesister;sans1269-ihaveonebag
+LP23-sylh1242,sylh1242,LP23,æxʈɑ sele,,,,sylh1242-onesheep;sylh1242-onegirl;sylh1242-onetree;sylh1242-ihaveonebrother;sylh1242-ihaveonesister;sylh1242-ihaveonealmirah;sylh1242-ihaveonebag
+LP23-urdu1245,urdu1245,LP23,ɑek ləɽkɑ,,,,urdu1245-onesheep;urdu1245-onegirl;urdu1245-onetree;urdu1245-ihaveonebrother;urdu1245-ihaveonesister;urdu1245-ihaveonealmirah;urdu1245-ihaveonebag
+LP23-halb1244,halb1244,LP23,ɡoʈək lekɑ,,,,halb1244-onesheep;halb1244-onegirl;halb1244-onetree;halb1244-ihaveonebrother;halb1244-ihaveonesister;halb1244-ihaveonealmirah;halb1244-ihaveonebag
+LP23-maga1260,maga1260,LP23,eɡo čʰorɑ,,,,maga1260-onesheep;maga1260-onegirl;maga1260-onetree;maga1260-ihaveonebrother;maga1260-ihaveonesister;maga1260-ihaveonealmirah;maga1260-ihaveonebag
+LP24-kull1236,kull1236,LP24,dui ʃoru,,,,kull1236-twogirls;kull1236-ihavetwobrothers;kull1236-ihavetwosisters;kull1236-ihavetwoalmirahs
+LP24-dogr1250,dogr1250,LP24,do muɖe,,,,dogr1250-twogirls;dogr1250-ihavetwobrothers;dogr1250-ihavetwosisters;dogr1250-ihavetwoalmirahs
+LP24-garh1243,garh1243,LP24,dui ləɖkɑ,,,,garh1243-twogirls;garh1243-ihavetwobrothers;garh1243-ihavetwosisters;garh1243-ihavetwoalmirahs
+LP24-kuma1273,kuma1273,LP24,di čəl,,,,kuma1273-twogirls;kuma1273-ihavetwobrothers;kuma1273-ihavetwosisters;kuma1273-ihavetwoalmirahs
+LP24-gadd1242,gadd1242,LP24,do čʰokro,,,,gadd1242-twogirls;gadd1242-ihavetwobrothers;gadd1242-ihavetwosisters;gadd1242-ihavetwoalmirahs
+LP24-goan1235,goan1235,LP24,d̪on t͡səlɛ,,,,goan1235-twogirls;goan1235-ihavetwobrothers;goan1235-ihavetwosisters;goan1235-ihavetwoalmirahs
+LP24-nepa1254,nepa1254,LP24,duiʈɑ keʈɑ,,,,nepa1254-twogirls;nepa1254-ihavetwobrothers;nepa1254-ihavetwosisters;nepa1254-ihavetwoalmirahs
+LP24-kudm1238,kudm1238,LP24,dənɑ ʈɑ beʈɑčʰəuɑ,,,,kudm1238-twogirls;kudm1238-ihavetwobrothers;kudm1238-ihavetwosisters;kudm1238-ihavetwoalmirahs
+LP24-beng1280,beng1280,LP24,d̪uʈo/ d̪uʈɪ čʰele,,,,beng1280-twogirls;beng1280-ihavetwobrothers;beng1280-ihavetwosisters;beng1280-ihavetwoalmirahs
+LP24-assa1263,assa1263,LP24,dʊdʒɒn lɒrɑ:,,,,assa1263-twogirls;assa1263-ihavetwobrothers;assa1263-ihavetwosisters;assa1263-ihavetwoalmirahs
+LP24-marw1260,marw1260,LP24,do čʰorɑ,,,,marw1260-twogirls;marw1260-ihavetwobrothers;marw1260-ihavetwosisters;marw1260-ihavetwoalmirahs
+LP24-panj1256,panj1256,LP24,d̪o munɖe,,,,panj1256-twogirls;panj1256-ihavetwobrothers;panj1256-ihavetwosisters;panj1256-ihavetwoalmirahs
+LP24-adiv1239,adiv1239,LP24,d̪uɪ ǰəɳə bɑɭəkə,,,,adiv1239-twogirls;adiv1239-ihavetwobrothers;adiv1239-ihavetwosisters;adiv1239-ihavetwoalmirahs
+LP24-kash1277,kash1277,LP24,žə ləɖk,,,,kash1277-twogirls;kash1277-ihavetwobrothers;kash1277-ihavetwosisters;kash1277-ihavetwoalmirahs
+LP24-mara1378,mara1378,LP24,d̪on mulə,,,,mara1378-twogirls;mara1378-ihavetwobrothers;mara1378-ihavetwosisters;mara1378-ihavetwoalmirahs
+LP24-guja1252,guja1252,LP24,be čʰokrɑo,,,,guja1252-twogirls;guja1252-ihavetwobrothers;guja1252-ihavetwosisters;guja1252-ihavetwoalmirahs
+LP24-sind1272,sind1272,LP24,bə čʰokrɑ,,,,sind1272-twogirls;sind1272-ihavetwobrothers;sind1272-ihavetwosisters;sind1272-ihavetwoalmirahs
+LP24-paha1251,paha1251,LP24,do munɖe,,,,paha1251-twogirls;paha1251-ihavetwobrothers;paha1251-ihavetwosisters;paha1251-ihavetwoalmirahs
+LP24-sada1242,sada1242,LP24,duiɡo čʰorɑmən,,,,sada1242-twogirls;sada1242-ihavetwobrothers;sada1242-ihavetwosisters;sada1242-ihavetwoalmirahs
+LP24-wagd1238,wagd1238,LP24,be ʃorə,,,,wagd1238-twogirls;wagd1238-ihavetwobrothers;wagd1238-ihavetwosisters;wagd1238-ihavetwoalmirahs
+LP24-west2380,west2380,LP24,duɡo ləikɑ,,,,west2380-twogirls;west2380-ihavetwobrothers;west2380-ihavetwosisters;west2380-ihavetwoalmirahs
+LP24-sans1269,sans1269,LP24,dʋɔ bɑlkɔ,,,,sans1269-twogirls;sans1269-ihavetwobrothers;sans1269-ihavetwosisters
+LP24-sylh1242,sylh1242,LP24,duiʈɑ sele,,,,sylh1242-twogirls;sylh1242-ihavetwobrothers;sylh1242-ihavetwosisters;sylh1242-ihavetwoalmirahs
+LP24-urdu1245,urdu1245,LP24,do ləɽke,,,,urdu1245-twogirls;urdu1245-ihavetwobrothers;urdu1245-ihavetwosisters;urdu1245-ihavetwoalmirahs
+LP24-halb1244,halb1244,LP24,duj ǰʰən lekɑ mən,,,,halb1244-twogirls;halb1244-ihavetwobrothers;halb1244-ihavetwosisters;halb1244-ihavetwoalmirahs
+LP24-maga1260,maga1260,LP24,du-ɡo čʰorɑ,,,,maga1260-twogirls;maga1260-ihavetwobrothers;maga1260-ihavetwosisters;maga1260-ihavetwoalmirahs
+LP27-kull1236,kull1236,LP27,põnǰ bʰeɖ-ɑ̃,,,,
+LP27-dogr1250,dogr1250,LP27,pənǰ piɖɖɑ̃,,,,
+LP27-garh1243,garh1243,LP27,pɑ̃č bʰẽɖči,,,,
+LP27-kuma1273,kuma1273,LP27,pɑ̃č bʰeɽ,,,,
+LP27-gadd1242,gadd1242,LP27,pənǰ bɛrɑ,,,,
+LP27-goan1235,goan1235,LP27,pɑ̃t͡s mɛ̃dɛ,,,,
+LP27-nepa1254,nepa1254,LP27,pɑ̃tʃõ ʈɑ bʰeɽɑ əru,,,,
+LP27-kudm1238,kudm1238,LP27,mɑčɑʈi bʰeɖi,,,,
+LP27-beng1280,beng1280,LP27,pɑ̃čʈɑ bʰærɑ,,,,
+LP27-assa1263,assa1263,LP27,pɑ:stɑ: bʰɛrɑ:,,,,
+LP27-marw1260,marw1260,LP27,pɑ̃:nč bʰɛɽɑ,,,,
+LP27-panj1256,panj1256,LP27,pənǰ peɖɖɑ,,,,
+LP27-adiv1239,adiv1239,LP27,pãnčə menɖʰɑ,,,,
+LP27-kash1277,kash1277,LP27,pɑ̃tʃ kəʈʰ,,,,
+LP27-mara1378,mara1378,LP27,pɑ̃:tʃ menɖrəjɑ,,,,
+LP27-guja1252,guja1252,LP27,pɑ̃nč ɡʰeʈɑ,,,,
+LP27-sind1272,sind1272,LP27,pənǰ bʰeɖ,,,,
+LP27-paha1251,paha1251,LP27,pənǰ peɖɑ,,,,
+LP27-sada1242,sada1242,LP27,pɑčɡo bʰeɽ,,,,
+LP27-wagd1238,wagd1238,LP27,pɑč bʰeɖ,,,,
+LP27-west2380,west2380,LP27,pɑ̃čɡo bʰeɽ,,,,
+LP27-sans1269,sans1269,LP27,pə̃nč eɖkɑh,,,,
+LP27-sylh1242,sylh1242,LP27,fɑsʈɑ bʰæɽɑ,,,,
+LP27-urdu1245,urdu1245,LP27,pɑ̃tʃ bhɛɽẽ,,,,
+LP27-halb1244,halb1244,LP27,pɑ̃č ʈʰən menɖi,,,,
+LP27-maga1260,maga1260,LP27,du-ɡo bʰeɽɑ,,,,
+LP25-kull1236,kull1236,LP25,trɑi ʃorijɑ̃,,,,kull1236-ihavethreesisters;kull1236-ihavethreebags
+LP25-dogr1250,dogr1250,LP25,trɛ kuɖijɑ̃,,,,dogr1250-ihavethreesisters;dogr1250-ihavethreebags
+LP25-garh1243,garh1243,LP25,tin ləɖki,,,,garh1243-ihavethreesisters;garh1243-ihavethreebags
+LP25-kuma1273,kuma1273,LP25,tin čeli,,,,kuma1273-ihavethreesisters;kuma1273-ihavethreebags
+LP25-gadd1242,gadd1242,LP25,trɛ čʰukri,,,,gadd1242-ihavethreesisters;gadd1242-ihavethreebags
+LP25-goan1235,goan1235,LP25,t̪ɪn t͡səljo,,,,goan1235-ihavethreesisters;goan1235-ihavethreebags
+LP25-nepa1254,nepa1254,LP25,tinoʈɑ keʈi əru,,,,nepa1254-ihavethreesisters;nepa1254-ihavethreebags
+LP25-kudm1238,kudm1238,LP25,ʈenɑʈi beʈičʰəuɑ,,,,kudm1238-ihavethreesisters;kudm1238-ihavethreebags
+LP25-beng1280,beng1280,LP25,t̪i:nʈe meje,,,,beng1280-ihavethreesisters;beng1280-ihavethreebags
+LP25-assa1263,assa1263,LP25,tɪnɪdʒonɪ sʊɑ:lɪ,,,,assa1263-ihavethreesisters;assa1263-ihavethreebags
+LP25-marw1260,marw1260,LP25,tɪn čʰorəjɑ,,,,marw1260-ihavethreesisters;marw1260-ihavethreebags
+LP25-panj1256,panj1256,LP25,t̪ɪnn kuɖɪjɑ̃,,,,panj1256-ihavethreesisters;panj1256-ihavethreebags
+LP25-adiv1239,adiv1239,LP25,t̪ɪnɪ ǰəɳə ǰʰɪe,,,,adiv1239-ihavethreesisters;adiv1239-ihavethreebags
+LP25-kash1277,kash1277,LP25,trɛ kʋerijə,,,,kash1277-ihavethreesisters;kash1277-ihavethreebags
+LP25-mara1378,mara1378,LP25,t̪ɪn muɭɪ,,,,mara1378-ihavethreesisters;mara1378-ihavethreebags
+LP25-guja1252,guja1252,LP25,t̪roɳ čʰokərɪjo,,,,guja1252-ihavethreesisters;guja1252-ihavethreebags
+LP25-sind1272,sind1272,LP25,ʈre čʰokrɪju,,,,sind1272-ihavethreesisters;sind1272-ihavethreebags
+LP25-paha1251,paha1251,LP25,trɛ kuɽijɑ̃,,,,paha1251-ihavethreesisters;paha1251-ihavethreebags
+LP25-sada1242,sada1242,LP25,tinɡo čʰorimən,,,,sada1242-ihavethreesisters;sada1242-ihavethreebags
+LP25-wagd1238,wagd1238,LP25,trəɳ ʃorijẽ,,,,wagd1238-ihavethreesisters;wagd1238-ihavethreebags
+LP25-west2380,west2380,LP25,tinɡo čʰəuri,,,,west2380-ihavethreesisters;west2380-ihavethreebags
+LP25-sans1269,sans1269,LP25,tisrəh bɑlikɑh,,,,sans1269-ihavethreesisters;sans1269-ihavethreebags
+LP25-sylh1242,sylh1242,LP25,tinʈɑ meje,,,,sylh1242-ihavethreesisters;sylh1242-ihavethreebags
+LP25-urdu1245,urdu1245,LP25,tin ləɽkiɑ̃,,,,urdu1245-ihavethreesisters;urdu1245-ihavethreebags
+LP25-halb1244,halb1244,LP25,tin ǰʰən leki mən,,,,halb1244-ihavethreesisters;halb1244-ihavethreebags
+LP25-maga1260,maga1260,LP25,tin-ɡo čʰɔri,,,,maga1260-ihavethreesisters;maga1260-ihavethreebags
+LP28-kull1236,kull1236,LP28,ɔʈʰ buʈe,,,,
+LP28-dogr1250,dogr1250,LP28,əʈʰ buʈe,,,,
+LP28-garh1243,garh1243,LP28,ɑʈʰ peɖ,,,,
+LP28-kuma1273,kuma1273,LP28,ɑʈʰ ɖɑu,,,,
+LP28-gadd1242,gadd1242,LP28,əʈʰ buʈ,,,,
+LP28-goan1235,goan1235,LP28,ɑʈ zʰɑdɑ̃,,,,
+LP28-nepa1254,nepa1254,LP28,ɑʈʰoʈɑ rukʰ həru,,,,
+LP28-kudm1238,kudm1238,LP28,əʈʰəi ʈɑ ɡɑčʰ,,,,
+LP28-beng1280,beng1280,LP28,ɑʈʈɪ ɡɑčʰ,,,,
+LP28-assa1263,assa1263,LP28,ɑ:ʈʰdɑ:l ɡɒs,,,,
+LP28-marw1260,marw1260,LP28,ɑ:ʈʰ peɽ,,,,
+LP28-panj1256,panj1256,LP28,ɑʈʰ rukʰ,,,,
+LP28-adiv1239,adiv1239,LP28,ɑ:ʈʰtɪ ɡəčʰə,,,,
+LP28-kash1277,kash1277,LP28,uəʈʰ kul,,,,
+LP28-mara1378,mara1378,LP28,ɑ:ʈʰ ǰʰɑr,,,,
+LP28-guja1252,guja1252,LP28,ɑ:ʈʰ ǰʰɑɽʋɑ/ʋrukʃʰo,,,,
+LP28-sind1272,sind1272,LP28,əʈʰ peɽ,,,,
+LP28-paha1251,paha1251,LP28,əʈʰ buʈe,,,,
+LP28-sada1242,sada1242,LP28,ɑʈʰɡo ɡəčʰ,,,,
+LP28-wagd1238,wagd1238,LP28,ɑʈ ǰʰɑr,,,,
+LP28-west2380,west2380,LP28,ɑʈʰɡo per,,,,
+LP28-sans1269,sans1269,LP28,əsʈ ʋrikʃʰɑɳi,,,,
+LP28-sylh1242,sylh1242,LP28,ɑʈʈɑ ɡɑs,,,,
+LP28-urdu1245,urdu1245,LP28,ɑʈʰ dɑrəkʰt,,,,
+LP28-halb1244,halb1244,LP28,ɑʈ ʈʰən rukʰ mən,,,,
+LP28-maga1260,maga1260,LP28,ɑʈʰ ɡo ɡɑčʰ,,,,
+LP26-kull1236,kull1236,LP26,mu-ɑɡɛ tʃɑr bɛɡ sɑ,,,,
+LP26-dogr1250,dogr1250,LP26,mere koɭ čɑr bɛɡ ɛ,,,,
+LP26-garh1243,garh1243,LP26,mem čɑr bɛɡ čʰi,,,,
+LP26-kuma1273,kuma1273,LP26,mer pɑs čɑr ǰʰol čʰe,,,,
+LP26-gadd1242,gadd1242,LP26,mu əlɛ čɑr ǰoɽ-en,,,,
+LP26-goan1235,goan1235,LP26,mhəzɛ lɑɡɪ̃ cɑr pot̪ɪjo ɑsɑt̪,,,,
+LP26-nepa1254,nepa1254,LP26,moi sitɑ tinoʈɑ bɛɡ əru čʰən,,,,
+LP26-kudm1238,kudm1238,LP26,mər ʈʰin čɑrɑʈɑ tʰeilɑ ɑheik,,,,
+LP26-beng1280,beng1280,LP26,ɑmɑr čɑrʈe bæɡ ɑčʰe,,,,
+LP26-assa1263,assa1263,LP26,mor sɑ:rɪt̪a bɛɡ ɑsɛ,,,,
+LP26-marw1260,marw1260,LP26,mʰɑrɛ kənɛ tʃɑ:r t̪ʰɛlɑ hɛ,,,,
+LP26-panj1256,panj1256,LP26,mere koɭ čɑr t̪ʰɛle hən,,,,
+LP26-adiv1239,adiv1239,LP26,morə čɑrotɪ muɳɑ əčʰɪ,,,,
+LP26-kash1277,kash1277,LP26,meh čʰə tʃor bəst,,,,
+LP26-mara1378,mara1378,LP26,mɑǰʰɑ kəɽe t̪ɪn pɪsʋjɑ ɑhet̪,,,,
+LP26-guja1252,guja1252,LP26,mɑrɪ pɑse čɑr t̪ʰelɑ čʰe,,,,
+LP26-sind1272,sind1272,LP26,muhɪnǰe ʋəʈʰ čɑr ǰolɑ ən,,,,
+LP26-paha1251,paha1251,LP26,mere kol čɑr bəstɑ ən,,,,
+LP26-sada1242,sada1242,LP26,mor ǰə čɑirɡo ǰʰolɑ ɑhe,,,,
+LP26-wagd1238,wagd1238,LP26,mɑre pɑe ʃɑr bɛɡ he,,,,
+LP26-west2380,west2380,LP26,həmrɑ pɑs čɑrɡo bɛɡ həu,,,,
+LP26-sans1269,sans1269,LP26,məm čətʋɑrəh sjutɑh sənti,,,,
+LP26-sylh1242,sylh1242,LP26,ɑmɑr sɑiʈʈɑ bæɡ ɑse,,,,
+LP26-urdu1245,urdu1245,LP26,mere pɑs tʃɑr bəste hɛ̃,,,,
+LP26-halb1244,halb1244,LP26,močo ləɡe čɑr ʈʰən beɡ ɑsot,,,,
+LP26-maga1260,maga1260,LP26,həmər pɑs čɑir ɡo tʰəilɑ hɛ,,,,
