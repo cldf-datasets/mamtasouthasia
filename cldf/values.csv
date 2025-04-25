@@ -1,1 +1,1566 @@
 ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
+1-dogr1250,dogr1250,1,ek,,,,dogr1250-oneboy;dogr1250-onesheep;dogr1250-onegirl;dogr1250-onetree;dogr1250-ihaveonebrother;dogr1250-ihaveonesister;dogr1250-ihaveonealmirah;dogr1250-ihaveonebag
+1-garh1243,garh1243,1,ek,,,,garh1243-oneboy;garh1243-onesheep;garh1243-onegirl;garh1243-onetree;garh1243-ihaveonebrother;garh1243-ihaveonesister;garh1243-ihaveonealmirah;garh1243-ihaveonebag
+1-kuma1273,kuma1273,1,ek,,,,kuma1273-oneboy;kuma1273-onesheep;kuma1273-onegirl;kuma1273-onetree;kuma1273-ihaveonebrother;kuma1273-ihaveonesister;kuma1273-ihaveonealmirah;kuma1273-ihaveonebag
+1-gadd1242,gadd1242,1,əkʰ,,,,gadd1242-oneboy;gadd1242-onesheep;gadd1242-onegirl;gadd1242-onetree;gadd1242-ihaveonebrother;gadd1242-ihaveonesister;gadd1242-ihaveonealmirah;gadd1242-ihaveonebag
+1-goan1235,goan1235,1,ek,,,,goan1235-oneboy;goan1235-onesheep;goan1235-onegirl;goan1235-onetree;goan1235-ihaveonebrother;goan1235-ihaveonesister;goan1235-ihaveonealmirah;goan1235-ihaveonebag
+1-nepa1254,nepa1254,1,ek,,,,nepa1254-oneboy;nepa1254-onesheep;nepa1254-onegirl;nepa1254-onetree;nepa1254-ihaveonebrother;nepa1254-ihaveonesister;nepa1254-ihaveonealmirah;nepa1254-ihaveonebag
+1-kudm1238,kudm1238,1,ənɑ,,,,kudm1238-oneboy;kudm1238-onesheep;kudm1238-onegirl;kudm1238-onetree;kudm1238-ihaveonebrother;kudm1238-ihaveonesister;kudm1238-ihaveonealmirah;kudm1238-ihaveonebag
+1-beng1280,beng1280,1,ɛk,,,,beng1280-oneboy;beng1280-onesheep;beng1280-onegirl;beng1280-onetree;beng1280-ihaveonebrother;beng1280-ihaveonesister;beng1280-ihaveonealmirah;beng1280-ihaveonebag
+1-assa1263,assa1263,1,ɛk,,,,assa1263-oneboy;assa1263-onesheep;assa1263-onegirl;assa1263-onetree;assa1263-ihaveonebrother;assa1263-ihaveonesister;assa1263-ihaveonealmirah;assa1263-ihaveonebag
+1-marw1260,marw1260,1,ek,,,,marw1260-oneboy;marw1260-onesheep;marw1260-onegirl;marw1260-onetree;marw1260-ihaveonebrother;marw1260-ihaveonesister;marw1260-ihaveonealmirah;marw1260-ihaveonebag
+1-panj1256,panj1256,1,ik,,,,panj1256-oneboy;panj1256-onesheep;panj1256-onegirl;panj1256-onetree;panj1256-ihaveonebrother;panj1256-ihaveonesister;panj1256-ihaveonealmirah;panj1256-ihaveonebag
+1-adiv1239,adiv1239,1,ekə,,,,adiv1239-oneboy;adiv1239-onesheep;adiv1239-onegirl;adiv1239-onetree;adiv1239-ihaveonebrother;adiv1239-ihaveonesister;adiv1239-ihaveonealmirah;adiv1239-ihaveonebag
+1-kash1277,kash1277,1,əkʰ,,,,kash1277-oneboy;kash1277-onesheep;kash1277-onegirl;kash1277-onetree;kash1277-ihaveonebrother;kash1277-ihaveonesister;kash1277-ihaveonealmirah;kash1277-ihaveonebag
+1-mara1378,mara1378,1,ek,,,,mara1378-oneboy;mara1378-onesheep;mara1378-onegirl;mara1378-onetree;mara1378-ihaveonebrother;mara1378-ihaveonesister;mara1378-ihaveonealmirah;mara1378-ihaveonebag
+1-guja1252,guja1252,1,ek,,,,guja1252-oneboy;guja1252-onesheep;guja1252-onegirl;guja1252-onetree;guja1252-ihaveonebrother;guja1252-ihaveonesister;guja1252-ihaveonealmirah;guja1252-ihaveonebag
+1-sind1272,sind1272,1,ɪk,,,,sind1272-oneboy;sind1272-onesheep;sind1272-onegirl;sind1272-onetree;sind1272-ihaveonebrother;sind1272-ihaveonesister;sind1272-ihaveonealmirah;sind1272-ihaveonebag
+1-paha1251,paha1251,1,ek,,,,paha1251-oneboy;paha1251-onesheep;paha1251-onegirl;paha1251-onetree;paha1251-ihaveonebrother;paha1251-ihaveonesister;paha1251-ihaveonealmirah;paha1251-ihaveonebag
+1-sada1242,sada1242,1,ek,,,,sada1242-oneboy;sada1242-onesheep;sada1242-onegirl;sada1242-onetree;sada1242-ihaveonebrother;sada1242-ihaveonesister;sada1242-ihaveonealmirah;sada1242-ihaveonebag
+1-wagd1238,wagd1238,1,ek,,,,wagd1238-oneboy;wagd1238-onesheep;wagd1238-onegirl;wagd1238-onetree;wagd1238-ihaveonebrother;wagd1238-ihaveonesister;wagd1238-ihaveonealmirah;wagd1238-ihaveonebag
+1-west2380,west2380,1,ek,,,,west2380-oneboy;west2380-onesheep;west2380-onegirl;west2380-onetree;west2380-ihaveonebrother;west2380-ihaveonesister;west2380-ihaveonealmirah;west2380-ihaveonebag
+1-sans1269,sans1269,1,ekəm,,,,sans1269-oneboy;sans1269-onesheep;sans1269-onegirl;sans1269-onetree;sans1269-ihaveonebrother;sans1269-ihaveonesister;sans1269-ihaveonebag
+1-sylh1242,sylh1242,1,æx,,,,sylh1242-oneboy;sylh1242-onesheep;sylh1242-onegirl;sylh1242-onetree;sylh1242-ihaveonebrother;sylh1242-ihaveonesister;sylh1242-ihaveonealmirah;sylh1242-ihaveonebag
+1-urdu1245,urdu1245,1,ɑek/ik/ek,,,,urdu1245-oneboy;urdu1245-onesheep;urdu1245-onegirl;urdu1245-onetree;urdu1245-ihaveonebrother;urdu1245-ihaveonesister;urdu1245-ihaveonealmirah;urdu1245-ihaveonebag
+1-halb1244,halb1244,1,ek,,,,halb1244-oneboy;halb1244-onesheep;halb1244-onegirl;halb1244-onetree;halb1244-ihaveonebrother;halb1244-ihaveonesister;halb1244-ihaveonealmirah;halb1244-ihaveonebag
+1-maga1260,maga1260,1,ek,,,,maga1260-oneboy;maga1260-onesheep;maga1260-onegirl;maga1260-onetree;maga1260-ihaveonebrother;maga1260-ihaveonesister;maga1260-ihaveonealmirah;maga1260-ihaveonebag
+1-kull1236,kull1236,1,ek,,,,kull1236-oneboy;kull1236-onesheep;kull1236-onegirl;kull1236-onetree;kull1236-ihaveonebrother;kull1236-ihaveonesister;kull1236-ihaveonealmirah;kull1236-ihaveonebag
+2-dogr1250,dogr1250,2,do,,,,dogr1250-twoboys;dogr1250-twogirls;dogr1250-ihavetwobrothers;dogr1250-ihavetwosisters;dogr1250-ihavetwoalmirahs
+2-garh1243,garh1243,2,dʋi,,,,garh1243-twoboys;garh1243-twogirls;garh1243-ihavetwobrothers;garh1243-ihavetwosisters;garh1243-ihavetwoalmirahs
+2-kuma1273,kuma1273,2,do,,,,kuma1273-twoboys;kuma1273-twogirls;kuma1273-ihavetwobrothers;kuma1273-ihavetwosisters;kuma1273-ihavetwoalmirahs
+2-gadd1242,gadd1242,2,do,,,,gadd1242-twoboys;gadd1242-twogirls;gadd1242-ihavetwobrothers;gadd1242-ihavetwosisters;gadd1242-ihavetwoalmirahs
+2-goan1235,goan1235,2,don,,,,goan1235-twoboys;goan1235-twogirls;goan1235-ihavetwobrothers;goan1235-ihavetwosisters;goan1235-ihavetwoalmirahs
+2-nepa1254,nepa1254,2,dui,,,,nepa1254-twoboys;nepa1254-twogirls;nepa1254-ihavetwobrothers;nepa1254-ihavetwosisters;nepa1254-ihavetwoalmirahs
+2-kudm1238,kudm1238,2,dənɑ,,,,kudm1238-twoboys;kudm1238-twogirls;kudm1238-ihavetwobrothers;kudm1238-ihavetwosisters;kudm1238-ihavetwoalmirahs
+2-beng1280,beng1280,2,duɪ,,,,beng1280-twoboys;beng1280-twogirls;beng1280-ihavetwobrothers;beng1280-ihavetwosisters;beng1280-ihavetwoalmirahs
+2-assa1263,assa1263,2,duɪ,,,,assa1263-twoboys;assa1263-twogirls;assa1263-ihavetwobrothers;assa1263-ihavetwosisters;assa1263-ihavetwoalmirahs
+2-marw1260,marw1260,2,ðɔ,,,,marw1260-twoboys;marw1260-twogirls;marw1260-ihavetwobrothers;marw1260-ihavetwosisters;marw1260-ihavetwoalmirahs
+2-panj1256,panj1256,2,do,,,,panj1256-twoboys;panj1256-twogirls;panj1256-ihavetwobrothers;panj1256-ihavetwosisters;panj1256-ihavetwoalmirahs
+2-adiv1239,adiv1239,2,duɪ,,,,adiv1239-twoboys;adiv1239-twogirls;adiv1239-ihavetwobrothers;adiv1239-ihavetwosisters;adiv1239-ihavetwoalmirahs
+2-kash1277,kash1277,2,zə,,,,kash1277-twoboys;kash1277-twogirls;kash1277-ihavetwobrothers;kash1277-ihavetwosisters;kash1277-ihavetwoalmirahs
+2-mara1378,mara1378,2,don,,,,mara1378-twoboys;mara1378-twogirls;mara1378-ihavetwobrothers;mara1378-ihavetwosisters;mara1378-ihavetwoalmirahs
+2-guja1252,guja1252,2,be,,,,guja1252-twoboys;guja1252-twogirls;guja1252-ihavetwobrothers;guja1252-ihavetwosisters;guja1252-ihavetwoalmirahs
+2-sind1272,sind1272,2,bə,,,,sind1272-twoboys;sind1272-twogirls;sind1272-ihavetwobrothers;sind1272-ihavetwosisters;sind1272-ihavetwoalmirahs
+2-paha1251,paha1251,2,do,,,,paha1251-twoboys;paha1251-twogirls;paha1251-ihavetwobrothers;paha1251-ihavetwosisters;paha1251-ihavetwoalmirahs
+2-sada1242,sada1242,2,dui,,,,sada1242-twoboys;sada1242-twogirls;sada1242-ihavetwobrothers;sada1242-ihavetwosisters;sada1242-ihavetwoalmirahs
+2-wagd1238,wagd1238,2,be,,,,wagd1238-twoboys;wagd1238-twogirls;wagd1238-ihavetwobrothers;wagd1238-ihavetwosisters;wagd1238-ihavetwoalmirahs
+2-west2380,west2380,2,du,,,,west2380-twoboys;west2380-twogirls;west2380-ihavetwobrothers;west2380-ihavetwosisters;west2380-ihavetwoalmirahs
+2-sans1269,sans1269,2,dʋe,,,,sans1269-twoboys;sans1269-twogirls;sans1269-ihavetwobrothers;sans1269-ihavetwosisters
+2-sylh1242,sylh1242,2,dui,,,,sylh1242-twoboys;sylh1242-twogirls;sylh1242-ihavetwobrothers;sylh1242-ihavetwosisters;sylh1242-ihavetwoalmirahs
+2-urdu1245,urdu1245,2,do,,,,urdu1245-twoboys;urdu1245-twogirls;urdu1245-ihavetwobrothers;urdu1245-ihavetwosisters;urdu1245-ihavetwoalmirahs
+2-halb1244,halb1244,2,duj,,,,halb1244-twoboys;halb1244-twogirls;halb1244-ihavetwobrothers;halb1244-ihavetwosisters;halb1244-ihavetwoalmirahs
+2-maga1260,maga1260,2,du,,,,maga1260-twoboys;maga1260-twogirls;maga1260-ihavetwobrothers;maga1260-ihavetwosisters;maga1260-ihavetwoalmirahs
+2-kull1236,kull1236,2,dui,,,,kull1236-twoboys;kull1236-twogirls;kull1236-ihavetwobrothers;kull1236-ihavetwosisters;kull1236-ihavetwoalmirahs
+3-dogr1250,dogr1250,3,trɛ,,,,dogr1250-threegirls;dogr1250-ihavethreesisters;dogr1250-ihavethreebags
+3-garh1243,garh1243,3,tin,,,,garh1243-threegirls;garh1243-ihavethreesisters;garh1243-ihavethreebags
+3-kuma1273,kuma1273,3,tin,,,,kuma1273-threegirls;kuma1273-ihavethreesisters;kuma1273-ihavethreebags
+3-gadd1242,gadd1242,3,trɛ,,,,gadd1242-threegirls;gadd1242-ihavethreesisters;gadd1242-ihavethreebags
+3-goan1235,goan1235,3,tɪn,,,,goan1235-threegirls;goan1235-ihavethreesisters;goan1235-ihavethreebags
+3-nepa1254,nepa1254,3,tin,,,,nepa1254-threegirls;nepa1254-ihavethreesisters;nepa1254-ihavethreebags
+3-kudm1238,kudm1238,3,ʈenɑ,,,,kudm1238-threegirls;kudm1238-ihavethreesisters;kudm1238-ihavethreebags
+3-beng1280,beng1280,3,tɪ:n,,,,beng1280-threegirls;beng1280-ihavethreesisters;beng1280-ihavethreebags
+3-assa1263,assa1263,3,tɪnɪ,,,,assa1263-threegirls;assa1263-ihavethreesisters;assa1263-ihavethreebags
+3-marw1260,marw1260,3,tɪn,,,,marw1260-threegirls;marw1260-ihavethreesisters;marw1260-ihavethreebags
+3-panj1256,panj1256,3,tɪn,,,,panj1256-threegirls;panj1256-ihavethreesisters;panj1256-ihavethreebags
+3-adiv1239,adiv1239,3,tɪnɪ,,,,adiv1239-threegirls;adiv1239-ihavethreesisters;adiv1239-ihavethreebags
+3-kash1277,kash1277,3,tre,,,,kash1277-threegirls;kash1277-ihavethreesisters;kash1277-ihavethreebags
+3-mara1378,mara1378,3,tɪn,,,,mara1378-threegirls;mara1378-ihavethreesisters;mara1378-ihavethreebags
+3-guja1252,guja1252,3,troɳ,,,,guja1252-threegirls;guja1252-ihavethreesisters;guja1252-ihavethreebags
+3-sind1272,sind1272,3,ʈre,,,,sind1272-threegirls;sind1272-ihavethreesisters;sind1272-ihavethreebags
+3-paha1251,paha1251,3,trɛ,,,,paha1251-threegirls;paha1251-ihavethreesisters;paha1251-ihavethreebags
+3-sada1242,sada1242,3,tin,,,,sada1242-threegirls;sada1242-ihavethreesisters;sada1242-ihavethreebags
+3-wagd1238,wagd1238,3,trəɳ,,,,wagd1238-threegirls;wagd1238-ihavethreesisters;wagd1238-ihavethreebags
+3-west2380,west2380,3,tin,,,,west2380-threegirls;west2380-ihavethreesisters;west2380-ihavethreebags
+3-sans1269,sans1269,3,triɳi,,,,sans1269-threegirls;sans1269-ihavethreesisters;sans1269-ihavethreebags
+3-sylh1242,sylh1242,3,ti:n,,,,sylh1242-threegirls;sylh1242-ihavethreesisters;sylh1242-ihavethreebags
+3-urdu1245,urdu1245,3,tin,,,,urdu1245-threegirls;urdu1245-ihavethreesisters;urdu1245-ihavethreebags
+3-halb1244,halb1244,3,tin,,,,halb1244-threegirls;halb1244-ihavethreesisters;halb1244-ihavethreebags
+3-maga1260,maga1260,3,tin,,,,maga1260-threegirls;maga1260-ihavethreesisters;maga1260-ihavethreebags
+3-kull1236,kull1236,3,trɑi,,,,kull1236-threegirls;kull1236-ihavethreesisters;kull1236-ihavethreebags
+4-dogr1250,dogr1250,4,cɑr,,,,dogr1250-ihavefourbags
+4-garh1243,garh1243,4,cɑr,,,,garh1243-ihavefourbags
+4-kuma1273,kuma1273,4,cɑr,,,,kuma1273-ihavefourbags
+4-gadd1242,gadd1242,4,cɑr,,,,gadd1242-ihavefourbags
+4-goan1235,goan1235,4,ɕar,,,,goan1235-ihavefourbags
+4-nepa1254,nepa1254,4,tʃɑr,,,,nepa1254-ihavefourbags
+4-kudm1238,kudm1238,4,cɑrɑ,,,,kudm1238-ihavefourbags
+4-beng1280,beng1280,4,cɑr,,,,beng1280-ihavefourbags
+4-assa1263,assa1263,4,sɑ:rɪ,,,,assa1263-ihavefourbags
+4-marw1260,marw1260,4,tʃɑ:r,,,,marw1260-ihavefourbags
+4-panj1256,panj1256,4,cɑ:r,,,,panj1256-ihavefourbags
+4-adiv1239,adiv1239,4,cɑrɪ,,,,adiv1239-ihavefourbags
+4-kash1277,kash1277,4,tʃor,,,,kash1277-ihavefourbags
+4-mara1378,mara1378,4,cɑ:r,,,,mara1378-ihavefourbags
+4-guja1252,guja1252,4,cɑr,,,,guja1252-ihavefourbags
+4-sind1272,sind1272,4,cɑr,,,,sind1272-ihavefourbags
+4-paha1251,paha1251,4,cɑr,,,,paha1251-ihavefourbags
+4-sada1242,sada1242,4,cɑir,,,,sada1242-ihavefourbags
+4-wagd1238,wagd1238,4,ʃɑr,,,,wagd1238-ihavefourbags
+4-west2380,west2380,4,cɑr,,,,west2380-ihavefourbags
+4-sans1269,sans1269,4,cətʋɑri,,,,sans1269-ihavefourbags
+4-sylh1242,sylh1242,4,sɑir,,,,sylh1242-ihavefourbags
+4-urdu1245,urdu1245,4,tʃɑr,,,,urdu1245-ihavefourbags
+4-halb1244,halb1244,4,cɑr,,,,halb1244-ihavefourbags
+4-maga1260,maga1260,4,cɑir,,,,maga1260-ihavefourbags
+4-kull1236,kull1236,4,tʃɑ:r,,,,kull1236-ihavefourbags
+5-dogr1250,dogr1250,5,pənɟ,,,,dogr1250-fivesheep
+5-garh1243,garh1243,5,pɑc,,,,garh1243-fivesheep
+5-kuma1273,kuma1273,5,pɑc,,,,kuma1273-fivesheep
+5-gadd1242,gadd1242,5,pənɟ,,,,gadd1242-fivesheep
+5-goan1235,goan1235,5,pãt͡s,,,,goan1235-fivesheep
+5-nepa1254,nepa1254,5,pɑ̃tʃ,,,,nepa1254-fivesheep
+5-kudm1238,kudm1238,5,mɑcɑ,,,,kudm1238-fivesheep
+5-beng1280,beng1280,5,pɑ̃c,,,,beng1280-fivesheep
+5-assa1263,assa1263,5,pɑ:s,,,,assa1263-fivesheep
+5-marw1260,marw1260,5,pɑ:tʃ,,,,marw1260-fivesheep
+5-panj1256,panj1256,5,pɑ:ŋ,,,,panj1256-fivesheep
+5-adiv1239,adiv1239,5,pɑ̃cə,,,,adiv1239-fivesheep
+5-kash1277,kash1277,5,pɑ̃tʃ,,,,kash1277-fivesheep
+5-mara1378,mara1378,5,pɑ̃:tʃ,,,,mara1378-fivesheep
+5-guja1252,guja1252,5,pɑ̃nc,,,,guja1252-fivesheep
+5-sind1272,sind1272,5,pənɟ,,,,sind1272-fivesheep
+5-paha1251,paha1251,5,pənɟ,,,,paha1251-fivesheep
+5-sada1242,sada1242,5,pɑc,,,,sada1242-fivesheep
+5-wagd1238,wagd1238,5,pɑs,,,,wagd1238-fivesheep
+5-west2380,west2380,5,pɑ̃c,,,,west2380-fivesheep
+5-sans1269,sans1269,5,pənc,,,,sans1269-fivesheep
+5-sylh1242,sylh1242,5,fɑs,,,,sylh1242-fivesheep
+5-urdu1245,urdu1245,5,pɑ̃tʃ,,,,urdu1245-fivesheep
+5-halb1244,halb1244,5,pɑ̃c,,,,halb1244-fivesheep
+5-maga1260,maga1260,5,pɑ̃c,,,,maga1260-fivesheep
+5-kull1236,kull1236,5,põɟ,,,,kull1236-fivesheep
+6-dogr1250,dogr1250,6,se,,,,
+6-garh1243,garh1243,6,cʰɛ,,,,
+6-kuma1273,kuma1273,6,cʰɛ,,,,
+6-gadd1242,gadd1242,6,cʰe,,,,
+6-goan1235,goan1235,6,sə,,,,
+6-nepa1254,nepa1254,6,cʰɔ,,,,
+6-kudm1238,kudm1238,6,ɟʰeɡ,,,,
+6-beng1280,beng1280,6,cʰæ,,,,
+6-assa1263,assa1263,6,sɒɪ,,,,
+6-marw1260,marw1260,6,cʰɛ,,,,
+6-panj1256,panj1256,6,cʰe,,,,
+6-adiv1239,adiv1239,6,cʰəə,,,,
+6-kash1277,kash1277,6,səje,,,,
+6-mara1378,mara1378,6,səhɑ̃,,,,
+6-guja1252,guja1252,6,cʰə,,,,
+6-sind1272,sind1272,6,cʰə,,,,
+6-paha1251,paha1251,6,cʰe,,,,
+6-sada1242,sada1242,6,cʰɔ,,,,
+6-wagd1238,wagd1238,6,cʰo,,,,
+6-west2380,west2380,6,cʰɔ,,,,
+6-sans1269,sans1269,6,ʂəʈ,,,,
+6-sylh1242,sylh1242,6,sɔe,,,,
+6-urdu1245,urdu1245,6,tʃeh,,,,
+6-halb1244,halb1244,6,cʰəj,,,,
+6-maga1260,maga1260,6,cʰe,,,,
+6-kull1236,kull1236,6,tʃɔ,,,,
+7-dogr1250,dogr1250,7,sət,,,,
+7-garh1243,garh1243,7,sɑt,,,,
+7-kuma1273,kuma1273,7,sɑt,,,,
+7-gadd1242,gadd1242,7,sət,,,,
+7-goan1235,goan1235,7,sat,,,,
+7-nepa1254,nepa1254,7,sɑt,,,,
+7-kudm1238,kudm1238,7,ɡəi,,,,
+7-beng1280,beng1280,7,sɑt,,,,
+7-assa1263,assa1263,7,hɑ:tʰ,,,,
+7-marw1260,marw1260,7,sɑ:t,,,,
+7-panj1256,panj1256,7,sət,,,,
+7-adiv1239,adiv1239,7,sɑtə,,,,
+7-kash1277,kash1277,7,sɑ:tʰ,,,,
+7-mara1378,mara1378,7,sɑ:tʰ,,,,
+7-guja1252,guja1252,7,sɑ:t,,,,
+7-sind1272,sind1272,7,sət,,,,
+7-paha1251,paha1251,7,sət,,,,
+7-sada1242,sada1242,7,sɑt,,,,
+7-wagd1238,wagd1238,7,hɑt,,,,
+7-west2380,west2380,7,sɑt,,,,
+7-sans1269,sans1269,7,səpt,,,,
+7-sylh1242,sylh1242,7,ʃɑt,,,,
+7-urdu1245,urdu1245,7,sɑt,,,,
+7-halb1244,halb1244,7,sɑt,,,,
+7-maga1260,maga1260,7,sɑt,,,,
+7-kull1236,kull1236,7,ʃɔt,,,,
+8-dogr1250,dogr1250,8,əʈʰ,,,,dogr1250-eighttrees
+8-garh1243,garh1243,8,ɑʈʰ,,,,garh1243-eighttrees
+8-kuma1273,kuma1273,8,ɑʈʰ,,,,kuma1273-eighttrees
+8-gadd1242,gadd1242,8,əʈʰ,,,,gadd1242-eighttrees
+8-goan1235,goan1235,8,aʈ,,,,goan1235-eighttrees
+8-nepa1254,nepa1254,8,ɑʈʰ,,,,nepa1254-eighttrees
+8-kudm1238,kudm1238,8,əʈʰəi,,,,kudm1238-eighttrees
+8-beng1280,beng1280,8,ɑʈʰ,,,,beng1280-eighttrees
+8-assa1263,assa1263,8,ɑ:ʈʰ,,,,assa1263-eighttrees
+8-marw1260,marw1260,8,ɑ̃:tʰ,,,,marw1260-eighttrees
+8-panj1256,panj1256,8,əʈʰ,,,,panj1256-eighttrees
+8-adiv1239,adiv1239,8,ɑ:ʈʰ,,,,adiv1239-eighttrees
+8-kash1277,kash1277,8,uəʈʰ,,,,kash1277-eighttrees
+8-mara1378,mara1378,8,ɑ:ʈʰ,,,,mara1378-eighttrees
+8-guja1252,guja1252,8,ɑ:ʈʰ,,,,guja1252-eighttrees
+8-sind1272,sind1272,8,əʈʈʰə,,,,sind1272-eighttrees
+8-paha1251,paha1251,8,əʈʰ,,,,paha1251-eighttrees
+8-sada1242,sada1242,8,ɑʈʰ,,,,sada1242-eighttrees
+8-wagd1238,wagd1238,8,ɑʈ,,,,wagd1238-eighttrees
+8-west2380,west2380,8,ɑʈʰ,,,,west2380-eighttrees
+8-sans1269,sans1269,8,əʃʈ,,,,sans1269-eighttrees
+8-sylh1242,sylh1242,8,ɑʈ,,,,sylh1242-eighttrees
+8-urdu1245,urdu1245,8,ɑʈʰ,,,,urdu1245-eighttrees
+8-halb1244,halb1244,8,ɑʈ,,,,halb1244-eighttrees
+8-maga1260,maga1260,8,ɑtʰ,,,,maga1260-eighttrees
+8-kull1236,kull1236,8,ɔʈʰ,,,,kull1236-eighttrees
+9-dogr1250,dogr1250,9,nɔ,,,,
+9-garh1243,garh1243,9,nɔ,,,,
+9-kuma1273,kuma1273,9,nɔ,,,,
+9-gadd1242,gadd1242,9,nɔ,,,,
+9-goan1235,goan1235,9,ɳəv,,,,
+9-nepa1254,nepa1254,9,nɔ,,,,
+9-kudm1238,kudm1238,9,nəmi,,,,
+9-beng1280,beng1280,9,nɔe,,,,
+9-assa1263,assa1263,9,nɒ,,,,
+9-marw1260,marw1260,9,nɔ:,,,,
+9-panj1256,panj1256,9,nɔ,,,,
+9-adiv1239,adiv1239,9,nɔə,,,,
+9-kash1277,kash1277,9,nɔ,,,,
+9-mara1378,mara1378,9,nəʊ,,,,
+9-guja1252,guja1252,9,nɔʊ,,,,
+9-sind1272,sind1272,9,nəʋ,,,,
+9-paha1251,paha1251,9,nəu,,,,
+9-sada1242,sada1242,9,nɔ,,,,
+9-wagd1238,wagd1238,9,nɔʋ,,,,
+9-west2380,west2380,9,nɔ,,,,
+9-sans1269,sans1269,9,nəʋ,,,,
+9-sylh1242,sylh1242,9,nɔe,,,,
+9-urdu1245,urdu1245,9,nɔ,,,,
+9-halb1244,halb1244,9,nɔ,,,,
+9-maga1260,maga1260,9,nɔ,,,,
+9-kull1236,kull1236,9,nɔu,,,,
+10-dogr1250,dogr1250,10,dəs,,,,
+10-garh1243,garh1243,10,dəs,,,,
+10-kuma1273,kuma1273,10,dəs,,,,
+10-gadd1242,gadd1242,10,dəs,,,,
+10-goan1235,goan1235,10,dʰa,,,,
+10-nepa1254,nepa1254,10,dəs,,,,
+10-kudm1238,kudm1238,10,sihəm,,,,
+10-beng1280,beng1280,10,dɔs,,,,
+10-assa1263,assa1263,10,dɒh,,,,
+10-marw1260,marw1260,10,dəs,,,,
+10-panj1256,panj1256,10,dəs,,,,
+10-adiv1239,adiv1239,10,dəsə,,,,
+10-kash1277,kash1277,10,dəh,,,,
+10-mara1378,mara1378,10,dəhɑ,,,,
+10-guja1252,guja1252,10,dəs,,,,
+10-sind1272,sind1272,10,ɖə,,,,
+10-paha1251,paha1251,10,dəs,,,,
+10-sada1242,sada1242,10,dəs,,,,
+10-wagd1238,wagd1238,10,dəs,,,,
+10-west2380,west2380,10,dəs,,,,
+10-sans1269,sans1269,10,dəʃ,,,,
+10-sylh1242,sylh1242,10,dɔʃ,,,,
+10-urdu1245,urdu1245,10,dəs,,,,
+10-halb1244,halb1244,10,dəs,,,,
+10-maga1260,maga1260,10,dəs,,,,
+10-kull1236,kull1236,10,dəs,,,,
+11-dogr1250,dogr1250,11,pɛlɑ,,,,dogr1250-firstman;dogr1250-firstwoman
+11-garh1243,garh1243,11,pehlu,,,,garh1243-firstman;garh1243-firstwoman
+11-kuma1273,kuma1273,11,pehlɑ,,,,kuma1273-firstman;kuma1273-firstwoman
+11-gadd1242,gadd1242,11,pɛlɑ,,,,gadd1242-firstman;gadd1242-firstwoman
+11-goan1235,goan1235,11,pəjlɛ̃,,,,goan1235-firstman;goan1235-firstwoman
+11-nepa1254,nepa1254,11,prətʰəm,,,,nepa1254-firstman;nepa1254-firstwoman
+11-kudm1238,kudm1238,11,mir,,,,kudm1238-firstman
+11-beng1280,beng1280,11,prot̪om,,,,beng1280-firstman;beng1280-firstwoman
+11-assa1263,assa1263,11,prɒt̪ʰɒm,,,,assa1263-firstman;assa1263-firstwoman
+11-marw1260,marw1260,11,pɛlo,,,,marw1260-firstman;marw1260-firstwoman
+11-panj1256,panj1256,11,pehlɑ,,,,panj1256-firstman;panj1256-firstwoman
+11-adiv1239,adiv1239,11,prətʰ̪əmə,,,,adiv1239-firstman;adiv1239-firstwoman
+11-kash1277,kash1277,11,ɡʋəɖnjuk,,,,kash1277-firstman;kash1277-firstwoman
+11-mara1378,mara1378,11,pəhɪlɑ,,,,mara1378-firstman;mara1378-firstwoman
+11-guja1252,guja1252,11,pehlʊ,,,,guja1252-firstman;guja1252-firstwoman
+11-sind1272,sind1272,11,pero,,,,sind1272-firstman;sind1272-firstwoman
+11-paha1251,paha1251,11,ekmɑ,,,,paha1251-firstman;paha1251-firstwoman
+11-sada1242,sada1242,11,pehlɑ,,,,sada1242-firstman;sada1242-firstwoman
+11-wagd1238,wagd1238,11,pelo,,,,wagd1238-firstman;wagd1238-firstwoman
+11-west2380,west2380,11,pəhilɑ,,,,west2380-firstman;west2380-firstwoman
+11-sans1269,sans1269,11,prətʰəməh(M)/prətʰəmɑ(F)/prətʰməm(N),,,,sans1269-firstman;sans1269-firstwoman
+11-sylh1242,sylh1242,11,fort̪om,,,,sylh1242-firstman;sylh1242-firstwoman
+11-urdu1245,urdu1245,11,pehlɑ,,,,urdu1245-firstman;urdu1245-firstwoman
+11-halb1244,halb1244,11,pəhil,,,,halb1244-firstman;halb1244-firstwoman
+11-maga1260,maga1260,11,pehlɑ,,,,maga1260-firstman;maga1260-firstwoman
+11-kull1236,kull1236,11,pɛlɑ,,,,kull1236-firstman;kull1236-firstwoman
+12-dogr1250,dogr1250,12,duʋɑ,,,,dogr1250-secondman;dogr1250-secondwoman
+12-garh1243,garh1243,12,dusru,,,,garh1243-secondman;garh1243-secondwoman
+12-kuma1273,kuma1273,12,dusrɑ,,,,kuma1273-secondman;kuma1273-secondwoman
+12-gadd1242,gadd1242,12,duɑ,,,,gadd1242-secondman;gadd1242-secondwoman
+12-goan1235,goan1235,12,d̪usrɛ̃,,,,goan1235-secondman;goan1235-secondwoman
+12-nepa1254,nepa1254,12,ditijə,,,,nepa1254-secondman;nepa1254-secondwoman
+12-kudm1238,kudm1238,12,dusrɑ,,,,
+12-beng1280,beng1280,12,d̪ɪt̪io,,,,beng1280-secondman;beng1280-secondwoman
+12-assa1263,assa1263,12,d̪rɪt̪ɪɒ,,,,assa1263-secondman;assa1263-secondwoman
+12-marw1260,marw1260,12,duɟ̌o,,,,marw1260-secondman;marw1260-secondwoman
+12-panj1256,panj1256,12,d̪uǰɑ,,,,panj1256-secondman;panj1256-secondwoman
+12-adiv1239,adiv1239,12,d̪ɪt̪ɪjə,,,,adiv1239-secondman;adiv1239-secondwoman
+12-kash1277,kash1277,12,d̪oɪjəm,,,,kash1277-secondman;kash1277-secondwoman
+12-mara1378,mara1378,12,d̪usrɑ,,,,mara1378-secondman;mara1378-secondwoman
+12-guja1252,guja1252,12,bɪǰʊ,,,,guja1252-secondman;guja1252-secondwoman
+12-sind1272,sind1272,12,beo,,,,sind1272-secondman;sind1272-secondwoman
+12-paha1251,paha1251,12,duɑ,,,,paha1251-secondman;paha1251-secondwoman
+12-sada1242,sada1242,12,dusrɑ,,,,sada1242-secondman;sada1242-secondwoman
+12-wagd1238,wagd1238,12,biǰo,,,,wagd1238-secondman;wagd1238-secondwoman
+12-west2380,west2380,12,dusrɑ,,,,west2380-secondman;west2380-secondwoman
+12-sans1269,sans1269,12,dʋitijəh/dʋitijɑ/dʋitijəm,,,,sans1269-secondman;sans1269-secondwoman
+12-sylh1242,sylh1242,12,d̪it̪ijo,,,,sylh1242-secondman;sylh1242-secondwoman
+12-urdu1245,urdu1245,12,dusrɑ,,,,urdu1245-secondman;urdu1245-secondwoman
+12-halb1244,halb1244,12,dusər,,,,halb1244-secondman;halb1244-secondwoman
+12-maga1260,maga1260,12,dusrɑ,,,,maga1260-secondman;maga1260-secondwoman
+12-kull1236,kull1236,12,duǰǰɑ,,,,kull1236-secondman;kull1236-secondwoman
+13-dogr1250,dogr1250,13,trijɑ,,,,dogr1250-thirdman;dogr1250-thirdwoman
+13-garh1243,garh1243,13,tisru,,,,garh1243-thirdman;garh1243-thirdwoman
+13-kuma1273,kuma1273,13,tisrɑ,,,,kuma1273-thirdman;kuma1273-thirdwoman
+13-gadd1242,gadd1242,13,trijɑ,,,,gadd1242-thirdman;gadd1242-thirdwoman
+13-goan1235,goan1235,13,t̪ɪsrɛ̃,,,,goan1235-thirdman;goan1235-thirdwoman
+13-nepa1254,nepa1254,13,tritijə,,,,nepa1254-thirdman;nepa1254-thirdwoman
+13-beng1280,beng1280,13,t̪rɪt̪io,,,,beng1280-thirdman;beng1280-thirdwoman
+13-assa1263,assa1263,13,t̪rɪt̪ɪɒ,,,,assa1263-thirdman;assa1263-thirdwoman
+13-marw1260,marw1260,13,tɪɟ̌o,,,,marw1260-thirdman;marw1260-thirdwoman
+13-panj1256,panj1256,13,t̪ɪǰɑ,,,,panj1256-thirdman;panj1256-thirdwoman
+13-adiv1239,adiv1239,13,t̪rut̪ɪjə,,,,adiv1239-thirdman;adiv1239-thirdwoman
+13-kash1277,kash1277,13,t̪reɪjəm,,,,kash1277-thirdman;kash1277-thirdwoman
+13-mara1378,mara1378,13,t̪ɪsrɑ,,,,mara1378-thirdman;mara1378-thirdwoman
+13-guja1252,guja1252,13,t̪ɪǰʊ,,,,guja1252-thirdman;guja1252-thirdwoman
+13-sind1272,sind1272,13,ʈɪo,,,,sind1272-thirdman;sind1272-thirdwoman
+13-paha1251,paha1251,13,trijɑ,,,,paha1251-thirdman;paha1251-thirdwoman
+13-sada1242,sada1242,13,tisrɑ,,,,sada1242-thirdman;sada1242-thirdwoman
+13-wagd1238,wagd1238,13,tisro,,,,wagd1238-thirdman;wagd1238-thirdwoman
+13-west2380,west2380,13,tisrɑ,,,,west2380-thirdman;west2380-thirdwoman
+13-sans1269,sans1269,13,tritijəh/tritijɑ/tritijəm,,,,sans1269-thirdman;sans1269-thirdwoman
+13-sylh1242,sylh1242,13,t̪rit̪ijo,,,,sylh1242-thirdman;sylh1242-thirdwoman
+13-urdu1245,urdu1245,13,tisrɑ,,,,urdu1245-thirdman;urdu1245-thirdwoman
+13-halb1244,halb1244,13,tisər,,,,halb1244-thirdman;halb1244-thirdwoman
+13-maga1260,maga1260,13,tisrɑ,,,,maga1260-thirdman;maga1260-thirdwoman
+13-kull1236,kull1236,13,triǰɑ,,,,kull1236-thirdman;kull1236-thirdwoman
+14-dogr1250,dogr1250,14,čotʰɑ,,,,dogr1250-fourthman;dogr1250-fourthwoman
+14-garh1243,garh1243,14,čotʰu,,,,garh1243-fourthman;garh1243-fourthwoman
+14-kuma1273,kuma1273,14,čotʰɑ,,,,kuma1273-fourthman;kuma1273-fourthwoman
+14-gadd1242,gadd1242,14,čotʰɑ,,,,gadd1242-fourthman;gadd1242-fourthwoman
+14-goan1235,goan1235,14,t͡səvt̪ɛ̃,,,,goan1235-fourthman;goan1235-fourthwoman
+14-nepa1254,nepa1254,14,tʃəturtʰ,,,,nepa1254-fourthman;nepa1254-fourthwoman
+14-beng1280,beng1280,14,čot̪urt̪ʰo,,,,beng1280-fourthman;beng1280-fourthwoman
+14-assa1263,assa1263,14,sot̪ʊrt̪ʰ,,,,assa1263-fourthman;assa1263-fourthwoman
+14-marw1260,marw1260,14,čoʈʰo,,,,marw1260-fourthman;marw1260-fourthwoman
+14-panj1256,panj1256,14,čəut̪ʰɑ,,,,panj1256-fourthman;panj1256-fourthwoman
+14-adiv1239,adiv1239,14,čət̪urt̪ʰə,,,,adiv1239-fourthman;adiv1239-fourthwoman
+14-kash1277,kash1277,14,tʃurjem,,,,kash1277-fourthman;kash1277-fourthwoman
+14-mara1378,mara1378,14,čəʊt̪ʰɑ,,,,mara1378-fourthman;mara1378-fourthwoman
+14-guja1252,guja1252,14,čɔʊt̪ʰu,,,,guja1252-fourthman;guja1252-fourthwoman
+14-sind1272,sind1272,14,čot̪ʰo,,,,sind1272-fourthman;sind1272-fourthwoman
+14-paha1251,paha1251,14,čotʰɑ,,,,paha1251-fourthman;paha1251-fourthwoman
+14-sada1242,sada1242,14,čɔtʰɑ,,,,sada1242-fourthman;sada1242-fourthwoman
+14-wagd1238,wagd1238,14,čɔtʰo,,,,wagd1238-fourthman;wagd1238-fourthwoman
+14-west2380,west2380,14,čəutʰɑ,,,,west2380-fourthman;west2380-fourthwoman
+14-sans1269,sans1269,14,čəturtʰəh/čəturtʰɑ/čəturtʰəm,,,,sans1269-fourthman;sans1269-fourthwoman
+14-sylh1242,sylh1242,14,sot̪urt̪ʰo,,,,sylh1242-fourthman;sylh1242-fourthwoman
+14-urdu1245,urdu1245,14,tʃotʰɑ,,,,urdu1245-fourthman;urdu1245-fourthwoman
+14-halb1244,halb1244,14,čəʋtʰɑ,,,,halb1244-fourthman;halb1244-fourthwoman
+14-maga1260,maga1260,14,čɔtʰɑ,,,,maga1260-fourthman;maga1260-fourthwoman
+14-kull1236,kull1236,14,čɔutʰɑ,,,,kull1236-fourthman;kull1236-fourthwoman
+15-dogr1250,dogr1250,15,pəimɑ,,,,dogr1250-fifthman;dogr1250-fifthwoman
+15-garh1243,garh1243,15,pɑ̃ču,,,,garh1243-fifthman;garh1243-fifthwoman
+15-kuma1273,kuma1273,15,pɑ̃čʋɑ,,,,kuma1273-fifthman;kuma1273-fifthwoman
+15-gadd1242,gadd1242,15,pəimɑ,,,,gadd1242-fifthman;gadd1242-fifthwoman
+15-goan1235,goan1235,15,pɑ̃t͡səvɛ̃,,,,goan1235-fifthman;goan1235-fifthwoman
+15-nepa1254,nepa1254,15,pɑ̃tʃõ,,,,nepa1254-fifthman;nepa1254-fifthwoman
+15-beng1280,beng1280,15,pɔnčom,,,,beng1280-fifthman;beng1280-fifthwoman
+15-assa1263,assa1263,15,pɑ:s nɒmbor,,,,assa1263-fifthman;assa1263-fifthwoman
+15-marw1260,marw1260,15,pɑ̃nčvo,,,,marw1260-fifthman;marw1260-fifthwoman
+15-panj1256,panj1256,15,pənǰʋɑ̃,,,,panj1256-fifthman;panj1256-fifthwoman
+15-adiv1239,adiv1239,15,pənčəmə,,,,adiv1239-fifthman;adiv1239-fifthwoman
+15-kash1277,kash1277,15,pũtʃjəm,,,,kash1277-fifthman;kash1277-fifthwoman
+15-mara1378,mara1378,15,pɑ̃nčʋɑ,,,,mara1378-fifthman;mara1378-fifthwoman
+15-guja1252,guja1252,15,pɑ̃nčmʊ,,,,guja1252-fifthman;guja1252-fifthwoman
+15-sind1272,sind1272,15,pənǰo,,,,sind1272-fifthman;sind1272-fifthwoman
+15-paha1251,paha1251,15,pənǰmɑ,,,,paha1251-fifthman;paha1251-fifthwoman
+15-sada1242,sada1242,15,pɑ̃čʋɑ,,,,sada1242-fifthman;sada1242-fifthwoman
+15-wagd1238,wagd1238,15,pɑčʋo,,,,wagd1238-fifthman;wagd1238-fifthwoman
+15-west2380,west2380,15,pəčmɑ,,,,west2380-fifthman;west2380-fifthwoman
+15-sans1269,sans1269,15,pə̃nčməh/pə̃nčmɑ/pə̃nčməm,,,,sans1269-fifthman;sans1269-fifthwoman
+15-sylh1242,sylh1242,15,fɔncom,,,,sylh1242-fifthman;sylh1242-fifthwoman
+15-urdu1245,urdu1245,15,pɑ̃tʃʋɑ̃,,,,urdu1245-fifthman;urdu1245-fifthwoman
+15-halb1244,halb1244,15,pɑ̃čʋɑ̃,,,,halb1244-fifthman;halb1244-fifthwoman
+15-maga1260,maga1260,15,pɑ̃nčʋɑ,,,,maga1260-fifthman;maga1260-fifthwoman
+15-kull1236,kull1236,15,põnǰʋɑ̃,,,,kull1236-fifthman;kull1236-fifthwoman
+16-dogr1250,dogr1250,16,šədmɑ,,,,dogr1250-sixthwoman
+16-garh1243,garh1243,16,čʰəʈu,,,,garh1243-sixthwoman
+16-kuma1273,kuma1273,16,čʰəʈɑ,,,,kuma1273-sixthwoman
+16-gadd1242,gadd1242,16,čʰemmɑ,,,,gadd1242-sixthwoman
+16-goan1235,goan1235,16,səvvɛ̃,,,,goan1235-sixthwoman
+16-nepa1254,nepa1254,16,ʃɛʈõ,,,,nepa1254-sixthwoman
+16-beng1280,beng1280,16,šɔštom,,,,beng1280-sixthwoman
+16-assa1263,assa1263,16,soɪ nɒmbor,,,,assa1263-sixthwoman
+16-marw1260,marw1260,16,čʰəʈʰo,,,,marw1260-sixthwoman
+16-panj1256,panj1256,16,ʃeʋɑ̃,,,,panj1256-sixthwoman
+16-adiv1239,adiv1239,16,səsʈʰə,,,,adiv1239-sixthwoman
+16-kash1277,kash1277,16,šəɪjəm,,,,kash1277-sixthwoman
+16-mara1378,mara1378,16,šɑhʋɑ,,,,mara1378-sixthwoman
+16-guja1252,guja1252,16,čʰəʈʈʰʊ,,,,guja1252-sixthwoman
+16-sind1272,sind1272,16,čəo,,,,sind1272-sixthwoman
+16-paha1251,paha1251,16,čʰemmɑ,,,,paha1251-sixthwoman
+16-sada1242,sada1242,16,čʰəʈʋɑ,,,,sada1242-sixthwoman
+16-wagd1238,wagd1238,16,čʰəʈʈo,,,,wagd1238-sixthwoman
+16-west2380,west2380,16,čʰəʈʈɑ,,,,west2380-sixthwoman
+16-sans1269,sans1269,16,ʂəsʈəh/ʂəsʈʰəmɑ/ʂəsʈʰəm,,,,sans1269-sixthwoman
+16-sylh1242,sylh1242,16,ʃɔʃʈʰo,,,,sylh1242-sixthwoman
+16-urdu1245,urdu1245,16,tʃʰəʈɑ,,,,urdu1245-sixthwoman
+16-halb1244,halb1244,16,čʰəʈʋɑ̃,,,,halb1244-sixthwoman
+16-maga1260,maga1260,16,čʰəʈʈʰɑ,,,,maga1260-sixthwoman
+16-kull1236,kull1236,16,čʰəuʋɑ̃,,,,kull1236-sixthwoman
+17-dogr1250,dogr1250,17,sətmɑ,,,,dogr1250-seventhboy
+17-garh1243,garh1243,17,sətu,,,,garh1243-seventhboy
+17-kuma1273,kuma1273,17,sətʋɑ,,,,kuma1273-seventhboy
+17-gadd1242,gadd1242,17,sətuʋɑ,,,,gadd1242-seventhboy
+17-goan1235,goan1235,17,sɑt̪vɛ̃,,,,goan1235-seventhboy
+17-nepa1254,nepa1254,17,sɑtõ,,,,nepa1254-seventhboy
+17-beng1280,beng1280,17,šɔptom,,,,beng1280-seventhboy
+17-assa1263,assa1263,17,hɑ:t nɒmbor,,,,assa1263-seventhboy
+17-marw1260,marw1260,17,sɑ:təvo,,,,marw1260-seventhboy
+17-panj1256,panj1256,17,sət̪ʋɑ̃,,,,panj1256-seventhboy
+17-adiv1239,adiv1239,17,səpt̪əmə,,,,adiv1239-seventhboy
+17-kash1277,kash1277,17,səɪt̪jəm,,,,kash1277-seventhboy
+17-mara1378,mara1378,17,šɑt̪t̪ʋɑ,,,,mara1378-seventhboy
+17-guja1252,guja1252,17,sət̪mʊ,,,,guja1252-seventhboy
+17-sind1272,sind1272,17,sət̪t̪o,,,,sind1272-seventhboy
+17-paha1251,paha1251,17,sətmɑ,,,,paha1251-seventhboy
+17-sada1242,sada1242,17,sətʋɑ,,,,sada1242-seventhboy
+17-wagd1238,wagd1238,17,sɑtʋo,,,,wagd1238-seventhboy
+17-west2380,west2380,17,sətmɑ,,,,west2380-seventhboy
+17-sans1269,sans1269,17,səptəməh/səptəmɑ/səptəməm,,,,sans1269-seventhboy
+17-sylh1242,sylh1242,17,ʃɔpt̪ɔm,,,,sylh1242-seventhboy
+17-urdu1245,urdu1245,17,sɑtʋɑ̃,,,,urdu1245-seventhboy
+17-halb1244,halb1244,17,sɑtʋɑ̃,,,,halb1244-seventhboy
+17-maga1260,maga1260,17,sɑtʋɑ,,,,maga1260-seventhboy
+17-kull1236,kull1236,17,sɔtuʋɑ̃,,,,kull1236-seventhboy
+18-dogr1250,dogr1250,18,əʈʰmɑ,,,,dogr1250-eighthgirl
+18-garh1243,garh1243,18,əʈʰu,,,,garh1243-eighthgirl
+18-kuma1273,kuma1273,18,əʈʰʋɑ,,,,kuma1273-eighthgirl
+18-gadd1242,gadd1242,18,əʈʰʋɑ,,,,gadd1242-eighthgirl
+18-goan1235,goan1235,18,ɑʈvɛ̃,,,,goan1235-eighthgirl
+18-nepa1254,nepa1254,18,ɑʈʰõ,,,,nepa1254-eighthgirl
+18-beng1280,beng1280,18,ɔštom,,,,beng1280-eighthgirl
+18-assa1263,assa1263,18,ɑʈʰ nɒmbor,,,,assa1263-eighthgirl
+18-marw1260,marw1260,18,ɑ:ʈʰvo,,,,marw1260-eighthgirl
+18-panj1256,panj1256,18,əʈʰʋɑ̃,,,,panj1256-eighthgirl
+18-adiv1239,adiv1239,18,əsʈəmə,,,,adiv1239-eighthgirl
+18-kash1277,kash1277,18,u:ʈʰəjəm,,,,kash1277-eighthgirl
+18-mara1378,mara1378,18,ɑ:ʈʰʋɑ,,,,mara1378-eighthgirl
+18-guja1252,guja1252,18,ɑ:ʈʰmʊ,,,,guja1252-eighthgirl
+18-sind1272,sind1272,18,əʈʰo,,,,sind1272-eighthgirl
+18-paha1251,paha1251,18,əʈʰmɑ,,,,paha1251-eighthgirl
+18-sada1242,sada1242,18,əʈʰʋɑ,,,,sada1242-eighthgirl
+18-wagd1238,wagd1238,18,ɑʈʰʋo,,,,wagd1238-eighthgirl
+18-west2380,west2380,18,əʈʰmɑ,,,,west2380-eighthgirl
+18-sans1269,sans1269,18,əsʈəməh/əsʈəmɑ/əsʈəməm,,,,sans1269-eighthgirl
+18-sylh1242,sylh1242,18,ɔʃʈɔm,,,,sylh1242-eighthgirl
+18-urdu1245,urdu1245,18,ɑʈʰʋɑ̃,,,,urdu1245-eighthgirl
+18-halb1244,halb1244,18,ɑʈʋɑ̃,,,,halb1244-eighthgirl
+18-maga1260,maga1260,18,ɑʈʰʋɑ,,,,maga1260-eighthgirl
+18-kull1236,kull1236,18,əʈʰuʋɑ̃,,,,kull1236-eighthgirl
+19-dogr1250,dogr1250,19,nɔmɑ,,,,
+19-garh1243,garh1243,19,nəu,,,,
+19-kuma1273,kuma1273,19,nɔʋɑ,,,,
+19-gadd1242,gadd1242,19,nomɑ,,,,
+19-goan1235,goan1235,19,ɳəvvɛ̃,,,,
+19-nepa1254,nepa1254,19,nɔʋõ,,,,
+19-beng1280,beng1280,19,nɔbom,,,,
+19-assa1263,assa1263,19,nɒ nɒmbor,,,,
+19-marw1260,marw1260,19,nəvo,,,,
+19-panj1256,panj1256,19,nɔʋɑ̃,,,,
+19-adiv1239,adiv1239,19,nəʋəmə,,,,
+19-kash1277,kash1277,19,nəijəm,,,,
+19-mara1378,mara1378,19,nəuʋɑ,,,,
+19-guja1252,guja1252,19,nəʋmʊ,,,,
+19-sind1272,sind1272,19,nəʋo,,,,
+19-paha1251,paha1251,19,nommɑ,,,,
+19-sada1242,sada1242,19,nɔʋɑ,,,,
+19-wagd1238,wagd1238,19,nəʋo,,,,
+19-west2380,west2380,19,nɔmɑ,,,,
+19-sans1269,sans1269,19,nəʋəməh/nəʋmɑ/nəʋməm,,,,
+19-sylh1242,sylh1242,19,nɔbom,,,,
+19-urdu1245,urdu1245,19,nɔʋɑ̃,,,,
+19-halb1244,halb1244,19,nəʋɑ̃,,,,
+19-maga1260,maga1260,19,nɔʋɑ,,,,
+19-kull1236,kull1236,19,nɔuʋɑ̃,,,,
+20-dogr1250,dogr1250,20,dəsmɑ,,,,
+20-garh1243,garh1243,20,dəsu,,,,
+20-kuma1273,kuma1273,20,dəsʋɑ,,,,
+20-gadd1242,gadd1242,20,dəsmɑ,,,,
+20-goan1235,goan1235,20,dʰɑvɛ̃,,,,
+20-nepa1254,nepa1254,20,dəsʋõ,,,,
+20-beng1280,beng1280,20,d̪ɔšom,,,,
+20-assa1263,assa1263,20,d̪ɒh nɒmbor,,,,
+20-marw1260,marw1260,20,dəsvo,,,,
+20-panj1256,panj1256,20,d̪əsʋɑ̃,,,,
+20-adiv1239,adiv1239,20,d̪əsəmə,,,,
+20-kash1277,kash1277,20,d̪əhjəm,,,,
+20-mara1378,mara1378,20,d̪ɑhʋɑ,,,,
+20-guja1252,guja1252,20,d̪əsmʊ,,,,
+20-sind1272,sind1272,20,ɖəo,,,,
+20-paha1251,paha1251,20,dəsmɑ,,,,
+20-sada1242,sada1242,20,bəsʋɑ,,,,
+20-wagd1238,wagd1238,20,dəsʋo,,,,
+20-west2380,west2380,20,dəsmɑ,,,,
+20-sans1269,sans1269,20,dəʃməh/dəʃmɑ/dəʃməm,,,,
+20-sylh1242,sylh1242,20,d̪ɔʃom,,,,
+20-urdu1245,urdu1245,20,dəsʋɑ̃,,,,
+20-halb1244,halb1244,20,dəsʋɑ̃,,,,
+20-maga1260,maga1260,20,dəsʋɑ,,,,
+20-kull1236,kull1236,20,dəsʋɑ̃,,,,
+21-dogr1250,dogr1250,21,ɡjɑrmɑ,,,,
+21-garh1243,garh1243,21,iɡjɑrʋu,,,,
+21-kuma1273,kuma1273,21,iɡjɑrʋɑ,,,,
+21-gadd1242,gadd1242,21,jɑrmɑ,,,,
+21-goan1235,goan1235,21,ɪkrɑvɛ̃,,,,
+21-nepa1254,nepa1254,21,eɡɑrõ,,,,
+21-beng1280,beng1280,21,ɛkɑd̪ɔš,,,,
+21-assa1263,assa1263,21,ɛɡɑrɒ nɒmbor,,,,
+21-marw1260,marw1260,21,ɪɡjɑrvo,,,,
+21-panj1256,panj1256,21,ɡjɑrʋɑ̃,,,,
+21-adiv1239,adiv1239,21,ekɑd̪əsə,,,,
+21-kash1277,kash1277,21,kəhjəm,,,,
+21-mara1378,mara1378,21,əkrɑʋɑ,,,,
+21-guja1252,guja1252,21,əɡjɑrmʊ,,,,
+21-sind1272,sind1272,21,yɑro,,,,
+21-paha1251,paha1251,21,jɑrmɑ,,,,
+21-sada1242,sada1242,21,eɡɑrʋɑ,,,,
+21-wagd1238,wagd1238,21,ɡjɑrʋo,,,,
+21-west2380,west2380,21,eɡərmɑ,,,,
+21-sans1269,sans1269,21,ekɑdəʃməh/ekɑdəʃmɑ/ekɑdəʃməm,,,,
+21-sylh1242,sylh1242,21,æxɑd̪ɔʃ,,,,
+21-urdu1245,urdu1245,21,ɡijɑrʋɑ̃,,,,
+21-halb1244,halb1244,21,iɡɑrʋɑ̃,,,,
+21-maga1260,maga1260,21,ɡjɑrʋɑ,,,,
+21-kull1236,kull1236,21,ɡjɑrʋɑ̃,,,,
+22-dogr1250,dogr1250,22,bɑrmɑ,,,,
+22-garh1243,garh1243,22,bɑrʋu,,,,
+22-kuma1273,kuma1273,22,bɑrʋɑ,,,,
+22-gadd1242,gadd1242,22,bɑrmɑ,,,,
+22-goan1235,goan1235,22,bɑrɑvɛ̃,,,,
+22-nepa1254,nepa1254,22,bɑrõ,,,,
+22-beng1280,beng1280,22,d̪ɑd̪ɔš,,,,
+22-assa1263,assa1263,22,bɑ:rɒ nɒmbor,,,,
+22-marw1260,marw1260,22,bɑrvo,,,,
+22-panj1256,panj1256,22,bɑrʋɑ̃,,,,
+22-adiv1239,adiv1239,22,d̪ʋɑd̪əsə,,,,
+22-kash1277,kash1277,22,bəhjəm,,,,
+22-mara1378,mara1378,22,bɑrɑʋɑ,,,,
+22-guja1252,guja1252,22,bɑ:rmʊ,,,,
+22-sind1272,sind1272,22,bɑro,,,,
+22-paha1251,paha1251,22,bɑrmɑ,,,,
+22-sada1242,sada1242,22,bɑrʋɑ,,,,
+22-wagd1238,wagd1238,22,bɑrʋo,,,,
+22-west2380,west2380,22,bərʋɑ̃,,,,
+22-sans1269,sans1269,22,dʋɑdəʃməh/dʋɑdəʃmɑ/dʋɑdəʃməm,,,,
+22-sylh1242,sylh1242,22,d̪ɑdɔʃ,,,,
+22-urdu1245,urdu1245,22,bɑrʋɑ̃,,,,
+22-halb1244,halb1244,22,bɑrʋɑ̃,,,,
+22-maga1260,maga1260,22,bɑrʋɑ,,,,
+22-kull1236,kull1236,22,bɑrʋɑ̃,,,,
+23-dogr1250,dogr1250,23,termɑ,,,,
+23-garh1243,garh1243,23,terʋu,,,,
+23-kuma1273,kuma1273,23,terʋɑ,,,,
+23-gadd1242,gadd1242,23,termɑ,,,,
+23-goan1235,goan1235,23,t̪ɛrɑvɛ̃,,,,
+23-nepa1254,nepa1254,23,terõ,,,,
+23-beng1280,beng1280,23,t̪ærot̪ɔmo,,,,
+23-assa1263,assa1263,23,t̪ɛrɒ nɒmbor,,,,
+23-marw1260,marw1260,23,tervo,,,,
+23-panj1256,panj1256,23,t̪ehrəʋɑ̃,,,,
+23-adiv1239,adiv1239,23,t̪rəjod̪əsə,,,,
+23-kash1277,kash1277,23,t̪ruʋəhjəm,,,,
+23-mara1378,mara1378,23,t̪erɑʋɑ,,,,
+23-guja1252,guja1252,23,t̪e:rmʊ,,,,
+23-sind1272,sind1272,23,ʈero,,,,
+23-paha1251,paha1251,23,termɑ,,,,
+23-sada1242,sada1242,23,terʋɑ,,,,
+23-wagd1238,wagd1238,23,terʋo,,,,
+23-west2380,west2380,23,terʋɑ̃,,,,
+23-sans1269,sans1269,23,trəjodəʃməh/trəjodəʃmɑ/trəjodəʃməm,,,,
+23-sylh1242,sylh1242,23,t̪rojod̪ɔʃ,,,,
+23-urdu1245,urdu1245,23,terʋɑ̃,,,,
+23-halb1244,halb1244,23,terʋɑ̃,,,,
+23-maga1260,maga1260,23,terʋɑ,,,,
+23-kull1236,kull1236,23,teruʋɑ̃,,,,
+24-dogr1250,dogr1250,24,čɔdmɑ,,,,
+24-garh1243,garh1243,24,čɔdʋu,,,,
+24-kuma1273,kuma1273,24,čɔdʋɑ,,,,
+24-gadd1242,gadd1242,24,čodmɑ,,,,
+24-goan1235,goan1235,24,t͡səvd̪ɑvɛ̃,,,,
+24-nepa1254,nepa1254,24,tʃɔdõ,,,,
+24-beng1280,beng1280,24,čod̪d̪ot̪ɔmo,,,,
+24-assa1263,assa1263,24,soɪd̪ʰɒ nɒmbor,,,,
+24-marw1260,marw1260,24,čəʊdəvo,,,,
+24-panj1256,panj1256,24,čɔd̪ʋɑ̃,,,,
+24-adiv1239,adiv1239,24,čət̪urd̪əsə,,,,
+24-kash1277,kash1277,24,tʃjəd̪əhjəm,,,,
+24-mara1378,mara1378,24,čəʊd̪ɑʋɑ,,,,
+24-guja1252,guja1252,24,cəʊd̪mʊ,,,,
+24-sind1272,sind1272,24,čəd̪ʋo,,,,
+24-paha1251,paha1251,24,čodmɑ,,,,
+24-sada1242,sada1242,24,čɔdʋɑ,,,,
+24-wagd1238,wagd1238,24,čɔudʋo,,,,
+24-west2380,west2380,24,čəudəhʋɑ̃,,,,
+24-sans1269,sans1269,24,čəturdəʃməh/čəturdəʃmɑ/čəturdəʃməm,,,,
+24-sylh1242,sylh1242,24,sot̪urd̪ɔʃ,,,,
+24-urdu1245,urdu1245,24,tʃodʰʋɑ̃,,,,
+24-halb1244,halb1244,24,čəʋdəʋɑ̃,,,,
+24-maga1260,maga1260,24,čɔdʋɑ,,,,
+24-kull1236,kull1236,24,čɔduʋɑ̃,,,,
+25-dogr1250,dogr1250,25,pəndrəmɑ,,,,
+25-garh1243,garh1243,25,pəndərʋu,,,,
+25-kuma1273,kuma1273,25,pəndərʋɑ,,,,
+25-gadd1242,gadd1242,25,pəndrəmɑ,,,,
+25-goan1235,goan1235,25,pə̃d̪rɑvɛ̃,,,,
+25-nepa1254,nepa1254,25,pəndrõ,,,,
+25-beng1280,beng1280,25,ponerot̪ɔmo,,,,
+25-assa1263,assa1263,25,pʊnd̪ʰɒrɒ nɒmbor,,,,
+25-marw1260,marw1260,25,pəndərvo,,,,
+25-panj1256,panj1256,25,pənd̪ərʋɑ̃,,,,
+25-adiv1239,adiv1239,25,pənčəd̪əsə,,,,
+25-kash1277,kash1277,25,pənd̪əhjəm,,,,
+25-mara1378,mara1378,25,pə̃nd̪rɑʋɑ,,,,
+25-guja1252,guja1252,25,pənd̪ərmʊ,,,,
+25-sind1272,sind1272,25,pənd̪rʋo,,,,
+25-paha1251,paha1251,25,pəndrəmɑ,,,,
+25-sada1242,sada1242,25,pənrəhʋɑ,,,,
+25-wagd1238,wagd1238,25,pəndərʋo,,,,
+25-west2380,west2380,25,pəndrəhʋɑ̃,,,,
+25-sans1269,sans1269,25,pə̃nčdəʃməh/pə̃nčdəʃmɑ/pə̃nčdəʃməm,,,,
+25-sylh1242,sylh1242,25,fɔncod̪ɔʃ,,,,
+25-urdu1245,urdu1245,25,pəndrəʰʋɑ̃,,,,
+25-halb1244,halb1244,25,pəndərʋɑ̃,,,,
+25-maga1260,maga1260,25,pəndərʋɑ,,,,
+25-kull1236,kull1236,25,pəndruʋɑ̃,,,,
+26-dogr1250,dogr1250,26,šolmɑ,,,,
+26-garh1243,garh1243,26,ʃolʋu,,,,
+26-kuma1273,kuma1273,26,ʃolʋɑ,,,,
+26-gadd1242,gadd1242,26,solmɑ,,,,
+26-goan1235,goan1235,26,sɔɭɑvɛ̃,,,,
+26-nepa1254,nepa1254,26,ʃorəõ,,,,
+26-beng1280,beng1280,26,šolot̪ɔmo,,,,
+26-assa1263,assa1263,26,hʊllɒ nɒmbor,,,,
+26-marw1260,marw1260,26,soləvo,,,,
+26-panj1256,panj1256,26,soɭʋɑ̃,,,,
+26-adiv1239,adiv1239,26,səst̪əd̪əsə,,,,
+26-kash1277,kash1277,26,šrehjəm,,,,
+26-mara1378,mara1378,26,ʃolɑʋɑ,,,,
+26-guja1252,guja1252,26,ʃolmʊ,,,,
+26-sind1272,sind1272,26,soro,,,,
+26-paha1251,paha1251,26,solmɑ,,,,
+26-sada1242,sada1242,26,solʋɑ,,,,
+26-wagd1238,wagd1238,26,soləʋo,,,,
+26-west2380,west2380,26,soləhʋɑ̃,,,,
+26-sans1269,sans1269,26,ʂoɖdəʃməh/ʂoɖdəʃmɑ/ʂoɖdəʃməm,,,,
+26-sylh1242,sylh1242,26,ʃɔʃʈod̪ɔʃ,,,,
+26-urdu1245,urdu1245,26,solʋɑ̃,,,,
+26-halb1244,halb1244,26,solʋɑ̃,,,,
+26-maga1260,maga1260,26,solʋɑ,,,,
+26-kull1236,kull1236,26,ʃoluʋɑ̃,,,,
+27-dogr1250,dogr1250,27,sətɑrmɑ,,,,
+27-garh1243,garh1243,27,sətɑrʋu,,,,
+27-kuma1273,kuma1273,27,sətrəhʋɑ,,,,
+27-gadd1242,gadd1242,27,sətɑrma,,,,
+27-goan1235,goan1235,27,st̪rɑvɛ̃,,,,
+27-nepa1254,nepa1254,27,sətrəõ,,,,
+27-beng1280,beng1280,27,šɔterot̪ɔmo,,,,
+27-assa1263,assa1263,27,hʊtɒrɒ nɒmbor,,,,
+27-marw1260,marw1260,27,sətərvo,,,,
+27-panj1256,panj1256,27,sət̪ɑrʋɑ̃,,,,
+27-adiv1239,adiv1239,27,səpt̪əd̪əsə,,,,
+27-kash1277,kash1277,27,sɑd̪əhjəm,,,,
+27-mara1378,mara1378,27,šət̪rɑʋɑ,,,,
+27-guja1252,guja1252,27,sət̪t̪ərmʊ,,,,
+27-sind1272,sind1272,27,sət̪ro,,,,
+27-paha1251,paha1251,27,sətɑrmɑ,,,,
+27-sada1242,sada1242,27,sətrəʋɑ,,,,
+27-wagd1238,wagd1238,27,sətərʋo,,,,
+27-west2380,west2380,27,sətrehʋɑ̃,,,,
+27-sans1269,sans1269,27,səptdəʃməh/səptdəʃmɑ/səptdəʃməm,,,,
+27-sylh1242,sylh1242,27,ʃɔpt̪od̪ɔʃ,,,,
+27-urdu1245,urdu1245,27,sɑtɑrʋɑ̃,,,,
+27-halb1244,halb1244,27,sətərʋɑ̃,,,,
+27-maga1260,maga1260,27,sətrəhʋɑ,,,,
+27-kull1236,kull1236,27,sətɑruʋɑ̃,,,,
+28-dogr1250,dogr1250,28,ʈʰɑrmɑ,,,,
+28-garh1243,garh1243,28,əʈʰərʋu,,,,
+28-kuma1273,kuma1273,28,əʈʰərəhʋɑ,,,,
+28-gadd1242,gadd1242,28,ʈʰɑrmɑ,,,,
+28-goan1235,goan1235,28,əʈrɑvɛ̃,,,,
+28-nepa1254,nepa1254,28,əʈʰɑrʋõ,,,,
+28-beng1280,beng1280,28,ɑ:ʈʰerot̪ɔmo,,,,
+28-assa1263,assa1263,28,ʊʈʰɒrɒ nɒmbor,,,,
+28-marw1260,marw1260,28,əʈʰɑrvo,,,,
+28-panj1256,panj1256,28,əʈʰɑrʋɑ̃,,,,
+28-adiv1239,adiv1239,28,əsʈd̪əsə,,,,
+28-kash1277,kash1277,28,ərd̪əhjəm,,,,
+28-mara1378,mara1378,28,əʈʰrɑʋɑ,,,,
+28-guja1252,guja1252,28,əɖʰɑ:rmʊ,,,,
+28-sind1272,sind1272,28,əʈʈʰɑro,,,,
+28-paha1251,paha1251,28,ʈʰɑrmɑ,,,,
+28-sada1242,sada1242,28,əʈʰɑrʋɑ,,,,
+28-wagd1238,wagd1238,28,əʈʰɑrʋo,,,,
+28-west2380,west2380,28,əʈʰərʋɑ̃,,,,
+28-sans1269,sans1269,28,əsʈɑdəʃməh/əsʈɑdəʃmɑ/əsʈɑdəʃməm,,,,
+28-sylh1242,sylh1242,28,ɔʃʈɑd̪ɔʃ,,,,
+28-urdu1245,urdu1245,28,ɑʈʰɑrʋɑ̃,,,,
+28-halb1244,halb1244,28,əʈʰɑrʋɑ̃,,,,
+28-maga1260,maga1260,28,ɑʈʰɑrʋɑ,,,,
+28-kull1236,kull1236,28,ʈʰɑruʋɑ̃,,,,
+29-dogr1250,dogr1250,29,unnimɑ,,,,
+29-garh1243,garh1243,29,unnisu,,,,
+29-kuma1273,kuma1273,29,unnisʋɑ,,,,
+29-gadd1242,gadd1242,29,unnimɑ,,,,
+29-goan1235,goan1235,29,ekuɳɪsɑvɛ̃,,,,
+29-nepa1254,nepa1254,29,unnisʋõ,,,,
+29-beng1280,beng1280,29,uništ̪ɔmo,,,,
+29-assa1263,assa1263,29,ʊnoɪs nɒmbor,,,,
+29-marw1260,marw1260,29,ʊɡnɪsvo,,,,
+29-panj1256,panj1256,29,unnɪsʋɑ̃,,,,
+29-adiv1239,adiv1239,29,unənʋɪŋɡsə,,,,
+29-kash1277,kash1277,29,kunʋuhjəm,,,,
+29-mara1378,mara1378,29,ekonɑʋɪ,,,,
+29-guja1252,guja1252,29,oɡnɪšmʊ,,,,
+29-sind1272,sind1272,29,uɲɪjo,,,,
+29-paha1251,paha1251,29,unmɑ,,,,
+29-sada1242,sada1242,29,unnisʋɑ,,,,
+29-wagd1238,wagd1238,29,unnisʋo,,,,
+29-west2380,west2380,29,unnisʋɑ̃,,,,
+29-sans1269,sans1269,29,nəvdəʃməh/ekonʋinʃətitəməh/nəʋdəʃəsmɑ/ekonʋinʃətitəmɑ/nəʋdəʃməm/ekonʋinʃətitəməm,,,,
+29-sylh1242,sylh1242,29,unobiʃ,,,,
+29-urdu1245,urdu1245,29,unisʋɑ̃,,,,
+29-halb1244,halb1244,29,onisʋɑ̃,,,,
+29-maga1260,maga1260,29,unnisʋɑ,,,,
+29-kull1236,kull1236,29,unnɑnuʋɑ̃,,,,
+30-dogr1250,dogr1250,30,bimɑ,,,,
+30-garh1243,garh1243,30,bisʋu,,,,
+30-kuma1273,kuma1273,30,bisʋɑ,,,,
+30-gadd1242,gadd1242,30,bimɑ,,,,
+30-goan1235,goan1235,30,vɪsəvɛ̃,,,,
+30-nepa1254,nepa1254,30,bisʋõ,,,,
+30-assa1263,assa1263,30,bɪs nɒmbor,,,,
+30-marw1260,marw1260,30,bɪ:svo,,,,
+30-panj1256,panj1256,30,ʋɪʋɑ̃,,,,
+30-adiv1239,adiv1239,30,ʋɪŋɡsə,,,,
+30-kash1277,kash1277,30,ʋuhjəm,,,,
+30-mara1378,mara1378,30,ʋɪsɑʋɑ,,,,
+30-guja1252,guja1252,30,ʋɪšmʊ,,,,
+30-sind1272,sind1272,30,bɪo,,,,
+30-paha1251,paha1251,30,bimɑ,,,,
+30-sada1242,sada1242,30,bisʋɑ,,,,
+30-wagd1238,wagd1238,30,bisʋo,,,,
+30-west2380,west2380,30,bisʋɑ̃,,,,
+30-sans1269,sans1269,30,ʋĩnʃətitəməh/ʋĩnʃətitəmɑ/ʋĩnʃətitəməm,,,,
+30-sylh1242,sylh1242,30,biʃ,,,,
+30-urdu1245,urdu1245,30,bisʋɑ̃,,,,
+30-halb1244,halb1244,30,bisʋɑ̃,,,,
+30-maga1260,maga1260,30,bisʋɑ,,,,
+30-kull1236,kull1236,30,biʋɑ̃,,,,
+31-dogr1250,dogr1250,31,ikkimɑ,,,,
+31-garh1243,garh1243,31,ikkisʋu,,,,
+31-kuma1273,kuma1273,31,ikkisʋɑ,,,,
+31-gadd1242,gadd1242,31,ikkimɑ,,,,
+31-goan1235,goan1235,31,ekvɪsvɛ̃,,,,
+31-nepa1254,nepa1254,31,ekɑisõ,,,,
+31-assa1263,assa1263,31,ɛkʊɪs nɒmbor,,,,
+31-marw1260,marw1260,31,ɪkɪsvo,,,,
+31-panj1256,panj1256,31,ɪkkɪʋɑ̃,,,,
+31-adiv1239,adiv1239,31,ekəʋɪŋɡsə,,,,
+31-kash1277,kash1277,31,əkʰʋuhjəm,,,,
+31-mara1378,mara1378,31,ekʋɪsɑʋɑ,,,,
+31-guja1252,guja1252,31,ekʋɪšmʊ,,,,
+31-sind1272,sind1272,31,ɪkkɪjo,,,,
+31-paha1251,paha1251,31,ikmɑ,,,,
+31-sada1242,sada1242,31,ekkisʋɑ,,,,
+31-wagd1238,wagd1238,31,ekkisʋo,,,,
+31-west2380,west2380,31,ekisʋɑ̃,,,,
+31-sans1269,sans1269,31,dʋɑʋĩnʃətitəməh/dʋɑʋĩnʃətitəmɑ/dʋɑʋĩnʃətitəməm,,,,
+31-urdu1245,urdu1245,31,ikisʋɑ̃,,,,
+31-halb1244,halb1244,31,iskisʋɑ̃,,,,
+31-maga1260,maga1260,31,ekkisʋɑ,,,,
+31-kull1236,kull1236,31,ikkiʋɑ̃,,,,
+32-dogr1250,dogr1250,32,bɑimɑ,,,,
+32-garh1243,garh1243,32,bɑisʋu,,,,
+32-kuma1273,kuma1273,32,bɑisʋɑ,,,,
+32-gadd1242,gadd1242,32,bɑimɑ,,,,
+32-goan1235,goan1235,32,bɑvɪsvɛ̃,,,,
+32-nepa1254,nepa1254,32,bɑisõ,,,,
+32-assa1263,assa1263,32,bɑɪs nɒmbor,,,,
+32-marw1260,marw1260,32,bɑ:ɪsvo,,,,
+32-panj1256,panj1256,32,bɑɪʋɑ̃,,,,
+32-adiv1239,adiv1239,32,d̪ʋɑʋɪŋɡsə,,,,
+32-kash1277,kash1277,32,žut̪t̪oʋuhjəm,,,,
+32-mara1378,mara1378,32,bɑʋɪsɑʋɑ,,,,
+32-guja1252,guja1252,32,bɑʋɪšmʊ,,,,
+32-sind1272,sind1272,32,bɑʋɪjo,,,,
+32-paha1251,paha1251,32,bɑimɑ,,,,
+32-sada1242,sada1242,32,bɑisʋɑ,,,,
+32-wagd1238,wagd1238,32,bɑisʋo,,,,
+32-west2380,west2380,32,bɑisʋɑ̃,,,,
+32-sans1269,sans1269,32,trəjodʋɑʋĩnʃətitəməh/trəjodʋɑʋĩnʃətitəmɑ/trəjodʋɑʋĩnʃətitəməm,,,,
+32-urdu1245,urdu1245,32,bɑisʋɑ̃,,,,
+32-halb1244,halb1244,32,bɑisʋɑ̃,,,,
+32-maga1260,maga1260,32,bɑisʋɑ,,,,
+32-kull1236,kull1236,32,bɑiʋɑ̃,,,,
+33-dogr1250,dogr1250,33,ɑddɑ,,,,dogr1250-iate12ofthepizza
+33-garh1243,garh1243,33,ɑddɑ,,,,garh1243-iate12ofthepizza
+33-kuma1273,kuma1273,33,ɑdʰu,,,,kuma1273-iate12ofthepizza
+33-gadd1242,gadd1242,33,əddɑ,,,,gadd1242-iate12ofthepizza
+33-nepa1254,nepa1254,33,ɑdʰɑ,,,,nepa1254-iate12ofthepizza
+33-kudm1238,kudm1238,33,kʰɑ̃ɽɑ,,,,kudm1238-iate12ofthepizza
+33-beng1280,beng1280,33,ɑrd̪ʰek,,,,beng1280-iate12ofthepizza
+33-assa1263,assa1263,33,dʊbʰɑɡor ɛbhɑɡ,,,,assa1263-iate12ofthepizza
+33-marw1260,marw1260,33,ad̪ʰo,,,,marw1260-iate12ofthepizza
+33-panj1256,panj1256,33,əddɑ,,,,panj1256-iate12ofthepizza
+33-adiv1239,adiv1239,33,əd̪ʰɑ,,,,adiv1239-iate12ofthepizza
+33-kash1277,kash1277,33,oɖ,,,,kash1277-iate12ofthepizza
+33-mara1378,mara1378,33,ərd̪ʰɑ,,,,mara1378-iate12ofthepizza
+33-guja1252,guja1252,33,ərd̪ʰo,,,,guja1252-iate12ofthepizza
+33-sind1272,sind1272,33,əd̪ʰ,,,,sind1272-iate12ofthepizza
+33-sada1242,sada1242,33,ɑdʰɑ,,,,sada1242-iate12ofthepizza
+33-west2380,west2380,33,ɑdʰɑ,,,,west2380-iate12ofthepizza
+33-sans1269,sans1269,33,ərdʰ,,,,sans1269-iate12ofthepizza
+33-sylh1242,sylh1242,33,ɑd̪ɑ,,,,sylh1242-iate12ofthepizza
+33-urdu1245,urdu1245,33,ɑdʰɑ,,,,urdu1245-iate12ofthepizza
+33-halb1244,halb1244,33,ɑdʰɑ,,,,halb1244-iate12ofthepizza
+33-maga1260,maga1260,33,ɑdʰɑ,,,,maga1260-iate12ofthepizza
+33-kull1236,kull1236,33,oddɑ,,,,kull1236-iate12ofthepizza
+34-garh1243,garh1243,34,do tihɑi,,,,garh1243-iate23ofthepizza
+34-kuma1273,kuma1273,34,di tihɑi,,,,kuma1273-iate23ofthepizza
+34-nepa1254,nepa1254,34,du tihɑi,,,,nepa1254-iate23ofthepizza
+34-kudm1238,kudm1238,34,ʈenɑ hĩsɑj dənɑ kʰɑ̃ɽɑ,,,,kudm1238-iate23ofthepizza
+34-beng1280,beng1280,34,t̪ɪn bʰɑɡer d̪o bʰɑɡ,,,,beng1280-iate23ofthepizza
+34-assa1263,assa1263,34,tɪnɪbʰɑɡor dʊbʰaɡ,,,,assa1263-iate23ofthepizza
+34-marw1260,marw1260,34,do bʰɑɡ mesu tɪn,,,,marw1260-iate23ofthepizza
+34-panj1256,panj1256,34,d̪o t̪ɪhɑɪ hɪssɑ,,,,panj1256-iate23ofthepizza
+34-adiv1239,adiv1239,34,d̪uɪ t̪rut̪ɪyɑ̃nšɑ,,,,adiv1239-iate23ofthepizza
+34-guja1252,guja1252,34,t̪roɳ mɑ:t̪ʰɪ be bʰɑɡno,,,,guja1252-iate23ofthepizza
+34-sind1272,sind1272,34,d̪o t̪ɪhɑɪ,,,,sind1272-iate23ofthepizza
+34-sada1242,sada1242,34,dui tihɑi,,,,sada1242-iate23ofthepizza
+34-west2380,west2380,34,du tihɑi bʰɑɡ,,,,west2380-iate23ofthepizza
+34-sylh1242,sylh1242,34,t̪in bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iate23ofthepizza
+34-urdu1245,urdu1245,34,do tihɑi hissɑ,,,,urdu1245-iate23ofthepizza
+34-maga1260,maga1260,34,do tihɑi,,,,maga1260-iate23ofthepizza
+35-garh1243,garh1243,35,tin čɔtʰɑi,,,,garh1243-iread34ofthebook
+35-kuma1273,kuma1273,35,tin čotʰɑi,,,,kuma1273-iread34ofthebook
+35-nepa1254,nepa1254,35,tin tʃotʰɑi,,,,nepa1254-iread34ofthebook
+35-kudm1238,kudm1238,35,čɑrɑ hĩsɑj ʈenɑ hĩsɑ,,,,kudm1238-iread34ofthebook
+35-beng1280,beng1280,35,čɑr bʰɑɡer t̪ɪn bʰɑɡ,,,,beng1280-iread34ofthebook
+35-assa1263,assa1263,35,sɑrɪbʰɑɡor tɪnɪbʰɑɡ,,,,assa1263-iread34ofthebook
+35-marw1260,marw1260,35,čɑr mesu t̪ɪn,,,,marw1260-iread34ofthebook
+35-panj1256,panj1256,35,t̪ɪn čot̪ʰɑɪ  hɪssɑ,,,,panj1256-iread34ofthebook
+35-adiv1239,adiv1239,35,t̪ɪnɪ čət̪urt̪ʰɑ̃nšɑ,,,,adiv1239-iread34ofthebook
+35-guja1252,guja1252,35,čɑr mɑ:t̪ʰɪ t̪ron bʰɑɡnɪ,,,,guja1252-iread34ofthebook
+35-sind1272,sind1272,35,ʈɪo hɪsso,,,,sind1272-iread34ofthebook
+35-sada1242,sada1242,35,tin čɔtʰɑi bʰɑɡ,,,,sada1242-iread34ofthebook
+35-west2380,west2380,35,tin čɔtʰɑi bʰɑɡ,,,,west2380-iread34ofthebook
+35-sylh1242,sylh1242,35,sɑir bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread34ofthebook
+35-urdu1245,urdu1245,35,tin tʃutʰɑi hissɑ,,,,urdu1245-iread34ofthebook
+35-maga1260,maga1260,35,tin čɔtʰɑi bʰɑɡ,,,,maga1260-iread34ofthebook
+36-dogr1250,dogr1250,36,poɳi,,,,dogr1250-iread14ofthebook
+36-garh1243,garh1243,36,čɔtʰɑ hissɑ,,,,garh1243-iread14ofthebook
+36-kuma1273,kuma1273,36,ek čotʰɑi,,,,kuma1273-iread14ofthebook
+36-nepa1254,nepa1254,36,ek tʃotʰɑi,,,,nepa1254-iread14ofthebook
+36-beng1280,beng1280,36,čɑr bʰɑɡer æk bʰɑɡ,,,,beng1280-iread14ofthebook
+36-assa1263,assa1263,36,sɑrɪbʰɑɡor ɛbʰɑɡ,,,,assa1263-iread14ofthebook
+36-marw1260,marw1260,36,ek čoʈʰɑɪ,,,,marw1260-iread14ofthebook
+36-panj1256,panj1256,36,čɔt̪ʰɑ  hɪssɑ,,,,panj1256-iread14ofthebook
+36-adiv1239,adiv1239,36,ekə čət̪urt̪ʰɑ̃nšɑ,,,,adiv1239-iread14ofthebook
+36-kash1277,kash1277,36,tʃurjəm hissə,,,,kash1277-iread14ofthebook
+36-guja1252,guja1252,36,cɔt̪ʰo bʰɑɡnɪ,,,,guja1252-iread14ofthebook
+36-sind1272,sind1272,36,cotʰo hɪsso,,,,sind1272-iread14ofthebook
+36-sada1242,sada1242,36,ek čɔtʰɑi bʰɑɡ,,,,sada1242-iread14ofthebook
+36-west2380,west2380,36,ek čɔtʰɑi bʰɑɡ,,,,west2380-iread14ofthebook
+36-sylh1242,sylh1242,36,sɑir bɑɡ-or æx bɑɡ,,,,sylh1242-iread14ofthebook
+36-urdu1245,urdu1245,36,ɑek tʃutʰɑi hissɑ,,,,urdu1245-iread14ofthebook
+36-maga1260,maga1260,36,ek čɔtʰɑi bʰɑɡ,,,,maga1260-iread14ofthebook
+37-nepa1254,nepa1254,37,pɑ̃tʃõ hissɑ/bʰɑɡ,,,,nepa1254-iate15ofthepizza
+37-beng1280,beng1280,37,pɑ̃č bʰɑɡer æk bʰɑɡ,,,,beng1280-iate15ofthepizza
+37-assa1263,assa1263,37,pɑ:sbʰɑɡor ɛbʰɑ:ɡ,,,,assa1263-iate15ofthepizza
+37-marw1260,marw1260,37,pɑ:nč bʰɑɡɑ mesu ek bʰɑɡ,,,,marw1260-iate15ofthepizza
+37-panj1256,panj1256,37,pənǰʋɑ̃ hɪssɑ,,,,panj1256-iate15ofthepizza
+37-adiv1239,adiv1239,37,ekə penčəmɑ̃nšɑ,,,,adiv1239-iate15ofthepizza
+37-kash1277,kash1277,37,putʃjəm hissə,,,,kash1277-iate15ofthepizza
+37-guja1252,guja1252,37,pɑ̃cma bʰɑɡno,,,,guja1252-iate15ofthepizza
+37-sind1272,sind1272,37,pənǰo hɪsso,,,,sind1272-iate15ofthepizza
+37-sada1242,sada1242,37,pəčʋɑ bʰɑɡ,,,,sada1242-iate15ofthepizza
+37-west2380,west2380,37,ek bəʈe pɑ̃č bʰɑɡ,,,,west2380-iate15ofthepizza
+37-sylh1242,sylh1242,37,fɑs bɑɡ-or æx bɑɡ,,,,sylh1242-iate15ofthepizza
+37-urdu1245,urdu1245,37,ɑek pɑcʋɑ hissɑ,,,,urdu1245-iate15ofthepizza
+37-maga1260,maga1260,37,ek pɑ̃čʋɑ bʰɑɡ,,,,maga1260-iate15ofthepizza
+38-garh1243,garh1243,38,dui bəʈe sɑt bʰɑɡ,,,,garh1243-iread27ofthebook
+38-beng1280,beng1280,38,šɑt̪ bʰɑɡer d̪uɪ bʰɑɡ,,,,beng1280-iread27ofthebook
+38-assa1263,assa1263,38,hɑ:tbʰɑɡor dʊbʰɑɡ,,,,assa1263-iread27ofthebook
+38-marw1260,marw1260,38,sɑ:t bʰɑɡɑ mesu ðɔ bʰɑɡ,,,,marw1260-iread27ofthebook
+38-panj1256,panj1256,38,d̪o bətɑ sɑt̪t̪ hɪssɑ,,,,panj1256-iread27ofthebook
+38-adiv1239,adiv1239,38,d̪uɪ səpt̪əmɑ̃nšɑ,,,,adiv1239-iread27ofthebook
+38-guja1252,guja1252,38,sɑt̪ mɑ:t̪ʰɪ bɛ bʰɑɡnɪ,,,,guja1252-iread27ofthebook
+38-sind1272,sind1272,38,d̪o bətɑ sɑt̪ hɪsso,,,,sind1272-iread27ofthebook
+38-west2380,west2380,38,du bəʈe sɑt bʰɑɡ,,,,west2380-iread27ofthebook
+38-sylh1242,sylh1242,38,ʃɑt̪ bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iread27ofthebook
+38-urdu1245,urdu1245,38,do bəʈɑ sɑtʋɑ̃ hissɑ,,,,urdu1245-iread27ofthebook
+38-maga1260,maga1260,38,dui sɑtʋɑ̃ bʰɑɡ,,,,maga1260-iread27ofthebook
+39-garh1243,garh1243,39,tin bəʈe sɑt bʰɑɡ,,,,garh1243-iread37ofthebook
+39-beng1280,beng1280,39,šɑt̪ bʰɑɡer t̪ɪn bʰɑɡ,,,,beng1280-iread37ofthebook
+39-assa1263,assa1263,39,hɑ:tbʰɑɡor tɪnɪbʰɑɡ,,,,assa1263-iread37ofthebook
+39-marw1260,marw1260,39,sɑ:t bʰɑɡɑ mesu tɪn bʰɑɡ,,,,marw1260-iread37ofthebook
+39-panj1256,panj1256,39,t̪ɪn bətɑ sɑt̪t̪  hɪssɑ,,,,panj1256-iread37ofthebook
+39-adiv1239,adiv1239,39,t̪ɪnɪ səpt̪əmɑ̃nšɑ,,,,adiv1239-iread37ofthebook
+39-guja1252,guja1252,39,sɑt̪ mɑ:t̪ʰɪ t̪roǰɑ bʰɑɡnɪ,,,,guja1252-iread37ofthebook
+39-sind1272,sind1272,39,t̪ɪn bətɑ sɑt̪ hɪsso,,,,sind1272-iread37ofthebook
+39-west2380,west2380,39,tin bəʈe sɑt bʰɑɡ,,,,west2380-iread37ofthebook
+39-sylh1242,sylh1242,39,ʃɑt̪ bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread37ofthebook
+39-urdu1245,urdu1245,39,tin bəʈɑ sɑtʋɑ̃ hissɑ,,,,urdu1245-iread37ofthebook
+39-maga1260,maga1260,39,tin sɑtʋɑ̃ bʰɑɡ,,,,maga1260-iread37ofthebook
+40-garh1243,garh1243,40,tin bəʈe pɑ̃č bʰɑɡ,,,,garh1243-iread35ofthebook
+40-beng1280,beng1280,40,pɑ̃č bʰɑɡer t̪ɪn bʰɑɡ,,,,beng1280-iread35ofthebook
+40-assa1263,assa1263,40,pɑ:sbʰɑɡor tɪnɪbʰɑɡ,,,,assa1263-iread35ofthebook
+40-marw1260,marw1260,40,pɑ:nč bʰɑɡɑ mesu tɪn bʰɑɡ,,,,marw1260-iread35ofthebook
+40-panj1256,panj1256,40,t̪ɪn bətɑ pənǰ hɪssɑ,,,,panj1256-iread35ofthebook
+40-adiv1239,adiv1239,40,t̪ɪnɪ pənčəmɑ̃nšɑ,,,,adiv1239-iread35ofthebook
+40-guja1252,guja1252,40,pɑ̃nč̪ mɑ:t̪ʰɪ t̪rɪǰɑ bʰɑɡnɪ,,,,guja1252-iread35ofthebook
+40-sind1272,sind1272,40,t̪ɪn bətɑ pənǰ hɪsso,,,,sind1272-iread35ofthebook
+40-west2380,west2380,40,tin bəʈe pɑ̃č bʰɑɡ,,,,west2380-iread35ofthebook
+40-sylh1242,sylh1242,40,fɑs bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread35ofthebook
+40-urdu1245,urdu1245,40,tin bəʈɑ pɑtʃʋɑ̃ hissɑ,,,,urdu1245-iread35ofthebook
+40-maga1260,maga1260,40,tin pɑ̃čʋɑ̃ bʰɑɡ,,,,maga1260-iread35ofthebook
+41-garh1243,garh1243,41,dui bəʈe čʰe bʰɑɡ,,,,garh1243-iate26ofthepizza
+41-beng1280,beng1280,41,čʰɔe bʰɑɡer d̪uɪ bʰɑɡ,,,,beng1280-iate26ofthepizza
+41-assa1263,assa1263,41,sɒbʰɑɡor dʊbʰɑɡ,,,,assa1263-iate26ofthepizza
+41-marw1260,marw1260,41,ek tɪhɑɪ,,,,marw1260-iate26ofthepizza
+41-panj1256,panj1256,41,do bətɑ čʰe hɪssɑ,,,,panj1256-iate26ofthepizza
+41-adiv1239,adiv1239,41,d̪uɪ sət̪ɑ̃nšɑ,,,,adiv1239-iate26ofthepizza
+41-guja1252,guja1252,41,čʰɔ mɑ:t̪ʰɪ bɛ bʰɑɡno,,,,guja1252-iate26ofthepizza
+41-sind1272,sind1272,41,d̪o bətɑ čʰe̪ hɪsso,,,,sind1272-iate26ofthepizza
+41-west2380,west2380,41,du bəʈe čʰɔ bʰɑɡ,,,,west2380-iate26ofthepizza
+41-sylh1242,sylh1242,41,sɔe bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iate26ofthepizza
+41-urdu1245,urdu1245,41,do bəʈɑ tʃʰɑʈɑ hissɑ,,,,urdu1245-iate26ofthepizza
+41-maga1260,maga1260,41,du cʰeʋɑ,,,,maga1260-iate26ofthepizza
+42-garh1243,garh1243,42,ek sol čʰe bʰɑɡ,,,,garh1243-iate116ofthepizza
+42-gadd1242,gadd1242,42,əkʰ bəʈɑ solɑ,,,,gadd1242-iate116ofthepizza
+42-nepa1254,nepa1254,42,ʃoro hissɑ/bʰɑɡ,,,,nepa1254-iate116ofthepizza
+42-beng1280,beng1280,42,šolo bʰɑɡer æk bʰɑɡ,,,,beng1280-iate116ofthepizza
+42-assa1263,assa1263,42,hʊllɒ bʰɑɡor ɛbʰɑɡ,,,,assa1263-iate116ofthepizza
+42-marw1260,marw1260,42,soləro bʰɑɡɑ mese ek bʰɑɡ,,,,marw1260-iate116ofthepizza
+42-panj1256,panj1256,42,soləhʋɑ̃ hɪssɑ,,,,panj1256-iate116ofthepizza
+42-adiv1239,adiv1239,42,ekə səsʈʰəd̪əsɑ̃nšɑ,,,,adiv1239-iate116ofthepizza
+42-kash1277,kash1277,42,surrəhim hissə,,,,kash1277-iate116ofthepizza
+42-guja1252,guja1252,42,soɭmɑ bʰɑɡno,,,,guja1252-iate116ofthepizza
+42-sind1272,sind1272,42,ʃoro hɪsso,,,,sind1272-iate116ofthepizza
+42-sada1242,sada1242,42,soləhʋɑ bʰɑɡ,,,,sada1242-iate116ofthepizza
+42-west2380,west2380,42,ek bəʈe solɑ bʰɑɡ,,,,west2380-iate116ofthepizza
+42-sylh1242,sylh1242,42,ʃullo bɑɡ-or æx bɑɡ,,,,sylh1242-iate116ofthepizza
+42-urdu1245,urdu1245,42,ɑek bəʈɑ solʋɑ̃ hissɑ,,,,urdu1245-iate116ofthepizza
+42-maga1260,maga1260,42,ek ʃolʋɑ,,,,maga1260-iate116ofthepizza
+43-dogr1250,dogr1250,43,dəsmɑ hissɑ,,,,dogr1250-iread110partofthebook
+43-garh1243,garh1243,43,ek bəʈe dəs bʰɑɡ,,,,garh1243-iread110partofthebook
+43-kuma1273,kuma1273,43,dəsu bʰɑɡ,,,,kuma1273-iread110partofthebook
+43-gadd1242,gadd1242,43,əkʰ bəʈɑ dəs,,,,gadd1242-iread110partofthebook
+43-nepa1254,nepa1254,43,dəsʋõ bʰɑɡ,,,,nepa1254-iread110partofthebook
+43-kudm1238,kudm1238,43,sĩhəm kʰɑ̃ndʰɑ,,,,kudm1238-iread110partofthebook
+43-beng1280,beng1280,43,d̪ɔš bʰɑɡer æk bʰɑɡ,,,,beng1280-iread110partofthebook
+43-assa1263,assa1263,43,dhɒbʰɑɡor ɛbʰɑɡ,,,,assa1263-iread110partofthebook
+43-marw1260,marw1260,43,dəsvo bʰɑɡɑ,,,,marw1260-iread110partofthebook
+43-panj1256,panj1256,43,d̪əsʋɑ̃ hɪssɑ,,,,panj1256-iread110partofthebook
+43-adiv1239,adiv1239,43,ekə d̪əsəmɑ̃nšɑ,,,,adiv1239-iread110partofthebook
+43-kash1277,kash1277,43,dəhjəm hissə,,,,kash1277-iread110partofthebook
+43-guja1252,guja1252,43,d̪əsmɑ bʰɑɡnɪ,,,,guja1252-iread110partofthebook
+43-sind1272,sind1272,43,ɖəʋo hɪsso,,,,sind1272-iread110partofthebook
+43-sada1242,sada1242,43,dəsʋɑ bʰɑɡ,,,,sada1242-iread110partofthebook
+43-west2380,west2380,43,ek bəʈe dəs bʰɑɡ,,,,west2380-iread110partofthebook
+43-sylh1242,sylh1242,43,d̪ɔʃ bɑɡ-or æx bɑɡ,,,,sylh1242-iread110partofthebook
+43-urdu1245,urdu1245,43,ɑek bəʈɑ dəsʋɑ̃ hissɑ,,,,urdu1245-iread110partofthebook
+43-maga1260,maga1260,43,dəsʋɑ' bʰɑɡ,,,,maga1260-iread110partofthebook
+44-dogr1250,dogr1250,44,ɛk bɑr,,,,dogr1250-imethimonce
+44-garh1243,garh1243,44,ek bɑr,,,,garh1243-imethimonce
+44-kuma1273,kuma1273,44,ek bɑr,,,,kuma1273-imethimonce
+44-gadd1242,gadd1242,44,ek ʋɑri,,,,gadd1242-imethimonce
+44-goan1235,goan1235,44,ekdɑ̃,,,,goan1235-imethimonce
+44-nepa1254,nepa1254,44,ek čoʈi/pəʈʰək,,,,nepa1254-imethimonce
+44-kudm1238,kudm1238,44,ənɑ dʰɑũ,,,,kudm1238-imethimonce
+44-beng1280,beng1280,44,æk bɑ:r,,,,beng1280-imethimonce
+44-assa1263,assa1263,44,ɛbɑ:r,,,,assa1263-imethimonce
+44-marw1260,marw1260,44,ekər,,,,marw1260-imethimonce
+44-panj1256,panj1256,44,ɪkk ʋɑrɪ,,,,panj1256-imethimonce
+44-adiv1239,adiv1239,44,t̪ʰəre pɑɪ,,,,adiv1239-imethimonce
+44-kash1277,kash1277,44,əkɪjəlɑɪʈjə/əɪkɪfɪre,,,,kash1277-imethimonce
+44-mara1378,mara1378,44,ekd̪ɑ,,,,mara1378-imethimonce
+44-guja1252,guja1252,44,ek ʋɑr,,,,guja1252-imethimonce
+44-sind1272,sind1272,44,ɪkk d̪əfɑ,,,,sind1272-imethimonce
+44-paha1251,paha1251,44,ek ʋɑri,,,,paha1251-imethimonce
+44-sada1242,sada1242,44,ek dʰɑũ,,,,sada1242-imethimonce
+44-wagd1238,wagd1238,44,ek ʋəkət,,,,wagd1238-imethimonce
+44-west2380,west2380,44,ek bɑr,,,,west2380-imethimonce
+44-sans1269,sans1269,44,ek ʋɑrəm,,,,sans1269-imethimonce
+44-sylh1242,sylh1242,44,æx bɑr,,,,sylh1242-imethimonce
+44-urdu1245,urdu1245,44,ɑek dəfɑ,,,,urdu1245-imethimonce
+44-halb1244,halb1244,44,ek hɑr,,,,halb1244-imethimonce
+44-maga1260,maga1260,44,ek bɑir,,,,maga1260-imethimonce
+44-kull1236,kull1236,44,ek ɡʰere,,,,kull1236-imethimonce
+45-dogr1250,dogr1250,45,do bɑr,,,,dogr1250-imethimtwice
+45-garh1243,garh1243,45,dosər bɑr,,,,garh1243-imethimtwice
+45-kuma1273,kuma1273,45,do bɑr,,,,kuma1273-imethimtwice
+45-gadd1242,gadd1242,45,do ʋɑri,,,,gadd1242-imethimtwice
+45-goan1235,goan1235,45,d̪ɔnd̪ɑ̃,,,,goan1235-imethimtwice
+45-nepa1254,nepa1254,45,dui čoʈi,,,,nepa1254-imethimtwice
+45-kudm1238,kudm1238,45,dənɑ dʰɑũ,,,,kudm1238-imethimtwice
+45-beng1280,beng1280,45,d̪u bɑ:r,,,,beng1280-imethimtwice
+45-assa1263,assa1263,45,dʊ bɑ:r,,,,assa1263-imethimtwice
+45-marw1260,marw1260,45,do bar,,,,marw1260-imethimtwice
+45-panj1256,panj1256,45,d̪o ʋɑrɪ,,,,panj1256-imethimtwice
+45-adiv1239,adiv1239,45,d̪ɪ t̪ʰəre pɑɪ,,,,adiv1239-imethimtwice
+45-kash1277,kash1277,45,d̪ʋɑɪlɑɪʈjə/ d̪ʋɑɪfɪre,,,,kash1277-imethimtwice
+45-mara1378,mara1378,45,d̪ond̪ɑ,,,,mara1378-imethimtwice
+45-guja1252,guja1252,45,be ʋɑr,,,,guja1252-imethimtwice
+45-sind1272,sind1272,45,bə d̪əfɑ,,,,sind1272-imethimtwice
+45-paha1251,paha1251,45,do ʋɑri,,,,paha1251-imethimtwice
+45-sada1242,sada1242,45,du dʰɑũ,,,,sada1242-imethimtwice
+45-wagd1238,wagd1238,45,be ʋəkət,,,,wagd1238-imethimtwice
+45-west2380,west2380,45,du bɑr,,,,west2380-imethimtwice
+45-sans1269,sans1269,45,dʋi ʋɑrəm,,,,sans1269-imethimtwice
+45-sylh1242,sylh1242,45,d̪ui bɑr,,,,sylh1242-imethimtwice
+45-urdu1245,urdu1245,45,do dəfɑ,,,,urdu1245-imethimtwice
+45-halb1244,halb1244,45,duj hɑr,,,,halb1244-imethimtwice
+45-maga1260,maga1260,45,du bɑir,,,,maga1260-imethimtwice
+45-kull1236,kull1236,45,dui ɡʰere,,,,kull1236-imethimtwice
+46-dogr1250,dogr1250,46,trɛ bɑr,,,,dogr1250-imethimthreetimes
+46-garh1243,garh1243,46,tesɑr bɑr,,,,garh1243-imethimthreetimes
+46-kuma1273,kuma1273,46,tin bɑr,,,,kuma1273-imethimthreetimes
+46-gadd1242,gadd1242,46,trɛ ʋɑri,,,,gadd1242-imethimthreetimes
+46-goan1235,goan1235,46,t̪ɪnd̪ɑ̃,,,,goan1235-imethimthreetimes
+46-nepa1254,nepa1254,46,tin čoʈi,,,,nepa1254-imethimthreetimes
+46-kudm1238,kudm1238,46,ʈenɑ dʰɑũ,,,,kudm1238-imethimthreetimes
+46-beng1280,beng1280,46,t̪i:n bɑ:r,,,,beng1280-imethimthreetimes
+46-assa1263,assa1263,46,tɪnɪ bɑ:r,,,,assa1263-imethimthreetimes
+46-marw1260,marw1260,46,tɪsər,,,,marw1260-imethimthreetimes
+46-panj1256,panj1256,46,t̪ɪnn ʋɑrɪ,,,,panj1256-imethimthreetimes
+46-adiv1239,adiv1239,46,t̪ɪnɪ t̪ʰəre pɑɪ,,,,adiv1239-imethimthreetimes
+46-kash1277,kash1277,46,t̪reɪjelɑɪʈjə/t̪reɪfɪre,,,,kash1277-imethimthreetimes
+46-mara1378,mara1378,46,t̪ɪnd̪ɑ,,,,mara1378-imethimthreetimes
+46-guja1252,guja1252,46,t̪roɳ ʋɑr,,,,guja1252-imethimthreetimes
+46-sind1272,sind1272,46,ʈre d̪əfɑ,,,,sind1272-imethimthreetimes
+46-paha1251,paha1251,46,trɛ ʋɑri,,,,paha1251-imethimthreetimes
+46-sada1242,sada1242,46,tin dʰɑũ,,,,sada1242-imethimthreetimes
+46-wagd1238,wagd1238,46,təɳ ʋəkət,,,,wagd1238-imethimthreetimes
+46-west2380,west2380,46,tin bɑr,,,,west2380-imethimthreetimes
+46-sans1269,sans1269,46,tri ʋɑrəm,,,,sans1269-imethimthreetimes
+46-sylh1242,sylh1242,46,t̪in bɑr,,,,sylh1242-imethimthreetimes
+46-urdu1245,urdu1245,46,tin dəfɑ,,,,urdu1245-imethimthreetimes
+46-halb1244,halb1244,46,tin hɑr,,,,halb1244-imethimthreetimes
+46-maga1260,maga1260,46,tin bɑir,,,,maga1260-imethimthreetimes
+46-kull1236,kull1236,46,trɑi ɡʰere,,,,kull1236-imethimthreetimes
+47-dogr1250,dogr1250,47,čotʰi bɑr,,,,dogr1250-imethimfourtimes
+47-garh1243,garh1243,47,čɔtʰ bɑr,,,,garh1243-imethimfourtimes
+47-kuma1273,kuma1273,47,čɑr bɑr,,,,kuma1273-imethimfourtimes
+47-gadd1242,gadd1242,47,čɑr ʋɑri,,,,gadd1242-imethimfourtimes
+47-goan1235,goan1235,47,t͡səvtɛ fɑvtɪ̃,,,,goan1235-imethimfourtimes
+47-nepa1254,nepa1254,47,tʃɔtʰõ pəʈək/čoʈi,,,,nepa1254-imethimfourtimes
+47-kudm1238,kudm1238,47,čɑrɑ dʰɑũ,,,,kudm1238-imethimfourtimes
+47-beng1280,beng1280,47,čot̪urt̪ʰo bɑ:r,,,,beng1280-imethimfourtimes
+47-assa1263,assa1263,47,sɑ:rɪ nɒmbɒr,,,,assa1263-imethimfourtimes
+47-marw1260,marw1260,47,čoʈʰɪ bar,,,,marw1260-imethimfourtimes
+47-panj1256,panj1256,47,čɔʈʰɪ ʋɑrɪ,,,,panj1256-imethimfourtimes
+47-adiv1239,adiv1239,47,čɑrɪ t̪ʰəre pɑɪ,,,,adiv1239-imethimfourtimes
+47-kash1277,kash1277,47,tʃorjəmlɑɪʈjə/ tʃurjəmfire,,,,kash1277-imethimfourtimes
+47-mara1378,mara1378,47,čəʊt̪ʰjɑnd̪ɑ,,,,mara1378-imethimfourtimes
+47-guja1252,guja1252,47,čɑr ʋɑr,,,,guja1252-imethimfourtimes
+47-sind1272,sind1272,47,čot̪ʰe d̪əfɑ,,,,sind1272-imethimfourtimes
+47-paha1251,paha1251,47,cotʰi ʋɑri,,,,paha1251-imethimfourtimes
+47-sada1242,sada1242,47,čɑir dʰɑũ,,,,sada1242-imethimfourtimes
+47-wagd1238,wagd1238,47,ʃɑr ʋəkət,,,,wagd1238-imethimfourtimes
+47-west2380,west2380,47,čəutʰɑ bɑr,,,,west2380-imethimfourtimes
+47-sans1269,sans1269,47,čəturtʰe (ʋɑre),,,,sans1269-imethimfourtimes
+47-sylh1242,sylh1242,47,sɑir bɑr,,,,sylh1242-imethimfourtimes
+47-urdu1245,urdu1245,47,tʃɑr dəfɑ,,,,urdu1245-imethimfourtimes
+47-halb1244,halb1244,47,čəʋtʰɑ hɑr,,,,halb1244-imethimfourtimes
+47-maga1260,maga1260,47,cɑir bɑir,,,,maga1260-imethimfourtimes
+47-kull1236,kull1236,47,tʃɑr ɡʰere,,,,kull1236-imethimfourtimes
+48-dogr1250,dogr1250,48,nɔ bɑr,,,,dogr1250-icalledherninetimes
+48-garh1243,garh1243,48,nɔ bɑr,,,,garh1243-icalledherninetimes
+48-kuma1273,kuma1273,48,nɔ bɑr,,,,kuma1273-icalledherninetimes
+48-gadd1242,gadd1242,48,nɔ ʋɑri,,,,gadd1242-icalledherninetimes
+48-goan1235,goan1235,48,ɳəv fɑvtɪ̃,,,,goan1235-icalledherninetimes
+48-nepa1254,nepa1254,48,nɔ čoʈi,,,,nepa1254-icalledherninetimes
+48-kudm1238,kudm1238,48,nəmi dʰɑũ,,,,kudm1238-icalledherninetimes
+48-beng1280,beng1280,48,nɔ bɑ:r,,,,beng1280-icalledherninetimes
+48-assa1263,assa1263,48,nɒbɑ:r,,,,assa1263-icalledherninetimes
+48-marw1260,marw1260,48,nɔ: bɑ:r,,,,marw1260-icalledherninetimes
+48-panj1256,panj1256,48,nɔ ʋɑrɪ,,,,panj1256-icalledherninetimes
+48-adiv1239,adiv1239,48,nə t̪ʰəre pɑɪ,,,,adiv1239-icalledherninetimes
+48-kash1277,kash1277,48,nɔlɑɪʈje,,,,kash1277-icalledherninetimes
+48-mara1378,mara1378,48,nəu ʋəɖəs,,,,mara1378-icalledherninetimes
+48-guja1252,guja1252,48,nəʊ ʋɑr,,,,guja1252-icalledherninetimes
+48-sind1272,sind1272,48,nəʋ d̪əfɑ,,,,sind1272-icalledherninetimes
+48-paha1251,paha1251,48,nəu ʋɑri,,,,paha1251-icalledherninetimes
+48-sada1242,sada1242,48,nɔ dʰɑũ,,,,sada1242-icalledherninetimes
+48-wagd1238,wagd1238,48,nɔʋ ʋəkʰət,,,,wagd1238-icalledherninetimes
+48-west2380,west2380,48,nɔ bɑr,,,,west2380-icalledherninetimes
+48-sans1269,sans1269,48,nəʋʋɑrəm,,,,sans1269-icalledherninetimes
+48-sylh1242,sylh1242,48,noɛ bɑr,,,,sylh1242-icalledherninetimes
+48-urdu1245,urdu1245,48,nɔ dəfɑ,,,,urdu1245-icalledherninetimes
+48-halb1244,halb1244,48,nəʋ hɑr,,,,halb1244-icalledherninetimes
+48-maga1260,maga1260,48,nɔ bɑir,,,,maga1260-icalledherninetimes
+48-kull1236,kull1236,48,nəu ɡʰere,,,,kull1236-icalledherninetimes
+49-dogr1250,dogr1250,49,pənǰi bɑr,,,,dogr1250-icalledhimtwentyfivetimes
+49-garh1243,garh1243,49,pəččis bɑr,,,,garh1243-icalledhimtwentyfivetimes
+49-kuma1273,kuma1273,49,pəččis bɑr,,,,kuma1273-icalledhimtwentyfivetimes
+49-gadd1242,gadd1242,49,pənǰi ʋɑri,,,,gadd1242-icalledhimtwentyfivetimes
+49-goan1235,goan1235,49,pə̃cvɪs fɑvtɪ̃,,,,goan1235-icalledhimtwentyfivetimes
+49-nepa1254,nepa1254,49,pəccis čoʈi,,,,nepa1254-icalledhimtwentyfivetimes
+49-kudm1238,kudm1238,49,kuɽi mɑčɑ dʰɑũ,,,,kudm1238-icalledhimtwentyfivetimes
+49-beng1280,beng1280,49,põnčiš bɑ:r,,,,beng1280-icalledhimtwentyfivetimes
+49-assa1263,assa1263,49,posɪs bɑ:r,,,,assa1263-icalledhimtwentyfivetimes
+49-marw1260,marw1260,49,pəčɪ:s bɑ:r,,,,marw1260-icalledhimtwentyfivetimes
+49-panj1256,panj1256,49,pəččɪ ʋɑrɪ,,,,panj1256-icalledhimtwentyfivetimes
+49-adiv1239,adiv1239,49,pənčəʋɪnsə t̪ʰəre pɑɪ,,,,adiv1239-icalledhimtwentyfivetimes
+49-kash1277,kash1277,49,pəntʃəhlɑɪʈje,,,,kash1277-icalledhimtwentyfivetimes
+49-mara1378,mara1378,49,pənčʋɪs ʋəɖəs,,,,mara1378-icalledhimtwentyfivetimes
+49-guja1252,guja1252,49,pəččɪsʋɪ ʋɑr,,,,guja1252-icalledhimtwentyfivetimes
+49-sind1272,sind1272,49,pənǰʋɪ d̪əfɑ,,,,sind1272-icalledhimtwentyfivetimes
+49-paha1251,paha1251,49,pənǰi ʋɑri,,,,paha1251-icalledhimtwentyfivetimes
+49-sada1242,sada1242,49,pəččis dʰɑũ,,,,sada1242-icalledhimtwentyfivetimes
+49-wagd1238,wagd1238,49,pəsi ʋəkʰət,,,,wagd1238-icalledhimtwentyfivetimes
+49-west2380,west2380,49,pəččis bɑr,,,,west2380-icalledhimtwentyfivetimes
+49-sans1269,sans1269,49,pə̃nčʋĩnʃətiʋɑrəm,,,,sans1269-icalledhimtwentyfivetimes
+49-sylh1242,sylh1242,49,fociʃ bɑr,,,,sylh1242-icalledhimtwentyfivetimes
+49-urdu1245,urdu1245,49,pətʃis dəfɑ,,,,urdu1245-icalledhimtwentyfivetimes
+49-halb1244,halb1244,49,pəččis/ek koɽi pɑ̃č hɑr,,,,halb1244-icalledhimtwentyfivetimes
+49-maga1260,maga1260,49,pəccis bɑir,,,,maga1260-icalledhimtwentyfivetimes
+49-kull1236,kull1236,49,pəčči ɡʰere,,,,kull1236-icalledhimtwentyfivetimes
+50-dogr1250,dogr1250,50,pəndrɑ bɑr,,,,dogr1250-icalledherfifteentimes
+50-garh1243,garh1243,50,pəndrɑ bɑr,,,,garh1243-icalledherfifteentimes
+50-kuma1273,kuma1273,50,pəndrɑ bɑr,,,,kuma1273-icalledherfifteentimes
+50-gadd1242,gadd1242,50,pəndrɑ ʋɑri,,,,gadd1242-icalledherfifteentimes
+50-goan1235,goan1235,50,pə̃d̪rɑ fɑvtɪ̃,,,,goan1235-icalledherfifteentimes
+50-nepa1254,nepa1254,50,pəndrɑ čoʈi,,,,nepa1254-icalledherfifteentimes
+50-kudm1238,kudm1238,50,mɑčɑrə̃ dʰɑũ,,,,kudm1238-icalledherfifteentimes
+50-beng1280,beng1280,50,ponerǒ bɑ:r,,,,beng1280-icalledherfifteentimes
+50-assa1263,assa1263,50,pʊndʰɒrɒ bɑ:r,,,,assa1263-icalledherfifteentimes
+50-marw1260,marw1260,50,pəndrɑ bɑ:r,,,,marw1260-icalledherfifteentimes
+50-panj1256,panj1256,50,pənd̪rɑ̃ ʋɑrɪ,,,,panj1256-icalledherfifteentimes
+50-adiv1239,adiv1239,50,pənd̪ərə t̪ʰəre pɑɪ,,,,adiv1239-icalledherfifteentimes
+50-kash1277,kash1277,50,pənd̪əhlɑɪʈje,,,,kash1277-icalledherfifteentimes
+50-mara1378,mara1378,50,pənd̪rɑ ʋəɖəs,,,,mara1378-icalledherfifteentimes
+50-guja1252,guja1252,50,pənd̪ər ʋɑr,,,,guja1252-icalledherfifteentimes
+50-sind1272,sind1272,50,pənd̪rəh d̪əfɑ,,,,sind1272-icalledherfifteentimes
+50-paha1251,paha1251,50,pəndrɑ ʋɑri,,,,paha1251-icalledherfifteentimes
+50-sada1242,sada1242,50,pəndrɑ dʰɑũ,,,,sada1242-icalledherfifteentimes
+50-wagd1238,wagd1238,50,pəndrɑ ʋəkʰət,,,,wagd1238-icalledherfifteentimes
+50-west2380,west2380,50,pəndrɑ bɑr,,,,west2380-icalledherfifteentimes
+50-sans1269,sans1269,50,pə̃nčdəʃʋɑrəm,,,,sans1269-icalledherfifteentimes
+50-sylh1242,sylh1242,50,fonro bɑr,,,,sylh1242-icalledherfifteentimes
+50-urdu1245,urdu1245,50,pəndʰrɑ̃ dəfɑ,,,,urdu1245-icalledherfifteentimes
+50-halb1244,halb1244,50,pəndrɑ hɑr,,,,halb1244-icalledherfifteentimes
+50-maga1260,maga1260,50,pəndrɑ bɑir,,,,maga1260-icalledherfifteentimes
+50-kull1236,kull1236,50,pəndrɑ ɡʰere,,,,kull1236-icalledherfifteentimes
+51-dogr1250,dogr1250,51,bəs ekko,,,,dogr1250-thereisonlyonechild
+51-garh1243,garh1243,51,sirf ek,,,,garh1243-thereisonlyonechild
+51-kuma1273,kuma1273,51,sirf ek,,,,kuma1273-thereisonlyonechild
+51-gadd1242,gadd1242,51,čʰəɽɑ ək,,,,gadd1242-thereisonlyonechild
+51-goan1235,goan1235,51,fəkət̪ ek,,,,goan1235-thereisonlyonechild
+51-nepa1254,nepa1254,51,keʋəl ek,,,,nepa1254-thereisonlyonechild
+51-kudm1238,kudm1238,51,kʰɑli ənɑ,,,,kudm1238-thereisonlyonechild
+51-beng1280,beng1280,51,kebol mɑtro ɛk-ʈɑ/ɛk-ǰon/ɛk-mɑtro/mɑtro/kebol/kʰɑli/ɛk-kʰɑnɑ,,,,beng1280-thereisonlyonechild
+51-assa1263,assa1263,51,kʰɑli eʈɑ,,,,assa1263-thereisonlyonechild
+51-marw1260,marw1260,51,bəs ek,,,,marw1260-thereisonlyonechild
+51-panj1256,panj1256,51,sirf ik,,,,panj1256-thereisonlyonechild
+51-adiv1239,adiv1239,51,tʰəre ɡuʈɛ,,,,adiv1239-thereisonlyonechild
+51-kash1277,kash1277,51,sirf əkʰ,,,,kash1277-thereisonlyonechild
+51-mara1378,mara1378,51,fəktə ek,,,,mara1378-thereisonlyonechild
+51-guja1252,guja1252,51,fəft ek,,,,guja1252-thereisonlyonechild
+51-sind1272,sind1272,51,ruɡo ik,,,,sind1272-thereisonlyonechild
+51-paha1251,paha1251,51,sirf ek,,,,paha1251-thereisonlyonechild
+51-sada1242,sada1242,51,sirif eɡo,,,,sada1242-thereisonlyonechild
+51-wagd1238,wagd1238,51,ekəs,,,,wagd1238-thereisonlyonechild
+51-west2380,west2380,51,kʰɑli/sirf/keʋəl ek,,,,west2380-thereisonlyonechild
+51-sans1269,sans1269,51,keʋləm ekəm,,,,sans1269-thereisonlyonechild
+51-sylh1242,sylh1242,51,mɑt̪ro æxʈɑ,,,,sylh1242-thereisonlyonechild
+51-urdu1245,urdu1245,51,sirf ɑek,,,,urdu1245-thereisonlyonechild
+51-halb1244,halb1244,51,ɡoʈki,,,,halb1244-thereisonlyonechild
+51-maga1260,maga1260,51,sirf ek,,,,maga1260-thereisonlyonechild
+51-kull1236,kull1236,51,bəs ek,,,,kull1236-thereisonlyonechild
+52-dogr1250,dogr1250,52,bəs do,,,,
+52-garh1243,garh1243,52,sirf dui,,,,
+52-kuma1273,kuma1273,52,sirf di,,,,
+52-gadd1242,gadd1242,52,čʰəɽe do,,,,
+52-goan1235,goan1235,52,fəkət̪ d̪on,,,,
+52-nepa1254,nepa1254,52,keʋəl dui,,,,
+52-kudm1238,kudm1238,52,kʰɑli dənɑ,,,,
+52-beng1280,beng1280,52,kebol mɑtro dui-ʈɑ,,,,
+52-assa1263,assa1263,52,kʰɑli duʈɑ,,,,
+52-marw1260,marw1260,52,bəs do,,,,
+52-panj1256,panj1256,52,sirf do,,,,
+52-adiv1239,adiv1239,52,mɑtrə dui-ʈɑ/ǰuɖe,,,,
+52-kash1277,kash1277,52,sirf žə,,,,
+52-mara1378,mara1378,52,fəktə don,,,,
+52-guja1252,guja1252,52,fəft be,,,,
+52-sind1272,sind1272,52,ruɡo bə,,,,
+52-paha1251,paha1251,52,sirf do,,,,
+52-sada1242,sada1242,52,sirif duiɡo,,,,
+52-wagd1238,wagd1238,52,bes,,,,
+52-west2380,west2380,52,kʰɑli du,,,,
+52-sans1269,sans1269,52,keʋle dʋe,,,,
+52-sylh1242,sylh1242,52,mɑt̪ro duiʈɑ,,,,
+52-urdu1245,urdu1245,52,sirf do,,,,
+52-halb1244,halb1244,52,duʈʰɑn,,,,
+52-maga1260,maga1260,52,sirf du,,,,
+52-kull1236,kull1236,52,bəs dui,,,,
+53-dogr1250,dogr1250,53,bəs trɛ,,,,
+53-garh1243,garh1243,53,sirf tin,,,,
+53-kuma1273,kuma1273,53,sirf tin,,,,
+53-gadd1242,gadd1242,53,čʰəɽe trɛ,,,,
+53-goan1235,goan1235,53,fəkət̪ t̪ɪn,,,,
+53-nepa1254,nepa1254,53,keʋəl tin,,,,
+53-kudm1238,kudm1238,53,kʰɑli ʈenɑ,,,,
+53-beng1280,beng1280,53,kebol mɑtro tin-ʈe,,,,
+53-assa1263,assa1263,53,kʰɑli tinʈɑ,,,,
+53-marw1260,marw1260,53,bəs tin,,,,
+53-panj1256,panj1256,53,sirf tinn,,,,
+53-adiv1239,adiv1239,53,mɑtrə tin-ʈɑ,,,,
+53-kash1277,kash1277,53,sirf treh,,,,
+53-mara1378,mara1378,53,fəktə tin,,,,
+53-guja1252,guja1252,53,fəft troɳ,,,,
+53-sind1272,sind1272,53,ruɡo ʈre,,,,
+53-paha1251,paha1251,53,sirf trɛ,,,,
+53-sada1242,sada1242,53,sirif tinɡo,,,,
+53-wagd1238,wagd1238,53,pʰəkət təɳ,,,,
+53-west2380,west2380,53,kʰɑli tin,,,,
+53-sans1269,sans1269,53,keʋlɑni triɳi,,,,
+53-sylh1242,sylh1242,53,mɑtro tinʈɑ,,,,
+53-urdu1245,urdu1245,53,sirf tin,,,,
+53-halb1244,halb1244,53,tin ʈʰən,,,,
+53-maga1260,maga1260,53,sirf tin,,,,
+53-kull1236,kull1236,53,bəs trɑi,,,,
+54-dogr1250,dogr1250,54,bəs cɑr,,,,dogr1250-heateonlyfourmangoes
+54-garh1243,garh1243,54,sirf cɑr,,,,garh1243-heateonlyfourmangoes
+54-kuma1273,kuma1273,54,sirf cɑr,,,,kuma1273-heateonlyfourmangoes
+54-gadd1242,gadd1242,54,čʰəɽe cɑr,,,,gadd1242-heateonlyfourmangoes
+54-goan1235,goan1235,54,fəkət̪ ɕar,,,,goan1235-heateonlyfourmangoes
+54-nepa1254,nepa1254,54,keʋəl tʃɑr,,,,nepa1254-heateonlyfourmangoes
+54-kudm1238,kudm1238,54,kʰɑli cɑrɑ,,,,kudm1238-heateonlyfourmangoes
+54-beng1280,beng1280,54,kebol mɑtro cɑr-ʈe,,,,beng1280-heateonlyfourmangoes
+54-assa1263,assa1263,54,kʰɑli sɑ:rɪʈɑ,,,,assa1263-heateonlyfourmangoes
+54-marw1260,marw1260,54,bəs tʃɑr,,,,marw1260-heateonlyfourmangoes
+54-panj1256,panj1256,54,sirf cɑ:r,,,,panj1256-heateonlyfourmangoes
+54-adiv1239,adiv1239,54,mɑtrə čɑrɪ-ʈɑ,,,,adiv1239-heateonlyfourmangoes
+54-kash1277,kash1277,54,sirf tʃor,,,,kash1277-heateonlyfourmangoes
+54-mara1378,mara1378,54,fəktə cɑ:r,,,,mara1378-heateonlyfourmangoes
+54-guja1252,guja1252,54,fəft čɑr,,,,guja1252-heateonlyfourmangoes
+54-sind1272,sind1272,54,ruɡo cɑr,,,,sind1272-heateonlyfourmangoes
+54-paha1251,paha1251,54,sirf cɑr,,,,paha1251-heateonlyfourmangoes
+54-sada1242,sada1242,54,sirif čɑirɡo,,,,sada1242-heateonlyfourmangoes
+54-wagd1238,wagd1238,54,pʰəkət ʃɑr,,,,wagd1238-heateonlyfourmangoes
+54-west2380,west2380,54,kʰɑli cɑr,,,,west2380-heateonlyfourmangoes
+54-sans1269,sans1269,54,keʋlɑni cətʋɑri,,,,sans1269-heateonlyfourmangoes
+54-sylh1242,sylh1242,54,mɑtro sɑirʈɑ,,,,sylh1242-heateonlyfourmangoes
+54-urdu1245,urdu1245,54,sirf tʃɑr,,,,urdu1245-heateonlyfourmangoes
+54-halb1244,halb1244,54,cɑreč ʈʰən,,,,halb1244-heateonlyfourmangoes
+54-maga1260,maga1260,54,sirf cɑir,,,,maga1260-heateonlyfourmangoes
+54-kull1236,kull1236,54,bəs tʃɑr,,,,kull1236-heateonlyfourmangoes
+55-dogr1250,dogr1250,55,bəs pənǰ,,,,
+55-garh1243,garh1243,55,sirf pɑ̃č,,,,
+55-kuma1273,kuma1273,55,sirf pɑ̃č,,,,
+55-gadd1242,gadd1242,55,čʰəɽe pənǰ,,,,
+55-goan1235,goan1235,55,fəkət̪ pɑ̃t͡s,,,,
+55-nepa1254,nepa1254,55,keʋəl pɑ̃tʃ,,,,
+55-kudm1238,kudm1238,55,kʰɑli mɑčɑ,,,,
+55-beng1280,beng1280,55,kebol mɑtro pɑ̃č-ʈɑ,,,,
+55-assa1263,assa1263,55,kʰɑli pɑsʈɑ,,,,
+55-marw1260,marw1260,55,bəs pɑ̃č,,,,
+55-panj1256,panj1256,55,sirf pənǰ,,,,
+55-adiv1239,adiv1239,55,mɑtrə pɑ̃č-ʈɑ,,,,
+55-kash1277,kash1277,55,sirf pɑ̃tʃ,,,,
+55-mara1378,mara1378,55,fəktə pats,,,,
+55-guja1252,guja1252,55,fəft pɑ̃č,,,,
+55-sind1272,sind1272,55,ruɡo pənǰ,,,,
+55-paha1251,paha1251,55,sirf pənǰ,,,,
+55-sada1242,sada1242,55,sirif pɑčɡo,,,,
+55-wagd1238,wagd1238,55,pʰəkət pɑs,,,,
+55-west2380,west2380,55,kʰɑli pɑč,,,,
+55-sans1269,sans1269,55,keʋləm pə̃nč,,,,
+55-sylh1242,sylh1242,55,mɑtro fɑsʈɑ,,,,
+55-urdu1245,urdu1245,55,sirf pɑ̃tʃ,,,,
+55-halb1244,halb1244,55,pɑ̃č ʈʰən,,,,
+55-maga1260,maga1260,55,sirf pɑ̃č,,,,
+55-kull1236,kull1236,55,bəs põǰ,,,,
+56-dogr1250,dogr1250,56,bəs dəs,,,,
+56-garh1243,garh1243,56,sirf dəs,,,,
+56-kuma1273,kuma1273,56,sirf dəs,,,,
+56-gadd1242,gadd1242,56,čʰəɽe dəs,,,,
+56-goan1235,goan1235,56,fəkət̪ dʰɑ,,,,
+56-nepa1254,nepa1254,56,keʋəl dəs,,,,
+56-kudm1238,kudm1238,56,kʰɑli sihəm,,,,
+56-beng1280,beng1280,56,kebol mɑtro dɔs-ʈɑ,,,,
+56-assa1263,assa1263,56,kʰɑli dosʈɑ,,,,
+56-marw1260,marw1260,56,bəs dəs,,,,
+56-panj1256,panj1256,56,sirf dəs,,,,
+56-adiv1239,adiv1239,56,mɑtrə dəs-ʈɑ,,,,
+56-kash1277,kash1277,56,sirf dəh,,,,
+56-mara1378,mara1378,56,fəktə dəha,,,,
+56-guja1252,guja1252,56,fəft dəs,,,,
+56-sind1272,sind1272,56,ruɡo ɖə,,,,
+56-paha1251,paha1251,56,sirf dəs,,,,
+56-sada1242,sada1242,56,sirif dəsɡo,,,,
+56-wagd1238,wagd1238,56,pʰəkət dəs,,,,
+56-west2380,west2380,56,kʰɑli dəs,,,,
+56-sans1269,sans1269,56,keʋləm dəʃ,,,,
+56-sylh1242,sylh1242,56,mɑtro dɔʃʈɑ,,,,
+56-urdu1245,urdu1245,56,sirf dəs,,,,
+56-halb1244,halb1244,56,dəs ʈʰən,,,,
+56-maga1260,maga1260,56,sirf dəs,,,,
+56-kull1236,kull1236,56,bəs dəs,,,,
+57-dogr1250,dogr1250,57,ekko ɡi,,,,
+57-garh1243,garh1243,57,ek ek,,,,
+57-kuma1273,kuma1273,57,ek ek səbko,,,,
+57-gadd1242,gadd1242,57,ək ək,,,,
+57-goan1235,goan1235,57,prt̪jekɑk ek,,,,
+57-nepa1254,nepa1254,57,prətjek ek/ ek ek,,,,
+57-kudm1238,kudm1238,57,ənɑʈɑ ke,,,,
+57-beng1280,beng1280,57,ɛk-ʈɑ - ɛk-ʈɑ kɔre,,,,
+57-assa1263,assa1263,57,ɛʈɑ ɛʈɑ/ ɛʈɑ ke soboke,,,,
+57-marw1260,marw1260,57,ek ǰəɳənə ek,,,,
+57-panj1256,panj1256,57,kəllɑ kəllɑ,,,,
+57-adiv1239,adiv1239,57,ɡuʈɛ ɡuʈɛ səbke,,,,
+57-kash1277,kash1277,57,sɑjrnen əkʰ əkʰ,,,,
+57-mara1378,mara1378,57,prətyeki ek,,,,
+57-guja1252,guja1252,57,ek ek bədɑne,,,,
+57-sind1272,sind1272,57,səbʰin kʰẽ hik,,,,
+57-paha1251,paha1251,57,ek hər kisei/sɑre ne ek ek,,,,
+57-sada1242,sada1242,57,ek ek ɡo səbke,,,,
+57-wagd1238,wagd1238,57,səbne ek,,,,
+57-west2380,west2380,57,səbke ek ek,,,,
+57-sans1269,sans1269,57,prətjekəm,,,,
+57-sylh1242,sylh1242,57,æx-æxʈɑ,,,,
+57-urdu1245,urdu1245,57,hər ɑek/ ɑek ɑek,,,,
+57-halb1244,halb1244,57,ɡoʈək ɡoʈək ne ɡoʈək,,,,
+57-maga1260,maga1260,57,ek ek ɡo,,,,
+57-kull1236,kull1236,57,ek-ek,,,,
+58-dogr1250,dogr1250,58,tenne ɡi,,,,
+58-garh1243,garh1243,58,dui dui,,,,
+58-kuma1273,kuma1273,58,tin tin səbko,,,,
+58-gadd1242,gadd1242,58,trɛ trɛ,,,,
+58-goan1235,goan1235,58,prt̪jekɑk t̪ɪn,,,,
+58-nepa1254,nepa1254,58,tin prətjek/tin tin,,,,
+58-kudm1238,kudm1238,58,ʈenɑʈɑ ke,,,,
+58-beng1280,beng1280,58,tinʈe-tinʈe kɔre,,,,
+58-assa1263,assa1263,58,tiniʈɑ kɛ soboke,,,,
+58-marw1260,marw1260,58,ek ǰəɳənə tin,,,,
+58-panj1256,panj1256,58,tinne ǰəɳe,,,,
+58-adiv1239,adiv1239,58,tin-tin,,,,
+58-kash1277,kash1277,58,sɑjrnen trəh trəh,,,,
+58-mara1378,mara1378,58,prətyeki teen,,,,
+58-guja1252,guja1252,58,tron tron sɔune/bədɑne,,,,
+58-sind1272,sind1272,58,səbʰin kʰẽ ʈre,,,,
+58-paha1251,paha1251,58,trɛ ʋəi ek ek,,,,
+58-sada1242,sada1242,58,tin tin ɡo səbke,,,,
+58-wagd1238,wagd1238,58,səbne təɳ,,,,
+58-west2380,west2380,58,səbke tin tin,,,,
+58-sans1269,sans1269,58,prətitrin,,,,
+58-sylh1242,sylh1242,58,æx-æxɟone tinʈɑ/ tin-tinʈɑ,,,,
+58-urdu1245,urdu1245,58,hər tin/tin tin,,,,
+58-halb1244,halb1244,58,ɡoʈək ɡoʈək ne tin/ tin tin,,,,
+58-maga1260,maga1260,58,tin tin ɡo,,,,
+58-kull1236,kull1236,58,dui-dui,,,,
+59-dogr1250,dogr1250,59,pənǰe ɡi,,,,
+59-garh1243,garh1243,59,pɑ̃č pɑ̃č,,,,
+59-kuma1273,kuma1273,59,pɑ̃č pɑ̃č səbko,,,,
+59-gadd1242,gadd1242,59,pənǰ pənǰ,,,,
+59-goan1235,goan1235,59,prt̪jekɑk pɑ̃t͡s,,,,
+59-nepa1254,nepa1254,59,pɑ̃tʃ prətjek/ pɑ̃tʃ pɑ̃tʃ,,,,
+59-kudm1238,kudm1238,59,pɑ̃čʈɑ ke,,,,
+59-beng1280,beng1280,59,pɑ̃čʈɑ-pɑ̃čʈɑ kɔre,,,,
+59-assa1263,assa1263,59,pɑsʈɑ kɛ soboke,,,,
+59-marw1260,marw1260,59,ek ǰəɳənə pɑ̃č,,,,
+59-panj1256,panj1256,59,pənǰo ǰəɳe,,,,
+59-adiv1239,adiv1239,59,pɑ̃č-pɑ̃č,,,,
+59-kash1277,kash1277,59,sɑjrnen pɑ̃tʃ pɑ̃tʃ,,,,
+59-mara1378,mara1378,59,prətyeki pats,,,,
+59-guja1252,guja1252,59,pɑ̃č pɑ̃č bədɑne,,,,
+59-sind1272,sind1272,59,səbʰin kʰẽ pənǰ,,,,
+59-paha1251,paha1251,59,pənǰəi ek ek,,,,
+59-sada1242,sada1242,59,pɑč pɑč ɡo səbke,,,,
+59-wagd1238,wagd1238,59,səbne pɑs,,,,
+59-west2380,west2380,59,səbke pɑč pɑč,,,,
+59-sans1269,sans1269,59,prətipə̃nč,,,,
+59-sylh1242,sylh1242,59,æx-æxɟone fɑsʈɑ/ fɑs-fɑsʈɑ,,,,
+59-urdu1245,urdu1245,59,hər pɑ̃tʃ/pɑ̃tʃ pɑ̃tʃ,,,,
+59-halb1244,halb1244,59,ɡoʈək ɡoʈək ne pɑ̃c/ pɑ̃c pɑ̃c,,,,
+59-maga1260,maga1260,59,pɑ̃č pɑ̃č ɡo,,,,
+59-kull1236,kull1236,59,põǰ-põǰ,,,,
+60-dogr1250,dogr1250,60,ek ek kərije,,,,
+60-garh1243,garh1243,60,ek ek kərikə,,,,
+60-kuma1273,kuma1273,60,ek ek kəne,,,,
+60-gadd1242,gadd1242,60,ək ək kəri kəre,,,,
+60-goan1235,goan1235,60,ek ek kərun,,,,
+60-nepa1254,nepa1254,60,ek ek ɡərirə,,,,
+60-kudm1238,kudm1238,60,ekek kəri/ənɑ kəri,,,,
+60-beng1280,beng1280,60,ɛk ɛk ǰon kɔre/ɛkǰon͏ ɛkǰon kɔre/ ɛk-ʈɑ ɛk-ʈɑ kɔre/ ɛk-kʰɑna ɛk-kʰɑnɑ kɔre,,,,
+60-assa1263,assa1263,60,ɛʈɑ ɛʈɑ kɛ,,,,
+60-marw1260,marw1260,60,ek ek kər,,,,
+60-panj1256,panj1256,60,ek ek kərke,,,,
+60-adiv1239,adiv1239,60,ɡuʈɛ pəre ɡuʈɛ,,,,
+60-kash1277,kash1277,60,əkʰ əkʰ kɛrietʰ,,,,
+60-mara1378,mara1378,60,ekek,,,,
+60-guja1252,guja1252,60,ek pəčʰi ek,,,,
+60-sind1272,sind1272,60,hik ɡuɳɑ hik,,,,
+60-paha1251,paha1251,60,ek ek kəri,,,,
+60-sada1242,sada1242,60,ek ek kəirke,,,,
+60-wagd1238,wagd1238,60,ek pəse ek,,,,
+60-west2380,west2380,60,ek ek kərke,,,,
+60-sans1269,sans1269,60,ekəm-ekəm,,,,
+60-sylh1242,sylh1242,60,æx(ɟon) æxɟon xoriɑ,,,,
+60-urdu1245,urdu1245,60,ɑek ɑek kər ke,,,,
+60-halb1244,halb1244,60,ɡoʈək͏ ɡoʈək kərun,,,,
+60-maga1260,maga1260,60,ek ek kəirke,,,,
+60-kull1236,kull1236,60,ek-ek kərijɑ,,,,
+61-dogr1250,dogr1250,61,do do kərije,,,,
+61-garh1243,garh1243,61,dui dui kərikə,,,,
+61-kuma1273,kuma1273,61,di di kəne,,,,
+61-gadd1242,gadd1242,61,do do kəri kəre,,,,
+61-goan1235,goan1235,61,don bɑj don,,,,
+61-nepa1254,nepa1254,61,dui dui ɡərirə/ duiʈɑ duiʈɑ,,,,
+61-kudm1238,kudm1238,61,dənɑ kəri,,,,
+61-beng1280,beng1280,61,dui dui ǰon kɔre,,,,
+61-assa1263,assa1263,61,duʈɑ duʈɑ kɛ,,,,
+61-marw1260,marw1260,61,do do kər,,,,
+61-panj1256,panj1256,61,do do kərke,,,,
+61-adiv1239,adiv1239,61,dui-ʈɑ pəre dui-ʈɑ,,,,
+61-kash1277,kash1277,61,žə žə kɛrietʰ,,,,
+61-mara1378,mara1378,61,dondon,,,,
+61-guja1252,guja1252,61,be pəčʰi be/ be be,,,,
+61-sind1272,sind1272,61,bə ɡuɳɑ bə,,,,
+61-paha1251,paha1251,61,do do kəri,,,,
+61-sada1242,sada1242,61,dui dui kəirke,,,,
+61-wagd1238,wagd1238,61,be pəse be,,,,
+61-west2380,west2380,61,du du kərke,,,,
+61-sans1269,sans1269,61,dʋe-dʋe,,,,
+61-sylh1242,sylh1242,61,dui(ɟon) duiɟon xoriɑ,,,,
+61-urdu1245,urdu1245,61,do do kər ke,,,,
+61-halb1244,halb1244,61,duj duj ʈʰən kərun,,,,
+61-maga1260,maga1260,61,du du kəirke,,,,
+61-kull1236,kull1236,61,dui-dui kərijɑ,,,,
+62-dogr1250,dogr1250,62,ləɡbəɡ,,,,dogr1250-approximately20kilosofriceareinthesack;dogr1250-approximately50ofstudentsareattendingtheworkshop;dogr1250-approximatelyfifteenkilosofriceareinthesack;dogr1250-thisinstitutecontainsapproximately1000students;dogr1250-approximately35kilosofriceareinthesack
+62-garh1243,garh1243,62,ləɡbəɡə,,,,garh1243-approximately20kilosofriceareinthesack;garh1243-approximately50ofstudentsareattendingtheworkshop;garh1243-approximatelyfifteenkilosofriceareinthesack;garh1243-approximately23rdmembersareleft;garh1243-thisinstitutecontainsapproximately1000students;garh1243-approximately35kilosofriceareinthesack
+62-kuma1273,kuma1273,62,ləɡbʰəɡ,,,,kuma1273-approximately20kilosofriceareinthesack;kuma1273-approximatelyfifteenkilosofriceareinthesack;kuma1273-approximately23rdmembersareleft;kuma1273-thisinstitutecontainsapproximately1000students;kuma1273-approximately35kilosofriceareinthesack
+62-gadd1242,gadd1242,62,ləɡbəɡ,,,,gadd1242-approximately20kilosofriceareinthesack;gadd1242-approximately50ofstudentsareattendingtheworkshop;gadd1242-approximatelyfifteenkilosofriceareinthesack;gadd1242-approximately23rdmembersareleft;gadd1242-thisinstitutecontainsapproximately1000students;gadd1242-approximately35kilosofriceareinthesack
+62-goan1235,goan1235,62,sumɑr,,,,goan1235-approximately20kilosofriceareinthesack;goan1235-approximately50ofstudentsareattendingtheworkshop;goan1235-approximatelyfifteenkilosofriceareinthesack;goan1235-approximately23rdmembersareleft;goan1235-thisinstitutecontainsapproximately1000students;goan1235-approximately35kilosofriceareinthesack
+62-nepa1254,nepa1254,62,ǰʰənɖəi,,,,nepa1254-approximately20kilosofriceareinthesack;nepa1254-approximately50ofstudentsareattendingtheworkshop;nepa1254-approximatelyfifteenkilosofriceareinthesack;nepa1254-approximately23rdmembersareleft;nepa1254-thisinstitutecontainsapproximately1000students;nepa1254-approximately35kilosofriceareinthesack
+62-kudm1238,kudm1238,62,ɡɑʈɑɡəʈi,,,,kudm1238-approximately20kilosofriceareinthesack;kudm1238-approximately50ofstudentsareattendingtheworkshop;kudm1238-approximatelyfifteenkilosofriceareinthesack;kudm1238-approximately23rdmembersareleft;kudm1238-thisinstitutecontainsapproximately1000students;kudm1238-approximately35kilosofriceareinthesack
+62-beng1280,beng1280,62,moʈɑmoʈɪ,,,,beng1280-approximately20kilosofriceareinthesack;beng1280-approximately50ofstudentsareattendingtheworkshop;beng1280-approximatelyfifteenkilosofriceareinthesack;beng1280-thisinstitutecontainsapproximately1000students;beng1280-approximately35kilosofriceareinthesack
+62-assa1263,assa1263,62,mɒtɑ:motɪ,,,,assa1263-approximately20kilosofriceareinthesack;assa1263-approximately50ofstudentsareattendingtheworkshop;assa1263-approximatelyfifteenkilosofriceareinthesack;assa1263-approximately35kilosofriceareinthesack
+62-marw1260,marw1260,62,koɪ,,,,marw1260-approximately20kilosofriceareinthesack;marw1260-approximately50ofstudentsareattendingtheworkshop;marw1260-approximatelyfifteenkilosofriceareinthesack;marw1260-approximately23rdmembersareleft;marw1260-thisinstitutecontainsapproximately1000students;marw1260-approximately35kilosofriceareinthesack
+62-panj1256,panj1256,62,ləɡbəɡ,,,,panj1256-approximately20kilosofriceareinthesack;panj1256-approximately50ofstudentsareattendingtheworkshop;panj1256-approximatelyfifteenkilosofriceareinthesack;panj1256-approximately23rdmembersareleft;panj1256-thisinstitutecontainsapproximately1000students;panj1256-approximately35kilosofriceareinthesack
+62-adiv1239,adiv1239,62,pɑkʰɑ pɑkʰɪ,,,,adiv1239-approximately20kilosofriceareinthesack;adiv1239-approximately50ofstudentsareattendingtheworkshop;adiv1239-approximatelyfifteenkilosofriceareinthesack;adiv1239-approximately23rdmembersareleft;adiv1239-thisinstitutecontainsapproximately1000students;adiv1239-approximately35kilosofriceareinthesack
+62-kash1277,kash1277,62,ləɡbəɡ,,,,kash1277-approximately20kilosofriceareinthesack;kash1277-approximately50ofstudentsareattendingtheworkshop;kash1277-approximatelyfifteenkilosofriceareinthesack;kash1277-approximately35kilosofriceareinthesack
+62-mara1378,mara1378,62,ənd̪ɑže,,,,mara1378-approximately20kilosofriceareinthesack;mara1378-approximately50ofstudentsareattendingtheworkshop;mara1378-approximatelyfifteenkilosofriceareinthesack;mara1378-thisinstitutecontainsapproximately1000students;mara1378-approximately35kilosofriceareinthesack
+62-guja1252,guja1252,62,leɡbʰəɡ,,,,guja1252-approximately20kilosofriceareinthesack;guja1252-approximately50ofstudentsareattendingtheworkshop;guja1252-approximatelyfifteenkilosofriceareinthesack;guja1252-approximately23rdmembersareleft;guja1252-thisinstitutecontainsapproximately1000students;guja1252-approximately35kilosofriceareinthesack
+62-sind1272,sind1272,62,ɡəɳo kəre,,,,sind1272-approximately20kilosofriceareinthesack;sind1272-approximately50ofstudentsareattendingtheworkshop;sind1272-approximatelyfifteenkilosofriceareinthesack;sind1272-approximately23rdmembersareleft;sind1272-thisinstitutecontainsapproximately1000students;sind1272-approximately35kilosofriceareinthesack
+62-paha1251,paha1251,62,təkribən,,,,paha1251-approximately20kilosofriceareinthesack;paha1251-approximately50ofstudentsareattendingtheworkshop;paha1251-approximatelyfifteenkilosofriceareinthesack;paha1251-approximately23rdmembersareleft;paha1251-thisinstitutecontainsapproximately1000students;paha1251-approximately35kilosofriceareinthesack
+62-sada1242,sada1242,62,moʈɑmoʈi,,,,sada1242-approximately20kilosofriceareinthesack;sada1242-approximately50ofstudentsareattendingtheworkshop;sada1242-approximatelyfifteenkilosofriceareinthesack;sada1242-approximately23rdmembersareleft;sada1242-thisinstitutecontainsapproximately1000students;sada1242-approximately35kilosofriceareinthesack
+62-wagd1238,wagd1238,62,ləɡbʰəɡ,,,,wagd1238-approximately20kilosofriceareinthesack;wagd1238-approximately50ofstudentsareattendingtheworkshop;wagd1238-approximatelyfifteenkilosofriceareinthesack;wagd1238-approximately35kilosofriceareinthesack
+62-west2380,west2380,62,lemsəm,,,,west2380-approximately20kilosofriceareinthesack;west2380-approximately50ofstudentsareattendingtheworkshop;west2380-approximatelyfifteenkilosofriceareinthesack;west2380-approximately23rdmembersareleft;west2380-thisinstitutecontainsapproximately1000students;west2380-approximately35kilosofriceareinthesack
+62-sans1269,sans1269,62,prɑjəh,,,,sans1269-approximately20kilosofriceareinthesack;sans1269-approximately50ofstudentsareattendingtheworkshop;sans1269-approximatelyfifteenkilosofriceareinthesack;sans1269-thisinstitutecontainsapproximately1000students;sans1269-approximately35kilosofriceareinthesack
+62-sylh1242,sylh1242,62,muʈɑmuʈi,,,,sylh1242-approximately20kilosofriceareinthesack;sylh1242-approximately50ofstudentsareattendingtheworkshop;sylh1242-approximatelyfifteenkilosofriceareinthesack;sylh1242-approximately23rdmembersareleft;sylh1242-thisinstitutecontainsapproximately1000students;sylh1242-approximately35kilosofriceareinthesack
+62-urdu1245,urdu1245,62,təkribən,,,,urdu1245-approximately20kilosofriceareinthesack;urdu1245-approximately50ofstudentsareattendingtheworkshop;urdu1245-approximatelyfifteenkilosofriceareinthesack;urdu1245-approximately23rdmembersareleft;urdu1245-thisinstitutecontainsapproximately1000students;urdu1245-approximately35kilosofriceareinthesack
+62-halb1244,halb1244,62,əsən,,,,halb1244-approximately20kilosofriceareinthesack;halb1244-approximately50ofstudentsareattendingtheworkshop;halb1244-approximatelyfifteenkilosofriceareinthesack;halb1244-thisinstitutecontainsapproximately1000students;halb1244-approximately35kilosofriceareinthesack
+62-maga1260,maga1260,62,moʈɑmoʈi,,,,maga1260-approximately20kilosofriceareinthesack;maga1260-approximately50ofstudentsareattendingtheworkshop;maga1260-approximatelyfifteenkilosofriceareinthesack;maga1260-approximately23rdmembersareleft;maga1260-thisinstitutecontainsapproximately1000students;maga1260-approximately35kilosofriceareinthesack
+63-garh1243,garh1243,63,dələ/səmuh,,,,garh1243-agroupoftwogirlsplayed;garh1243-agroupoffivegirlsplayed;garh1243-agroupoffourgirlsplayed;garh1243-agroupoftwelveboysreached;garh1243-agroupoftwentyfiveboysreached;garh1243-agroupoftwentyboysreached
+63-kuma1273,kuma1273,63,səmuh,,,,kuma1273-agroupoftwogirlsplayed;kuma1273-agroupoffivegirlsplayed;kuma1273-agroupoffourgirlsplayed;kuma1273-agroupoftwelveboysreached;kuma1273-agroupoftwentyfiveboysreached;kuma1273-agroupoftwentyboysreached
+63-goan1235,goan1235,63,pə̃ɡəɖ,,,,goan1235-agroupoftwogirlsplayed;goan1235-agroupoffivegirlsplayed;goan1235-agroupoffourgirlsplayed;goan1235-agroupoftwelveboysreached;goan1235-agroupoftwentyfiveboysreached;goan1235-agroupoftwentyboysreached
+63-nepa1254,nepa1254,63,oʈɑ,,,,nepa1254-agroupoftwogirlsplayed;nepa1254-agroupoffivegirlsplayed;nepa1254-agroupoffourgirlsplayed;nepa1254-agroupoftwelveboysreached;nepa1254-agroupoftwentyfiveboysreached;nepa1254-agroupoftwentyboysreached
+63-kudm1238,kudm1238,63,kʰuɽ,,,,kudm1238-agroupoftwogirlsplayed;kudm1238-agroupoffivegirlsplayed;kudm1238-agroupoffourgirlsplayed;kudm1238-agroupoftwelveboysreached;kudm1238-agroupoftwentyfiveboysreached;kudm1238-agroupoftwentyboysreached
+63-beng1280,beng1280,63,d̪ol,,,,beng1280-agroupoftwogirlsplayed;beng1280-agroupoffivegirlsplayed;beng1280-agroupoffourgirlsplayed;beng1280-agroupoftwelveboysreached;beng1280-agroupoftwentyfiveboysreached;beng1280-agroupoftwentyboysreached
+63-assa1263,assa1263,63,ɡrʊp,,,,assa1263-agroupoftwogirlsplayed;assa1263-agroupoffivegirlsplayed;assa1263-agroupoffourgirlsplayed;assa1263-agroupoftwelveboysreached;assa1263-agroupoftwentyfiveboysreached;assa1263-agroupoftwentyboysreached
+63-marw1260,marw1260,63,ɟ̌ʰʊnd,,,,marw1260-agroupoftwogirlsplayed;marw1260-agroupoffivegirlsplayed;marw1260-agroupoffourgirlsplayed;marw1260-agroupoftwelveboysreached;marw1260-agroupoftwentyfiveboysreached;marw1260-agroupoftwentyboysreached
+63-panj1256,panj1256,63,ɡrupɑ̃,,,,panj1256-agroupoftwogirlsplayed;panj1256-agroupoffivegirlsplayed;panj1256-agroupoffourgirlsplayed;panj1256-agroupoftwelveboysreached;panj1256-agroupoftwentyfiveboysreached;panj1256-agroupoftwentyboysreached
+63-adiv1239,adiv1239,63,səmuh,,,,adiv1239-agroupoftwogirlsplayed;adiv1239-agroupoffivegirlsplayed;adiv1239-agroupoffourgirlsplayed;adiv1239-agroupoftwelveboysreached;adiv1239-agroupoftwentyfiveboysreached;adiv1239-agroupoftwentyboysreached
+63-sind1272,sind1272,63,ɡəɖ,,,,sind1272-agroupoftwogirlsplayed;sind1272-agroupoffivegirlsplayed;sind1272-agroupoffourgirlsplayed;sind1272-agroupoftwelveboysreached;sind1272-agroupoftwentyfiveboysreached;sind1272-agroupoftwentyboysreached
+63-paha1251,paha1251,63,ǰunɖ,,,,paha1251-agroupoftwogirlsplayed;paha1251-agroupoffivegirlsplayed;paha1251-agroupoffourgirlsplayed;paha1251-agroupoftwelveboysreached;paha1251-agroupoftwentyfiveboysreached;paha1251-agroupoftwentyboysreached
+63-sada1242,sada1242,63,dəl,,,,sada1242-agroupoftwogirlsplayed;sada1242-agroupoffivegirlsplayed;sada1242-agroupoffourgirlsplayed;sada1242-agroupoftwelveboysreached;sada1242-agroupoftwentyfiveboysreached;sada1242-agroupoftwentyboysreached
+63-wagd1238,wagd1238,63,səmuh,,,,wagd1238-agroupoftwogirlsplayed;wagd1238-agroupoffivegirlsplayed;wagd1238-agroupoffourgirlsplayed;wagd1238-agroupoftwelveboysreached;wagd1238-agroupoftwentyfiveboysreached;wagd1238-agroupoftwentyboysreached
+63-west2380,west2380,63,səb,,,,west2380-agroupoftwogirlsplayed;west2380-agroupoffivegirlsplayed;west2380-agroupoffourgirlsplayed;west2380-agroupoftwelveboysreached;west2380-agroupoftwentyfiveboysreached;west2380-agroupoftwentyboysreached
+63-sans1269,sans1269,63,səmɑhɑrəh,,,,sans1269-agroupoftwogirlsplayed;sans1269-agroupoffivegirlsplayed;sans1269-agroupoffourgirlsplayed;sans1269-agroupoftwelveboysreached;sans1269-agroupoftwentyfiveboysreached;sans1269-agroupoftwentyboysreached
+63-sylh1242,sylh1242,63,d̪ɔl,,,,sylh1242-agroupoftwogirlsplayed;sylh1242-agroupoffivegirlsplayed;sylh1242-agroupoffourgirlsplayed;sylh1242-agroupoftwelveboysreached;sylh1242-agroupoftwentyfiveboysreached;sylh1242-agroupoftwentyboysreached
+63-urdu1245,urdu1245,63,ɡruhũ /ɡɑruh,,,,urdu1245-agroupoftwogirlsplayed;urdu1245-agroupoffivegirlsplayed;urdu1245-agroupoffourgirlsplayed;urdu1245-agroupoftwelveboysreached;urdu1245-agroupoftwentyfiveboysreached;urdu1245-agroupoftwentyboysreached
+63-halb1244,halb1244,63,ǰən ǰʰən,,,,halb1244-agroupoftwogirlsplayed;halb1244-agroupoffivegirlsplayed;halb1244-agroupoffourgirlsplayed;halb1244-agroupoftwelveboysreached;halb1244-agroupoftwentyfiveboysreached;halb1244-agroupoftwentyboysreached
+63-maga1260,maga1260,63,ɡoʈʰ,,,,maga1260-agroupoftwogirlsplayed;maga1260-agroupoffivegirlsplayed;maga1260-agroupoffourgirlsplayed;maga1260-agroupoftwelveboysreached;maga1260-agroupoftwentyfiveboysreached;maga1260-agroupoftwentyboysreached
+64-dogr1250,dogr1250,64,joɖe,,,,dogr1250-twopairsofsocks;dogr1250-apairofsocksarelyinghere
+64-garh1243,garh1243,64,ǰoɖi,,,,garh1243-twopairsofsocks;garh1243-apairofsocksarelyinghere
+64-kuma1273,kuma1273,64,ǰoɖi,,,,kuma1273-twopairsofsocks;kuma1273-apairofsocksarelyinghere
+64-gadd1242,gadd1242,64,ǰoɖe,,,,gadd1242-twopairsofsocks;gadd1242-apairofsocksarelyinghere
+64-goan1235,goan1235,64,zɔɖ,,,,goan1235-twopairsofsocks;goan1235-apairofsocksarelyinghere
+64-nepa1254,nepa1254,64,ǰoɖi,,,,nepa1254-twopairsofsocks;nepa1254-apairofsocksarelyinghere
+64-kudm1238,kudm1238,64,kʰuɽ,,,,kudm1238-twopairsofsocks;kudm1238-apairofsocksarelyinghere
+64-beng1280,beng1280,64,ǰoɖɑ,,,,beng1280-twopairsofsocks;beng1280-apairofsocksarelyinghere
+64-assa1263,assa1263,64,zur,,,,assa1263-twopairsofsocks;assa1263-apairofsocksarelyinghere
+64-marw1260,marw1260,64,ǰoɖijɑ̃,,,,marw1260-twopairsofsocks;marw1260-apairofsocksarelyinghere
+64-panj1256,panj1256,64,ǰoɖe,,,,panj1256-twopairsofsocks;panj1256-apairofsocksarelyinghere
+64-adiv1239,adiv1239,64,ǰuɖe,,,,adiv1239-twopairsofsocks;adiv1239-apairofsocksarelyinghere
+64-kash1277,kash1277,64,ǰoɖ,,,,kash1277-twopairsofsocks;kash1277-apairofsocksarelyinghere
+64-mara1378,mara1378,64,dzoɖi,,,,mara1378-twopairsofsocks;mara1378-apairofsocksarelyinghere
+64-guja1252,guja1252,64,ǰoɖi,,,,guja1252-twopairsofsocks;guja1252-apairofsocksarelyinghere
+64-sind1272,sind1272,64,ǰoɖi,,,,sind1272-twopairsofsocks;sind1272-apairofsocksarelyinghere
+64-paha1251,paha1251,64,ǰoɽe,,,,paha1251-twopairsofsocks;paha1251-apairofsocksarelyinghere
+64-sada1242,sada1242,64,ǰoɖɑ,,,,sada1242-twopairsofsocks;sada1242-apairofsocksarelyinghere
+64-wagd1238,wagd1238,64,ǰoɖi,,,,wagd1238-twopairsofsocks;wagd1238-apairofsocksarelyinghere
+64-west2380,west2380,64,ǰoɽi,,,,west2380-twopairsofsocks;west2380-apairofsocksarelyinghere
+64-sans1269,sans1269,64,juɡəl,,,,sans1269-twopairsofsocks;sans1269-apairofsocksarelyinghere
+64-sylh1242,sylh1242,64,ɟuɽɑ,,,,sylh1242-twopairsofsocks;sylh1242-apairofsocksarelyinghere
+64-urdu1245,urdu1245,64,dʒoɽe,,,,urdu1245-twopairsofsocks;urdu1245-apairofsocksarelyinghere
+64-halb1244,halb1244,64,ǰoɖi,,,,halb1244-twopairsofsocks;halb1244-apairofsocksarelyinghere
+64-maga1260,maga1260,64,ǰoɖɑ,,,,maga1260-twopairsofsocks;maga1260-apairofsocksarelyinghere
+64-kull1236,kull1236,64,ǰoɖi,,,,kull1236-twopairsofsocks;kull1236-apairofsocksarelyinghere
+65-dogr1250,dogr1250,65,dərǰəno,,,,dogr1250-iwenttheredozenoftimes
+65-garh1243,garh1243,65,dərǰəno,,,,garh1243-iwenttheredozenoftimes
+65-kuma1273,kuma1273,65,dərǰəno,,,,kuma1273-iwenttheredozenoftimes
+65-gadd1242,gadd1242,65,dərǰən,,,,gadd1242-iwenttheredozenoftimes
+65-goan1235,goan1235,65,ɖəzən/bɑrɑ,,,,goan1235-iwenttheredozenoftimes
+65-nepa1254,nepa1254,65,dərǰəno,,,,nepa1254-iwenttheredozenoftimes
+65-kudm1238,kudm1238,65,dərǰənə,,,,kudm1238-iwenttheredozenoftimes
+65-beng1280,beng1280,65,ɖoǰon,,,,beng1280-iwenttheredozenoftimes
+65-assa1263,assa1263,65,bohut bɑr,,,,assa1263-iwenttheredozenoftimes
+65-marw1260,marw1260,65,əi bɑr,,,,marw1260-iwenttheredozenoftimes
+65-panj1256,panj1256,65,kəi ʋɑri,,,,panj1256-iwenttheredozenoftimes
+65-adiv1239,adiv1239,65,bəhut tʰər,,,,adiv1239-iwenttheredozenoftimes
+65-kash1277,kash1277,65,dərzənə,,,,kash1277-iwenttheredozenoftimes
+65-mara1378,mara1378,65,tithe (ʃəmbʰərda/hədzarda),,,,mara1378-iwenttheredozenoftimes
+65-guja1252,guja1252,65,ɡʰəɳi ʋəkʰət,,,,guja1252-iwenttheredozenoftimes
+65-sind1272,sind1272,65,ələj dəffɑ,,,,sind1272-iwenttheredozenoftimes
+65-paha1251,paha1251,65,dərǰən,,,,paha1251-iwenttheredozenoftimes
+65-sada1242,sada1242,65,dərǰəno,,,,sada1242-iwenttheredozenoftimes
+65-wagd1238,wagd1238,65,dərǰən,,,,wagd1238-iwenttheredozenoftimes
+65-west2380,west2380,65,dərǰən,,,,west2380-iwenttheredozenoftimes
+65-sans1269,sans1269,65,bəhubɑrəm,,,,sans1269-iwenttheredozenoftimes
+65-urdu1245,urdu1245,65,dərdʒənõ,,,,urdu1245-iwenttheredozenoftimes
+65-halb1244,halb1244,65,dərǰən,,,,halb1244-iwenttheredozenoftimes
+65-maga1260,maga1260,65,dərǰəno,,,,maga1260-iwenttheredozenoftimes
+66-dogr1250,dogr1250,66,ɑddi dərǰən,,,,dogr1250-iboughthalfadozeneggs
+66-garh1243,garh1243,66,ɑdʰɑ dərǰən,,,,garh1243-iboughthalfadozeneggs
+66-kuma1273,kuma1273,66,ɑdʰo dərǰən,,,,kuma1273-iboughthalfadozeneggs
+66-gadd1242,gadd1242,66,əddɑ dərǰən,,,,gadd1242-iboughthalfadozeneggs
+66-goan1235,goan1235,66,ɑrd̪ ɖəzən,,,,goan1235-iboughthalfadozeneggs
+66-nepa1254,nepa1254,66,ɑdʰɑ dərǰən,,,,nepa1254-iboughthalfadozeneggs
+66-kudm1238,kudm1238,66,ɑdʰɑ dərǰən,,,,kudm1238-iboughthalfadozeneggs
+66-beng1280,beng1280,66,čʰɔ-ʈɑ,,,,beng1280-iboughthalfadozeneggs
+66-assa1263,assa1263,66,ɑdʰɑ ɖəzən,,,,assa1263-iboughthalfadozeneggs
+66-marw1260,marw1260,66,ɑddɑ dərǰən,,,,marw1260-iboughthalfadozeneggs
+66-panj1256,panj1256,66,əddɑ dərjən,,,,panj1256-iboughthalfadozeneggs
+66-adiv1239,adiv1239,66,čʰoʈɑ,,,,adiv1239-iboughthalfadozeneggs
+66-kash1277,kash1277,66,oɖ dərzən,,,,kash1277-iboughthalfadozeneggs
+66-mara1378,mara1378,66,ərdʰa ɖəzən,,,,mara1378-iboughthalfadozeneggs
+66-guja1252,guja1252,66,ərdʰɑ ɖəzən,,,,guja1252-iboughthalfadozeneggs
+66-sind1272,sind1272,66,ədʰ dərǰən,,,,sind1272-iboughthalfadozeneggs
+66-paha1251,paha1251,66,əddɑ dərǰən,,,,paha1251-iboughthalfadozeneggs
+66-sada1242,sada1242,66,ɑdʰɑ dərǰən,,,,sada1242-iboughthalfadozeneggs
+66-wagd1238,wagd1238,66,əɖdo dərǰən,,,,wagd1238-iboughthalfadozeneggs
+66-west2380,west2380,66,ɑdʰɑ dərǰən,,,,west2380-iboughthalfadozeneggs
+66-sans1269,sans1269,66,ərdʰəseʈəkəm,,,,sans1269-iboughthalfadozeneggs
+66-sylh1242,sylh1242,66,sɔjʈɑ,,,,sylh1242-iboughthalfadozeneggs
+66-urdu1245,urdu1245,66,ɑdhɑ dərǰən,,,,urdu1245-iboughthalfadozeneggs
+66-halb1244,halb1244,66,adʰɑ dərǰən,,,,halb1244-iboughthalfadozeneggs
+66-maga1260,maga1260,66,ɑdʰɑ dərǰən,,,,maga1260-iboughthalfadozeneggs
+66-kull1236,kull1236,66,odʰɑ dərǰən,,,,kull1236-iboughthalfadozeneggs
