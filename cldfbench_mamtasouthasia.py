@@ -119,7 +119,7 @@ def make_values(raw_indoaryan_data, value_examples):
     parameter_rows = (
         datarow
         for datarow in raw_indoaryan_data
-        if datarow.id.startswith('LP'))
+        if is_parameter_id(datarow.id))
     return [
         {
             'ID': f'{datarow.id}-{language_id}',
