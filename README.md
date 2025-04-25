@@ -1,5 +1,7 @@
 # Special numerals in South Asian languages
 
+[![CLDF validation](https://github.com/cldf-datasets/mamtasouthasia/workflows/CLDF-validation/badge.svg)](https://github.com/cldf-datasets/mamtasouthasia/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
