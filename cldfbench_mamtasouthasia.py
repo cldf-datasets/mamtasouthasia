@@ -4,15 +4,16 @@ import sys
 import unicodedata
 from collections import namedtuple, defaultdict
 
+import openpyxl
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
 
 DataRow = namedtuple('DataRow', 'id name data')
 
 
-def slug(s):
+def slug(s, lowercase=True):
     return ''.join(
-        c.lower()
+        c.lower() if lowercase else c
         for c in unicodedata.normalize('NFKD', s)
         if c.isascii() and c.isalnum())
 
@@ -53,7 +54,7 @@ def read_csv_data(path, language_names):
                 data={
                     lang_cols[i]: cell
                     for i, cell in enumerate(row)
-                    if i > 0 and i in lang_cols and cell != '-'})
+                    if i > 0 and i in lang_cols and cell and cell != '-'})
             for row in rdr
             if row and row[0]]
 
@@ -72,6 +73,10 @@ def make_languages(language_names, glottolog_langs):
         for language_name, language_id in language_names.items()]
 
 
+def is_parameter_id(id_):
+    return id_.isnumeric()
+
+
 def make_parameters(datarows):
     return [
         {
@@ -79,21 +84,25 @@ def make_parameters(datarows):
             'Name': datarow.name,
         }
         for datarow in datarows
-        if datarow.id.startswith('LP')]
+        if is_parameter_id(datarow.id)]
+
+
+def is_example_id(id_):
+    return id_.startswith('ex ')
 
 
 def make_examples(datarows):
     example_rows = (
         datarow
         for datarow in datarows
-        if datarow.id.startswith('ex-'))
+        if is_example_id(datarow.id))
     return [
         {
             'ID': f'{language_id}-{slug(datarow.name)}',
             'Language_ID': language_id,
             'Primary_Text': value,
             'Translated_Text': datarow.name,
-            'Parameter_ID': datarow.id.split('-', maxsplit=1)[1],
+            'Parameter_ID': datarow.id.split(' ', maxsplit=1)[1],
         }
         for datarow in example_rows
         for language_id, value in datarow.data.items()]
@@ -161,6 +170,9 @@ class Dataset(BaseDataset):
         if not csv_dir.exists():
             csv_dir.mkdir()
         self.raw_dir.xlsx2csv('Mamta_added.xlsx', outdir=csv_dir)
+        args.log.warn('Did you remember to convert all cells to TEXT?')
+        args.log.warn('Because if not all the fractions will be scrambled')
+        args.log.warn('(i.e. misinterpreted as floating point or dates)!')
 
     def cmd_makecldf(self, args):
         """
