@@ -4,7 +4,6 @@ import sys
 import unicodedata
 from collections import namedtuple, defaultdict
 
-import openpyxl
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
 
@@ -24,7 +23,8 @@ def read_language_names(path):
         header = next(rdr)
         name_col = header.index('Name')
         gc_col = header.index('Glottocode')
-        assert name_col >= 0 and gc_col >= 0
+        assert name_col >= 0
+        assert gc_col >= 0
         return {row[name_col]: row[gc_col] for row in rdr if row and any(row)}
 
 
