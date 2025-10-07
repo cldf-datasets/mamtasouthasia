@@ -6,6 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://crossgram.clld.org/contributions/mamtasouthasia",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Special numerals in South Asian languages",
     "dcat:accessURL": "https://github.com/cldf-datasets/mamtasouthasia",
@@ -13,20 +14,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/mamtasouthasia",
             "rdf:type": "prov:Entity",
-            "dc:created": "e3fddf0",
+            "dc:created": "cd14ec8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.19"
+            "dc:description": "3.10.18"
         },
         {
             "dc:title": "python-packages",
