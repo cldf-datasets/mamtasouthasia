@@ -62,6 +62,12 @@ def read_csv_data(path, language_names):
             if row and row[0]]
 
 
+def normalise_csv(table):
+    return [
+        {k.strip(): v.strip() for k, v in row.items() if k.strip() and v.strip()}
+        for row in table]
+
+
 def make_languages(language_names, glottolog_langs):
     return [
         {
@@ -74,20 +80,6 @@ def make_languages(language_names, glottolog_langs):
             'Macroarea': lg.macroareas[0].name if lg.macroareas else '',
         }
         for language_name, language_id in language_names.items()]
-
-
-def is_parameter_id(id_):
-    return id_.isnumeric()
-
-
-def make_parameters(datarows):
-    return [
-        {
-            'ID': datarow.id,
-            'Name': datarow.name,
-        }
-        for datarow in datarows
-        if is_parameter_id(datarow.id)]
 
 
 def is_example_id(id_):
@@ -116,6 +108,10 @@ def assoc_value_examples(examples):
     for example in examples:
         value_examples[example['Language_ID'], example['Parameter_ID']].append(example['ID'])
     return value_examples
+
+
+def is_parameter_id(id_):
+    return id_.isnumeric()
 
 
 def make_values(raw_indoaryan_data, value_examples):
@@ -246,6 +242,8 @@ class Dataset(BaseDataset):
         language_names = read_language_names(csv_dir / 'Mamta_added.Languages.csv')
         raw_indoaryan_data = read_csv_data(
             csv_dir / 'Mamta_added.IndoAryan.csv', language_names)
+        parameter_table = normalise_csv(self.etc_dir.read_csv(
+            'parameters.csv', dicts=True))
 
         # create cldf
 
@@ -254,7 +252,6 @@ class Dataset(BaseDataset):
             for lg in args.glottolog.api.languoids(ids=set(language_names.values()))}
         language_table = make_languages(language_names, glottolog_langs)
 
-        parameter_table = make_parameters(raw_indoaryan_data)
         example_table = make_examples(raw_indoaryan_data)
 
         value_examples = assoc_value_examples(example_table)
