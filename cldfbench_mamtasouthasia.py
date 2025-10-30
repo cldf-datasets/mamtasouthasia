@@ -1,8 +1,11 @@
 import csv
+import datetime
 import pathlib
 import sys
 import unicodedata
 from collections import namedtuple, defaultdict
+
+import openpyxl
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
@@ -160,7 +163,7 @@ class Dataset(BaseDataset):
             module="StructureDataset",
             metadata_fname='cldf-metadata.json')
 
-    def cmd_download(self, args):
+    def cmd_download(self, _args):
         """
         Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
 
@@ -169,10 +172,66 @@ class Dataset(BaseDataset):
         csv_dir = self.raw_dir / 'csv-export'
         if not csv_dir.exists():
             csv_dir.mkdir()
-        self.raw_dir.xlsx2csv('Mamta_added.xlsx', outdir=csv_dir)
-        args.log.warn('Did you remember to convert all cells to TEXT?')
-        args.log.warn('Because if not all the fractions will be scrambled')
-        args.log.warn('(i.e. misinterpreted as floating point or dates)!')
+        excel_file = self.raw_dir / 'Mamta_added.xlsx'
+
+        def _fraction_to_str(n, enum, denom):
+            if abs(n - (enum / denom)) < 0.0001:
+                return f'{enum}/{denom}'
+            else:
+                return ''
+
+        def _float_to_fraction(n):
+            s = (
+                _fraction_to_str(n, 1, 2)
+                or _fraction_to_str(n, 1, 2)
+                or _fraction_to_str(n, 2, 3)
+                or _fraction_to_str(n, 1, 4)
+                or _fraction_to_str(n, 3, 4)
+                or _fraction_to_str(n, 1, 5)
+                or _fraction_to_str(n, 3, 5)
+                or _fraction_to_str(n, 2, 6)
+                or _fraction_to_str(n, 2, 7)
+                or _fraction_to_str(n, 3, 7)
+                or _fraction_to_str(n, 1, 10)
+                or _fraction_to_str(n, 1, 16))
+            assert s, n
+            return s
+
+        def _cell_str(cell):
+            # i am not fond of excel...
+            if not cell.value:
+                return ''
+            elif isinstance(cell.value, int):
+                if cell.number_format in {'General',  '# ?/?'}:
+                    return str(cell.value)
+                else:
+                    raise AssertionError(cell.number_format)
+            elif isinstance(cell.value, float):
+                if cell.number_format == 'General':
+                    return str(cell.value)
+                elif cell.number_format == '# ?/?':
+                    return _float_to_fraction(cell.value)
+                elif cell.number_format == '# ??/16':
+                    return f'{int(cell.value * 16)}/16'
+                else:
+                    raise AssertionError(cell.number_format)
+            elif isinstance(cell.value, datetime.datetime):
+                if cell.number_format == 'm/d':
+                    return f'{cell.value.month}/{cell.value.day}'
+                else:
+                    raise AssertionError(cell.number_format)
+            else:
+                return str(cell.value.strip())
+
+        workbook = openpyxl.load_workbook(excel_file, data_only=True)
+        for sheet in workbook:
+            suffix = slug(sheet.title, lowercase=False)
+            csv_file = csv_dir / f'{excel_file.stem}.{suffix}.csv'
+            with open(csv_file, 'w', encoding='utf-8') as f:
+                wtr = csv.writer(f)
+                wtr.writerows(
+                    list(map(_cell_str, row))
+                    for row in sheet.rows)
 
     def cmd_makecldf(self, args):
         """
