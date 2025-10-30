@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/mamtasouthasia",
             "rdf:type": "prov:Entity",
-            "dc:created": "cd14ec8",
+            "dc:created": "327cb94",
             "dc:title": "Repository"
         },
         {
@@ -39,7 +39,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 1565,
+            "dc:extent": 1677,
             "tableSchema": {
                 "columns": [
                     {
@@ -261,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 1581,
+            "dc:extent": 1685,
             "tableSchema": {
                 "columns": [
                     {

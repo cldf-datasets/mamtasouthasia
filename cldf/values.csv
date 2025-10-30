@@ -20,10 +20,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 1-wagd1238,wagd1238,1,ek,,,,wagd1238-oneboy;wagd1238-onesheep;wagd1238-onegirl;wagd1238-onetree;wagd1238-ihaveonebrother;wagd1238-ihaveonesister;wagd1238-ihaveonealmirah;wagd1238-ihaveonebag
 1-west2380,west2380,1,ek,,,,west2380-oneboy;west2380-onesheep;west2380-onegirl;west2380-onetree;west2380-ihaveonebrother;west2380-ihaveonesister;west2380-ihaveonealmirah;west2380-ihaveonebag
 1-sans1269,sans1269,1,ekəm,,,,sans1269-oneboy;sans1269-onesheep;sans1269-onegirl;sans1269-onetree;sans1269-ihaveonebrother;sans1269-ihaveonesister;sans1269-ihaveonebag
+1-panc1246,panc1246,1,ek,,,,panc1246-oneboy;panc1246-onesheep;panc1246-onegirl;panc1246-onetree;panc1246-ihaveonebrother;panc1246-ihaveonesister;panc1246-ihaveonealmirah;panc1246-ihaveonebag
 1-sylh1242,sylh1242,1,æx,,,,sylh1242-oneboy;sylh1242-onesheep;sylh1242-onegirl;sylh1242-onetree;sylh1242-ihaveonebrother;sylh1242-ihaveonesister;sylh1242-ihaveonealmirah;sylh1242-ihaveonebag
 1-urdu1245,urdu1245,1,ɑek/ik/ek,,,,urdu1245-oneboy;urdu1245-onesheep;urdu1245-onegirl;urdu1245-onetree;urdu1245-ihaveonebrother;urdu1245-ihaveonesister;urdu1245-ihaveonealmirah;urdu1245-ihaveonebag
 1-halb1244,halb1244,1,ek,,,,halb1244-oneboy;halb1244-onesheep;halb1244-onegirl;halb1244-onetree;halb1244-ihaveonebrother;halb1244-ihaveonesister;halb1244-ihaveonealmirah;halb1244-ihaveonebag
 1-maga1260,maga1260,1,ek,,,,maga1260-oneboy;maga1260-onesheep;maga1260-onegirl;maga1260-onetree;maga1260-ihaveonebrother;maga1260-ihaveonesister;maga1260-ihaveonealmirah;maga1260-ihaveonebag
+1-rajb1243,rajb1243,1,ɛk,,,,rajb1243-oneboy;rajb1243-onesheep;rajb1243-onegirl;rajb1243-onetree
 1-kull1236,kull1236,1,ek,,,,kull1236-oneboy;kull1236-onesheep;kull1236-onegirl;kull1236-onetree;kull1236-ihaveonebrother;kull1236-ihaveonesister;kull1236-ihaveonealmirah;kull1236-ihaveonebag
 2-dogr1250,dogr1250,2,do,,,,dogr1250-twoboys;dogr1250-twogirls;dogr1250-ihavetwobrothers;dogr1250-ihavetwosisters;dogr1250-ihavetwoalmirahs
 2-garh1243,garh1243,2,dʋi,,,,garh1243-twoboys;garh1243-twogirls;garh1243-ihavetwobrothers;garh1243-ihavetwosisters;garh1243-ihavetwoalmirahs
@@ -46,10 +48,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 2-wagd1238,wagd1238,2,be,,,,wagd1238-twoboys;wagd1238-twogirls;wagd1238-ihavetwobrothers;wagd1238-ihavetwosisters;wagd1238-ihavetwoalmirahs
 2-west2380,west2380,2,du,,,,west2380-twoboys;west2380-twogirls;west2380-ihavetwobrothers;west2380-ihavetwosisters;west2380-ihavetwoalmirahs
 2-sans1269,sans1269,2,dʋe,,,,sans1269-twoboys;sans1269-twogirls;sans1269-ihavetwobrothers;sans1269-ihavetwosisters
+2-panc1246,panc1246,2,dui,,,,panc1246-twoboys;panc1246-twogirls;panc1246-ihavetwobrothers;panc1246-ihavetwosisters;panc1246-ihavetwoalmirahs
 2-sylh1242,sylh1242,2,dui,,,,sylh1242-twoboys;sylh1242-twogirls;sylh1242-ihavetwobrothers;sylh1242-ihavetwosisters;sylh1242-ihavetwoalmirahs
 2-urdu1245,urdu1245,2,do,,,,urdu1245-twoboys;urdu1245-twogirls;urdu1245-ihavetwobrothers;urdu1245-ihavetwosisters;urdu1245-ihavetwoalmirahs
 2-halb1244,halb1244,2,duj,,,,halb1244-twoboys;halb1244-twogirls;halb1244-ihavetwobrothers;halb1244-ihavetwosisters;halb1244-ihavetwoalmirahs
 2-maga1260,maga1260,2,du,,,,maga1260-twoboys;maga1260-twogirls;maga1260-ihavetwobrothers;maga1260-ihavetwosisters;maga1260-ihavetwoalmirahs
+2-rajb1243,rajb1243,2,dui,,,,rajb1243-twoboys;rajb1243-twogirls
 2-kull1236,kull1236,2,dui,,,,kull1236-twoboys;kull1236-twogirls;kull1236-ihavetwobrothers;kull1236-ihavetwosisters;kull1236-ihavetwoalmirahs
 3-dogr1250,dogr1250,3,trɛ,,,,dogr1250-threegirls;dogr1250-ihavethreesisters;dogr1250-ihavethreebags
 3-garh1243,garh1243,3,tin,,,,garh1243-threegirls;garh1243-ihavethreesisters;garh1243-ihavethreebags
@@ -72,10 +76,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 3-wagd1238,wagd1238,3,trəɳ,,,,wagd1238-threegirls;wagd1238-ihavethreesisters;wagd1238-ihavethreebags
 3-west2380,west2380,3,tin,,,,west2380-threegirls;west2380-ihavethreesisters;west2380-ihavethreebags
 3-sans1269,sans1269,3,triɳi,,,,sans1269-threegirls;sans1269-ihavethreesisters;sans1269-ihavethreebags
+3-panc1246,panc1246,3,tin,,,,panc1246-threegirls;panc1246-ihavethreesisters;panc1246-ihavethreebags
 3-sylh1242,sylh1242,3,ti:n,,,,sylh1242-threegirls;sylh1242-ihavethreesisters;sylh1242-ihavethreebags
 3-urdu1245,urdu1245,3,tin,,,,urdu1245-threegirls;urdu1245-ihavethreesisters;urdu1245-ihavethreebags
 3-halb1244,halb1244,3,tin,,,,halb1244-threegirls;halb1244-ihavethreesisters;halb1244-ihavethreebags
 3-maga1260,maga1260,3,tin,,,,maga1260-threegirls;maga1260-ihavethreesisters;maga1260-ihavethreebags
+3-rajb1243,rajb1243,3,tin,,,,rajb1243-threegirls
 3-kull1236,kull1236,3,trɑi,,,,kull1236-threegirls;kull1236-ihavethreesisters;kull1236-ihavethreebags
 4-dogr1250,dogr1250,4,cɑr,,,,dogr1250-ihavefourbags
 4-garh1243,garh1243,4,cɑr,,,,garh1243-ihavefourbags
@@ -98,10 +104,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 4-wagd1238,wagd1238,4,ʃɑr,,,,wagd1238-ihavefourbags
 4-west2380,west2380,4,cɑr,,,,west2380-ihavefourbags
 4-sans1269,sans1269,4,cətʋɑri,,,,sans1269-ihavefourbags
+4-panc1246,panc1246,4,tʃɑir,,,,panc1246-ihavefourbags
 4-sylh1242,sylh1242,4,sɑir,,,,sylh1242-ihavefourbags
 4-urdu1245,urdu1245,4,tʃɑr,,,,urdu1245-ihavefourbags
 4-halb1244,halb1244,4,cɑr,,,,halb1244-ihavefourbags
 4-maga1260,maga1260,4,cɑir,,,,maga1260-ihavefourbags
+4-rajb1243,rajb1243,4,cɑir,,,,
 4-kull1236,kull1236,4,tʃɑ:r,,,,kull1236-ihavefourbags
 5-dogr1250,dogr1250,5,pənɟ,,,,dogr1250-fivesheep
 5-garh1243,garh1243,5,pɑc,,,,garh1243-fivesheep
@@ -124,10 +132,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 5-wagd1238,wagd1238,5,pɑs,,,,wagd1238-fivesheep
 5-west2380,west2380,5,pɑ̃c,,,,west2380-fivesheep
 5-sans1269,sans1269,5,pənc,,,,sans1269-fivesheep
+5-panc1246,panc1246,5,pɑ̃tʃ,,,,panc1246-fivesheep
 5-sylh1242,sylh1242,5,fɑs,,,,sylh1242-fivesheep
 5-urdu1245,urdu1245,5,pɑ̃tʃ,,,,urdu1245-fivesheep
 5-halb1244,halb1244,5,pɑ̃c,,,,halb1244-fivesheep
 5-maga1260,maga1260,5,pɑ̃c,,,,maga1260-fivesheep
+5-rajb1243,rajb1243,5,pɑc,,,,rajb1243-fivesheep
 5-kull1236,kull1236,5,põɟ,,,,kull1236-fivesheep
 6-dogr1250,dogr1250,6,se,,,,
 6-garh1243,garh1243,6,cʰɛ,,,,
@@ -150,10 +160,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 6-wagd1238,wagd1238,6,cʰo,,,,
 6-west2380,west2380,6,cʰɔ,,,,
 6-sans1269,sans1269,6,ʂəʈ,,,,
+6-panc1246,panc1246,6,cʰɔ,,,,
 6-sylh1242,sylh1242,6,sɔe,,,,
 6-urdu1245,urdu1245,6,tʃeh,,,,
 6-halb1244,halb1244,6,cʰəj,,,,
 6-maga1260,maga1260,6,cʰe,,,,
+6-rajb1243,rajb1243,6,tʃɔe,,,,
 6-kull1236,kull1236,6,tʃɔ,,,,
 7-dogr1250,dogr1250,7,sət,,,,
 7-garh1243,garh1243,7,sɑt,,,,
@@ -176,10 +188,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 7-wagd1238,wagd1238,7,hɑt,,,,
 7-west2380,west2380,7,sɑt,,,,
 7-sans1269,sans1269,7,səpt,,,,
+7-panc1246,panc1246,7,sɑt,,,,
 7-sylh1242,sylh1242,7,ʃɑt,,,,
 7-urdu1245,urdu1245,7,sɑt,,,,
 7-halb1244,halb1244,7,sɑt,,,,
 7-maga1260,maga1260,7,sɑt,,,,
+7-rajb1243,rajb1243,7,tʃɑ:t,,,,
 7-kull1236,kull1236,7,ʃɔt,,,,
 8-dogr1250,dogr1250,8,əʈʰ,,,,dogr1250-eighttrees
 8-garh1243,garh1243,8,ɑʈʰ,,,,garh1243-eighttrees
@@ -202,10 +216,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 8-wagd1238,wagd1238,8,ɑʈ,,,,wagd1238-eighttrees
 8-west2380,west2380,8,ɑʈʰ,,,,west2380-eighttrees
 8-sans1269,sans1269,8,əʃʈ,,,,sans1269-eighttrees
+8-panc1246,panc1246,8,ɑʈʰ,,,,panc1246-eighttrees
 8-sylh1242,sylh1242,8,ɑʈ,,,,sylh1242-eighttrees
 8-urdu1245,urdu1245,8,ɑʈʰ,,,,urdu1245-eighttrees
 8-halb1244,halb1244,8,ɑʈ,,,,halb1244-eighttrees
 8-maga1260,maga1260,8,ɑtʰ,,,,maga1260-eighttrees
+8-rajb1243,rajb1243,8,ɑ:ʈʰ,,,,rajb1243-eighttrees
 8-kull1236,kull1236,8,ɔʈʰ,,,,kull1236-eighttrees
 9-dogr1250,dogr1250,9,nɔ,,,,
 9-garh1243,garh1243,9,nɔ,,,,
@@ -228,10 +244,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 9-wagd1238,wagd1238,9,nɔʋ,,,,
 9-west2380,west2380,9,nɔ,,,,
 9-sans1269,sans1269,9,nəʋ,,,,
+9-panc1246,panc1246,9,nɔ,,,,
 9-sylh1242,sylh1242,9,nɔe,,,,
 9-urdu1245,urdu1245,9,nɔ,,,,
 9-halb1244,halb1244,9,nɔ,,,,
 9-maga1260,maga1260,9,nɔ,,,,
+9-rajb1243,rajb1243,9,nɔe,,,,
 9-kull1236,kull1236,9,nɔu,,,,
 10-dogr1250,dogr1250,10,dəs,,,,
 10-garh1243,garh1243,10,dəs,,,,
@@ -254,10 +272,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 10-wagd1238,wagd1238,10,dəs,,,,
 10-west2380,west2380,10,dəs,,,,
 10-sans1269,sans1269,10,dəʃ,,,,
+10-panc1246,panc1246,10,dəs,,,,
 10-sylh1242,sylh1242,10,dɔʃ,,,,
 10-urdu1245,urdu1245,10,dəs,,,,
 10-halb1244,halb1244,10,dəs,,,,
 10-maga1260,maga1260,10,dəs,,,,
+10-rajb1243,rajb1243,10,dos,,,,
 10-kull1236,kull1236,10,dəs,,,,
 11-dogr1250,dogr1250,11,pɛlɑ,,,,dogr1250-firstman;dogr1250-firstwoman
 11-garh1243,garh1243,11,pehlu,,,,garh1243-firstman;garh1243-firstwoman
@@ -280,10 +300,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 11-wagd1238,wagd1238,11,pelo,,,,wagd1238-firstman;wagd1238-firstwoman
 11-west2380,west2380,11,pəhilɑ,,,,west2380-firstman;west2380-firstwoman
 11-sans1269,sans1269,11,prətʰəməh(M)/prətʰəmɑ(F)/prətʰməm(N),,,,sans1269-firstman;sans1269-firstwoman
+11-panc1246,panc1246,11,pəhlɑ,,,,panc1246-firstman;panc1246-firstwoman
 11-sylh1242,sylh1242,11,fort̪om,,,,sylh1242-firstman;sylh1242-firstwoman
 11-urdu1245,urdu1245,11,pehlɑ,,,,urdu1245-firstman;urdu1245-firstwoman
 11-halb1244,halb1244,11,pəhil,,,,halb1244-firstman;halb1244-firstwoman
 11-maga1260,maga1260,11,pehlɑ,,,,maga1260-firstman;maga1260-firstwoman
+11-rajb1243,rajb1243,11,potʰom,,,,rajb1243-firstman;rajb1243-firstwoman
 11-kull1236,kull1236,11,pɛlɑ,,,,kull1236-firstman;kull1236-firstwoman
 12-dogr1250,dogr1250,12,duʋɑ,,,,dogr1250-secondman;dogr1250-secondwoman
 12-garh1243,garh1243,12,dusru,,,,garh1243-secondman;garh1243-secondwoman
@@ -306,10 +328,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 12-wagd1238,wagd1238,12,biǰo,,,,wagd1238-secondman;wagd1238-secondwoman
 12-west2380,west2380,12,dusrɑ,,,,west2380-secondman;west2380-secondwoman
 12-sans1269,sans1269,12,dʋitijəh/dʋitijɑ/dʋitijəm,,,,sans1269-secondman;sans1269-secondwoman
+12-panc1246,panc1246,12,dusrɑ,,,,panc1246-secondman;panc1246-secondwoman
 12-sylh1242,sylh1242,12,d̪it̪ijo,,,,sylh1242-secondman;sylh1242-secondwoman
 12-urdu1245,urdu1245,12,dusrɑ,,,,urdu1245-secondman;urdu1245-secondwoman
 12-halb1244,halb1244,12,dusər,,,,halb1244-secondman;halb1244-secondwoman
 12-maga1260,maga1260,12,dusrɑ,,,,maga1260-secondman;maga1260-secondwoman
+12-rajb1243,rajb1243,12,ditijo,,,,rajb1243-secondman;rajb1243-secondwoman
 12-kull1236,kull1236,12,duǰǰɑ,,,,kull1236-secondman;kull1236-secondwoman
 13-dogr1250,dogr1250,13,trijɑ,,,,dogr1250-thirdman;dogr1250-thirdwoman
 13-garh1243,garh1243,13,tisru,,,,garh1243-thirdman;garh1243-thirdwoman
@@ -331,10 +355,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 13-wagd1238,wagd1238,13,tisro,,,,wagd1238-thirdman;wagd1238-thirdwoman
 13-west2380,west2380,13,tisrɑ,,,,west2380-thirdman;west2380-thirdwoman
 13-sans1269,sans1269,13,tritijəh/tritijɑ/tritijəm,,,,sans1269-thirdman;sans1269-thirdwoman
+13-panc1246,panc1246,13,tisrɑ,,,,panc1246-thirdman;panc1246-thirdwoman
 13-sylh1242,sylh1242,13,t̪rit̪ijo,,,,sylh1242-thirdman;sylh1242-thirdwoman
 13-urdu1245,urdu1245,13,tisrɑ,,,,urdu1245-thirdman;urdu1245-thirdwoman
 13-halb1244,halb1244,13,tisər,,,,halb1244-thirdman;halb1244-thirdwoman
 13-maga1260,maga1260,13,tisrɑ,,,,maga1260-thirdman;maga1260-thirdwoman
+13-rajb1243,rajb1243,13,titijo,,,,rajb1243-thirdman;rajb1243-thirdwoman
 13-kull1236,kull1236,13,triǰɑ,,,,kull1236-thirdman;kull1236-thirdwoman
 14-dogr1250,dogr1250,14,čotʰɑ,,,,dogr1250-fourthman;dogr1250-fourthwoman
 14-garh1243,garh1243,14,čotʰu,,,,garh1243-fourthman;garh1243-fourthwoman
@@ -356,10 +382,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 14-wagd1238,wagd1238,14,čɔtʰo,,,,wagd1238-fourthman;wagd1238-fourthwoman
 14-west2380,west2380,14,čəutʰɑ,,,,west2380-fourthman;west2380-fourthwoman
 14-sans1269,sans1269,14,čəturtʰəh/čəturtʰɑ/čəturtʰəm,,,,sans1269-fourthman;sans1269-fourthwoman
+14-panc1246,panc1246,14,cəutʰɑ,,,,panc1246-fourthman;panc1246-fourthwoman
 14-sylh1242,sylh1242,14,sot̪urt̪ʰo,,,,sylh1242-fourthman;sylh1242-fourthwoman
 14-urdu1245,urdu1245,14,tʃotʰɑ,,,,urdu1245-fourthman;urdu1245-fourthwoman
 14-halb1244,halb1244,14,čəʋtʰɑ,,,,halb1244-fourthman;halb1244-fourthwoman
 14-maga1260,maga1260,14,čɔtʰɑ,,,,maga1260-fourthman;maga1260-fourthwoman
+14-rajb1243,rajb1243,14,čotutʰo,,,,rajb1243-fourthman;rajb1243-fourthwoman
 14-kull1236,kull1236,14,čɔutʰɑ,,,,kull1236-fourthman;kull1236-fourthwoman
 15-dogr1250,dogr1250,15,pəimɑ,,,,dogr1250-fifthman;dogr1250-fifthwoman
 15-garh1243,garh1243,15,pɑ̃ču,,,,garh1243-fifthman;garh1243-fifthwoman
@@ -381,10 +409,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 15-wagd1238,wagd1238,15,pɑčʋo,,,,wagd1238-fifthman;wagd1238-fifthwoman
 15-west2380,west2380,15,pəčmɑ,,,,west2380-fifthman;west2380-fifthwoman
 15-sans1269,sans1269,15,pə̃nčməh/pə̃nčmɑ/pə̃nčməm,,,,sans1269-fifthman;sans1269-fifthwoman
+15-panc1246,panc1246,15,pɑ̃cʋɑ̃,,,,panc1246-fifthman;panc1246-fifthwoman
 15-sylh1242,sylh1242,15,fɔncom,,,,sylh1242-fifthman;sylh1242-fifthwoman
 15-urdu1245,urdu1245,15,pɑ̃tʃʋɑ̃,,,,urdu1245-fifthman;urdu1245-fifthwoman
 15-halb1244,halb1244,15,pɑ̃čʋɑ̃,,,,halb1244-fifthman;halb1244-fifthwoman
 15-maga1260,maga1260,15,pɑ̃nčʋɑ,,,,maga1260-fifthman;maga1260-fifthwoman
+15-rajb1243,rajb1243,15,pončom,,,,rajb1243-fifthman;rajb1243-fifthwoman
 15-kull1236,kull1236,15,põnǰʋɑ̃,,,,kull1236-fifthman;kull1236-fifthwoman
 16-dogr1250,dogr1250,16,šədmɑ,,,,dogr1250-sixthwoman
 16-garh1243,garh1243,16,čʰəʈu,,,,garh1243-sixthwoman
@@ -406,10 +436,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 16-wagd1238,wagd1238,16,čʰəʈʈo,,,,wagd1238-sixthwoman
 16-west2380,west2380,16,čʰəʈʈɑ,,,,west2380-sixthwoman
 16-sans1269,sans1269,16,ʂəsʈəh/ʂəsʈʰəmɑ/ʂəsʈʰəm,,,,sans1269-sixthwoman
+16-panc1246,panc1246,16,čʰəʈɑ̃,,,,panc1246-sixthwoman
 16-sylh1242,sylh1242,16,ʃɔʃʈʰo,,,,sylh1242-sixthwoman
 16-urdu1245,urdu1245,16,tʃʰəʈɑ,,,,urdu1245-sixthwoman
 16-halb1244,halb1244,16,čʰəʈʋɑ̃,,,,halb1244-sixthwoman
 16-maga1260,maga1260,16,čʰəʈʈʰɑ,,,,maga1260-sixthwoman
+16-rajb1243,rajb1243,16,čʰosʈom,,,,rajb1243-sixthwoman
 16-kull1236,kull1236,16,čʰəuʋɑ̃,,,,kull1236-sixthwoman
 17-dogr1250,dogr1250,17,sətmɑ,,,,dogr1250-seventhboy
 17-garh1243,garh1243,17,sətu,,,,garh1243-seventhboy
@@ -431,10 +463,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 17-wagd1238,wagd1238,17,sɑtʋo,,,,wagd1238-seventhboy
 17-west2380,west2380,17,sətmɑ,,,,west2380-seventhboy
 17-sans1269,sans1269,17,səptəməh/səptəmɑ/səptəməm,,,,sans1269-seventhboy
+17-panc1246,panc1246,17,sɑtʋɑ̃,,,,panc1246-seventhboy
 17-sylh1242,sylh1242,17,ʃɔpt̪ɔm,,,,sylh1242-seventhboy
 17-urdu1245,urdu1245,17,sɑtʋɑ̃,,,,urdu1245-seventhboy
 17-halb1244,halb1244,17,sɑtʋɑ̃,,,,halb1244-seventhboy
 17-maga1260,maga1260,17,sɑtʋɑ,,,,maga1260-seventhboy
+17-rajb1243,rajb1243,17,sɔptom,,,,rajb1243-seventhboy
 17-kull1236,kull1236,17,sɔtuʋɑ̃,,,,kull1236-seventhboy
 18-dogr1250,dogr1250,18,əʈʰmɑ,,,,dogr1250-eighthgirl
 18-garh1243,garh1243,18,əʈʰu,,,,garh1243-eighthgirl
@@ -456,10 +490,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 18-wagd1238,wagd1238,18,ɑʈʰʋo,,,,wagd1238-eighthgirl
 18-west2380,west2380,18,əʈʰmɑ,,,,west2380-eighthgirl
 18-sans1269,sans1269,18,əsʈəməh/əsʈəmɑ/əsʈəməm,,,,sans1269-eighthgirl
+18-panc1246,panc1246,18,ɑʈʰʋɑ̃,,,,panc1246-eighthgirl
 18-sylh1242,sylh1242,18,ɔʃʈɔm,,,,sylh1242-eighthgirl
 18-urdu1245,urdu1245,18,ɑʈʰʋɑ̃,,,,urdu1245-eighthgirl
 18-halb1244,halb1244,18,ɑʈʋɑ̃,,,,halb1244-eighthgirl
 18-maga1260,maga1260,18,ɑʈʰʋɑ,,,,maga1260-eighthgirl
+18-rajb1243,rajb1243,18,ɔsʈom,,,,rajb1243-eighthgirl
 18-kull1236,kull1236,18,əʈʰuʋɑ̃,,,,kull1236-eighthgirl
 19-dogr1250,dogr1250,19,nɔmɑ,,,,
 19-garh1243,garh1243,19,nəu,,,,
@@ -481,10 +517,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 19-wagd1238,wagd1238,19,nəʋo,,,,
 19-west2380,west2380,19,nɔmɑ,,,,
 19-sans1269,sans1269,19,nəʋəməh/nəʋmɑ/nəʋməm,,,,
+19-panc1246,panc1246,19,nɔʋɑ̃,,,,
 19-sylh1242,sylh1242,19,nɔbom,,,,
 19-urdu1245,urdu1245,19,nɔʋɑ̃,,,,
 19-halb1244,halb1244,19,nəʋɑ̃,,,,
 19-maga1260,maga1260,19,nɔʋɑ,,,,
+19-rajb1243,rajb1243,19,nobom,,,,
 19-kull1236,kull1236,19,nɔuʋɑ̃,,,,
 20-dogr1250,dogr1250,20,dəsmɑ,,,,
 20-garh1243,garh1243,20,dəsu,,,,
@@ -506,10 +544,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 20-wagd1238,wagd1238,20,dəsʋo,,,,
 20-west2380,west2380,20,dəsmɑ,,,,
 20-sans1269,sans1269,20,dəʃməh/dəʃmɑ/dəʃməm,,,,
+20-panc1246,panc1246,20,dəsʋɑ̃,,,,
 20-sylh1242,sylh1242,20,d̪ɔʃom,,,,
 20-urdu1245,urdu1245,20,dəsʋɑ̃,,,,
 20-halb1244,halb1244,20,dəsʋɑ̃,,,,
 20-maga1260,maga1260,20,dəsʋɑ,,,,
+20-rajb1243,rajb1243,20,dosom,,,,
 20-kull1236,kull1236,20,dəsʋɑ̃,,,,
 21-dogr1250,dogr1250,21,ɡjɑrmɑ,,,,
 21-garh1243,garh1243,21,iɡjɑrʋu,,,,
@@ -531,10 +571,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 21-wagd1238,wagd1238,21,ɡjɑrʋo,,,,
 21-west2380,west2380,21,eɡərmɑ,,,,
 21-sans1269,sans1269,21,ekɑdəʃməh/ekɑdəʃmɑ/ekɑdəʃməm,,,,
+21-panc1246,panc1246,21,ɡɑroʋɑ̃,,,,
 21-sylh1242,sylh1242,21,æxɑd̪ɔʃ,,,,
 21-urdu1245,urdu1245,21,ɡijɑrʋɑ̃,,,,
 21-halb1244,halb1244,21,iɡɑrʋɑ̃,,,,
 21-maga1260,maga1260,21,ɡjɑrʋɑ,,,,
+21-rajb1243,rajb1243,21,ekɑdos,,,,
 21-kull1236,kull1236,21,ɡjɑrʋɑ̃,,,,
 22-dogr1250,dogr1250,22,bɑrmɑ,,,,
 22-garh1243,garh1243,22,bɑrʋu,,,,
@@ -556,10 +598,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 22-wagd1238,wagd1238,22,bɑrʋo,,,,
 22-west2380,west2380,22,bərʋɑ̃,,,,
 22-sans1269,sans1269,22,dʋɑdəʃməh/dʋɑdəʃmɑ/dʋɑdəʃməm,,,,
+22-panc1246,panc1246,22,bɑroʋɑ̃,,,,
 22-sylh1242,sylh1242,22,d̪ɑdɔʃ,,,,
 22-urdu1245,urdu1245,22,bɑrʋɑ̃,,,,
 22-halb1244,halb1244,22,bɑrʋɑ̃,,,,
 22-maga1260,maga1260,22,bɑrʋɑ,,,,
+22-rajb1243,rajb1243,22,dɑdos,,,,
 22-kull1236,kull1236,22,bɑrʋɑ̃,,,,
 23-dogr1250,dogr1250,23,termɑ,,,,
 23-garh1243,garh1243,23,terʋu,,,,
@@ -581,10 +625,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 23-wagd1238,wagd1238,23,terʋo,,,,
 23-west2380,west2380,23,terʋɑ̃,,,,
 23-sans1269,sans1269,23,trəjodəʃməh/trəjodəʃmɑ/trəjodəʃməm,,,,
+23-panc1246,panc1246,23,teroʋɑ̃,,,,
 23-sylh1242,sylh1242,23,t̪rojod̪ɔʃ,,,,
 23-urdu1245,urdu1245,23,terʋɑ̃,,,,
 23-halb1244,halb1244,23,terʋɑ̃,,,,
 23-maga1260,maga1260,23,terʋɑ,,,,
+23-rajb1243,rajb1243,23,trjodos,,,,
 23-kull1236,kull1236,23,teruʋɑ̃,,,,
 24-dogr1250,dogr1250,24,čɔdmɑ,,,,
 24-garh1243,garh1243,24,čɔdʋu,,,,
@@ -606,10 +652,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 24-wagd1238,wagd1238,24,čɔudʋo,,,,
 24-west2380,west2380,24,čəudəhʋɑ̃,,,,
 24-sans1269,sans1269,24,čəturdəʃməh/čəturdəʃmɑ/čəturdəʃməm,,,,
+24-panc1246,panc1246,24,cəudoʋɑ̃,,,,
 24-sylh1242,sylh1242,24,sot̪urd̪ɔʃ,,,,
 24-urdu1245,urdu1245,24,tʃodʰʋɑ̃,,,,
 24-halb1244,halb1244,24,čəʋdəʋɑ̃,,,,
 24-maga1260,maga1260,24,čɔdʋɑ,,,,
+24-rajb1243,rajb1243,24,čotʰurdos,,,,
 24-kull1236,kull1236,24,čɔduʋɑ̃,,,,
 25-dogr1250,dogr1250,25,pəndrəmɑ,,,,
 25-garh1243,garh1243,25,pəndərʋu,,,,
@@ -631,6 +679,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 25-wagd1238,wagd1238,25,pəndərʋo,,,,
 25-west2380,west2380,25,pəndrəhʋɑ̃,,,,
 25-sans1269,sans1269,25,pə̃nčdəʃməh/pə̃nčdəʃmɑ/pə̃nčdəʃməm,,,,
+25-panc1246,panc1246,25,pəndroʋɑ̃,,,,
 25-sylh1242,sylh1242,25,fɔncod̪ɔʃ,,,,
 25-urdu1245,urdu1245,25,pəndrəʰʋɑ̃,,,,
 25-halb1244,halb1244,25,pəndərʋɑ̃,,,,
@@ -656,6 +705,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 26-wagd1238,wagd1238,26,soləʋo,,,,
 26-west2380,west2380,26,soləhʋɑ̃,,,,
 26-sans1269,sans1269,26,ʂoɖdəʃməh/ʂoɖdəʃmɑ/ʂoɖdəʃməm,,,,
+26-panc1246,panc1246,26,soloʋɑ̃,,,,
 26-sylh1242,sylh1242,26,ʃɔʃʈod̪ɔʃ,,,,
 26-urdu1245,urdu1245,26,solʋɑ̃,,,,
 26-halb1244,halb1244,26,solʋɑ̃,,,,
@@ -681,6 +731,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 27-wagd1238,wagd1238,27,sətərʋo,,,,
 27-west2380,west2380,27,sətrehʋɑ̃,,,,
 27-sans1269,sans1269,27,səptdəʃməh/səptdəʃmɑ/səptdəʃməm,,,,
+27-panc1246,panc1246,27,sətroʋɑ̃,,,,
 27-sylh1242,sylh1242,27,ʃɔpt̪od̪ɔʃ,,,,
 27-urdu1245,urdu1245,27,sɑtɑrʋɑ̃,,,,
 27-halb1244,halb1244,27,sətərʋɑ̃,,,,
@@ -706,6 +757,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 28-wagd1238,wagd1238,28,əʈʰɑrʋo,,,,
 28-west2380,west2380,28,əʈʰərʋɑ̃,,,,
 28-sans1269,sans1269,28,əsʈɑdəʃməh/əsʈɑdəʃmɑ/əsʈɑdəʃməm,,,,
+28-panc1246,panc1246,28,ɑʈʰɑroʋɑ̃,,,,
 28-sylh1242,sylh1242,28,ɔʃʈɑd̪ɔʃ,,,,
 28-urdu1245,urdu1245,28,ɑʈʰɑrʋɑ̃,,,,
 28-halb1244,halb1244,28,əʈʰɑrʋɑ̃,,,,
@@ -731,6 +783,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 29-wagd1238,wagd1238,29,unnisʋo,,,,
 29-west2380,west2380,29,unnisʋɑ̃,,,,
 29-sans1269,sans1269,29,nəvdəʃməh/ekonʋinʃətitəməh/nəʋdəʃəsmɑ/ekonʋinʃətitəmɑ/nəʋdəʃməm/ekonʋinʃətitəməm,,,,
+29-panc1246,panc1246,29,unosʋɑ̃,,,,
 29-sylh1242,sylh1242,29,unobiʃ,,,,
 29-urdu1245,urdu1245,29,unisʋɑ̃,,,,
 29-halb1244,halb1244,29,onisʋɑ̃,,,,
@@ -755,6 +808,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 30-wagd1238,wagd1238,30,bisʋo,,,,
 30-west2380,west2380,30,bisʋɑ̃,,,,
 30-sans1269,sans1269,30,ʋĩnʃətitəməh/ʋĩnʃətitəmɑ/ʋĩnʃətitəməm,,,,
+30-panc1246,panc1246,30,bisʋɑ̃,,,,
 30-sylh1242,sylh1242,30,biʃ,,,,
 30-urdu1245,urdu1245,30,bisʋɑ̃,,,,
 30-halb1244,halb1244,30,bisʋɑ̃,,,,
@@ -779,6 +833,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 31-wagd1238,wagd1238,31,ekkisʋo,,,,
 31-west2380,west2380,31,ekisʋɑ̃,,,,
 31-sans1269,sans1269,31,dʋɑʋĩnʃətitəməh/dʋɑʋĩnʃətitəmɑ/dʋɑʋĩnʃətitəməm,,,,
+31-panc1246,panc1246,31,ekoisʋɑ̃,,,,
 31-urdu1245,urdu1245,31,ikisʋɑ̃,,,,
 31-halb1244,halb1244,31,iskisʋɑ̃,,,,
 31-maga1260,maga1260,31,ekkisʋɑ,,,,
@@ -802,6 +857,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 32-wagd1238,wagd1238,32,bɑisʋo,,,,
 32-west2380,west2380,32,bɑisʋɑ̃,,,,
 32-sans1269,sans1269,32,trəjodʋɑʋĩnʃətitəməh/trəjodʋɑʋĩnʃətitəmɑ/trəjodʋɑʋĩnʃətitəməm,,,,
+32-panc1246,panc1246,32,bɑisʋɑ̃,,,,
 32-urdu1245,urdu1245,32,bɑisʋɑ̃,,,,
 32-halb1244,halb1244,32,bɑisʋɑ̃,,,,
 32-maga1260,maga1260,32,bɑisʋɑ,,,,
@@ -824,10 +880,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 33-sada1242,sada1242,33,ɑdʰɑ,,,,sada1242-iate12ofthepizza
 33-west2380,west2380,33,ɑdʰɑ,,,,west2380-iate12ofthepizza
 33-sans1269,sans1269,33,ərdʰ,,,,sans1269-iate12ofthepizza
+33-panc1246,panc1246,33,ɑdʰɑ,,,,panc1246-iate12ofthepizza
 33-sylh1242,sylh1242,33,ɑd̪ɑ,,,,sylh1242-iate12ofthepizza
 33-urdu1245,urdu1245,33,ɑdʰɑ,,,,urdu1245-iate12ofthepizza
 33-halb1244,halb1244,33,ɑdʰɑ,,,,halb1244-iate12ofthepizza
 33-maga1260,maga1260,33,ɑdʰɑ,,,,maga1260-iate12ofthepizza
+33-rajb1243,rajb1243,33,ɑddekʰɑn,,,,rajb1243-iate12ofthepizza
 33-kull1236,kull1236,33,oddɑ,,,,kull1236-iate12ofthepizza
 34-garh1243,garh1243,34,do tihɑi,,,,garh1243-iate23ofthepizza
 34-kuma1273,kuma1273,34,di tihɑi,,,,kuma1273-iate23ofthepizza
@@ -842,6 +900,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 34-sind1272,sind1272,34,d̪o t̪ɪhɑɪ,,,,sind1272-iate23ofthepizza
 34-sada1242,sada1242,34,dui tihɑi,,,,sada1242-iate23ofthepizza
 34-west2380,west2380,34,du tihɑi bʰɑɡ,,,,west2380-iate23ofthepizza
+34-panc1246,panc1246,34,dui tihɑ,,,,panc1246-iate23ofthepizza
 34-sylh1242,sylh1242,34,t̪in bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iate23ofthepizza
 34-urdu1245,urdu1245,34,do tihɑi hissɑ,,,,urdu1245-iate23ofthepizza
 34-maga1260,maga1260,34,do tihɑi,,,,maga1260-iate23ofthepizza
@@ -858,6 +917,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 35-sind1272,sind1272,35,ʈɪo hɪsso,,,,sind1272-iread34ofthebook
 35-sada1242,sada1242,35,tin čɔtʰɑi bʰɑɡ,,,,sada1242-iread34ofthebook
 35-west2380,west2380,35,tin čɔtʰɑi bʰɑɡ,,,,west2380-iread34ofthebook
+35-panc1246,panc1246,35,tin cotʰɑi bʰɑɡ,,,,panc1246-iread34ofthebook
 35-sylh1242,sylh1242,35,sɑir bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread34ofthebook
 35-urdu1245,urdu1245,35,tin tʃutʰɑi hissɑ,,,,urdu1245-iread34ofthebook
 35-maga1260,maga1260,35,tin čɔtʰɑi bʰɑɡ,,,,maga1260-iread34ofthebook
@@ -875,6 +935,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 36-sind1272,sind1272,36,cotʰo hɪsso,,,,sind1272-iread14ofthebook
 36-sada1242,sada1242,36,ek čɔtʰɑi bʰɑɡ,,,,sada1242-iread14ofthebook
 36-west2380,west2380,36,ek čɔtʰɑi bʰɑɡ,,,,west2380-iread14ofthebook
+36-panc1246,panc1246,36,ek cotʰɑi bʰɑɡ,,,,panc1246-iread14ofthebook
 36-sylh1242,sylh1242,36,sɑir bɑɡ-or æx bɑɡ,,,,sylh1242-iread14ofthebook
 36-urdu1245,urdu1245,36,ɑek tʃutʰɑi hissɑ,,,,urdu1245-iread14ofthebook
 36-maga1260,maga1260,36,ek čɔtʰɑi bʰɑɡ,,,,maga1260-iread14ofthebook
@@ -889,6 +950,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 37-sind1272,sind1272,37,pənǰo hɪsso,,,,sind1272-iate15ofthepizza
 37-sada1242,sada1242,37,pəčʋɑ bʰɑɡ,,,,sada1242-iate15ofthepizza
 37-west2380,west2380,37,ek bəʈe pɑ̃č bʰɑɡ,,,,west2380-iate15ofthepizza
+37-panc1246,panc1246,37,pəcʋɑ̃ bʰɑɡ,,,,panc1246-iate15ofthepizza
 37-sylh1242,sylh1242,37,fɑs bɑɡ-or æx bɑɡ,,,,sylh1242-iate15ofthepizza
 37-urdu1245,urdu1245,37,ɑek pɑcʋɑ hissɑ,,,,urdu1245-iate15ofthepizza
 37-maga1260,maga1260,37,ek pɑ̃čʋɑ bʰɑɡ,,,,maga1260-iate15ofthepizza
@@ -901,6 +963,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 38-guja1252,guja1252,38,sɑt̪ mɑ:t̪ʰɪ bɛ bʰɑɡnɪ,,,,guja1252-iread27ofthebook
 38-sind1272,sind1272,38,d̪o bətɑ sɑt̪ hɪsso,,,,sind1272-iread27ofthebook
 38-west2380,west2380,38,du bəʈe sɑt bʰɑɡ,,,,west2380-iread27ofthebook
+38-panc1246,panc1246,38,dui bəʈɑ sɑt bʰɑɡ,,,,panc1246-iread27ofthebook
 38-sylh1242,sylh1242,38,ʃɑt̪ bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iread27ofthebook
 38-urdu1245,urdu1245,38,do bəʈɑ sɑtʋɑ̃ hissɑ,,,,urdu1245-iread27ofthebook
 38-maga1260,maga1260,38,dui sɑtʋɑ̃ bʰɑɡ,,,,maga1260-iread27ofthebook
@@ -913,6 +976,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 39-guja1252,guja1252,39,sɑt̪ mɑ:t̪ʰɪ t̪roǰɑ bʰɑɡnɪ,,,,guja1252-iread37ofthebook
 39-sind1272,sind1272,39,t̪ɪn bətɑ sɑt̪ hɪsso,,,,sind1272-iread37ofthebook
 39-west2380,west2380,39,tin bəʈe sɑt bʰɑɡ,,,,west2380-iread37ofthebook
+39-panc1246,panc1246,39,tin bəʈɑ sɑt bʰɑɡ,,,,panc1246-iread37ofthebook
 39-sylh1242,sylh1242,39,ʃɑt̪ bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread37ofthebook
 39-urdu1245,urdu1245,39,tin bəʈɑ sɑtʋɑ̃ hissɑ,,,,urdu1245-iread37ofthebook
 39-maga1260,maga1260,39,tin sɑtʋɑ̃ bʰɑɡ,,,,maga1260-iread37ofthebook
@@ -925,6 +989,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 40-guja1252,guja1252,40,pɑ̃nč̪ mɑ:t̪ʰɪ t̪rɪǰɑ bʰɑɡnɪ,,,,guja1252-iread35ofthebook
 40-sind1272,sind1272,40,t̪ɪn bətɑ pənǰ hɪsso,,,,sind1272-iread35ofthebook
 40-west2380,west2380,40,tin bəʈe pɑ̃č bʰɑɡ,,,,west2380-iread35ofthebook
+40-panc1246,panc1246,40,tin bəʈɑ pɑ̃c bʰɑɡ,,,,panc1246-iread35ofthebook
 40-sylh1242,sylh1242,40,fɑs bɑɡ-or t̪in bɑɡ,,,,sylh1242-iread35ofthebook
 40-urdu1245,urdu1245,40,tin bəʈɑ pɑtʃʋɑ̃ hissɑ,,,,urdu1245-iread35ofthebook
 40-maga1260,maga1260,40,tin pɑ̃čʋɑ̃ bʰɑɡ,,,,maga1260-iread35ofthebook
@@ -937,6 +1002,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 41-guja1252,guja1252,41,čʰɔ mɑ:t̪ʰɪ bɛ bʰɑɡno,,,,guja1252-iate26ofthepizza
 41-sind1272,sind1272,41,d̪o bətɑ čʰe̪ hɪsso,,,,sind1272-iate26ofthepizza
 41-west2380,west2380,41,du bəʈe čʰɔ bʰɑɡ,,,,west2380-iate26ofthepizza
+41-panc1246,panc1246,41,dui bəʈɑ čʰe bʰɑɡ,,,,panc1246-iate26ofthepizza
 41-sylh1242,sylh1242,41,sɔe bɑɡ-or d̪ui bɑɡ,,,,sylh1242-iate26ofthepizza
 41-urdu1245,urdu1245,41,do bəʈɑ tʃʰɑʈɑ hissɑ,,,,urdu1245-iate26ofthepizza
 41-maga1260,maga1260,41,du cʰeʋɑ,,,,maga1260-iate26ofthepizza
@@ -953,6 +1019,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 42-sind1272,sind1272,42,ʃoro hɪsso,,,,sind1272-iate116ofthepizza
 42-sada1242,sada1242,42,soləhʋɑ bʰɑɡ,,,,sada1242-iate116ofthepizza
 42-west2380,west2380,42,ek bəʈe solɑ bʰɑɡ,,,,west2380-iate116ofthepizza
+42-panc1246,panc1246,42,solʋɑ̃ bʰɑɡ,,,,panc1246-iate116ofthepizza
 42-sylh1242,sylh1242,42,ʃullo bɑɡ-or æx bɑɡ,,,,sylh1242-iate116ofthepizza
 42-urdu1245,urdu1245,42,ɑek bəʈɑ solʋɑ̃ hissɑ,,,,urdu1245-iate116ofthepizza
 42-maga1260,maga1260,42,ek ʃolʋɑ,,,,maga1260-iate116ofthepizza
@@ -972,6 +1039,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 43-sind1272,sind1272,43,ɖəʋo hɪsso,,,,sind1272-iread110partofthebook
 43-sada1242,sada1242,43,dəsʋɑ bʰɑɡ,,,,sada1242-iread110partofthebook
 43-west2380,west2380,43,ek bəʈe dəs bʰɑɡ,,,,west2380-iread110partofthebook
+43-panc1246,panc1246,43,dəsʋɑ̃ bʰɑɡ,,,,panc1246-iread110partofthebook
 43-sylh1242,sylh1242,43,d̪ɔʃ bɑɡ-or æx bɑɡ,,,,sylh1242-iread110partofthebook
 43-urdu1245,urdu1245,43,ɑek bəʈɑ dəsʋɑ̃ hissɑ,,,,urdu1245-iread110partofthebook
 43-maga1260,maga1260,43,dəsʋɑ' bʰɑɡ,,,,maga1260-iread110partofthebook
@@ -996,10 +1064,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 44-wagd1238,wagd1238,44,ek ʋəkət,,,,wagd1238-imethimonce
 44-west2380,west2380,44,ek bɑr,,,,west2380-imethimonce
 44-sans1269,sans1269,44,ek ʋɑrəm,,,,sans1269-imethimonce
+44-panc1246,panc1246,44,ek bɑr,,,,panc1246-imethimonce
 44-sylh1242,sylh1242,44,æx bɑr,,,,sylh1242-imethimonce
 44-urdu1245,urdu1245,44,ɑek dəfɑ,,,,urdu1245-imethimonce
 44-halb1244,halb1244,44,ek hɑr,,,,halb1244-imethimonce
 44-maga1260,maga1260,44,ek bɑir,,,,maga1260-imethimonce
+44-rajb1243,rajb1243,44,ɛk bɑr,,,,rajb1243-imethimonce
 44-kull1236,kull1236,44,ek ɡʰere,,,,kull1236-imethimonce
 45-dogr1250,dogr1250,45,do bɑr,,,,dogr1250-imethimtwice
 45-garh1243,garh1243,45,dosər bɑr,,,,garh1243-imethimtwice
@@ -1022,10 +1092,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 45-wagd1238,wagd1238,45,be ʋəkət,,,,wagd1238-imethimtwice
 45-west2380,west2380,45,du bɑr,,,,west2380-imethimtwice
 45-sans1269,sans1269,45,dʋi ʋɑrəm,,,,sans1269-imethimtwice
+45-panc1246,panc1246,45,dui bɑr,,,,panc1246-imethimtwice
 45-sylh1242,sylh1242,45,d̪ui bɑr,,,,sylh1242-imethimtwice
 45-urdu1245,urdu1245,45,do dəfɑ,,,,urdu1245-imethimtwice
 45-halb1244,halb1244,45,duj hɑr,,,,halb1244-imethimtwice
 45-maga1260,maga1260,45,du bɑir,,,,maga1260-imethimtwice
+45-rajb1243,rajb1243,45,dui bɑr,,,,rajb1243-imethimtwice
 45-kull1236,kull1236,45,dui ɡʰere,,,,kull1236-imethimtwice
 46-dogr1250,dogr1250,46,trɛ bɑr,,,,dogr1250-imethimthreetimes
 46-garh1243,garh1243,46,tesɑr bɑr,,,,garh1243-imethimthreetimes
@@ -1048,10 +1120,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 46-wagd1238,wagd1238,46,təɳ ʋəkət,,,,wagd1238-imethimthreetimes
 46-west2380,west2380,46,tin bɑr,,,,west2380-imethimthreetimes
 46-sans1269,sans1269,46,tri ʋɑrəm,,,,sans1269-imethimthreetimes
+46-panc1246,panc1246,46,tin bɑr,,,,panc1246-imethimthreetimes
 46-sylh1242,sylh1242,46,t̪in bɑr,,,,sylh1242-imethimthreetimes
 46-urdu1245,urdu1245,46,tin dəfɑ,,,,urdu1245-imethimthreetimes
 46-halb1244,halb1244,46,tin hɑr,,,,halb1244-imethimthreetimes
 46-maga1260,maga1260,46,tin bɑir,,,,maga1260-imethimthreetimes
+46-rajb1243,rajb1243,46,tin bɑr,,,,rajb1243-imethimthreetimes
 46-kull1236,kull1236,46,trɑi ɡʰere,,,,kull1236-imethimthreetimes
 47-dogr1250,dogr1250,47,čotʰi bɑr,,,,dogr1250-imethimfourtimes
 47-garh1243,garh1243,47,čɔtʰ bɑr,,,,garh1243-imethimfourtimes
@@ -1074,10 +1148,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 47-wagd1238,wagd1238,47,ʃɑr ʋəkət,,,,wagd1238-imethimfourtimes
 47-west2380,west2380,47,čəutʰɑ bɑr,,,,west2380-imethimfourtimes
 47-sans1269,sans1269,47,čəturtʰe (ʋɑre),,,,sans1269-imethimfourtimes
+47-panc1246,panc1246,47,cɑir bɑr,,,,panc1246-imethimfourtimes
 47-sylh1242,sylh1242,47,sɑir bɑr,,,,sylh1242-imethimfourtimes
 47-urdu1245,urdu1245,47,tʃɑr dəfɑ,,,,urdu1245-imethimfourtimes
 47-halb1244,halb1244,47,čəʋtʰɑ hɑr,,,,halb1244-imethimfourtimes
 47-maga1260,maga1260,47,cɑir bɑir,,,,maga1260-imethimfourtimes
+47-rajb1243,rajb1243,47,čɑr bɑr,,,,rajb1243-imethimfourtimes
 47-kull1236,kull1236,47,tʃɑr ɡʰere,,,,kull1236-imethimfourtimes
 48-dogr1250,dogr1250,48,nɔ bɑr,,,,dogr1250-icalledherninetimes
 48-garh1243,garh1243,48,nɔ bɑr,,,,garh1243-icalledherninetimes
@@ -1100,10 +1176,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 48-wagd1238,wagd1238,48,nɔʋ ʋəkʰət,,,,wagd1238-icalledherninetimes
 48-west2380,west2380,48,nɔ bɑr,,,,west2380-icalledherninetimes
 48-sans1269,sans1269,48,nəʋʋɑrəm,,,,sans1269-icalledherninetimes
+48-panc1246,panc1246,48,no bɑr,,,,panc1246-icalledherninetimes
 48-sylh1242,sylh1242,48,noɛ bɑr,,,,sylh1242-icalledherninetimes
 48-urdu1245,urdu1245,48,nɔ dəfɑ,,,,urdu1245-icalledherninetimes
 48-halb1244,halb1244,48,nəʋ hɑr,,,,halb1244-icalledherninetimes
 48-maga1260,maga1260,48,nɔ bɑir,,,,maga1260-icalledherninetimes
+48-rajb1243,rajb1243,48,noe bɑr,,,,rajb1243-icalledherninetimes
 48-kull1236,kull1236,48,nəu ɡʰere,,,,kull1236-icalledherninetimes
 49-dogr1250,dogr1250,49,pənǰi bɑr,,,,dogr1250-icalledhimtwentyfivetimes
 49-garh1243,garh1243,49,pəččis bɑr,,,,garh1243-icalledhimtwentyfivetimes
@@ -1126,10 +1204,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 49-wagd1238,wagd1238,49,pəsi ʋəkʰət,,,,wagd1238-icalledhimtwentyfivetimes
 49-west2380,west2380,49,pəččis bɑr,,,,west2380-icalledhimtwentyfivetimes
 49-sans1269,sans1269,49,pə̃nčʋĩnʃətiʋɑrəm,,,,sans1269-icalledhimtwentyfivetimes
+49-panc1246,panc1246,49,pəccis bɑr,,,,panc1246-icalledhimtwentyfivetimes
 49-sylh1242,sylh1242,49,fociʃ bɑr,,,,sylh1242-icalledhimtwentyfivetimes
 49-urdu1245,urdu1245,49,pətʃis dəfɑ,,,,urdu1245-icalledhimtwentyfivetimes
 49-halb1244,halb1244,49,pəččis/ek koɽi pɑ̃č hɑr,,,,halb1244-icalledhimtwentyfivetimes
 49-maga1260,maga1260,49,pəccis bɑir,,,,maga1260-icalledhimtwentyfivetimes
+49-rajb1243,rajb1243,49,poččis bɑr,,,,rajb1243-icalledhimtwentyfivetimes
 49-kull1236,kull1236,49,pəčči ɡʰere,,,,kull1236-icalledhimtwentyfivetimes
 50-dogr1250,dogr1250,50,pəndrɑ bɑr,,,,dogr1250-icalledherfifteentimes
 50-garh1243,garh1243,50,pəndrɑ bɑr,,,,garh1243-icalledherfifteentimes
@@ -1152,10 +1232,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 50-wagd1238,wagd1238,50,pəndrɑ ʋəkʰət,,,,wagd1238-icalledherfifteentimes
 50-west2380,west2380,50,pəndrɑ bɑr,,,,west2380-icalledherfifteentimes
 50-sans1269,sans1269,50,pə̃nčdəʃʋɑrəm,,,,sans1269-icalledherfifteentimes
+50-panc1246,panc1246,50,pəndro bɑr,,,,panc1246-icalledherfifteentimes
 50-sylh1242,sylh1242,50,fonro bɑr,,,,sylh1242-icalledherfifteentimes
 50-urdu1245,urdu1245,50,pəndʰrɑ̃ dəfɑ,,,,urdu1245-icalledherfifteentimes
 50-halb1244,halb1244,50,pəndrɑ hɑr,,,,halb1244-icalledherfifteentimes
 50-maga1260,maga1260,50,pəndrɑ bɑir,,,,maga1260-icalledherfifteentimes
+50-rajb1243,rajb1243,50,ponoro bɑr,,,,rajb1243-icalledherfifteentimes
 50-kull1236,kull1236,50,pəndrɑ ɡʰere,,,,kull1236-icalledherfifteentimes
 51-dogr1250,dogr1250,51,bəs ekko,,,,dogr1250-thereisonlyonechild
 51-garh1243,garh1243,51,sirf ek,,,,garh1243-thereisonlyonechild
@@ -1178,10 +1260,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 51-wagd1238,wagd1238,51,ekəs,,,,wagd1238-thereisonlyonechild
 51-west2380,west2380,51,kʰɑli/sirf/keʋəl ek,,,,west2380-thereisonlyonechild
 51-sans1269,sans1269,51,keʋləm ekəm,,,,sans1269-thereisonlyonechild
+51-panc1246,panc1246,51,əbɡɑ ekʈɑ,,,,panc1246-thereisonlyonechild
 51-sylh1242,sylh1242,51,mɑt̪ro æxʈɑ,,,,sylh1242-thereisonlyonechild
 51-urdu1245,urdu1245,51,sirf ɑek,,,,urdu1245-thereisonlyonechild
 51-halb1244,halb1244,51,ɡoʈki,,,,halb1244-thereisonlyonechild
 51-maga1260,maga1260,51,sirf ek,,,,maga1260-thereisonlyonechild
+51-rajb1243,rajb1243,51,ɛk-lɑe/ kɛbol ɛk,,,,rajb1243-thereisonlyonechild
 51-kull1236,kull1236,51,bəs ek,,,,kull1236-thereisonlyonechild
 52-dogr1250,dogr1250,52,bəs do,,,,
 52-garh1243,garh1243,52,sirf dui,,,,
@@ -1204,10 +1288,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 52-wagd1238,wagd1238,52,bes,,,,
 52-west2380,west2380,52,kʰɑli du,,,,
 52-sans1269,sans1269,52,keʋle dʋe,,,,
+52-panc1246,panc1246,52,əbɡɑ duʈɑ,,,,
 52-sylh1242,sylh1242,52,mɑt̪ro duiʈɑ,,,,
 52-urdu1245,urdu1245,52,sirf do,,,,
 52-halb1244,halb1244,52,duʈʰɑn,,,,
 52-maga1260,maga1260,52,sirf du,,,,
+52-rajb1243,rajb1243,52,kʰɑli/kɛbol dui,,,,
 52-kull1236,kull1236,52,bəs dui,,,,
 53-dogr1250,dogr1250,53,bəs trɛ,,,,
 53-garh1243,garh1243,53,sirf tin,,,,
@@ -1230,10 +1316,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 53-wagd1238,wagd1238,53,pʰəkət təɳ,,,,
 53-west2380,west2380,53,kʰɑli tin,,,,
 53-sans1269,sans1269,53,keʋlɑni triɳi,,,,
+53-panc1246,panc1246,53,əbɡɑ tinʈɑ,,,,
 53-sylh1242,sylh1242,53,mɑtro tinʈɑ,,,,
 53-urdu1245,urdu1245,53,sirf tin,,,,
 53-halb1244,halb1244,53,tin ʈʰən,,,,
 53-maga1260,maga1260,53,sirf tin,,,,
+53-rajb1243,rajb1243,53,kʰɑli/kɛbol tin,,,,
 53-kull1236,kull1236,53,bəs trɑi,,,,
 54-dogr1250,dogr1250,54,bəs cɑr,,,,dogr1250-heateonlyfourmangoes
 54-garh1243,garh1243,54,sirf cɑr,,,,garh1243-heateonlyfourmangoes
@@ -1256,10 +1344,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 54-wagd1238,wagd1238,54,pʰəkət ʃɑr,,,,wagd1238-heateonlyfourmangoes
 54-west2380,west2380,54,kʰɑli cɑr,,,,west2380-heateonlyfourmangoes
 54-sans1269,sans1269,54,keʋlɑni cətʋɑri,,,,sans1269-heateonlyfourmangoes
+54-panc1246,panc1246,54,əbɡɑ tʃɑirʈɑ,,,,panc1246-heateonlyfourmangoes
 54-sylh1242,sylh1242,54,mɑtro sɑirʈɑ,,,,sylh1242-heateonlyfourmangoes
 54-urdu1245,urdu1245,54,sirf tʃɑr,,,,urdu1245-heateonlyfourmangoes
 54-halb1244,halb1244,54,cɑreč ʈʰən,,,,halb1244-heateonlyfourmangoes
 54-maga1260,maga1260,54,sirf cɑir,,,,maga1260-heateonlyfourmangoes
+54-rajb1243,rajb1243,54,kʰɑli/kɛbol čɑr,,,,rajb1243-heateonlyfourmangoes
 54-kull1236,kull1236,54,bəs tʃɑr,,,,kull1236-heateonlyfourmangoes
 55-dogr1250,dogr1250,55,bəs pənǰ,,,,
 55-garh1243,garh1243,55,sirf pɑ̃č,,,,
@@ -1282,10 +1372,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 55-wagd1238,wagd1238,55,pʰəkət pɑs,,,,
 55-west2380,west2380,55,kʰɑli pɑč,,,,
 55-sans1269,sans1269,55,keʋləm pə̃nč,,,,
+55-panc1246,panc1246,55,əbɡɑ pɑ̃tʃʈɑ,,,,
 55-sylh1242,sylh1242,55,mɑtro fɑsʈɑ,,,,
 55-urdu1245,urdu1245,55,sirf pɑ̃tʃ,,,,
 55-halb1244,halb1244,55,pɑ̃č ʈʰən,,,,
 55-maga1260,maga1260,55,sirf pɑ̃č,,,,
+55-rajb1243,rajb1243,55,kʰɑli/kɛbol pɑč,,,,
 55-kull1236,kull1236,55,bəs põǰ,,,,
 56-dogr1250,dogr1250,56,bəs dəs,,,,
 56-garh1243,garh1243,56,sirf dəs,,,,
@@ -1308,10 +1400,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 56-wagd1238,wagd1238,56,pʰəkət dəs,,,,
 56-west2380,west2380,56,kʰɑli dəs,,,,
 56-sans1269,sans1269,56,keʋləm dəʃ,,,,
+56-panc1246,panc1246,56,əbɡɑ dəsʈɑ,,,,
 56-sylh1242,sylh1242,56,mɑtro dɔʃʈɑ,,,,
 56-urdu1245,urdu1245,56,sirf dəs,,,,
 56-halb1244,halb1244,56,dəs ʈʰən,,,,
 56-maga1260,maga1260,56,sirf dəs,,,,
+56-rajb1243,rajb1243,56,kʰɑli/kɛbol dɔs,,,,
 56-kull1236,kull1236,56,bəs dəs,,,,
 57-dogr1250,dogr1250,57,ekko ɡi,,,,
 57-garh1243,garh1243,57,ek ek,,,,
@@ -1334,10 +1428,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 57-wagd1238,wagd1238,57,səbne ek,,,,
 57-west2380,west2380,57,səbke ek ek,,,,
 57-sans1269,sans1269,57,prətjekəm,,,,
+57-panc1246,panc1246,57,ek ke/ek ek,,,,
 57-sylh1242,sylh1242,57,æx-æxʈɑ,,,,
 57-urdu1245,urdu1245,57,hər ɑek/ ɑek ɑek,,,,
 57-halb1244,halb1244,57,ɡoʈək ɡoʈək ne ɡoʈək,,,,
 57-maga1260,maga1260,57,ek ek ɡo,,,,
+57-rajb1243,rajb1243,57,ɛkʈɑ ɛkʈɑ,,,,
 57-kull1236,kull1236,57,ek-ek,,,,
 58-dogr1250,dogr1250,58,tenne ɡi,,,,
 58-garh1243,garh1243,58,dui dui,,,,
@@ -1360,10 +1456,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 58-wagd1238,wagd1238,58,səbne təɳ,,,,
 58-west2380,west2380,58,səbke tin tin,,,,
 58-sans1269,sans1269,58,prətitrin,,,,
+58-panc1246,panc1246,58,hərek ke tin/ tin tin,,,,
 58-sylh1242,sylh1242,58,æx-æxɟone tinʈɑ/ tin-tinʈɑ,,,,
 58-urdu1245,urdu1245,58,hər tin/tin tin,,,,
 58-halb1244,halb1244,58,ɡoʈək ɡoʈək ne tin/ tin tin,,,,
 58-maga1260,maga1260,58,tin tin ɡo,,,,
+58-rajb1243,rajb1243,58,tinʈɑ tinʈɑ,,,,
 58-kull1236,kull1236,58,dui-dui,,,,
 59-dogr1250,dogr1250,59,pənǰe ɡi,,,,
 59-garh1243,garh1243,59,pɑ̃č pɑ̃č,,,,
@@ -1386,10 +1484,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 59-wagd1238,wagd1238,59,səbne pɑs,,,,
 59-west2380,west2380,59,səbke pɑč pɑč,,,,
 59-sans1269,sans1269,59,prətipə̃nč,,,,
+59-panc1246,panc1246,59,hərek ke pɑ̃tʃ/pɑ̃tʃ pɑ̃tʃ,,,,
 59-sylh1242,sylh1242,59,æx-æxɟone fɑsʈɑ/ fɑs-fɑsʈɑ,,,,
 59-urdu1245,urdu1245,59,hər pɑ̃tʃ/pɑ̃tʃ pɑ̃tʃ,,,,
 59-halb1244,halb1244,59,ɡoʈək ɡoʈək ne pɑ̃c/ pɑ̃c pɑ̃c,,,,
 59-maga1260,maga1260,59,pɑ̃č pɑ̃č ɡo,,,,
+59-rajb1243,rajb1243,59,pɑčʈɑ pɑčʈɑ,,,,
 59-kull1236,kull1236,59,põǰ-põǰ,,,,
 60-dogr1250,dogr1250,60,ek ek kərije,,,,
 60-garh1243,garh1243,60,ek ek kərikə,,,,
@@ -1412,10 +1512,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 60-wagd1238,wagd1238,60,ek pəse ek,,,,
 60-west2380,west2380,60,ek ek kərke,,,,
 60-sans1269,sans1269,60,ekəm-ekəm,,,,
+60-panc1246,panc1246,60,ek ek kəirke,,,,
 60-sylh1242,sylh1242,60,æx(ɟon) æxɟon xoriɑ,,,,
 60-urdu1245,urdu1245,60,ɑek ɑek kər ke,,,,
 60-halb1244,halb1244,60,ɡoʈək͏ ɡoʈək kərun,,,,
 60-maga1260,maga1260,60,ek ek kəirke,,,,
+60-rajb1243,rajb1243,60,ɛk ɛk ǰon/ ɛk ǰon kori,,,,
 60-kull1236,kull1236,60,ek-ek kərijɑ,,,,
 61-dogr1250,dogr1250,61,do do kərije,,,,
 61-garh1243,garh1243,61,dui dui kərikə,,,,
@@ -1438,10 +1540,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 61-wagd1238,wagd1238,61,be pəse be,,,,
 61-west2380,west2380,61,du du kərke,,,,
 61-sans1269,sans1269,61,dʋe-dʋe,,,,
+61-panc1246,panc1246,61,dui dui kəirke,,,,
 61-sylh1242,sylh1242,61,dui(ɟon) duiɟon xoriɑ,,,,
 61-urdu1245,urdu1245,61,do do kər ke,,,,
 61-halb1244,halb1244,61,duj duj ʈʰən kərun,,,,
 61-maga1260,maga1260,61,du du kəirke,,,,
+61-rajb1243,rajb1243,61,dui dui ǰon,,,,
 61-kull1236,kull1236,61,dui-dui kərijɑ,,,,
 62-dogr1250,dogr1250,62,ləɡbəɡ,,,,dogr1250-approximately20kilosofriceareinthesack;dogr1250-approximately50ofstudentsareattendingtheworkshop;dogr1250-approximatelyfifteenkilosofriceareinthesack;dogr1250-thisinstitutecontainsapproximately1000students;dogr1250-approximately35kilosofriceareinthesack
 62-garh1243,garh1243,62,ləɡbəɡə,,,,garh1243-approximately20kilosofriceareinthesack;garh1243-approximately50ofstudentsareattendingtheworkshop;garh1243-approximatelyfifteenkilosofriceareinthesack;garh1243-approximately23rdmembersareleft;garh1243-thisinstitutecontainsapproximately1000students;garh1243-approximately35kilosofriceareinthesack
@@ -1464,6 +1568,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 62-wagd1238,wagd1238,62,ləɡbʰəɡ,,,,wagd1238-approximately20kilosofriceareinthesack;wagd1238-approximately50ofstudentsareattendingtheworkshop;wagd1238-approximatelyfifteenkilosofriceareinthesack;wagd1238-approximately35kilosofriceareinthesack
 62-west2380,west2380,62,lemsəm,,,,west2380-approximately20kilosofriceareinthesack;west2380-approximately50ofstudentsareattendingtheworkshop;west2380-approximatelyfifteenkilosofriceareinthesack;west2380-approximately23rdmembersareleft;west2380-thisinstitutecontainsapproximately1000students;west2380-approximately35kilosofriceareinthesack
 62-sans1269,sans1269,62,prɑjəh,,,,sans1269-approximately20kilosofriceareinthesack;sans1269-approximately50ofstudentsareattendingtheworkshop;sans1269-approximatelyfifteenkilosofriceareinthesack;sans1269-thisinstitutecontainsapproximately1000students;sans1269-approximately35kilosofriceareinthesack
+62-panc1246,panc1246,62,moʈɑmoʈi,,,,panc1246-approximately20kilosofriceareinthesack;panc1246-approximately50ofstudentsareattendingtheworkshop;panc1246-approximatelyfifteenkilosofriceareinthesack;panc1246-approximately23rdmembersareleft;panc1246-thisinstitutecontainsapproximately1000students;panc1246-approximately35kilosofriceareinthesack
 62-sylh1242,sylh1242,62,muʈɑmuʈi,,,,sylh1242-approximately20kilosofriceareinthesack;sylh1242-approximately50ofstudentsareattendingtheworkshop;sylh1242-approximatelyfifteenkilosofriceareinthesack;sylh1242-approximately23rdmembersareleft;sylh1242-thisinstitutecontainsapproximately1000students;sylh1242-approximately35kilosofriceareinthesack
 62-urdu1245,urdu1245,62,təkribən,,,,urdu1245-approximately20kilosofriceareinthesack;urdu1245-approximately50ofstudentsareattendingtheworkshop;urdu1245-approximatelyfifteenkilosofriceareinthesack;urdu1245-approximately23rdmembersareleft;urdu1245-thisinstitutecontainsapproximately1000students;urdu1245-approximately35kilosofriceareinthesack
 62-halb1244,halb1244,62,əsən,,,,halb1244-approximately20kilosofriceareinthesack;halb1244-approximately50ofstudentsareattendingtheworkshop;halb1244-approximatelyfifteenkilosofriceareinthesack;halb1244-thisinstitutecontainsapproximately1000students;halb1244-approximately35kilosofriceareinthesack
@@ -1484,6 +1589,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 63-wagd1238,wagd1238,63,səmuh,,,,wagd1238-agroupoftwogirlsplayed;wagd1238-agroupoffivegirlsplayed;wagd1238-agroupoffourgirlsplayed;wagd1238-agroupoftwelveboysreached;wagd1238-agroupoftwentyfiveboysreached;wagd1238-agroupoftwentyboysreached
 63-west2380,west2380,63,səb,,,,west2380-agroupoftwogirlsplayed;west2380-agroupoffivegirlsplayed;west2380-agroupoffourgirlsplayed;west2380-agroupoftwelveboysreached;west2380-agroupoftwentyfiveboysreached;west2380-agroupoftwentyboysreached
 63-sans1269,sans1269,63,səmɑhɑrəh,,,,sans1269-agroupoftwogirlsplayed;sans1269-agroupoffivegirlsplayed;sans1269-agroupoffourgirlsplayed;sans1269-agroupoftwelveboysreached;sans1269-agroupoftwentyfiveboysreached;sans1269-agroupoftwentyboysreached
+63-panc1246,panc1246,63,dəl,,,,panc1246-agroupoftwogirlsplayed;panc1246-agroupoffivegirlsplayed;panc1246-agroupoffourgirlsplayed;panc1246-agroupoftwelveboysreached;panc1246-agroupoftwentyfiveboysreached;panc1246-agroupoftwentyboysreached
 63-sylh1242,sylh1242,63,d̪ɔl,,,,sylh1242-agroupoftwogirlsplayed;sylh1242-agroupoffivegirlsplayed;sylh1242-agroupoffourgirlsplayed;sylh1242-agroupoftwelveboysreached;sylh1242-agroupoftwentyfiveboysreached;sylh1242-agroupoftwentyboysreached
 63-urdu1245,urdu1245,63,ɡruhũ /ɡɑruh,,,,urdu1245-agroupoftwogirlsplayed;urdu1245-agroupoffivegirlsplayed;urdu1245-agroupoffourgirlsplayed;urdu1245-agroupoftwelveboysreached;urdu1245-agroupoftwentyfiveboysreached;urdu1245-agroupoftwentyboysreached
 63-halb1244,halb1244,63,ǰən ǰʰən,,,,halb1244-agroupoftwogirlsplayed;halb1244-agroupoffivegirlsplayed;halb1244-agroupoffourgirlsplayed;halb1244-agroupoftwelveboysreached;halb1244-agroupoftwentyfiveboysreached;halb1244-agroupoftwentyboysreached
@@ -1509,10 +1615,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 64-wagd1238,wagd1238,64,ǰoɖi,,,,wagd1238-twopairsofsocks;wagd1238-apairofsocksarelyinghere
 64-west2380,west2380,64,ǰoɽi,,,,west2380-twopairsofsocks;west2380-apairofsocksarelyinghere
 64-sans1269,sans1269,64,juɡəl,,,,sans1269-twopairsofsocks;sans1269-apairofsocksarelyinghere
+64-panc1246,panc1246,64,ǰoɖi,,,,panc1246-twopairsofsocks;panc1246-apairofsocksarelyinghere
 64-sylh1242,sylh1242,64,ɟuɽɑ,,,,sylh1242-twopairsofsocks;sylh1242-apairofsocksarelyinghere
 64-urdu1245,urdu1245,64,dʒoɽe,,,,urdu1245-twopairsofsocks;urdu1245-apairofsocksarelyinghere
 64-halb1244,halb1244,64,ǰoɖi,,,,halb1244-twopairsofsocks;halb1244-apairofsocksarelyinghere
 64-maga1260,maga1260,64,ǰoɖɑ,,,,maga1260-twopairsofsocks;maga1260-apairofsocksarelyinghere
+64-rajb1243,rajb1243,64,ǰoɖɑ,,,,rajb1243-twopairsofsocks;rajb1243-apairofsocksarelyinghere
 64-kull1236,kull1236,64,ǰoɖi,,,,kull1236-twopairsofsocks;kull1236-apairofsocksarelyinghere
 65-dogr1250,dogr1250,65,dərǰəno,,,,dogr1250-iwenttheredozenoftimes
 65-garh1243,garh1243,65,dərǰəno,,,,garh1243-iwenttheredozenoftimes
@@ -1535,9 +1643,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 65-wagd1238,wagd1238,65,dərǰən,,,,wagd1238-iwenttheredozenoftimes
 65-west2380,west2380,65,dərǰən,,,,west2380-iwenttheredozenoftimes
 65-sans1269,sans1269,65,bəhubɑrəm,,,,sans1269-iwenttheredozenoftimes
+65-panc1246,panc1246,65,beǰɑin dʰɑ̃ʋ,,,,panc1246-iwenttheredozenoftimes
 65-urdu1245,urdu1245,65,dərdʒənõ,,,,urdu1245-iwenttheredozenoftimes
 65-halb1244,halb1244,65,dərǰən,,,,halb1244-iwenttheredozenoftimes
 65-maga1260,maga1260,65,dərǰəno,,,,maga1260-iwenttheredozenoftimes
+65-rajb1243,rajb1243,65,onek/mɛlɑ bɑr,,,,rajb1243-iwenttheredozenoftimes
 66-dogr1250,dogr1250,66,ɑddi dərǰən,,,,dogr1250-iboughthalfadozeneggs
 66-garh1243,garh1243,66,ɑdʰɑ dərǰən,,,,garh1243-iboughthalfadozeneggs
 66-kuma1273,kuma1273,66,ɑdʰo dərǰən,,,,kuma1273-iboughthalfadozeneggs
@@ -1559,8 +1669,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 66-wagd1238,wagd1238,66,əɖdo dərǰən,,,,wagd1238-iboughthalfadozeneggs
 66-west2380,west2380,66,ɑdʰɑ dərǰən,,,,west2380-iboughthalfadozeneggs
 66-sans1269,sans1269,66,ərdʰəseʈəkəm,,,,sans1269-iboughthalfadozeneggs
+66-panc1246,panc1246,66,ɑdʰɑ dərǰən,,,,panc1246-iboughthalfadozeneggs
 66-sylh1242,sylh1242,66,sɔjʈɑ,,,,sylh1242-iboughthalfadozeneggs
 66-urdu1245,urdu1245,66,ɑdhɑ dərǰən,,,,urdu1245-iboughthalfadozeneggs
 66-halb1244,halb1244,66,adʰɑ dərǰən,,,,halb1244-iboughthalfadozeneggs
 66-maga1260,maga1260,66,ɑdʰɑ dərǰən,,,,maga1260-iboughthalfadozeneggs
+66-rajb1243,rajb1243,66,ɑdʰɑ ɖəǰən,,,,rajb1243-iboughthalfadozeneggs
 66-kull1236,kull1236,66,odʰɑ dərǰən,,,,kull1236-iboughthalfadozeneggs
