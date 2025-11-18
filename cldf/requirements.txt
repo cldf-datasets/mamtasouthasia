@@ -4,7 +4,7 @@ bibtexparser==2.0.0b8
 bs4==0.0.2
 certifi==2025.10.5
 cldfbench==1.14.2
--e git+https://github.com/cldf-datasets/mamtasouthasia.git@327cb94ddec30536fbb8aeb8db2cb006efb17e9f#egg=cldfbench_mamtasouthasia
+-e git+https://github.com/cldf-datasets/mamtasouthasia.git@33817777d9cd794682e04a22d6ce1278ef86589e#egg=cldfbench_mamtasouthasia
 cldfcatalog==1.6.0
 cldfzenodo==2.1.2
 clldutils==3.24.2
