@@ -10,6 +10,20 @@ import openpyxl
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
+MANUAL_LANGNAMES = {
+    'Chakesang kheza': 'khez1235',
+    'Hawa nocte': 'noct1238',
+    'Idu mishmi': 'idum1241',
+    'Kaman mishmi': 'miju1243',
+    'Koro-aka': 'koro1316',
+    'Taraon mishmi': 'diga1241',
+    'Tsangla (Monpa)': 'tsha1245',
+    'Upper wancho': 'wanc1238',
+    'Nachiring': 'nach1240',
+    'Sunuwar': 'sunw1242',
+    'Tai-Khamti': 'kham1290',
+}
+
 
 def slug(s, lowercase=True):
     return ''.join(
@@ -40,6 +54,8 @@ def read_language_names(path):
 
 
 def lookup_language(language_names, name, sheet_name):
+    if (glottocode := MANUAL_LANGNAMES.get(name)):
+        return glottocode
     if (language_id := language_names.get(name)):
         return language_id
     elif name:
@@ -191,7 +207,7 @@ def make_values(data, parameter_names, language_names, value_examples):
         (i, language_id)
         for i, name in islice(enumerate(header), 1, None)
         if i != name_col
-        and (language_id := language_names.get(name))]
+        and (language_id := MANUAL_LANGNAMES.get(name) or language_names.get(name))]
 
     parameter_rows = (
         (row, param_row)
