@@ -1699,6 +1699,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 1-poch1243,poch1243,1,kəsɯ,,,,poch1243-oneboy;poch1243-onesheep;poch1243-onegirl;poch1243-onetree;poch1243-ihaveonebrother;poch1243-ihaveonesister;poch1243-ihaveonealmirah;poch1243-ihaveonebag
 1-sang1321,sang1321,1,kʰətu,,,,sang1321-oneboy;sang1321-onesheep;sang1321-onegirl;sang1321-onetree;sang1321-ihaveonebrother;sang1321-ihaveonesister;sang1321-ihaveonealmirah;sang1321-ihaveonebag
 1-yimc1240,yimc1240,1,kʰəlaŋ,,,,yimc1240-oneboy;yimc1240-onesheep;yimc1240-onegirl;yimc1240-onetree;yimc1240-ihaveonebrother;yimc1240-ihaveonesister;yimc1240-ihaveonealmirah;yimc1240-ihaveonebag
+1-khez1235,khez1235,1,kele,,,,khez1235-oneboy;khez1235-onesheep;khez1235-onegirl;khez1235-onetree;khez1235-ihaveonebrother;khez1235-ihaveonesister;khez1235-ihaveonealmirah;khez1235-ihaveonebag
 1-khia1236,khia1236,1,ʦa,,,,khia1236-oneboy;khia1236-onesheep;khia1236-onegirl;khia1236-onetree;khia1236-ihaveonebrother;khia1236-ihaveonesister;khia1236-ihaveonealmirah;khia1236-ihaveonebag
 1-sout2732,sout2732,1,m̥e,,,,sout2732-oneboy;sout2732-onesheep;sout2732-onegirl;sout2732-onetree;sout2732-ihaveonebrother;sout2732-ihaveonesister;sout2732-ihaveonealmirah;sout2732-ihaveonebag
 1-sumi1235,sumi1235,1,lakʰi,,,,sumi1235-oneboy;sumi1235-onesheep;sumi1235-onegirl;sumi1235-onetree;sumi1235-ihaveonebrother;sumi1235-ihaveonesister;sumi1235-ihaveonealmirah;sumi1235-ihaveonebag
@@ -1706,8 +1707,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 1-nyis1236,nyis1236,1,kin,,,,nyis1236-oneboy;nyis1236-onesheep;nyis1236-onegirl;nyis1236-onetree;nyis1236-ihaveonebrother;nyis1236-ihaveonesister;nyis1236-ihaveonealmirah;nyis1236-ihaveonebag
 1-apat1240,apat1240,1,aku,,,,apat1240-oneboy;apat1240-onesheep;apat1240-onegirl;apat1240-onetree;apat1240-ihaveonebrother;apat1240-ihaveonesister;apat1240-ihaveonealmirah;apat1240-ihaveonebag
 1-galo1242,galo1242,1,aken,,,,galo1242-oneboy;galo1242-onesheep;galo1242-onegirl;galo1242-onetree;galo1242-ihaveonebrother;galo1242-ihaveonesister;galo1242-ihaveonealmirah;galo1242-ihaveonebag
+1-noct1238,noct1238,1,wantʰe,,,,noct1238-oneboy;noct1238-onesheep;noct1238-onegirl;noct1238-onetree;noct1238-ihaveonebrother;noct1238-ihaveonesister;noct1238-ihaveonealmirah;noct1238-ihaveonebag
+1-idum1241,idum1241,1,kʰege,,,,idum1241-oneboy;idum1241-onesheep;idum1241-onegirl;idum1241-onetree;idum1241-ihaveonebrother;idum1241-ihaveonesister;idum1241-ihaveonealmirah;idum1241-ihaveonebag
+1-miju1243,miju1243,1,kumo,,,,miju1243-oneboy;miju1243-onesheep;miju1243-onegirl;miju1243-onetree;miju1243-ihaveonebrother;miju1243-ihaveonesister;miju1243-ihaveonealmirah;miju1243-ihaveonebag
+1-koro1316,koro1316,1,eʧe,,,,koro1316-oneboy;koro1316-onesheep;koro1316-onegirl;koro1316-onetree;koro1316-ihaveonebrother;koro1316-ihaveonesister;koro1316-ihaveonealmirah;koro1316-ihaveonebag
 1-pada1257,pada1257,1,atəl,,,,pada1257-oneboy;pada1257-onesheep;pada1257-onegirl;pada1257-onetree;pada1257-ihaveonebrother;pada1257-ihaveonesister;pada1257-ihaveonealmirah;pada1257-ihaveonebag
+1-diga1241,diga1241,1,kʰin,,,,diga1241-oneboy;diga1241-onesheep;diga1241-onegirl;diga1241-onetree;diga1241-ihaveonebrother;diga1241-ihaveonesister;diga1241-ihaveonealmirah;diga1241-ihaveonebag
 1-tikh1243,tikh1243,1,asi,,,,tikh1243-oneboy;tikh1243-onesheep;tikh1243-onegirl;tikh1243-onetree;tikh1243-ihaveonebrother;tikh1243-ihaveonesister;tikh1243-ihaveonealmirah;tikh1243-ihaveonebag
+1-tsha1245,tsha1245,1,tʰuɹ,,,,tsha1245-oneboy;tsha1245-onesheep;tsha1245-onegirl;tsha1245-onetree;tsha1245-ihaveonebrother;tsha1245-ihaveonesister;tsha1245-ihaveonealmirah;tsha1245-ihaveonebag
+1-wanc1238,wanc1238,1,aʧa,,,,wanc1238-oneboy;wanc1238-onesheep;wanc1238-onegirl;wanc1238-onetree;wanc1238-ihaveonebrother;wanc1238-ihaveonesister;wanc1238-ihaveonealmirah;wanc1238-ihaveonebag
 2-spit1240,spit1240,2,nɨ,,,,spit1240-twoboys;spit1240-twogirls;spit1240-ihavetwobrothers;spit1240-ihavetwosisters;spit1240-ihavetwoalmirahs
 2-lada1244,lada1244,2,nis,,,,lada1244-twoboys;lada1244-twogirls;lada1244-ihavetwobrothers;lada1244-ihavetwosisters;lada1244-ihavetwoalmirahs
 2-khoi1251,khoi1251,2,kʰəni,,,,khoi1251-twoboys;khoi1251-twogirls;khoi1251-ihavetwobrothers;khoi1251-ihavetwosisters;khoi1251-ihavetwoalmirahs
@@ -1731,6 +1739,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 2-poch1243,poch1243,2,kəɲi,,,,poch1243-twoboys;poch1243-twogirls;poch1243-ihavetwobrothers;poch1243-ihavetwosisters;poch1243-ihavetwoalmirahs
 2-sang1321,sang1321,2,aɲə,,,,sang1321-twoboys;sang1321-twogirls;sang1321-ihavetwobrothers;sang1321-ihavetwosisters;sang1321-ihavetwoalmirahs
 2-yimc1240,yimc1240,2,maʔɲɪ,,,,yimc1240-twoboys;yimc1240-twogirls;yimc1240-ihavetwobrothers;yimc1240-ihavetwosisters;yimc1240-ihavetwoalmirahs
+2-khez1235,khez1235,2,kin̥i,,,,khez1235-twoboys;khez1235-twogirls;khez1235-ihavetwobrothers;khez1235-ihavetwosisters;khez1235-ihavetwoalmirahs
 2-khia1236,khia1236,2,lɘme,,,,khia1236-twoboys;khia1236-twogirls;khia1236-ihavetwobrothers;khia1236-ihavetwosisters;khia1236-ihavetwoalmirahs
 2-sout2732,sout2732,2,kɘɲ̥uŋ,,,,sout2732-twoboys;sout2732-twogirls;sout2732-ihavetwobrothers;sout2732-ihavetwosisters;sout2732-ihavetwoalmirahs
 2-sumi1235,sumi1235,2,kìnì,,,,sumi1235-twoboys;sumi1235-twogirls;sumi1235-ihavetwobrothers;sumi1235-ihavetwosisters;sumi1235-ihavetwoalmirahs
@@ -1738,8 +1747,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 2-nyis1236,nyis1236,2,ni,,,,nyis1236-twoboys;nyis1236-twogirls;nyis1236-ihavetwobrothers;nyis1236-ihavetwoalmirahs
 2-apat1240,apat1240,2,ani,,,,apat1240-twoboys;apat1240-twogirls;apat1240-ihavetwobrothers;apat1240-ihavetwosisters;apat1240-ihavetwoalmirahs
 2-galo1242,galo1242,2,ani,,,,galo1242-twoboys;galo1242-twogirls;galo1242-ihavetwobrothers;galo1242-ihavetwosisters;galo1242-ihavetwoalmirahs
+2-noct1238,noct1238,2,wani,,,,noct1238-twoboys;noct1238-twogirls;noct1238-ihavetwobrothers;noct1238-ihavetwosisters;noct1238-ihavetwoalmirahs
+2-idum1241,idum1241,2,kani,,,,idum1241-twoboys;idum1241-twogirls;idum1241-ihavetwobrothers;idum1241-ihavetwosisters;idum1241-ihavetwoalmirahs
+2-miju1243,miju1243,2,kɘin,,,,miju1243-twoboys;miju1243-twogirls;miju1243-ihavetwobrothers;miju1243-ihavetwosisters;miju1243-ihavetwoalmirahs
+2-koro1316,koro1316,2,kene,,,,koro1316-twoboys;koro1316-twogirls;koro1316-ihavetwobrothers;koro1316-ihavetwosisters;koro1316-ihavetwoalmirahs
 2-pada1257,pada1257,2,ani,,,,pada1257-twoboys;pada1257-twogirls;pada1257-ihavetwobrothers;pada1257-ihavetwosisters;pada1257-ihavetwoalmirahs
+2-diga1241,diga1241,2,kʌiŋ,,,,diga1241-twoboys;diga1241-twogirls;diga1241-ihavetwobrothers;diga1241-ihavetwosisters;diga1241-ihavetwoalmirahs
 2-tikh1243,tikh1243,2,anəi,,,,tikh1243-twoboys;tikh1243-twogirls;tikh1243-ihavetwobrothers;tikh1243-ihavetwosisters;tikh1243-ihavetwoalmirahs
+2-tsha1245,tsha1245,2,nikʦiŋ,,,,tsha1245-twoboys;tsha1245-twogirls;tsha1245-ihavetwobrothers;tsha1245-ihavetwosisters;tsha1245-ihavetwoalmirahs
+2-wanc1238,wanc1238,2,ani,,,,wanc1238-twoboys;wanc1238-twogirls;wanc1238-ihavetwobrothers;wanc1238-ihavetwosisters;wanc1238-ihavetwoalmirahs
 3-spit1240,spit1240,3,sum,,,,spit1240-threegirls;spit1240-ihavethreesisters;spit1240-ihavethreebags
 3-lada1244,lada1244,3,sum,,,,lada1244-threegirls;lada1244-ihavethreesisters;lada1244-ihavethreebags
 3-khoi1251,khoi1251,3,kʰəjum,,,,khoi1251-threegirls;khoi1251-ihavethreesisters;khoi1251-ihavethreebags
@@ -1763,6 +1779,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 3-poch1243,poch1243,3,kəʧe,,,,poch1243-threegirls;poch1243-ihavethreesisters;poch1243-ihavethreebags
 3-sang1321,sang1321,3,asəŋ,,,,sang1321-threegirls;sang1321-ihavethreesisters;sang1321-ihavethreebags
 3-yimc1240,yimc1240,3,maʔsam,,,,yimc1240-threegirls;yimc1240-ihavethreesisters;yimc1240-ihavethreebags
+3-khez1235,khez1235,3,kəʦɘ,,,,khez1235-threegirls;khez1235-ihavethreesisters;khez1235-ihavethreebags
 3-khia1236,khia1236,3,sɘme,,,,khia1236-threegirls;khia1236-ihavethreesisters;khia1236-ihavethreebags
 3-sout2732,sout2732,3,kɘ́nʃəŋ,,,,sout2732-threegirls;sout2732-ihavethreesisters;sout2732-ihavethreebags
 3-sumi1235,sumi1235,3,kɘtʰɘ,,,,sumi1235-threegirls;sumi1235-ihavethreesisters;sumi1235-ihavethreebags
@@ -1770,8 +1787,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 3-nyis1236,nyis1236,3,om,,,,nyis1236-threegirls;nyis1236-ihavethreesisters;nyis1236-ihavethreebags
 3-apat1240,apat1240,3,hiŋɪ,,,,apat1240-threegirls;apat1240-ihavethreesisters;apat1240-ihavethreebags
 3-galo1242,galo1242,3,auom,,,,galo1242-threegirls;galo1242-ihavethreesisters;galo1242-ihavethreebags
+3-noct1238,noct1238,3,wanɹəm,,,,noct1238-threegirls;noct1238-ihavethreesisters;noct1238-ihavethreebags
+3-idum1241,idum1241,3,kaso,,,,idum1241-threegirls;idum1241-ihavethreesisters;idum1241-ihavethreebags
+3-miju1243,miju1243,3,kɘsəm,,,,miju1243-threegirls;miju1243-ihavethreesisters;miju1243-ihavethreebags
+3-koro1316,koro1316,3,kala,,,,koro1316-threegirls;koro1316-ihavethreesisters;koro1316-ihavethreebags
 3-pada1257,pada1257,3,aŋum,,,,pada1257-threegirls;pada1257-ihavethreesisters;pada1257-ihavethreebags
+3-diga1241,diga1241,3,kasəŋ,,,,diga1241-threegirls;diga1241-ihavethreesisters;diga1241-ihavethreebags
 3-tikh1243,tikh1243,3,aɹom,,,,tikh1243-threegirls;tikh1243-ihavethreesisters;tikh1243-ihavethreebags
+3-tsha1245,tsha1245,3,sam,,,,tsha1245-threegirls;tsha1245-ihavethreesisters;tsha1245-ihavethreebags
+3-wanc1238,wanc1238,3,aɹəm,,,,wanc1238-threegirls;wanc1238-ihavethreesisters;wanc1238-ihavethreebags
 4-spit1240,spit1240,4,dʒi,,,,spit1240-ihavefourbags
 4-lada1244,lada1244,4,izbi,,,,lada1244-ihavefourbags
 4-khoi1251,khoi1251,4,pʰəli,,,,khoi1251-ihavefourbags
@@ -1795,6 +1819,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 4-poch1243,poch1243,4,əmzɯ,,,,poch1243-ihavefourbags
 4-sang1321,sang1321,4,məjə,,,,sang1321-ihavefourbags
 4-yimc1240,yimc1240,4,pʰɘŋɪ,,,,yimc1240-ihavefourbags
+4-khez1235,khez1235,4,pɘti,,,,khez1235-ihavefourbags
 4-khia1236,khia1236,4,pɘle,,,,khia1236-ihavefourbags
 4-sout2732,sout2732,4,pɘzi,,,,sout2732-ihavefourbags
 4-sumi1235,sumi1235,4,bidi,,,,sumi1235-ihavefourbags
@@ -1802,8 +1827,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 4-nyis1236,nyis1236,4,pʰi,,,,nyis1236-ihavefourbags
 4-apat1240,apat1240,4,pɘlɪ,,,,apat1240-ihavefourbags
 4-galo1242,galo1242,4,api,,,,galo1242-ihavefourbags
+4-noct1238,noct1238,4,wanpɘli,,,,noct1238-ihavefourbags
+4-idum1241,idum1241,4,kapi,,,,idum1241-ihavefourbags
+4-miju1243,miju1243,4,kɘmɹɘn,,,,miju1243-ihavefourbags
+4-koro1316,koro1316,4,kople,,,,koro1316-ihavefourbags
 4-pada1257,pada1257,4,api,,,,pada1257-ihavefourbags
+4-diga1241,diga1241,4,kapɹe,,,,diga1241-ihavefourbags
 4-tikh1243,tikh1243,4,bɘləi,,,,tikh1243-ihavefourbags
+4-tsha1245,tsha1245,4,pʰi,,,,tsha1245-ihavefourbags
+4-wanc1238,wanc1238,4,pɘʒi,,,,wanc1238-ihavefourbags
 5-spit1240,spit1240,5,ŋã,,,,spit1240-fivesheep
 5-lada1244,lada1244,5,Gɑ,,,,lada1244-fivesheep
 5-khoi1251,khoi1251,5,pʰəŋɑ̃,,,,khoi1251-fivesheep
@@ -1827,6 +1859,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 5-poch1243,poch1243,5,məŋa,,,,poch1243-fivesheep
 5-sang1321,sang1321,5,məŋa,,,,sang1321-fivesheep
 5-yimc1240,yimc1240,5,pʰɘŋɘ,,,,yimc1240-fivesheep
+5-khez1235,khez1235,5,puŋu,,,,khez1235-fivesheep
 5-khia1236,khia1236,5,puŋu,,,,khia1236-fivesheep
 5-sout2732,sout2732,5,pfɘ,,,,sout2732-fivesheep
 5-sumi1235,sumi1235,5,puŋu,,,,sumi1235-fivesheep
@@ -1834,8 +1867,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 5-nyis1236,nyis1236,5,ŋo,,,,nyis1236-fivesheep
 5-apat1240,apat1240,5,jaŋoi,,,,apat1240-fivesheep
 5-galo1242,galo1242,5,aŋo,,,,galo1242-fivesheep
+5-noct1238,noct1238,5,wanpaŋa,,,,noct1238-fivesheep
+5-idum1241,idum1241,5,maŋa,,,,idum1241-fivesheep
+5-miju1243,miju1243,5,kɘlen,,,,miju1243-fivesheep
+5-koro1316,koro1316,5,ple,,,,koro1316-fivesheep
 5-pada1257,pada1257,5,pilo,,,,pada1257-fivesheep
+5-diga1241,diga1241,5,maŋa,,,,diga1241-fivesheep
 5-tikh1243,tikh1243,5,baŋa,,,,tikh1243-fivesheep
+5-tsha1245,tsha1245,5,ŋa,,,,tsha1245-fivesheep
+5-wanc1238,wanc1238,5,aɲa,,,,wanc1238-fivesheep
 6-spit1240,spit1240,6,ʈʰruk,,,,
 6-lada1244,lada1244,6,ʈuk,,,,
 6-khoi1251,khoi1251,6,tʰəruk,,,,
@@ -1859,6 +1899,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 6-poch1243,poch1243,6,toɹo,,,,
 6-sang1321,sang1321,6,tʰoru,,,,
 6-yimc1240,yimc1240,6,tʰɘɹok,,,,
+6-khez1235,khez1235,6,saɹə,,,,
 6-khia1236,khia1236,6,lɘwok,,,,
 6-sout2732,sout2732,6,ʦɘɹo,,,,
 6-sumi1235,sumi1235,6,ʦuɣa,,,,
@@ -1866,8 +1907,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 6-nyis1236,nyis1236,6,kʰe,,,,
 6-apat1240,apat1240,6,χɘɪ,,,,
 6-galo1242,galo1242,6,akɘ,,,,
+6-noct1238,noct1238,6,wanɹok,,,,
+6-idum1241,idum1241,6,taɹ̥o,,,,
+6-miju1243,miju1243,6,kɘtam,,,,
+6-koro1316,koro1316,6,sɘfi,,,,
 6-pada1257,pada1257,6,ake,,,,
+6-diga1241,diga1241,6,taɹo,,,,
 6-tikh1243,tikh1243,6,koɹok,,,,
+6-tsha1245,tsha1245,6,kʰum,,,,
+6-wanc1238,wanc1238,6,agok,,,,
 7-spit1240,spit1240,7,dʉn,,,,
 7-lada1244,lada1244,7,rdun,,,,
 7-khoi1251,khoi1251,7,ini,,,,
@@ -1891,6 +1939,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 7-poch1243,poch1243,7,təɹə,,,,
 7-sang1321,sang1321,7,tʰeŋi,,,,
 7-yimc1240,yimc1240,7,tʰɘŋe,,,,
+7-khez1235,khez1235,7,seni,,,,
 7-khia1236,khia1236,7,ʦɘɲet,,,,
 7-sout2732,sout2732,7,ʦɘnɘ,,,,
 7-sumi1235,sumi1235,7,ʦɘ̀ŋì,,,,
@@ -1898,8 +1947,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 7-nyis1236,nyis1236,7,kɘn,,,,
 7-apat1240,apat1240,7,kənoi,,,,
 7-galo1242,galo1242,7,kanɘ,,,,
+7-noct1238,noct1238,7,wanɪt,,,,
+7-idum1241,idum1241,7,iwu,,,,
+7-miju1243,miju1243,7,nɘn,,,,
+7-koro1316,koro1316,7,ɹoŋ,,,,
 7-pada1257,pada1257,7,kɘnɘt,,,,
+7-diga1241,diga1241,7,vẽ,,,,
 7-tikh1243,tikh1243,7,sɘnət,,,,
+7-tsha1245,tsha1245,7,zum,,,,
+7-wanc1238,wanc1238,7,anət,,,,
 8-spit1240,spit1240,8,ɡjɛ,,,,spit1240-eighttrees
 8-lada1244,lada1244,8,rɡjət,,,,lada1244-eighttrees
 8-khoi1251,khoi1251,8,təcət,,,,khoi1251-eighttrees
@@ -1923,6 +1979,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 8-poch1243,poch1243,8,təze,,,,poch1243-eighttrees
 8-sang1321,sang1321,8,ki,,,,sang1321-eighttrees
 8-yimc1240,yimc1240,8,tɘʒa,,,,yimc1240-eighttrees
+8-khez1235,khez1235,8,tiʧe,,,,khez1235-eighttrees
 8-khia1236,khia1236,8,pɘʧe,,,,khia1236-eighttrees
 8-sout2732,sout2732,8,tɘʦe,,,,sout2732-eighttrees
 8-sumi1235,sumi1235,8,taʧe,,,,sumi1235-eighttrees
@@ -1930,8 +1987,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 8-nyis1236,nyis1236,8,pin,,,,nyis1236-eighttrees
 8-apat1240,apat1240,8,piɲɪ,,,,apat1240-eighttrees
 8-galo1242,galo1242,8,pinɘ,,,,galo1242-eighttrees
+8-noct1238,noct1238,8,wansɘt,,,,noct1238-eighttrees
+8-idum1241,idum1241,8,iju,,,,idum1241-eighttrees
+8-miju1243,miju1243,8,gɹɘn,,,,miju1243-eighttrees
+8-koro1316,koro1316,8,ɹala,,,,koro1316-eighttrees
 8-pada1257,pada1257,8,pɘni,,,,pada1257-eighttrees
+8-diga1241,diga1241,8,lim,,,,diga1241-eighttrees
 8-tikh1243,tikh1243,8,mɘʧət,,,,tikh1243-eighttrees
+8-tsha1245,tsha1245,8,jen,,,,tsha1245-eighttrees
+8-wanc1238,wanc1238,8,asət,,,,wanc1238-eighttrees
 9-spit1240,spit1240,9,ɡu,,,,
 9-lada1244,lada1244,9,rɡu,,,,
 9-khoi1251,khoi1251,9,təku,,,,
@@ -1955,6 +2019,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 9-poch1243,poch1243,9,toku,,,,
 9-sang1321,sang1321,9,təku,,,,
 9-yimc1240,yimc1240,9,tuku,,,,
+9-khez1235,khez1235,9,tetɘ,,,,
 9-khia1236,khia1236,9,lɘkau,,,,
 9-sout2732,sout2732,9,tɘkɘə,,,,
 9-sumi1235,sumi1235,9,toku,,,,
@@ -1962,8 +2027,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 9-nyis1236,nyis1236,9,kʰja,,,,
 9-apat1240,apat1240,9,kuai,,,,
 9-galo1242,galo1242,9,keŋə,,,,
+9-noct1238,noct1238,9,wankʰu,,,,
+9-idum1241,idum1241,9,kʰini,,,,
+9-miju1243,miju1243,9,nətmo,,,,
+9-koro1316,koro1316,9,gaje,,,,
 9-pada1257,pada1257,9,ko-ŋ,,,,
+9-diga1241,diga1241,9,kəɲəŋ,,,,
 9-tikh1243,tikh1243,9,tɘko,,,,
+9-tsha1245,tsha1245,9,gu,,,,
+9-wanc1238,wanc1238,9,aku,,,,
 10-spit1240,spit1240,10,tʃu,,,,
 10-lada1244,lada1244,10,tʃu,,,,
 10-khoi1251,khoi1251,10,cipkʰəe,,,,
@@ -1987,6 +2059,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 10-poch1243,poch1243,10,təɹake,,,,
 10-sang1321,sang1321,10,tʰeɹe,,,,
 10-yimc1240,yimc1240,10,tʰɘɹɘ,,,,
+10-khez1235,khez1235,10,ʧaɹə,,,,
 10-khia1236,khia1236,10,ʦe,,,,
 10-sout2732,sout2732,10,ʦɘɹɘ,,,,
 10-sumi1235,sumi1235,10,ʧiɣi,,,,
@@ -1994,8 +2067,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 10-nyis1236,nyis1236,10,ɹiŋ,,,,
 10-apat1240,apat1240,10,aliaŋi,,,,
 10-galo1242,galo1242,10,ɘɹɘ,,,,
+10-noct1238,noct1238,10,wanʧi,,,,
+10-idum1241,idum1241,10,huŋu,,,,
+10-miju1243,miju1243,10,kepmo,,,,
+10-koro1316,koro1316,10,fala,,,,
 10-pada1257,pada1257,10,ɘiŋ,,,,
+10-diga1241,diga1241,10,halɘŋ,,,,
 10-tikh1243,tikh1243,10,ʧe,,,,
+10-tsha1245,tsha1245,10,se,,,,
+10-wanc1238,wanc1238,10,ba:n,,,,
 11-spit1240,spit1240,11,muŋsɔʋə,,,,spit1240-firstman;spit1240-firstwoman
 11-lada1244,lada1244,11,ɡomɑ,,,,lada1244-firstman;lada1244-firstwoman
 11-khoi1251,khoi1251,11,bəŋkəri,,,,khoi1251-firstman;khoi1251-firstwoman
@@ -2018,6 +2098,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 11-poch1243,poch1243,11,apo-wa,,,,poch1243-firstman;poch1243-firstwoman
 11-sang1321,sang1321,11,kʰətu-pʌ / akʰu-pʌ,,,,sang1321-firstman;sang1321-firstwoman
 11-yimc1240,yimc1240,11,akʰupe,,,,yimc1240-firstman;yimc1240-firstwoman
+11-khez1235,khez1235,11,kiɹi,,,,khez1235-firstman;khez1235-firstwoman
 11-khia1236,khia1236,11,ajatin,,,,khia1236-firstman;khia1236-firstwoman
 11-sout2732,sout2732,11,akɘɹi-gɘ,,,,sout2732-firstman;sout2732-firstwoman
 11-sumi1235,sumi1235,11,atɘχɘu,,,,sumi1235-firstman;sumi1235-firstwoman
@@ -2025,8 +2106,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 11-nyis1236,nyis1236,11,ʧo / ətuk,,,,nyis1236-firstman;nyis1236-firstwoman
 11-apat1240,apat1240,11,kapioʤa-pa,,,,apat1240-firstman;apat1240-firstwoman
 11-galo1242,galo1242,11,àto / àʧo,,,,galo1242-firstman;galo1242-firstwoman
+11-noct1238,noct1238,11,abaŋtʰuɘn,,,,noct1238-firstman
+11-idum1241,idum1241,11,ihendo,,,,idum1241-firstman;idum1241-firstwoman
+11-miju1243,miju1243,11,paŋ,,,,miju1243-firstman;miju1243-firstwoman
+11-koro1316,koro1316,11,pàti-eʧe,,,,koro1316-firstman;koro1316-firstwoman
 11-pada1257,pada1257,11,kəɹaŋ,,,,pada1257-firstman;pada1257-firstwoman
+11-diga1241,diga1241,11,hɘju,,,,diga1241-firstman
 11-tikh1243,tikh1243,11,kəʧəi,,,,tikh1243-firstman;tikh1243-firstwoman
+11-tsha1245,tsha1245,11,gumtʰakpa,,,,tsha1245-firstman;tsha1245-firstwoman
+11-wanc1238,wanc1238,11,àbàŋ,,,,wanc1238-firstman;wanc1238-firstwoman
 12-spit1240,spit1240,12,nɨpa,,,,spit1240-secondman;spit1240-secondwoman
 12-lada1244,lada1244,12,nispɑ,,,,lada1244-secondman;lada1244-secondwoman
 12-khoi1251,khoi1251,12,kʰənikətʰluŋ,,,,khoi1251-secondman;khoi1251-secondwoman
@@ -2049,6 +2137,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 12-poch1243,poch1243,12,kəɲi-wa,,,,poch1243-secondman;poch1243-secondwoman
 12-sang1321,sang1321,12,aɲu:-pʌ,,,,sang1321-secondman;sang1321-secondwoman
 12-yimc1240,yimc1240,12,maʔɲɪ-pɘ,,,,yimc1240-secondman;yimc1240-secondwoman
+12-khez1235,khez1235,12,ʧəʃo,,,,khez1235-secondman;khez1235-secondwoman
 12-khia1236,khia1236,12,mɘ-ʧam,,,,khia1236-secondman;khia1236-secondwoman
 12-sout2732,sout2732,12,kɘɲ̥uŋ-gɘ,,,,sout2732-secondman;sout2732-secondwoman
 12-sumi1235,sumi1235,12,akiɲu,,,,sumi1235-secondman;sumi1235-secondwoman
@@ -2056,7 +2145,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 12-nyis1236,nyis1236,12,kɘʃiŋ,,,,nyis1236-secondman;nyis1236-secondwoman
 12-apat1240,apat1240,12,ani-nɘpa,,,,apat1240-secondman;apat1240-secondwoman
 12-galo1242,galo1242,12,àdɘ,,,,
+12-idum1241,idum1241,12,imtakiʧi / buinilinaba,,,,
+12-miju1243,miju1243,12,wənmahəi,,,,
+12-koro1316,koro1316,12,pàti-kene,,,,koro1316-secondman;koro1316-secondwoman
 12-pada1257,pada1257,12,ani,,,,pada1257-secondman;pada1257-secondwoman
+12-tsha1245,tsha1245,12,ʦiŋʦiŋa,,,,tsha1245-secondman;tsha1245-secondwoman
+12-wanc1238,wanc1238,12,àni,,,,wanc1238-secondman;wanc1238-secondwoman
 13-spit1240,spit1240,13,sumba,,,,spit1240-thirdman;spit1240-thirdwoman
 13-lada1244,lada1244,13,sumpɑ,,,,lada1244-thirdman;lada1244-thirdwoman
 13-khoi1251,khoi1251,13,kʰəjumkətʰluŋ,,,,khoi1251-thirdman;khoi1251-thirdwoman
@@ -2079,6 +2173,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 13-poch1243,poch1243,13,kəʧe-wa,,,,poch1243-thirdman;poch1243-thirdwoman
 13-sang1321,sang1321,13,asəuŋ-pʌ,,,,sang1321-thirdman;sang1321-thirdwoman
 13-yimc1240,yimc1240,13,asam-pɘ,,,,yimc1240-thirdman;yimc1240-thirdwoman
+13-khez1235,khez1235,13,kəʦɘ,,,,khez1235-thirdman;khez1235-thirdwoman
 13-khia1236,khia1236,13,sɘm-ʧam,,,,khia1236-thirdman;khia1236-thirdwoman
 13-sout2732,sout2732,13,kɘ́nʃəŋ-gɘ,,,,sout2732-thirdman;sout2732-thirdwoman
 13-sumi1235,sumi1235,13,akɘtʰɘu,,,,sumi1235-thirdman;sumi1235-thirdwoman
@@ -2086,7 +2181,12 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 13-nyis1236,nyis1236,13,kɘin,,,,nyis1236-thirdman;nyis1236-thirdwoman
 13-apat1240,apat1240,13,hiŋɪ-nɘpa,,,,apat1240-thirdman;apat1240-thirdwoman
 13-galo1242,galo1242,13,auom-name,,,,
+13-idum1241,idum1241,13,bɘ-so-linaba,,,,
+13-miju1243,miju1243,13,wəihəiʧɘn,,,,
+13-koro1316,koro1316,13,pàti-kala,,,,koro1316-thirdman;koro1316-thirdwoman
 13-pada1257,pada1257,13,aŋum,,,,pada1257-thirdman;pada1257-thirdwoman
+13-tsha1245,tsha1245,13,sa:-ma,,,,
+13-wanc1238,wanc1238,13,àɹəm,,,,wanc1238-thirdman;wanc1238-thirdwoman
 14-spit1240,spit1240,14,dʒipa,,,,spit1240-forthman;spit1240-forthwoman
 14-lada1244,lada1244,14,ižbipɑ,,,,lada1244-forthman;lada1244-forthwoman
 14-khoi1251,khoi1251,14,pʰəlikətʰluŋ,,,,khoi1251-forthman;khoi1251-forthwoman
@@ -2108,6 +2208,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 14-poch1243,poch1243,14,əmza-wa,,,,poch1243-forthman;poch1243-forthwoman
 14-sang1321,sang1321,14,məjəu:-pʌ,,,,sang1321-forthman;sang1321-forthwoman
 14-yimc1240,yimc1240,14,apʰɪ-pɘ,,,,yimc1240-forthman;yimc1240-forthwoman
+14-khez1235,khez1235,14,pɘti,,,,khez1235-forthman;khez1235-forthwoman
 14-khia1236,khia1236,14,pɘle-ʧam,,,,khia1236-forthman;khia1236-forthwoman
 14-sout2732,sout2732,14,pɘzi-gɘ,,,,sout2732-forthman;sout2732-forthwoman
 14-sumi1235,sumi1235,14,abidiu,,,,sumi1235-forthman;sumi1235-forthwoman
@@ -2115,7 +2216,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 14-nyis1236,nyis1236,14,pidɘp,,,,nyis1236-forthman;nyis1236-forthwoman
 14-apat1240,apat1240,14,pɘli-nɘpa,,,,apat1240-forthman;apat1240-forthwoman
 14-galo1242,galo1242,14,api-name,,,,
+14-idum1241,idum1241,14,bɘ-pi-linaba,,,,
+14-koro1316,koro1316,14,pàti-kople,,,,koro1316-forthman;koro1316-forthwoman
 14-pada1257,pada1257,14,api,,,,pada1257-forthman;pada1257-forthwoman
+14-tsha1245,tsha1245,14,pʰi-ma,,,,
+14-wanc1238,wanc1238,14,pɘʒi,,,,wanc1238-forthman;wanc1238-forthwoman
 15-spit1240,spit1240,15,ŋãpa,,,,spit1240-fifthman;spit1240-fifthwoman
 15-lada1244,lada1244,15,Gɑpɑ,,,,lada1244-fifthman;lada1244-fifthwoman
 15-khoi1251,khoi1251,15,pʰəŋɑ̃kətʰluŋ,,,,khoi1251-fifthman;khoi1251-fifthwoman
@@ -2137,6 +2242,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 15-poch1243,poch1243,15,məŋa-wa,,,,poch1243-fifthman;poch1243-fifthwoman
 15-sang1321,sang1321,15,məŋəu:-pʌ,,,,sang1321-fifthman;sang1321-fifthwoman
 15-yimc1240,yimc1240,15,apʰɘŋɘ-pɘ,,,,yimc1240-fifthman;yimc1240-fifthwoman
+15-khez1235,khez1235,15,puŋu,,,,khez1235-fifthman;khez1235-fifthwoman
 15-khia1236,khia1236,15,muŋu-tiam,,,,khia1236-fifthman;khia1236-fifthwoman
 15-sout2732,sout2732,15,pfɘŋ-gɘ,,,,sout2732-fifthman;sout2732-fifthwoman
 15-sumi1235,sumi1235,15,apuŋu:,,,,sumi1235-fifthman;sumi1235-fifthwoman
@@ -2144,7 +2250,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 15-nyis1236,nyis1236,15,pidibo,,,,nyis1236-fifthman;nyis1236-fifthwoman
 15-apat1240,apat1240,15,jaŋo-nɘpa,,,,apat1240-fifthman;apat1240-fifthwoman
 15-galo1242,galo1242,15,aŋo-name,,,,
+15-idum1241,idum1241,15,bɘ-maŋa-linaba,,,,
+15-koro1316,koro1316,15,pàti-ple,,,,koro1316-fifthman;koro1316-fifthwoman
 15-pada1257,pada1257,15,pilo,,,,pada1257-fifthman;pada1257-fifthwoman
+15-tsha1245,tsha1245,15,ŋa-ma,,,,
+15-wanc1238,wanc1238,15,aɲa,,,,wanc1238-fifthman;wanc1238-fifthwoman
 16-spit1240,spit1240,16,ʈʰrokpa,,,,spit1240-sixthwoman
 16-lada1244,lada1244,16,ʈukpɑ,,,,lada1244-sixthwoman
 16-khoi1251,khoi1251,16,tʰərukkətʰluŋ,,,,khoi1251-sixthwoman
@@ -2166,6 +2276,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 16-poch1243,poch1243,16,toɹo-wa,,,,poch1243-sixthwoman
 16-sang1321,sang1321,16,tʰoɹu:-pʌ,,,,sang1321-sixthwoman
 16-yimc1240,yimc1240,16,atʰɘɹok-pɘ,,,,yimc1240-sixthwoman
+16-khez1235,khez1235,16,saɹə,,,,khez1235-sixthwoman
 16-khia1236,khia1236,16,lɘwok-tiam,,,,
 16-sout2732,sout2732,16,ʦɘɹo-gɘ,,,,sout2732-sixthwoman
 16-sumi1235,sumi1235,16,akɘʦuɣou,,,,sumi1235-sixthwoman
@@ -2173,7 +2284,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 16-nyis1236,nyis1236,16,kʰe-buhe,,,,nyis1236-sixthwoman
 16-apat1240,apat1240,16,χi-nɘpa,,,,apat1240-sixthwoman
 16-galo1242,galo1242,16,akɘ-name,,,,
+16-idum1241,idum1241,16,bɘ-ɹ̥o-linaba,,,,
+16-koro1316,koro1316,16,pàti-sɘfi,,,,koro1316-sixthwoman
 16-pada1257,pada1257,16,ake,,,,pada1257-sixthwoman
+16-tsha1245,tsha1245,16,kʰum-ma,,,,
+16-wanc1238,wanc1238,16,agok,,,,wanc1238-sixthwoman
 17-spit1240,spit1240,17,dʉnba,,,,spit1240-seventhboy
 17-lada1244,lada1244,17,dunpɑ,,,,lada1244-seventhboy
 17-khoi1251,khoi1251,17,inikətʰluŋ,,,,khoi1251-seventhboy
@@ -2195,6 +2310,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 17-poch1243,poch1243,17,təɹa-wa,,,,poch1243-seventhboy
 17-sang1321,sang1321,17,tʰeŋiu:-pə,,,,sang1321-seventhboy
 17-yimc1240,yimc1240,17,atʰɘŋe-pɘ,,,,yimc1240-seventhboy
+17-khez1235,khez1235,17,seɲu,,,,khez1235-seventhboy
 17-khia1236,khia1236,17,ʦɘɲe-tiam,,,,khia1236-seventhboy
 17-sout2732,sout2732,17,ʦɘnɘ-gɘ,,,,sout2732-seventhboy
 17-sumi1235,sumi1235,17,akɘʦɘniu,,,,sumi1235-seventhboy
@@ -2202,7 +2318,11 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 17-nyis1236,nyis1236,17,kɘn-ʤab,,,,nyis1236-seventhboy
 17-apat1240,apat1240,17,kənoi-nɘpa,,,,apat1240-seventhboy
 17-galo1242,galo1242,17,kan-name,,,,galo1242-seventhboy
+17-idum1241,idum1241,17,bɘ-wu-linaba,,,,
+17-koro1316,koro1316,17,pàti-ɹoŋ,,,,koro1316-seventhboy
 17-pada1257,pada1257,17,kɘnɘt,,,,pada1257-seventhboy
+17-tsha1245,tsha1245,17,zum-ma,,,,tsha1245-seventhboy
+17-wanc1238,wanc1238,17,anət,,,,wanc1238-seventhboy
 18-spit1240,spit1240,18,ɡjɛtpa,,,,spit1240-eighthgirl
 18-lada1244,lada1244,18,ɡjətpɑ,,,,lada1244-eighthgirl
 18-khoi1251,khoi1251,18,təcətkətʰluŋ,,,,khoi1251-eighthgirl
@@ -2224,6 +2344,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 18-poch1243,poch1243,18,təze-wa,,,,poch1243-eighthgirl
 18-sang1321,sang1321,18,kiu:-pʌ,,,,sang1321-eighthgirl
 18-yimc1240,yimc1240,18,atɘʒaʔ-pɘ,,,,yimc1240-eighthgirl
+18-khez1235,khez1235,18,tiʧe:u,,,,khez1235-eighthgirl
 18-khia1236,khia1236,18,pɘʧe-tiam,,,,khia1236-eighthgirl
 18-sout2732,sout2732,18,tɘʦe-gɘ,,,,sout2732-eighthgirl
 18-sumi1235,sumi1235,18,akɘtàʧeu,,,,sumi1235-eighthgirl
@@ -2231,6 +2352,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 18-nyis1236,nyis1236,18,pin-ʤəbu,,,,nyis1236-eighthgirl
 18-apat1240,apat1240,18,piɲɪ-nɘpa,,,,apat1240-eighthgirl
 18-galo1242,galo1242,18,pinɘ-name,,,,galo1242-eighthgirl
+18-idum1241,idum1241,18,bɘ-ju-linaba,,,,
+18-koro1316,koro1316,18,pàti-ɹala,,,,koro1316-eighthgirl
+18-tsha1245,tsha1245,18,jen-ma,,,,tsha1245-eighthgirl
+18-wanc1238,wanc1238,18,asət,,,,wanc1238-eighthgirl
 19-spit1240,spit1240,19,ɡupa,,,,
 19-lada1244,lada1244,19,ɡupɑ,,,,
 19-khoi1251,khoi1251,19,təkukətʰluŋ,,,,
@@ -2252,6 +2377,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 19-poch1243,poch1243,19,toku-wa,,,,
 19-sang1321,sang1321,19,təku:-pə,,,,
 19-yimc1240,yimc1240,19,atuku-pɘ,,,,
+19-khez1235,khez1235,19,təkfɘ:u,,,,
 19-khia1236,khia1236,19,lɘkau-tiam,,,,
 19-sout2732,sout2732,19,tɘkɘə-gɘ,,,,
 19-sumi1235,sumi1235,19,atoku:,,,,
@@ -2259,6 +2385,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 19-nyis1236,nyis1236,19,kʰja-ʤəbu / kʰja-ʧe / kʰja-ne,,,,
 19-apat1240,apat1240,19,kua-nɘpa,,,,
 19-galo1242,galo1242,19,kiŋə-name,,,,
+19-idum1241,idum1241,19,bɘ-kʰini-linaba,,,,
+19-koro1316,koro1316,19,pàti-gaje,,,,
+19-tsha1245,tsha1245,19,gu-ma,,,,
+19-wanc1238,wanc1238,19,aku,,,,
 20-spit1240,spit1240,20,tʃupa,,,,
 20-lada1244,lada1244,20,tʃupɑ,,,,
 20-khoi1251,khoi1251,20,cipkʰəekətʰluŋ,,,,
@@ -2280,12 +2410,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 20-poch1243,poch1243,20,təɹake-wa,,,,
 20-sang1321,sang1321,20,tʰəɹəu:-pʌ,,,,
 20-yimc1240,yimc1240,20,atʰɘɹɘ-pɘ,,,,
+20-khez1235,khez1235,20,ʧaɹə:,,,,
 20-khia1236,khia1236,20,ʧe-tiam,,,,
 20-sout2732,sout2732,20,ʦɘɹɘ-gɘ,,,,
 20-zeme1240,zeme1240,20,pɘset-kɘɹɘu,,,,
 20-nyis1236,nyis1236,20,ʧam-ne/ ɹiŋ-ne / ʧam-dəb / ʧam-buhe,,,,
 20-apat1240,apat1240,20,aliaŋ-nɘpa,,,,
 20-galo1242,galo1242,20,ɘɹɘ-name,,,,
+20-idum1241,idum1241,20,bɘ-huŋ-linaba,,,,
+20-koro1316,koro1316,20,pàti-fala,,,,
+20-tsha1245,tsha1245,20,se-ma,,,,
+20-wanc1238,wanc1238,20,ba:n,,,,
 21-spit1240,spit1240,21,tʃʋiʃikpa,,,,
 21-khoi1251,khoi1251,21,cipləikʰətkətʰluŋ,,,,
 21-aona1235,aona1235,21,tʰərkʰɑpùpɑ̀?,,,,
@@ -2306,12 +2441,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 21-poch1243,poch1243,21,təɹaləke-wa,,,,
 21-sang1321,sang1321,21,tʰeɹe-kʰətu-pʌ / tʰeɹe-kʰiu:-pə,,,,
 21-yimc1240,yimc1240,21,tʰɘɹɘ kjak kʰɘlaŋ pɘ,,,,
+21-khez1235,khez1235,21,ʧaɹə-kele-u,,,,
 21-khia1236,khia1236,21,ʦɘ-kɘ-ʦak-tiam,,,,
 21-sout2732,sout2732,21,ʦɘɹɘ-m̥e-gɘ,,,,
 21-zeme1240,zeme1240,21,pɘset-kɘɹɘu-ket,,,,
 21-nyis1236,nyis1236,21,ɹeŋ-kin-ʧo / ɹeŋ-leʧo,,,,
 21-apat1240,apat1240,21,aliaŋ-aku-nɘpa,,,,
 21-galo1242,galo1242,21,ɘɹɘ-gola-aken-name,,,,
+21-idum1241,idum1241,21,bɘ-hu-ke-linaba,,,,
+21-koro1316,koro1316,21,pàti-fala-jali-eʧe,,,,
+21-tsha1245,tsha1245,21,soŋ-tʰuɹ-ma,,,,
+21-wanc1238,wanc1238,21,ba:n-ba-ʧa,,,,
 22-spit1240,spit1240,22,tʃʋinɨʋə,,,,
 22-khoi1251,khoi1251,22,cipləikʰənikətʰluŋ,,,,
 22-aona1235,aona1235,22,tʰərənnɑpùpɑ̀?,,,,
@@ -2332,12 +2472,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 22-poch1243,poch1243,22,təɹa-keɲi-wa,,,,
 22-sang1321,sang1321,22,tʰeɹe-aɲiu:-pʌ,,,,
 22-yimc1240,yimc1240,22,tʰɘɹɘ kjak maʔɲɪ pɘ,,,,
+22-khez1235,khez1235,22,ʧaɹə-kin̥i-u,,,,
 22-khia1236,khia1236,22,ʦɘ-kɘ-lɘme-tiam,,,,
 22-sout2732,sout2732,22,ʦɘɹɘ-kɘɲ̥uŋ-gɘ,,,,
 22-zeme1240,zeme1240,22,pɘset-kɘɹɘu-kɘna,,,,
 22-nyis1236,nyis1236,22,ɹeŋlekɘʃi,,,,
 22-apat1240,apat1240,22,aliaŋ-ani-nɘpa,,,,
 22-galo1242,galo1242,22,ɘɹɘ-gola-ani-name,,,,
+22-idum1241,idum1241,22,bɘ-hu-ni-linaba,,,,
+22-koro1316,koro1316,22,pàti-fala-jali-kene,,,,
+22-tsha1245,tsha1245,22,soŋ-nikʦiŋ-ma,,,,
+22-wanc1238,wanc1238,22,ba:n-ba-ni,,,,
 23-spit1240,spit1240,23,tʃuksumbə,,,,
 23-khoi1251,khoi1251,23,cipləikʰəjumkətʰluŋ,,,,
 23-aona1235,aona1235,23,tʰərəʃəmpùpɑ̀?,,,,
@@ -2358,12 +2503,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 23-poch1243,poch1243,23,təɹak-ʧe-wa,,,,
 23-sang1321,sang1321,23,tʰeɹe-asəuŋ-pʌ,,,,
 23-yimc1240,yimc1240,23,tʰɘɹɘ kjak maʔsam pɘ,,,,
+23-khez1235,khez1235,23,ʧaɹə-kəʦɘ-u,,,,
 23-khia1236,khia1236,23,ʦɘ-kɘ-sɘme-tiam,,,,
 23-sout2732,sout2732,23,ʦɘɹɘ-kɘ́nʃəŋ-gɘ,,,,
 23-zeme1240,zeme1240,23,pɘset-kɘɹɘu-kɘʦum,,,,
 23-nyis1236,nyis1236,23,ɹeŋ-le-om-kɘin / ɹeŋ-le-kɘin,,,,
 23-apat1240,apat1240,23,aliaŋ-hiŋɪ-nɘpa,,,,
 23-galo1242,galo1242,23,ɘɹɘ-gola-auom-name,,,,
+23-idum1241,idum1241,23,bɘ-hulo-so-linaba,,,,
+23-koro1316,koro1316,23,pàti-fala-jali-kala,,,,
+23-tsha1245,tsha1245,23,soŋ-sam-ma,,,,
+23-wanc1238,wanc1238,23,ba:n-ba-aɹəm,,,,
 24-spit1240,spit1240,24,tʃʋidʒipa,,,,
 24-khoi1251,khoi1251,24,cipləipʰəlikətʰluŋ,,,,
 24-aona1235,aona1235,24,tʰərpiʒʒəpùpɑ̀?,,,,
@@ -2384,12 +2534,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 24-poch1243,poch1243,24,təɹam-zə-wa,,,,
 24-sang1321,sang1321,24,tʰeɹe-məju:-pʌ,,,,
 24-yimc1240,yimc1240,24,tʰɘɹɘ kjak pʰɘŋɪ pɘ,,,,
+24-khez1235,khez1235,24,ʧaɹə-pədi-u,,,,
 24-khia1236,khia1236,24,ʦɘ-kɘ-pɘle-tiam,,,,
 24-sout2732,sout2732,24,ʦɘɹɘ-pɘzɪ-gɘ,,,,
 24-zeme1240,zeme1240,24,pɘset-kɘɹɘu-medai,,,,
 24-nyis1236,nyis1236,24,ɹeŋ-le-pi-dip / ɹeŋ-le-dɘb,,,,
 24-apat1240,apat1240,24,aliaŋ-la-pɘli-nɘpa,,,,
 24-galo1242,galo1242,24,ɘɹɘ-gola-api-name,,,,
+24-idum1241,idum1241,24,bɘ-hu-pi-linaba,,,,
+24-koro1316,koro1316,24,pàti-fala-jali-kople,,,,
+24-tsha1245,tsha1245,24,soŋ-pʰi-ma,,,,
+24-wanc1238,wanc1238,24,ba:n-ba-pɘʒi,,,,
 25-spit1240,spit1240,25,tʃʋeŋaʋə,,,,
 25-khoi1251,khoi1251,25,cipləipʰəŋɑ̃kətʰluŋ,,,,
 25-aona1235,aona1235,25,tʰərpuŋopùpɑ̀?,,,,
@@ -2410,12 +2565,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 25-poch1243,poch1243,25,təɹam-ŋa-wa,,,,
 25-sang1321,sang1321,25,tʰeɹe-məɲiu:-pʌ,,,,
 25-yimc1240,yimc1240,25,tʰɘɹɘ kjak pʰɘŋɘ pɘ,,,,
+25-khez1235,khez1235,25,ʧaɹə-puŋu:,,,,
 25-khia1236,khia1236,25,ʦɘ-kɘ-muŋu-tiam,,,,
 25-sout2732,sout2732,25,ʦɘɹɘ-pfɘŋ-gɘ,,,,
 25-zeme1240,zeme1240,25,pɘset-kɘɹɘu-miŋʉ,,,,
 25-nyis1236,nyis1236,25,ɹeŋ-le-ŋu-dibu / ɹeŋ-le-ŋu-buhe,,,,
 25-apat1240,apat1240,25,aliaŋ-la-jaŋo-nɘpa,,,,
 25-galo1242,galo1242,25,ɘɹɘ-gola-aŋo-nam,,,,
+25-idum1241,idum1241,25,bɘ-hu-ma-linaba,,,,
+25-koro1316,koro1316,25,pàti-fala-jali-ple,,,,
+25-tsha1245,tsha1245,25,soŋ-ŋa-ma,,,,
+25-wanc1238,wanc1238,25,ba:n-ba-aɲa,,,,
 26-spit1240,spit1240,26,tʃʋirukpa,,,,
 26-khoi1251,khoi1251,26,cipləitʰərukkətʰluŋ,,,,
 26-aona1235,aona1235,26,tʰərʈʰruk pùpɑ̀?,,,,
@@ -2436,12 +2596,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 26-poch1243,poch1243,26,təɹa-toɹo-wa,,,,
 26-sang1321,sang1321,26,tʰeɹe-tʰoɹu:-pʌ,,,,
 26-yimc1240,yimc1240,26,tʰɘɹɘ kjak tʰɘɹok pɘ,,,,
+26-khez1235,khez1235,26,ʧaɹə-saɹə:,,,,
 26-khia1236,khia1236,26,ʦɘ-kɘ-lɘwok-tiam,,,,
 26-sout2732,sout2732,26,ʦɘɹɘ-o-ʦɘɹo-gɘ,,,,
 26-zeme1240,zeme1240,26,pɘset-kɘɹɘu-sɘɹok,,,,
 26-nyis1236,nyis1236,26,ɹeŋ-le-kʰe-buhe,,,,
 26-apat1240,apat1240,26,aliaŋ-la-χɘ-nɘpa,,,,
 26-galo1242,galo1242,26,ɘɹɘ-gola-akɘ-name,,,,
+26-idum1241,idum1241,26,bɘ-hola-ɹ̥ɘ-linaba,,,,
+26-koro1316,koro1316,26,pàti-fala-jali-səfi,,,,
+26-tsha1245,tsha1245,26,soŋ-kʰum-ma,,,,
+26-wanc1238,wanc1238,26,ba:n-ba-agok,,,,
 27-spit1240,spit1240,27,tʃʋipdʉnba,,,,
 27-khoi1251,khoi1251,27,cipləiinikətʰluŋ,,,,
 27-aona1235,aona1235,27,tʰərtənətpùpɑ̀?,,,,
@@ -2462,12 +2627,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 27-poch1243,poch1243,27,təɹa-təɹə-wa,,,,
 27-sang1321,sang1321,27,tʰeɹe-tʰəŋiu:-pʌ,,,,
 27-yimc1240,yimc1240,27,tʰɘɹɘ kjak tʰɘŋe pɘ,,,,
+27-khez1235,khez1235,27,ʧaɹə-seɲ-u,,,,
 27-khia1236,khia1236,27,ʦɘ-kɘ-ʦɘɲe-tiam,,,,
 27-sout2732,sout2732,27,ʦɘɹo-o-ʦɘnɘ-gɘ,,,,
 27-zeme1240,zeme1240,27,pɘset-kɘɹɘu-sɘna,,,,
 27-nyis1236,nyis1236,27,ɹeŋ-le-kɘn-ʤəb,,,,
 27-apat1240,apat1240,27,aliaŋ-la-kənoi-nɘpa,,,,
 27-galo1242,galo1242,27,ɘɹɘ-gola-kanɘ-name,,,,
+27-idum1241,idum1241,27,bɘ-holo-wu-linaba,,,,
+27-koro1316,koro1316,27,pàti-fala-jali-ɹoŋ,,,,
+27-tsha1245,tsha1245,27,soŋ-zum-ma,,,,
+27-wanc1238,wanc1238,27,ba:n-ba-anət,,,,
 28-spit1240,spit1240,28,tʃʋipɡjɛtpa,,,,
 28-khoi1251,khoi1251,28,cipləitəcətkətʰluŋ,,,,
 28-aona1235,aona1235,28,tʰərʈʰɪpùpɑ̀?,,,,
@@ -2488,12 +2658,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 28-poch1243,poch1243,28,təɹa-təze-wa,,,,
 28-sang1321,sang1321,28,tʰeɹe-kiu:-pʌ,,,,
 28-yimc1240,yimc1240,28,tʰɘɹɘ kjak tʰɘʒa pɘ,,,,
+28-khez1235,khez1235,28,ʧaɹə-təʧe-u,,,,
 28-khia1236,khia1236,28,ʦɘ-kɘ-pɘʧe-tiam,,,,
 28-sout2732,sout2732,28,ʦɘɹo-o-tɘʦe-gɘ,,,,
 28-zeme1240,zeme1240,28,pɘset-kɘɹɘu-tɘset,,,,
 28-nyis1236,nyis1236,28,ɹeŋle-pin-ʤabuhe,,,,
 28-apat1240,apat1240,28,aliaŋ-la-piɲɪ-nɘpa,,,,
 28-galo1242,galo1242,28,ɘɹɘ-gola-pinɘ-name,,,,
+28-idum1241,idum1241,28,bɘ-holo-ju-linaba,,,,
+28-koro1316,koro1316,28,pàti-fala-jali-ɹala,,,,
+28-tsha1245,tsha1245,28,soŋ-jen-ma,,,,
+28-wanc1238,wanc1238,28,ba:n-ba-asət,,,,
 29-spit1240,spit1240,29,tʃurɡuʋə,,,,
 29-khoi1251,khoi1251,29,cipləitəkukətʰluŋ,,,,
 29-aona1235,aona1235,29,tʰərʈʰukupùpɑ̀?,,,,
@@ -2514,12 +2689,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 29-poch1243,poch1243,29,təɹa-toku-wa,,,,
 29-sang1321,sang1321,29,tʰeɹe-təku:-pʌ,,,,
 29-yimc1240,yimc1240,29,tʰɘɹɘ kjak tuku pɘ,,,,
+29-khez1235,khez1235,29,ʧaɹə-tɘkfɘ-u,,,,
 29-khia1236,khia1236,29,ʦɘ-kɘ-lɘkau-tiam,,,,
 29-sout2732,sout2732,29,ʦɘɹo-o-tɘkɘə-gɘ,,,,
 29-zeme1240,zeme1240,29,pɘset-kɘɹɘu-sɘkui,,,,
 29-nyis1236,nyis1236,29,ɹeŋle-kʰja-ʧe,,,,
 29-apat1240,apat1240,29,aliaŋ-la-kua-nɘpa,,,,
 29-galo1242,galo1242,29,ɘɹɘ-gola-keŋə-name,,,,
+29-idum1241,idum1241,29,bɘ-holo-kʰini-linaba,,,,
+29-koro1316,koro1316,29,pàti-fala-jali-gaje,,,,
+29-tsha1245,tsha1245,29,soŋ-gu-ma,,,,
+29-wanc1238,wanc1238,29,ba:n-ba-aku,,,,
 30-spit1240,spit1240,30,niʃuʋə,,,,
 30-khoi1251,khoi1251,30,somnikʰəekətʰluŋ,,,,
 30-aona1235,aona1235,30,metdʒəpùpɑ̀?,,,,
@@ -2540,12 +2720,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 30-poch1243,poch1243,30,ənkeke-wa,,,,
 30-sang1321,sang1321,30,məkjəu:-pʌ,,,,
 30-yimc1240,yimc1240,30,amuku pɘ,,,,
+30-khez1235,khez1235,30,mɘʧi-u,,,,
 30-khia1236,khia1236,30,kʰe-tiam,,,,
 30-sout2732,sout2732,30,əmki-gɘ,,,,
 30-zeme1240,zeme1240,30,pɘset-kai,,,,
 30-nyis1236,nyis1236,30,ʧamni-dɘn,,,,
 30-apat1240,apat1240,30,niχə-nɘpa,,,,
 30-galo1242,galo1242,30,ɘɹɘ-gola-ʧami-name,,,,
+30-idum1241,idum1241,30,bɘ-aniɹ̥u-linaba,,,,
+30-koro1316,koro1316,30,pàti-nifa,,,,
+30-tsha1245,tsha1245,30,kʰaitʰuɹ-pa,,,,
+30-wanc1238,wanc1238,30,ta:,,,,
 31-khoi1251,khoi1251,31,somniləikʰətkətʰluŋ,,,,
 31-aona1235,aona1235,31,metdʒərkʰɑpùpɑ̀?,,,,
 31-bori1243,bori1243,31,ɨjiŋ ɑɲɲi kolɑŋ ɑtəl nɑnɑ,,,,
@@ -2565,12 +2750,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 31-poch1243,poch1243,31,ənken-kəsɯ-wa,,,,
 31-sang1321,sang1321,31,məkjə-pə-kʰətu:-pʌ,,,,
 31-yimc1240,yimc1240,31,muku kjak akʰuʔpe,,,,
+31-khez1235,khez1235,31,mɘʧi-kele-u,,,,
 31-khia1236,khia1236,31,kʰe-kɘ-ʦak-tiam,,,,
 31-sout2732,sout2732,31,əmki-m̥eʧɘ-gɘ,,,,
 31-zeme1240,zeme1240,31,pɘset-kai-ket,,,,
 31-nyis1236,nyis1236,31,ʧamni-le-kin-ʧohe,,,,
 31-apat1240,apat1240,31,niχə-aku-nɘpa,,,,
 31-galo1242,galo1242,31,ɘɹɘ-gola-ʧami-gola-aken-name,,,,
+31-idum1241,idum1241,31,bɘ-aniɹ̥u-kʰege-linaba,,,,
+31-koro1316,koro1316,31,pàti-nifa-jali-eʧe,,,,
+31-tsha1245,tsha1245,31,kʰaitʰuɹ-gin-tʰuɹ-pa,,,,
+31-wanc1238,wanc1238,31,ta: -ba-ʧa,,,,
 32-khoi1251,khoi1251,32,somniləikʰənikətʰluŋ,,,,
 32-aona1235,aona1235,32,metdʒərənnɑpùpɑ̀?,,,,
 32-bodo1269,bodo1269,32,nəɪžɪ:nəɪt̪ʰɪ,,,,
@@ -2589,12 +2779,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 32-poch1243,poch1243,32,ənken-kəɲi-wa,,,,
 32-sang1321,sang1321,32,məkjə-pə-aɲu:-pʌ,,,,
 32-yimc1240,yimc1240,32,muku kjak maʔɲɪ pɘ,,,,
+32-khez1235,khez1235,32,mɘʧi-kin̥i-u,,,,
 32-khia1236,khia1236,32,kʰe-kɘ-lɘme-tiam,,,,
 32-sout2732,sout2732,32,əmki-kɘɲ̥uŋ-gɘ,,,,
 32-zeme1240,zeme1240,32,pɘset-kai-kɘna,,,,
 32-nyis1236,nyis1236,32,ʧamni-le-ni-kɘʃiŋ,,,,
 32-apat1240,apat1240,32,niχə-ani-nɘpa,,,,
 32-galo1242,galo1242,32,ɘɹɘ-gola-ʧami-gola-ani-name,,,,
+32-idum1241,idum1241,32,bɘ-aniɹ̥u-kani-linaba,,,,
+32-koro1316,koro1316,32,pàti-nifa-jali-kene,,,,
+32-tsha1245,tsha1245,32,kʰaitʰuɹ-gin-nikʦiŋ-ma,,,,
+32-wanc1238,wanc1238,32,ta: -ba-ani,,,,
 33-spit1240,spit1240,33,pʰet,,,,spit1240-iate12ofthepizza
 33-lada1244,lada1244,33,pʰet-po,,,,lada1244-iate12ofthepizza
 33-khoi1251,khoi1251,33,ətʰlɑŋkʰəi,,,,khoi1251-iate12ofthepizza
@@ -2613,6 +2808,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 33-poch1243,poch1243,33,kəʒila,,,,poch1243-iate12ofthepizza
 33-sang1321,sang1321,33,aʧaŋʃo,,,,sang1321-iate12ofthepizza
 33-yimc1240,yimc1240,33,ʧama,,,,yimc1240-iate12ofthepizza
+33-khez1235,khez1235,33,teze kin̥i,,,,khez1235-iate12ofthepizza
 33-khia1236,khia1236,33,apaizɘ,,,,khia1236-iate12ofthepizza
 33-sout2732,sout2732,33,poŋpaha,,,,sout2732-iate12ofthepizza
 33-sumi1235,sumi1235,33,saʤe kinilo lakʰi,,,,sumi1235-iate12ofthepizza
@@ -2620,7 +2816,13 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 33-nyis1236,nyis1236,33,takʧi,,,,nyis1236-iate12ofthepizza
 33-apat1240,apat1240,33,péɲe-hokɘ péɹeme,,,,apat1240-iate12ofthepizza
 33-galo1242,galo1242,33,tɘɹtuonəm,,,,galo1242-iate12ofthepizza
+33-noct1238,noct1238,33,kʰaka,,,,noct1238-iate12ofthepizza
+33-idum1241,idum1241,33,muimage,,,,idum1241-iate12ofthepizza
+33-miju1243,miju1243,33,tɘlaimo,,,,miju1243-iate12ofthepizza
+33-koro1316,koro1316,33,kene dego eʧe,,,,koro1316-iate12ofthepizza
 33-tikh1243,tikh1243,33,məni vəŋ mansi,,,,tikh1243-iate12ofthepizza
+33-tsha1245,tsha1245,33,koɹaŋ,,,,tsha1245-iate12ofthepizza
+33-wanc1238,wanc1238,33,anitənpumɘʧa/kəutɘm,,,,wanc1238-iate12ofthepizza
 34-lada1244,lada1244,34,sum-jənɑ-nis-po,,,,lada1244-iate23ofthepizza
 34-khoi1251,khoi1251,34,səruk kʰəjum rəi səruk kʰəni,,,,khoi1251-iate23ofthepizza
 34-aona1235,aona1235,34,təktʰeŋ əʃəmnuŋənnɑ,,,,aona1235-iate23ofthepizza
@@ -2635,13 +2837,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 34-phom1236,phom1236,34,ʃəŋʧəmkɘbɯ ʃəŋni,,,,phom1236-iate23ofthepizza
 34-poch1243,poch1243,34,kəsu kəʧe vənə kəsukəɲi,,,,poch1243-iate23ofthepizza
 34-sang1321,sang1321,34,əɲəla asə:ŋoʃi,,,,sang1321-iate23ofthepizza
+34-khez1235,khez1235,34,teze kəʦɘ ve kin̥i,,,,khez1235-iate23ofthepizza
 34-sout2732,sout2732,34,ʤɘnʃɘŋtɪho ʤɘnhu,,,,sout2732-iate23ofthepizza
 34-sumi1235,sumi1235,34,saʤe kɘtʰɘlo kini,,,,sumi1235-iate23ofthepizza
 34-zeme1240,zeme1240,34,kɘna maktona kɘʦum,,,,zeme1240-iate23ofthepizza
 34-nyis1236,nyis1236,34,takʧilelik guni,,,,nyis1236-iate23ofthepizza
 34-apat1240,apat1240,34,péɹihe-hokɘ péɲeme,,,,apat1240-iate23ofthepizza
 34-galo1242,galo1242,34,pu:m lokɘ puniənəm,,,,galo1242-iate23ofthepizza
+34-koro1316,koro1316,34,kala dego kene,,,,koro1316-iate23ofthepizza
 34-tikh1243,tikh1243,34,manɹom vəŋ mane,,,,tikh1243-iate23ofthepizza
+34-tsha1245,tsha1245,34,kʰasam waɲumnəla kʰanikʦiŋ,,,,tsha1245-iate23ofthepizza
+34-wanc1238,wanc1238,34,aɹəm tɘnpa ani,,,,wanc1238-iate23ofthepizza
 35-lada1244,lada1244,35,ižbi-jənɑ-sum-po,,,,lada1244-iread34ofthebook
 35-khoi1251,khoi1251,35,səruk pʰəli rəi səruk kʰəjum,,,,khoi1251-iread34ofthebook
 35-aona1235,aona1235,35,təktʰəŋ pizzənuŋəʃim,,,,aona1235-iread34ofthebook
@@ -2656,13 +2862,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 35-phom1236,phom1236,35,ʃəŋəlikɘbɯ ʃəŋʧəm,,,,phom1236-iread34ofthebook
 35-poch1243,poch1243,35,kəsu əmzɯ vənə kəʧe,,,,poch1243-iread34ofthebook
 35-sang1321,sang1321,35,məjəlʌ asə:ŋoʃi,,,,sang1321-iread34ofthebook
+35-khez1235,khez1235,35,teze pɘti ve kəʦɘ,,,,khez1235-iread34ofthebook
 35-sout2732,sout2732,35,ʤɘnʃəŋ ʤɘnzitʰeʃo ʤɘnʃəŋ,,,,sout2732-iread34ofthebook
 35-sumi1235,sumi1235,35,saʤe bidilo kɘtʰɘ,,,,sumi1235-iread34ofthebook
 35-zeme1240,zeme1240,35,kɘʦum maktona medai,,,,zeme1240-iread34ofthebook
 35-nyis1236,nyis1236,35,koɹɘm-om guni,,,,nyis1236-iread34ofthebook
 35-apat1240,apat1240,35,ta:pe hokɘ ta:hihemi,,,,apat1240-iread34ofthebook
 35-galo1242,galo1242,35,dapi lokɘ dabuonəm,,,,galo1242-iread34ofthebook
+35-koro1316,koro1316,35,be:supa (maximum),,,,koro1316-iread34ofthebook
 35-tikh1243,tikh1243,35,manbɘli vəŋ manɹom,,,,tikh1243-iread34ofthebook
+35-tsha1245,tsha1245,35,kʰoɹɪaŋtʰuɹ-gin-kʰoɹɪaŋ,,,,tsha1245-iread34ofthebook
+35-wanc1238,wanc1238,35,pɘʒi tɘm aɹəm,,,,wanc1238-iread34ofthebook
 36-lada1244,lada1244,36,ižbi-jənɑ-tʃitʃik-po,,,,lada1244-iread14ofthebook
 36-khoi1251,khoi1251,36,səruk pʰəli rəi səruk kʰəe,,,,khoi1251-iread14ofthebook
 36-aona1235,aona1235,36,təktʰəŋ pizzənuŋkʰɑ,,,,aona1235-iread14ofthebook
@@ -2677,6 +2887,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 36-phom1236,phom1236,36,puwa hɯk,,,,phom1236-iread14ofthebook
 36-poch1243,poch1243,36,kəsu əmzɯ vənə kəsɯ,,,,poch1243-iread14ofthebook
 36-sang1321,sang1321,36,məjəlʌ kʰətuʃi,,,,sang1321-iread14ofthebook
+36-khez1235,khez1235,36,teze pɘti ve kele,,,,khez1235-iread14ofthebook
 36-sout2732,sout2732,36,ʤɘnzitʰeʃo ʤɘme,,,,sout2732-iread14ofthebook
 36-sumi1235,sumi1235,36,saʤe bidilo lakʰi,,,,sumi1235-iread14ofthebook
 36-zeme1240,zeme1240,36,pɘset medai,,,,zeme1240-iread14ofthebook
@@ -2684,6 +2895,8 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 36-apat1240,apat1240,36,ta:pe hokɘ ta:hemi,,,,apat1240-iread14ofthebook
 36-galo1242,galo1242,36,dapi lokɘ dakenko,,,,galo1242-iread14ofthebook
 36-tikh1243,tikh1243,36,manbɘle vəŋ mansi,,,,tikh1243-iread14ofthebook
+36-tsha1245,tsha1245,36,kʰoɹɪaŋinkʰoɹɪaŋʧaŋmə,,,,tsha1245-iread14ofthebook
+36-wanc1238,wanc1238,36,pɘʒi tɘm ʧa,,,,wanc1238-iread14ofthebook
 37-lada1244,lada1244,37,Gɑ-jənɑ-tʃitʃik-po,,,,lada1244-iate15ofthepizza
 37-khoi1251,khoi1251,37,səruk pʰŋɑ rəi səruk kʰəe,,,,khoi1251-iate15ofthepizza
 37-aona1235,aona1235,37,təktʰeŋ puŋonuŋkʰ,,,,aona1235-iate15ofthepizza
@@ -2698,13 +2911,17 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 37-phom1236,phom1236,37,ʃəŋakɘbɯ ʃəŋhɯk,,,,phom1236-iate15ofthepizza
 37-poch1243,poch1243,37,kasu məŋa vənə kəsɯ,,,,poch1243-iate15ofthepizza
 37-sang1321,sang1321,37,məjəlʌ kʰətuʃi,,,,sang1321-iate15ofthepizza
+37-khez1235,khez1235,37,teze puŋu ve teze kele,,,,khez1235-iate15ofthepizza
 37-sout2732,sout2732,37,ʤɘnpfɘtʰeʃo ʤɘme,,,,sout2732-iate15ofthepizza
 37-sumi1235,sumi1235,37,puŋulo lakʰi,,,,sumi1235-iate15ofthepizza
 37-zeme1240,zeme1240,37,pɘset miɲʉ,,,,zeme1240-iate15ofthepizza
 37-nyis1236,nyis1236,37,koɹəm pɘʧap ʧamŋune ŋəm,,,,nyis1236-iate15ofthepizza
 37-apat1240,apat1240,37,péŋoikɘ péɹemi,,,,apat1240-iate15ofthepizza
 37-galo1242,galo1242,37,aŋo lokɘ akengo,,,,galo1242-iate15ofthepizza
+37-koro1316,koro1316,37,ple dego eʧe,,,,koro1316-iate15ofthepizza
 37-tikh1243,tikh1243,37,manmaŋa wəŋ mansi,,,,tikh1243-iate15ofthepizza
+37-tsha1245,tsha1245,37,kʰaŋagəɲupu kʰatʰuŋə ʤiŋi,,,,tsha1245-iate15ofthepizza
+37-wanc1238,wanc1238,37,aɲa tɘn ʧa,,,,wanc1238-iate15ofthepizza
 38-lada1244,lada1244,38,dun-jənɑ-nis-po,,,,lada1244-iread27ofthebook
 38-khoi1251,khoi1251,38,səruk ini rəi səruk kʰəni,,,,khoi1251-iread27ofthebook
 38-aona1235,aona1235,38,təktʰəŋ tenətnuŋənnɑ,,,,aona1235-iread27ofthebook
@@ -2718,6 +2935,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 38-phom1236,phom1236,38,ʃəŋ ɲətkɘbɯ ʃəŋɲi,,,,phom1236-iread27ofthebook
 38-poch1243,poch1243,38,kəsu təɹə vənə kəɲi,,,,poch1243-iread27ofthebook
 38-sang1321,sang1321,38,məŋalʌ ʧəŋ kʰətʃi,,,,sang1321-iread27ofthebook
+38-khez1235,khez1235,38,teze seni ve teze kin̥i,,,,khez1235-iread27ofthebook
 38-sout2732,sout2732,38,ʤɘnʦɘtʰeʃo ʤɘhu,,,,sout2732-iread27ofthebook
 38-sumi1235,sumi1235,38,saʤe ʦɘ̀nilo kini,,,,sumi1235-iread27ofthebook
 38-zeme1240,zeme1240,38,kɘna maktona sɘna,,,,zeme1240-iread27ofthebook
@@ -2725,6 +2943,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 38-apat1240,apat1240,38,takənoihokɘ tanìmì,,,,apat1240-iread27ofthebook
 38-galo1242,galo1242,38,aɹapkan lokɘ danigo,,,,galo1242-iread27ofthebook
 38-tikh1243,tikh1243,38,mansɘnət vəŋ mane,,,,tikh1243-iread27ofthebook
+38-wanc1238,wanc1238,38,anət tɘnmo ani,,,,wanc1238-iread27ofthebook
 39-lada1244,lada1244,39,dun-jənɑ-sum-po,,,,lada1244-iread37ofthebook
 39-khoi1251,khoi1251,39,səruk ini rəi səruk kʰəjum,,,,khoi1251-iread37ofthebook
 39-aona1235,aona1235,39,təktʰəŋ tənətnuŋəʃəm,,,,aona1235-iread37ofthebook
@@ -2744,6 +2963,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 39-nyis1236,nyis1236,39,takʧile-kɘn neham,,,,nyis1236-iread37ofthebook
 39-apat1240,apat1240,39,takənoihokɘ ta:hihemi,,,,apat1240-iread37ofthebook
 39-galo1242,galo1242,39,aɹapkan lokɘ dabuŋgo,,,,galo1242-iread37ofthebook
+39-wanc1238,wanc1238,39,anət tɘnmo aɹəm,,,,wanc1238-iread37ofthebook
 40-lada1244,lada1244,40,Gɑ-jənɑ-sum-po,,,,lada1244-iread35ofthebook
 40-khoi1251,khoi1251,40,səruk pʰŋɑ ini rəi səruk kʰəjum,,,,khoi1251-iread35ofthebook
 40-aona1235,aona1235,40,təktʰəŋ puŋonuŋəʃəm,,,,aona1235-iread35ofthebook
@@ -2756,6 +2976,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 40-chok1243,chok1243,40,zatʰɘnaulɘ zasɘ:,,,,chok1243-iread35ofthebook
 40-phom1236,phom1236,40,ʃəŋ ŋakɘbɯ ʃəŋʧəm,,,,phom1236-iread35ofthebook
 40-sang1321,sang1321,40,tʰəŋilʌ ʧəŋ asə:ŋoʃi,,,,sang1321-iread35ofthebook
+40-khez1235,khez1235,40,teze puŋu ve teze kəʦ,,,,khez1235-iread35ofthebook
 40-sout2732,sout2732,40,ʤɘnpfɘŋtʰeʃo ʤɘnʃəŋ,,,,sout2732-iread35ofthebook
 40-sumi1235,sumi1235,40,saʤe puŋulo kɘtʰɘ,,,,sumi1235-iread35ofthebook
 40-zeme1240,zeme1240,40,kɘʦum maktona miɲʉ,,,,zeme1240-iread35ofthebook
@@ -2763,6 +2984,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 40-apat1240,apat1240,40,taŋokɘ ta:hihemi,,,,apat1240-iread35ofthebook
 40-galo1242,galo1242,40,daŋo lokɘ dabuŋgo,,,,galo1242-iread35ofthebook
 40-tikh1243,tikh1243,40,manbaŋa vəŋ manɹom,,,,tikh1243-iread35ofthebook
+40-wanc1238,wanc1238,40,aɲa tɘnmo aɹəm,,,,wanc1238-iread35ofthebook
 41-lada1244,lada1244,41,ʈuɡ-jənɑ-nis-po,,,,lada1244-iate26ofthepizza
 41-khoi1251,khoi1251,41,səruk tʰəruk rəi səruk kʰəni,,,,khoi1251-iate26ofthepizza
 41-aona1235,aona1235,41,təktʰeŋ ʈʰruknuŋənnɑ,,,,aona1235-iate26ofthepizza
@@ -2776,13 +2998,16 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 41-phom1236,phom1236,41,ʃəŋ wok kɘbɯ ʃəŋɲi,,,,phom1236-iate26ofthepizza
 41-poch1243,poch1243,41,kəsu toɹovə kəɲi,,,,poch1243-iate26ofthepizza
 41-sang1321,sang1321,41,ʧəŋ tʰoɹulʌ aɲu:ʃi,,,,sang1321-iate26ofthepizza
+41-khez1235,khez1235,41,teze saɹə ve teze kin̥i,,,,khez1235-iate26ofthepizza
 41-sout2732,sout2732,41,ʤɘnʦɘɹotʰeʃo ʤɘnhu,,,,sout2732-iate26ofthepizza
 41-sumi1235,sumi1235,41,saʤe ʦuɣolo kini,,,,sumi1235-iate26ofthepizza
 41-zeme1240,zeme1240,41,kɘna maktona sɘɹok,,,,zeme1240-iate26ofthepizza
 41-nyis1236,nyis1236,41,taʧi-le-kʰe goni,,,,nyis1236-iate26ofthepizza
 41-apat1240,apat1240,41,péhehokɘ pénime,,,,apat1240-iate26ofthepizza
 41-galo1242,galo1242,41,akɘ lokɘ anigo,,,,galo1242-iate26ofthepizza
+41-koro1316,koro1316,41,sɘfi dego kene,,,,koro1316-iate26ofthepizza
 41-tikh1243,tikh1243,41,mankoɹok vəŋ mane,,,,tikh1243-iate26ofthepizza
+41-wanc1238,wanc1238,41,agok tɘnmo ani,,,,wanc1238-iate26ofthepizza
 42-lada1244,lada1244,42,tʃurɡ-jənɑ-tʃik-po,,,,lada1244-iate116ofthrpizza
 42-khoi1251,khoi1251,42,səruk cipləitʰəruk rəi səruk kʰəe,,,,khoi1251-iate116ofthrpizza
 42-aona1235,aona1235,42,təktʰeŋ tʰəʈʰruknuŋkʰɑ,,,,aona1235-iate116ofthrpizza
@@ -2796,13 +3021,16 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 42-phom1236,phom1236,42,ʃəŋ ənpɘwok kɘbɯ hɯk,,,,phom1236-iate116ofthrpizza
 42-poch1243,poch1243,42,kəsu təɹatoɹovə kəsɯ,,,,poch1243-iate116ofthrpizza
 42-sang1321,sang1321,42,tʰeɹetʰoɹulʌ ʧəŋ kʰətu,,,,sang1321-iate116ofthrpizza
+42-khez1235,khez1235,42,teze ʧaɹəsaɹə ve teze kele,,,,khez1235-iate116ofthrpizza
 42-sout2732,sout2732,42,ʤɘnʦɘɹɘo:ʦɘɹo:kaʤɘme,,,,sout2732-iate116ofthrpizza
 42-sumi1235,sumi1235,42,saʤe ʧiɣɘ-ʦuɣolo lakʰi,,,,sumi1235-iate116ofthrpizza
 42-zeme1240,zeme1240,42,kɘɹɘu-sɘɹok laŋ,,,,zeme1240-iate116ofthrpizza
 42-nyis1236,nyis1236,42,taʧi-le-ɹiŋ-le-kʰe goni,,,,nyis1236-iate116ofthrpizza
 42-apat1240,apat1240,42,péliaŋ-la-péχe hokɘ péɹem,,,,apat1240-iate116ofthrpizza
 42-galo1242,galo1242,42,boɹɘgoboɹ lokɘ akengo,,,,galo1242-iate116ofthrpizza
+42-koro1316,koro1316,42,fala-lə-sɘfi dego eʧe,,,,koro1316-iate116ofthrpizza
 42-tikh1243,tikh1243,42,manʧe-ɹa-koɹok vəŋ mansi,,,,tikh1243-iate116ofthrpizza
+42-wanc1238,wanc1238,42,ba:n-ba-gok tɘnmo ʧa,,,,wanc1238-iate116ofthrpizza
 43-lada1244,lada1244,43,tʃu-jənɑ-tʃiʃik/po-tʃik,,,,lada1244-iread110partofthebook
 43-khoi1251,khoi1251,43,səruk cipkʰəe rəi səruk kʰəe,,,,khoi1251-iread110partofthebook
 43-aona1235,aona1235,43,təktʰəŋ tʰərnuŋkʰɑ,,,,aona1235-iread110partofthebook
@@ -2817,6 +3045,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 43-poch1243,poch1243,43,maɲo təɹakevə kəsɯ,,,,poch1243-iread110partofthebook
 43-sang1321,sang1321,43,tʰeɹelʌ ʧəŋ kʰətu,,,,sang1321-iread110partofthebook
 43-yimc1240,yimc1240,43,tʰɘɹɘʧiŋʃɪʧʌmkʰɘlaŋ,,,,yimc1240-iread110partofthebook
+43-khez1235,khez1235,43,teze ʧaɹə ve teze kele,,,,khez1235-iread110partofthebook
 43-sout2732,sout2732,43,ʤɘnʦɘɹɘkaʤɘme,,,,sout2732-iread110partofthebook
 43-sumi1235,sumi1235,43,saʤe ʧiɣəlo lakʰi,,,,sumi1235-iread110partofthebook
 43-zeme1240,zeme1240,43,kɘɹɘu laŋ,,,,zeme1240-iread110partofthebook
@@ -2824,6 +3053,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 43-apat1240,apat1240,43,taliaŋ hokɘ taime,,,,apat1240-iread110partofthebook
 43-galo1242,galo1242,43,dabɹi lokɘ dabken,,,,galo1242-iread110partofthebook
 43-tikh1243,tikh1243,43,manʧe vəŋ mansi,,,,tikh1243-iread110partofthebook
+43-wanc1238,wanc1238,43,ba:n tɘnmo ʧa,,,,wanc1238-iread110partofthebook
 44-spit1240,spit1240,44,ləntʃik,,,,spit1240-imethimonce
 44-lada1244,lada1244,44,tʃʰerpɑ tʃik,,,,lada1244-imethimonce
 44-khoi1251,khoi1251,44,kʰəipək,,,,khoi1251-imethimonce
@@ -2846,6 +3076,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 44-poch1243,poch1243,44,kəsɯkeɹe,,,,poch1243-imethimonce
 44-sang1321,sang1321,44,kʰətupi,,,,sang1321-imethimonce
 44-yimc1240,yimc1240,44,kʰɘlaŋ-kɪ,,,,yimc1240-imethimonce
+44-khez1235,khez1235,44,əmva-kele,,,,khez1235-imethimonce
 44-khia1236,khia1236,44,tiam,,,,khia1236-imethimonce
 44-sout2732,sout2732,44,gwán/gwànwà,,,,sout2732-imethimonce
 44-sumi1235,sumi1235,44,χotʰu lakʰi,,,,sumi1235-imethimonce
@@ -2853,8 +3084,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 44-nyis1236,nyis1236,44,lɘ-kin-ʧaŋgo,,,,nyis1236-imethimonce
 44-apat1240,apat1240,44,ɹomi,,,,apat1240-imethimonce
 44-galo1242,galo1242,44,lɘ-ken,,,,galo1242-imethimonce
+44-noct1238,noct1238,44,dəp-tʰɘ,,,,noct1238-imethimonce
+44-idum1241,idum1241,44,bɘ-ge,,,,idum1241-imethimonce
+44-miju1243,miju1243,44,boi-mu,,,,miju1243-imethimonce
+44-koro1316,koro1316,44,ta:m-gebe,,,,koro1316-imethimonce
 44-pada1257,pada1257,44,lɘ-ko,,,,pada1257-imethimonce
+44-diga1241,diga1241,44,bɘge,,,,diga1241-imethimonce
 44-tikh1243,tikh1243,44,ʤa-tək,,,,tikh1243-imethimonce
+44-tsha1245,tsha1245,44,koɹ-tʰuɹ,,,,tsha1245-imethimonce
+44-wanc1238,wanc1238,44,ʧamʧam,,,,wanc1238-imethimonce
 45-spit1240,spit1240,45,lənnɨ,,,,spit1240-imethimtwice
 45-lada1244,lada1244,45,tʃʰerpɑ nis,,,,lada1244-imethimtwice
 45-khoi1251,khoi1251,45,kʰənnoi,,,,khoi1251-imethimtwice
@@ -2877,6 +3115,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 45-poch1243,poch1243,45,kinkeɹe,,,,poch1243-imethimtwice
 45-sang1321,sang1321,45,aɲə-pi,,,,sang1321-imethimtwice
 45-yimc1240,yimc1240,45,maʔɲɪ-kɪ,,,,yimc1240-imethimtwice
+45-khez1235,khez1235,45,əmve-kin̬i,,,,khez1235-imethimtwice
 45-khia1236,khia1236,45,mɘ-tiam,,,,khia1236-imethimtwice
 45-sout2732,sout2732,45,gwànhugen,,,,sout2732-imethimtwice
 45-sumi1235,sumi1235,45,χotʰu kini,,,,sumi1235-imethimtwice
@@ -2884,8 +3123,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 45-nyis1236,nyis1236,45,lɘ-ni-ʧaŋgo,,,,nyis1236-imethimtwice
 45-apat1240,apat1240,45,ɹo-nɪ,,,,apat1240-imethimtwice
 45-galo1242,galo1242,45,lɘ-ni,,,,galo1242-imethimtwice
+45-noct1238,noct1238,45,dəp-ni,,,,noct1238-imethimtwice
+45-idum1241,idum1241,45,bɘ-ni,,,,idum1241-imethimtwice
+45-miju1243,miju1243,45,boi-kɘ,,,,miju1243-imethimtwice
+45-koro1316,koro1316,45,ta:m-kene,,,,koro1316-imethimtwice
 45-pada1257,pada1257,45,lɘ-niko,,,,pada1257-imethimtwice
+45-diga1241,diga1241,45,bɘ-kʌiŋ,,,,diga1241-imethimtwice
 45-tikh1243,tikh1243,45,ʤa-ne,,,,tikh1243-imethimtwice
+45-tsha1245,tsha1245,45,koɹ-nikʦiŋ,,,,tsha1245-imethimtwice
+45-wanc1238,wanc1238,45,anim,,,,wanc1238-imethimtwice
 46-spit1240,spit1240,46,lənsum,,,,spit1240-imethimthrice
 46-lada1244,lada1244,46,tʃʰerpɑ sum,,,,lada1244-imethimthrice
 46-khoi1251,khoi1251,46,kʰəjumoi,,,,khoi1251-imethimthrice
@@ -2908,6 +3154,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 46-poch1243,poch1243,46,kəʧekeɹe,,,,poch1243-imethimthrice
 46-sang1321,sang1321,46,asəŋ-pi,,,,sang1321-imethimthrice
 46-yimc1240,yimc1240,46,maʔsam-kɪ,,,,yimc1240-imethimthrice
+46-khez1235,khez1235,46,əmve-kəʦɘ,,,,khez1235-imethimthrice
 46-khia1236,khia1236,46,səm-tiam,,,,khia1236-imethimthrice
 46-sout2732,sout2732,46,gwànʧəŋgen,,,,sout2732-imethimthrice
 46-sumi1235,sumi1235,46,χotʰu kɘtʰɘ,,,,sumi1235-imethimthrice
@@ -2915,8 +3162,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 46-nyis1236,nyis1236,46,lɘ-om-ʧaŋgo,,,,nyis1236-imethimthrice
 46-apat1240,apat1240,46,ɹo-hi:,,,,apat1240-imethimthrice
 46-galo1242,galo1242,46,lɘ-om,,,,galo1242-imethimthrice
+46-noct1238,noct1238,46,dəp-ɹəm,,,,noct1238-imethimthrice
+46-idum1241,idum1241,46,bɘ-so,,,,idum1241-imethimthrice
+46-miju1243,miju1243,46,boi-kəsəm,,,,miju1243-imethimthrice
+46-koro1316,koro1316,46,ta:m-kala,,,,koro1316-imethimthrice
 46-pada1257,pada1257,46,lɘ-ŋumko,,,,pada1257-imethimthrice
+46-diga1241,diga1241,46,bɘ-kasəŋ,,,,diga1241-imethimthrice
 46-tikh1243,tikh1243,46,ʤa-ɹom,,,,tikh1243-imethimthrice
+46-tsha1245,tsha1245,46,koɹ-sam,,,,tsha1245-imethimthrice
+46-wanc1238,wanc1238,46,aɹəm,,,,wanc1238-imethimthrice
 47-spit1240,spit1240,47,lənčik,,,,spit1240-imethimforthtime
 47-lada1244,lada1244,47,tʃʰerpɑ ižbi,,,,lada1244-imethimforthtime
 47-khoi1251,khoi1251,47,pʰəlioi,,,,khoi1251-imethimforthtime
@@ -2939,6 +3193,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 47-poch1243,poch1243,47,əmzɯkeɹə,,,,poch1243-imethimforthtime
 47-sang1321,sang1321,47,məjə-pi,,,,sang1321-imethimforthtime
 47-yimc1240,yimc1240,47,pʰɘŋɪ-kɪ,,,,yimc1240-imethimforthtime
+47-khez1235,khez1235,47,əmva-pɘti,,,,khez1235-imethimforthtime
 47-khia1236,khia1236,47,pɘle-tiam,,,,khia1236-imethimforthtime
 47-sout2732,sout2732,47,gwànzigen,,,,sout2732-imethimforthtime
 47-sumi1235,sumi1235,47,χotʰu bidi,,,,sumi1235-imethimforthtime
@@ -2946,8 +3201,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 47-nyis1236,nyis1236,47,lɘ-pʰi-dɘp,,,,nyis1236-imethimforthtime
 47-apat1240,apat1240,47,ɹom-pe,,,,apat1240-imethimforthtime
 47-galo1242,galo1242,47,lɘ-pi,,,,galo1242-imethimforthtime
+47-noct1238,noct1238,47,dəp-pɘli-ɹa,,,,noct1238-imethimforthtime
+47-idum1241,idum1241,47,bɘ-pi,,,,idum1241-imethimforthtime
+47-miju1243,miju1243,47,boi-kɘmɹɘn,,,,miju1243-imethimforthtime
+47-koro1316,koro1316,47,ta:m-kople,,,,koro1316-imethimforthtime
 47-pada1257,pada1257,47,lɘ-mpinanɘ,,,,pada1257-imethimforthtime
+47-diga1241,diga1241,47,bɘ-kapɹe,,,,diga1241-imethimforthtime
 47-tikh1243,tikh1243,47,ʤa-bɘləi,,,,tikh1243-imethimforthtime
+47-tsha1245,tsha1245,47,koɹ-pʰi,,,,tsha1245-imethimforthtime
+47-wanc1238,wanc1238,47,pɘʒi-pa,,,,wanc1238-imethimforthtime
 48-spit1240,spit1240,48,fɛra-ɡu,,,,spit1240-icalledherninetimes
 48-lada1244,lada1244,48,tʃʰerpɑ rɡu/ɡu,,,,lada1244-icalledherninetimes
 48-khoi1251,khoi1251,48,təkukəoi,,,,khoi1251-icalledherninetimes
@@ -2970,6 +3232,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 48-poch1243,poch1243,48,tokukeɹe,,,,poch1243-icalledherninetimes
 48-sang1321,sang1321,48,təku-pi,,,,sang1321-icalledherninetimes
 48-yimc1240,yimc1240,48,tuku-kɪ,,,,yimc1240-icalledherninetimes
+48-khez1235,khez1235,48,əmva-tɘkfɘ,,,,khez1235-icalledherninetimes
 48-khia1236,khia1236,48,lɘkau-tiam,,,,khia1236-icalledherninetimes
 48-sout2732,sout2732,48,gwàntəkwégen,,,,sout2732-icalledherninetimes
 48-sumi1235,sumi1235,48,χotʰu toku,,,,sumi1235-icalledherninetimes
@@ -2977,8 +3240,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 48-nyis1236,nyis1236,48,lɘ-kʰja-dɘp,,,,nyis1236-icalledherninetimes
 48-apat1240,apat1240,48,ɹom-kua,,,,apat1240-icalledherninetimes
 48-galo1242,galo1242,48,lɘke-ŋə,,,,galo1242-icalledherninetimes
+48-noct1238,noct1238,48,dəp-kʰu,,,,noct1238-icalledherninetimes
+48-idum1241,idum1241,48,bɘ-kʰini,,,,idum1241-icalledherninetimes
+48-miju1243,miju1243,48,boi-nətmo,,,,miju1243-icalledherninetimes
+48-koro1316,koro1316,48,ta:m-gaje,,,,koro1316-icalledherninetimes
 48-pada1257,pada1257,48,lɘ-konaŋ,,,,pada1257-icalledherninetimes
+48-diga1241,diga1241,48,bɘ-kəɲəŋ,,,,diga1241-icalledherninetimes
 48-tikh1243,tikh1243,48,ʤa-tɘko,,,,tikh1243-icalledherninetimes
+48-tsha1245,tsha1245,48,koɹ-gu,,,,tsha1245-icalledherninetimes
+48-wanc1238,wanc1238,48,aku,,,,wanc1238-icalledherninetimes
 49-spit1240,spit1240,49,fɛra-nɨʃuɛŋã,,,,spit1240-icalledhimtwentyfivetimes
 49-lada1244,lada1244,49,tʃʰerpɑ niʃusɔŋɑ,,,,lada1244-icalledhimtwentyfivetimes
 49-khoi1251,khoi1251,49,somniləipʰəŋɑoi,,,,khoi1251-icalledhimtwentyfivetimes
@@ -3000,6 +3270,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 49-poch1243,poch1243,49,ənkenməŋakeɹe,,,,poch1243-icalledhimtwentyfivetimes
 49-sang1321,sang1321,49,məkjə-pə-məŋa-pi,,,,sang1321-icalledhimtwentyfivetimes
 49-yimc1240,yimc1240,49,mukukjakpʰɘŋɘ-kɪ,,,,yimc1240-icalledhimtwentyfivetimes
+49-khez1235,khez1235,49,əmva-məʧipuŋu,,,,khez1235-icalledhimtwentyfivetimes
 49-khia1236,khia1236,49,kʰe-kɘ-muŋu-tiam,,,,khia1236-icalledhimtwentyfivetimes
 49-sout2732,sout2732,49,gwànkɪpfɘ ʧeken/gwànkɪpfɘ ʧeke,,,,sout2732-icalledhimtwentyfivetimes
 49-sumi1235,sumi1235,49,χotʰu muku-puŋu,,,,sumi1235-icalledhimtwentyfivetimes
@@ -3007,8 +3278,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 49-nyis1236,nyis1236,49,lɘ-ʧamni-le-ŋo-dɘp,,,,nyis1236-icalledhimtwentyfivetimes
 49-apat1240,apat1240,49,ɹo-niχəe-la-jaŋoi,,,,apat1240-icalledhimtwentyfivetimes
 49-galo1242,galo1242,49,lɘʧami-ŋo,,,,galo1242-icalledhimtwentyfivetimes
+49-noct1238,noct1238,49,ɹokni-də-paŋa,,,,noct1238-icalledhimtwentyfivetimes
+49-idum1241,idum1241,49,bɘ-aniɹ̥u-maŋa,,,,idum1241-icalledhimtwentyfivetimes
+49-miju1243,miju1243,49,boi-kɘtaumo-kɘlen,,,,miju1243-icalledhimtwentyfivetimes
+49-koro1316,koro1316,49,ta:m-nifa-jali-ple,,,,koro1316-icalledhimtwentyfivetimes
 49-pada1257,pada1257,49,lɘ-ɘiŋani-kolaŋ-pilo,,,,pada1257-icalledhimtwentyfivetimes
+49-diga1241,diga1241,49,bɘ-kaheləŋ-maŋa,,,,diga1241-icalledhimtwentyfivetimes
 49-tikh1243,tikh1243,49,kʰu-ɹa-baŋa-lə,,,,tikh1243-icalledhimtwentyfivetimes
+49-tsha1245,tsha1245,49,koɹ-kʰaitʰuɹ-gin-ŋa,,,,tsha1245-icalledhimtwentyfivetimes
+49-wanc1238,wanc1238,49,ta: -ba-aɲa,,,,wanc1238-icalledhimtwentyfivetimes
 50-spit1240,spit1240,50,fɛra-tʃʋeŋã,,,,spit1240-icalledherfifteentimes
 50-lada1244,lada1244,50,tʃʰerpɑ tʃoGɑ,,,,lada1244-icalledherfifteentimes
 50-khoi1251,khoi1251,50,čipləipʰəŋɑoi,,,,khoi1251-icalledherfifteentimes
@@ -3031,6 +3309,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 50-poch1243,poch1243,50,təɹaməŋakeɹe,,,,poch1243-icalledherfifteentimes
 50-sang1321,sang1321,50,tʰəɹe-məŋa-pi,,,,sang1321-icalledherfifteentimes
 50-yimc1240,yimc1240,50,tʰɘɹɘkjakpʰɘŋɘ-kɪ,,,,yimc1240-icalledherfifteentimes
+50-khez1235,khez1235,50,əmve-ʧaɹəpuŋu,,,,khez1235-icalledherfifteentimes
 50-khia1236,khia1236,50,ʦe-kɘ-muŋu-tiam,,,,khia1236-icalledherfifteentimes
 50-sout2732,sout2732,50,gwànʦɘɹɘpfɘ ʧeken/ʦɘɹɘpfɘ ʧeke,,,,sout2732-icalledherfifteentimes
 50-sumi1235,sumi1235,50,χotʰu ʧiɣi-puŋu,,,,sumi1235-icalledherfifteentimes
@@ -3038,8 +3317,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 50-nyis1236,nyis1236,50,lɘ-ɹiŋ-le-ŋu,,,,nyis1236-icalledherfifteentimes
 50-apat1240,apat1240,50,o-liaŋhe-la-jaŋoi,,,,apat1240-icalledherfifteentimes
 50-galo1242,galo1242,50,lɘɹɘ-gola-lɘ-ŋo,,,,galo1242-icalledherfifteentimes
+50-noct1238,noct1238,50,aʧi-də-paŋa,,,,noct1238-icalledherfifteentimes
+50-idum1241,idum1241,50,bɘ-ho-ma,,,,idum1241-icalledherfifteentimes
+50-miju1243,miju1243,50,boi-kepmo-kɘlen,,,,miju1243-icalledherfifteentimes
+50-koro1316,koro1316,50,ta:m-fala-jali-ple,,,,koro1316-icalledherfifteentimes
 50-pada1257,pada1257,50,lɘ-ɘiŋ-kolaŋ-pilo,,,,pada1257-icalledherfifteentimes
+50-diga1241,diga1241,50,bɘ-halɘ-maŋa,,,,diga1241-icalledherfifteentimes
 50-tikh1243,tikh1243,50,ʧe-ɹa-baŋa-lə,,,,tikh1243-icalledherfifteentimes
+50-tsha1245,tsha1245,50,koɹ-soŋ-ŋa,,,,tsha1245-icalledherfifteentimes
+50-wanc1238,wanc1238,50,ba:n-ba-aɲa,,,,wanc1238-icalledherfifteentimes
 51-lada1244,lada1244,51,tʃik-tʃik tʃɑ,,,,lada1244-thereisonlyonechild
 51-khoi1251,khoi1251,51,kʰət kʰəe pək,,,,khoi1251-thereisonlyonechild
 51-aona1235,aona1235,51,kʰɑ təŋ,,,,
@@ -3061,6 +3347,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 51-poch1243,poch1243,51,kəsɯm pa,,,,poch1243-thereisonlyonechild
 51-sang1321,sang1321,51,kʰətu tu / kʰətu məliŋ,,,,sang1321-thereisonlyonechild
 51-yimc1240,yimc1240,51,kʰɘlaŋ-laŋ,,,,yimc1240-thereisonlyonechild
+51-khez1235,khez1235,51,kele tʰɹe,,,,khez1235-thereisonlyonechild
 51-khia1236,khia1236,51,ʦak-piho,,,,khia1236-thereisonlyonechild
 51-sout2732,sout2732,51,əmti / me-nti,,,,sout2732-thereisonlyonechild
 51-sumi1235,sumi1235,51,likʰi / lakʰi likʰi,,,,sumi1235-thereisonlyonechild
@@ -3068,8 +3355,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 51-nyis1236,nyis1236,51,kʰen ʧaŋgu,,,,nyis1236-thereisonlyonechild
 51-apat1240,apat1240,51,aku kontɘ,,,,apat1240-thereisonlyonechild
 51-galo1242,galo1242,51,aken goɲum,,,,galo1242-thereisonlyonechild
+51-noct1238,noct1238,51,lolo / wantʰe lolo,,,,noct1238-thereisonlyonechild
+51-idum1241,idum1241,51,kʰepa-tèa,,,,idum1241-thereisonlyonechild
+51-miju1243,miju1243,51,kɘmo ʧən,,,,miju1243-thereisonlyonechild
+51-koro1316,koro1316,51,eʧe be,,,,koro1316-thereisonlyonechild
 51-pada1257,pada1257,51,si atəl / atəl,,,,pada1257-thereisonlyonechild
+51-diga1241,diga1241,51,bɹa-ge / bɹa-gene / bɹapa-ge,,,,diga1241-thereisonlyonechild
 51-tikh1243,tikh1243,51,asi-de,,,,tikh1243-thereisonlyonechild
+51-tsha1245,tsha1245,51,ʦaŋma / tʰuɹ,,,,tsha1245-thereisonlyonechild
+51-wanc1238,wanc1238,51,ʧa-ga,,,,wanc1238-thereisonlyonechild
 52-lada1244,lada1244,52,nis tʃɑ,,,,
 52-khoi1251,khoi1251,52,kʰəni pək,,,,
 52-aona1235,aona1235,52,ənnɑ təŋ,,,,
@@ -3091,6 +3385,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 52-poch1243,poch1243,52,kəɲim pa,,,,
 52-sang1321,sang1321,52,aɲə tu / aɲə məliŋ,,,,
 52-yimc1240,yimc1240,52,maʔɲɪ-laŋ,,,,
+52-khez1235,khez1235,52,kin̥i tʰɹe,,,,
 52-khia1236,khia1236,52,lɘme-piho,,,,
 52-sout2732,sout2732,52,kɘɲ̥ũ-ənti,,,,
 52-sumi1235,sumi1235,52,kini likʰi,,,,
@@ -3098,8 +3393,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 52-nyis1236,nyis1236,52,ani ʧaŋgu,,,,
 52-apat1240,apat1240,52,ani kontɘ,,,,
 52-galo1242,galo1242,52,ani goɲum,,,,
+52-noct1238,noct1238,52,wani lolo,,,,
+52-idum1241,idum1241,52,kani-tèa,,,,
+52-miju1243,miju1243,52,kɘin ʧən,,,,
+52-koro1316,koro1316,52,kene gebe,,,,
 52-pada1257,pada1257,52,si ani,,,,
+52-diga1241,diga1241,52,kʌiŋ-gene,,,,
 52-tikh1243,tikh1243,52,anəi-de,,,,
+52-tsha1245,tsha1245,52,nikʦiŋ ʦaŋma,,,,
+52-wanc1238,wanc1238,52,ani-ga,,,,
 53-lada1244,lada1244,53,sum tʃɑ,,,,
 53-khoi1251,khoi1251,53,kʰəjum pək,,,,
 53-aona1235,aona1235,53,əʃəm təŋ,,,,
@@ -3121,6 +3423,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 53-poch1243,poch1243,53,kəʧem pa,,,,
 53-sang1321,sang1321,53,asəŋ tu / asəŋ məliŋ,,,,
 53-yimc1240,yimc1240,53,maʔsam-laŋ,,,,
+53-khez1235,khez1235,53,kəʧɘ tʰɹe,,,,
 53-khia1236,khia1236,53,sɘme-piho,,,,
 53-sout2732,sout2732,53,kɘ́nʃə-nti,,,,
 53-sumi1235,sumi1235,53,kɘtʰɘ likʰi,,,,
@@ -3128,8 +3431,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 53-nyis1236,nyis1236,53,om ʧaŋgu,,,,
 53-apat1240,apat1240,53,niŋɪ kontɘ,,,,
 53-galo1242,galo1242,53,auom goɲum,,,,
+53-noct1238,noct1238,53,wanɹəm lolo,,,,
+53-idum1241,idum1241,53,kaso-tèa,,,,
+53-miju1243,miju1243,53,kɘsəm ʧən,,,,
+53-koro1316,koro1316,53,kal gebe,,,,
 53-pada1257,pada1257,53,si aŋum,,,,
+53-diga1241,diga1241,53,kasəŋ-gene,,,,
 53-tikh1243,tikh1243,53,aɹom-de,,,,
+53-tsha1245,tsha1245,53,sam ʦaŋma,,,,
+53-wanc1238,wanc1238,53,aɹəm-ga,,,,
 54-lada1244,lada1244,54,izbi tʃɑ,,,,lada1244-heateonlyfourmangoes
 54-khoi1251,khoi1251,54,pʰəli pək,,,,khoi1251-heateonlyfourmangoes
 54-aona1235,aona1235,54,pizzə təŋ,,,,aona1235-heateonlyfourmangoes
@@ -3150,6 +3460,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 54-poch1243,poch1243,54,əmzɯ pa,,,,poch1243-heateonlyfourmangoes
 54-sang1321,sang1321,54,məjə tu/ məjə məliŋ,,,,sang1321-heateonlyfourmangoes
 54-yimc1240,yimc1240,54,pʰɘŋɪ-laŋ,,,,yimc1240-heateonlyfourmangoes
+54-khez1235,khez1235,54,pɘti tʰɹe,,,,khez1235-heateonlyfourmangoes
 54-khia1236,khia1236,54,pɘle-piho,,,,khia1236-heateonlyfourmangoes
 54-sout2732,sout2732,54,pɘzi-nti,,,,sout2732-heateonlyfourmangoes
 54-sumi1235,sumi1235,54,bidi likʰi,,,,sumi1235-heateonlyfourmangoes
@@ -3157,8 +3468,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 54-nyis1236,nyis1236,54,pʰi ʧaŋgu,,,,nyis1236-heateonlyfourmangoes
 54-apat1240,apat1240,54,pɘlɪ kontɘ,,,,apat1240-heateonlyfourmangoes
 54-galo1242,galo1242,54,api goɲum,,,,galo1242-heateonlyfourmangoes
+54-noct1238,noct1238,54,wanpɘli lolo,,,,noct1238-heateonlyfourmangoes
+54-idum1241,idum1241,54,kʰini-tèa,,,,idum1241-heateonlyfourmangoes
+54-miju1243,miju1243,54,kɘmɹɘn ʧən,,,,miju1243-heateonlyfourmangoes
+54-koro1316,koro1316,54,kople gebe,,,,koro1316-heateonlyfourmangoes
 54-pada1257,pada1257,54,si api,,,,pada1257-heateonlyfourmangoes
+54-diga1241,diga1241,54,kapɹe-gene,,,,diga1241-heateonlyfourmangoes
 54-tikh1243,tikh1243,54,bɘləi-de,,,,tikh1243-heateonlyfourmangoes
+54-tsha1245,tsha1245,54,pʰi ʦaŋma,,,,tsha1245-heateonlyfourmangoes
+54-wanc1238,wanc1238,54,pɘʒi-ga,,,,wanc1238-heateonlyfourmangoes
 55-lada1244,lada1244,55,Gɑ tʃɑ,,,,
 55-khoi1251,khoi1251,55,pʰəŋɑ pək,,,,
 55-aona1235,aona1235,55,puŋo təŋ,,,,
@@ -3180,6 +3498,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 55-poch1243,poch1243,55,məŋam pa,,,,
 55-sang1321,sang1321,55,məŋa tu / məŋa məliŋ,,,,
 55-yimc1240,yimc1240,55,pʰɘŋɘ-laŋ,,,,
+55-khez1235,khez1235,55,puŋy tʰɹe,,,,
 55-khia1236,khia1236,55,muŋu-piho,,,,
 55-sout2732,sout2732,55,pfɘ-nti,,,,
 55-sumi1235,sumi1235,55,puŋu likʰi,,,,
@@ -3187,8 +3506,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 55-nyis1236,nyis1236,55,aŋo ʧaŋgu,,,,
 55-apat1240,apat1240,55,jaŋoi kontɘ,,,,
 55-galo1242,galo1242,55,aŋo goɲum,,,,
+55-noct1238,noct1238,55,wanpaŋa lolo,,,,
+55-idum1241,idum1241,55,maŋa-tèa,,,,
+55-miju1243,miju1243,55,kɘlen ʧən,,,,
+55-koro1316,koro1316,55,ple gebe,,,,
 55-pada1257,pada1257,55,si pilo,,,,
+55-diga1241,diga1241,55,maŋa-gene,,,,
 55-tikh1243,tikh1243,55,baŋa-de,,,,
+55-tsha1245,tsha1245,55,ŋa ʦaŋma,,,,
+55-wanc1238,wanc1238,55,aɲa-ga,,,,
 56-lada1244,lada1244,56,tʃu tʃɑ,,,,
 56-khoi1251,khoi1251,56,cipkʰəe pək,,,,
 56-aona1235,aona1235,56,tʰər təŋ,,,,
@@ -3210,6 +3536,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 56-poch1243,poch1243,56,təɹakem pa,,,,
 56-sang1321,sang1321,56,tʰeɹe tu / tʰeɹe məliŋ,,,,
 56-yimc1240,yimc1240,56,tʱɘɹɘ-laŋ,,,,
+56-khez1235,khez1235,56,ʧaɹə tʰɹe,,,,
 56-khia1236,khia1236,56,ʦe-piho,,,,
 56-sout2732,sout2732,56,ʦɘɹɘ-nti,,,,
 56-sumi1235,sumi1235,56,ʧiɣi likʰi,,,,
@@ -3217,8 +3544,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 56-nyis1236,nyis1236,56,ʧamkin ʧaŋgo,,,,
 56-apat1240,apat1240,56,aliaŋhe kontɘ,,,,
 56-galo1242,galo1242,56,ɘɹɘ goɲum,,,,
+56-noct1238,noct1238,56,wanʧi lolo,,,,
+56-idum1241,idum1241,56,hu-tèa,,,,
+56-miju1243,miju1243,56,kepmo ʧən,,,,
+56-koro1316,koro1316,56,fala gebe,,,,
 56-pada1257,pada1257,56,si ɘiŋ,,,,
+56-diga1241,diga1241,56,haləŋ-gene,,,,
 56-tikh1243,tikh1243,56,ʧe-de,,,,
+56-tsha1245,tsha1245,56,se ʦaŋma,,,,
+56-wanc1238,wanc1238,56,ba:n-ga,,,,
 57-spit1240,spit1240,57,tʃik-tʃik,,,,
 57-lada1244,lada1244,57,re-re / tʃiktʃik-tʃiktʃik toŋ,,,,
 57-khoi1251,khoi1251,57,kʰət kʰəe kʰəe,,,,
@@ -3241,6 +3575,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 57-poch1243,poch1243,57,kəsɯsɯ,,,,
 57-sang1321,sang1321,57,kʰətukʰətu ʦəŋ / ɲəməi:pɪ kʰətu,,,,
 57-yimc1240,yimc1240,57,kʰɘlaŋkʰɘlaŋ,,,,
+57-khez1235,khez1235,57,kelele,,,,
 57-khia1236,khia1236,57,ʦak-ʦak,,,,
 57-sout2732,sout2732,57,meme,,,,
 57-sumi1235,sumi1235,57,lakʰi-kʰi,,,,
@@ -3248,8 +3583,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 57-nyis1236,nyis1236,57,akinkinbe,,,,
 57-apat1240,apat1240,57,akoakosahe,,,,
 57-galo1242,galo1242,57,aʧiɹ haksi,,,,
+57-noct1238,noct1238,57,wantʰeɹu / wanɹu,,,,
+57-idum1241,idum1241,57,kʰegeta,,,,
+57-miju1243,miju1243,57,kumo-ha,,,,
+57-koro1316,koro1316,57,eʧe eʧe,,,,
 57-pada1257,pada1257,57,atəl-atəl pɘ,,,,
+57-diga1241,diga1241,57,kʰintɪo-kʰintɪo,,,,
 57-tikh1243,tikh1243,57,pʰute,,,,
+57-tsha1245,tsha1245,57,tʰuɹegətʰuɹ,,,,
+57-wanc1238,wanc1238,57,ʧaʧaku,,,,
 58-spit1240,spit1240,58,sum-sum,,,,
 58-lada1244,lada1244,58,sum sum toŋ,,,,
 58-khoi1251,khoi1251,58,kʰəjum kʰəjum,,,,
@@ -3272,6 +3614,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 58-poch1243,poch1243,58,kəʧeʧe,,,,
 58-sang1321,sang1321,58,asəŋasəŋ ʦəŋ / ɲəməipɪ asəŋ,,,,
 58-yimc1240,yimc1240,58,maʔsamsam,,,,
+58-khez1235,khez1235,58,kəʦɘʦɘ,,,,
 58-khia1236,khia1236,58,sɘme-me,,,,
 58-sout2732,sout2732,58,kɘ́nʃəŋʃəŋ,,,,
 58-sumi1235,sumi1235,58,kətʰə-tʰɘ,,,,
@@ -3279,8 +3622,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 58-nyis1236,nyis1236,58,omombe,,,,
 58-apat1240,apat1240,58,hiŋɪhiŋɪsahe,,,,
 58-galo1242,galo1242,58,ʧiɹum haksi / boɹum haksi,,,,
+58-noct1238,noct1238,58,wanɹəmɹu,,,,
+58-idum1241,idum1241,58,kasota,,,,
+58-miju1243,miju1243,58,kɘsəm-ha,,,,
+58-koro1316,koro1316,58,kala kala,,,,
 58-pada1257,pada1257,58,aŋum-aŋum pɘ,,,,
+58-diga1241,diga1241,58,kasəŋtɪo-kasəŋtɪo,,,,
 58-tikh1243,tikh1243,58,vatema pʰu-ɹom,,,,
+58-tsha1245,tsha1245,58,tʰuɹegəsamsam,,,,
+58-wanc1238,wanc1238,58,aɹəmɹəmku,,,,
 59-spit1240,spit1240,59,sum-sum,,,,
 59-lada1244,lada1244,59,Gɑ Gɑ toŋ,,,,
 59-khoi1251,khoi1251,59,pʰəŋɑ pʰəŋɑ,,,,
@@ -3303,14 +3653,22 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 59-poch1243,poch1243,59,məŋaŋa,,,,
 59-sang1321,sang1321,59,məŋaməŋa nə ʦəŋ / ɲəməipɪ məŋa,,,,
 59-yimc1240,yimc1240,59,pʰɘŋɘŋɘ,,,,
+59-khez1235,khez1235,59,puŋuŋu,,,,
 59-khia1236,khia1236,59,muŋu-ŋu,,,,
 59-sout2732,sout2732,59,pfɘŋpfɘŋ,,,,
 59-sumi1235,sumi1235,59,puŋu-ŋu,,,,
 59-zeme1240,zeme1240,59,miɲʉ-miɲʉ,,,,
 59-nyis1236,nyis1236,59,ŋoŋo-be,,,,
 59-apat1240,apat1240,59,jaŋojaŋosahe,,,,
+59-noct1238,noct1238,59,wanpaŋaɹu,,,,
+59-idum1241,idum1241,59,maŋata,,,,
+59-miju1243,miju1243,59,kɘlen-ha,,,,
+59-koro1316,koro1316,59,ple ple,,,,
 59-pada1257,pada1257,59,pilo-pilo pɘ,,,,
+59-diga1241,diga1241,59,maŋatɪo-maŋatɪo,,,,
 59-tikh1243,tikh1243,59,vatema pʰu-baŋa,,,,
+59-tsha1245,tsha1245,59,tʰuɹegəŋaŋa,,,,
+59-wanc1238,wanc1238,59,aɲaɲaku,,,,
 60-spit1240,spit1240,60,tʃi tʃik- tʃi tʃik,,,,
 60-lada1244,lada1244,60,tʃiki-tiŋnɑ-tʃik,,,,
 60-khoi1251,khoi1251,60,kʰət kʰət,,,,
@@ -3333,6 +3691,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 60-poch1243,poch1243,60,kəsɯnəkəsɯ,,,,
 60-sang1321,sang1321,60,kʰətukʰətu / kʰətu kʰəŋaŋ kʰətu,,,,
 60-yimc1240,yimc1240,60,kʰɘlaŋkʰɘlaŋnɘ,,,,
+60-khez1235,khez1235,60,kelekele,,,,
 60-khia1236,khia1236,60,ʦak-ʦaktiam,,,,
 60-sout2732,sout2732,60,mɪmeme / meme,,,,
 60-sumi1235,sumi1235,60,lakʰi-kʰi,,,,
@@ -3340,8 +3699,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 60-nyis1236,nyis1236,60,akinneakinbe,,,,
 60-apat1240,apat1240,60,ako hɘba ako,,,,
 60-galo1242,galo1242,60,akenakenbɘ,,,,
+60-noct1238,noct1238,60,wantʰewantʰeme,,,,
+60-idum1241,idum1241,60,kʰegekʰegene,,,,
+60-miju1243,miju1243,60,kumo-kumo,,,,
+60-koro1316,koro1316,60,eʧe eʧe-ge,,,,
 60-pada1257,pada1257,60,atəl-atəlpɘ,,,,
+60-diga1241,diga1241,60,kʰin-kʰin-hanana,,,,
 60-tikh1243,tikh1243,60,wasima wasi,,,,
+60-tsha1245,tsha1245,60,tʰuɹe-tʰuɹe,,,,
+60-wanc1238,wanc1238,60,ʧaʧale,,,,
 61-spit1240,spit1240,61,nɨ nɨ- nɨ nɨ,,,,
 61-lada1244,lada1244,61,nisi-tiŋnɑ-nis,,,,
 61-khoi1251,khoi1251,61,kʰəni kʰəni,,,,
@@ -3364,6 +3730,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 61-poch1243,poch1243,61,kəɲinəkəɲi,,,,
 61-sang1321,sang1321,61,aɲəaɲə / aɲu kʰəŋaŋ aɲu,,,,
 61-yimc1240,yimc1240,61,maʔɲɪmaʔɲɪnɘ,,,,
+61-khez1235,khez1235,61,kin̥ikin̥i,,,,
 61-khia1236,khia1236,61,lɘme-me,,,,
 61-sout2732,sout2732,61,mehuhu / kɘ́ɲ̥uɲ̥u,,,,
 61-sumi1235,sumi1235,61,kini-ni,,,,
@@ -3371,8 +3738,15 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 61-nyis1236,nyis1236,61,aniheanibe,,,,
 61-apat1240,apat1240,61,ani həba ani,,,,
 61-galo1242,galo1242,61,anianibɘ,,,,
+61-noct1238,noct1238,61,waniwanime,,,,
+61-idum1241,idum1241,61,kanikanine,,,,
+61-miju1243,miju1243,61,kɘin-kɘin,,,,
+61-koro1316,koro1316,61,kene kene-ge,,,,
 61-pada1257,pada1257,61,ani-anipɘ,,,,
+61-diga1241,diga1241,61,kʌiŋ-kʌiŋ-hanana,,,,
 61-tikh1243,tikh1243,61,wanima wane,,,,
+61-tsha1245,tsha1245,61,nikʦiɹe-nikʦiɹe,,,,
+61-wanc1238,wanc1238,61,aninile,,,,
 62-spit1240,spit1240,62,hjuče,,,,spit1240-approximately20kilosofriceareinthesack;spit1240-approximatelyfifteenkilosofriceareinthesack;spit1240-thisinstitutecontainsapproximately1000students;spit1240-approximately35kilosofriceareinthesack
 62-lada1244,lada1244,62,tʃʰɛkis,,,,lada1244-approximately20kilosofriceareinthesack;lada1244-approximately50ofstudentsareattendingtheworkshop;lada1244-approximatelyfifteenkilosofriceareinthesack;lada1244-thisinstitutecontainsapproximately1000students;lada1244-approximately35kilosofriceareinthesack
 62-khoi1251,khoi1251,62,rɔ,,,,khoi1251-approximately20kilosofriceareinthesack;khoi1251-approximately50ofstudentsareattendingtheworkshop;khoi1251-approximatelyfifteenkilosofriceareinthesack;khoi1251-approximately23rdmembersareleft;khoi1251-thisinstitutecontainsapproximately1000students;khoi1251-approximately35kilosofriceareinthesack
@@ -3394,13 +3768,20 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 62-poch1243,poch1243,62,kate,,,,poch1243-approximately20kilosofriceareinthesack;poch1243-approximatelyfifteenkilosofriceareinthesack;poch1243-approximately23rdmembersareleft;poch1243-thisinstitutecontainsapproximately1000students
 62-sang1321,sang1321,62,ʃi,,,,sang1321-approximately20kilosofriceareinthesack;sang1321-approximately50ofstudentsareattendingtheworkshop;sang1321-approximatelyfifteenkilosofriceareinthesack;sang1321-approximately23rdmembersareleft;sang1321-thisinstitutecontainsapproximately1000students;sang1321-approximately35kilosofriceareinthesack
 62-yimc1240,yimc1240,62,pənte,,,,yimc1240-approximately20kilosofriceareinthesack;yimc1240-approximately50ofstudentsareattendingtheworkshop;yimc1240-approximatelyfifteenkilosofriceareinthesack;yimc1240-approximately35kilosofriceareinthesack
+62-khez1235,khez1235,62,mesevi,,,,khez1235-approximately20kilosofriceareinthesack;khez1235-approximately50ofstudentsareattendingtheworkshop;khez1235-approximatelyfifteenkilosofriceareinthesack;khez1235-approximately23rdmembersareleft;khez1235-thisinstitutecontainsapproximately1000students;khez1235-approximately35kilosofriceareinthesack
 62-sout2732,sout2732,62,kʰò,,,,sout2732-approximately20kilosofriceareinthesack;sout2732-approximately50ofstudentsareattendingtheworkshop;sout2732-approximatelyfifteenkilosofriceareinthesack;sout2732-approximately23rdmembersareleft;sout2732-thisinstitutecontainsapproximately1000students;sout2732-approximately35kilosofriceareinthesack
 62-sumi1235,sumi1235,62,kʰala,,,,sumi1235-approximately20kilosofriceareinthesack;sumi1235-approximately50ofstudentsareattendingtheworkshop;sumi1235-approximatelyfifteenkilosofriceareinthesack;sumi1235-thisinstitutecontainsapproximately1000students;sumi1235-approximately35kilosofriceareinthesack
 62-zeme1240,zeme1240,62,ʦaŋsɘnokpe,,,,zeme1240-approximately20kilosofriceareinthesack;zeme1240-approximately50ofstudentsareattendingtheworkshop;zeme1240-approximatelyfifteenkilosofriceareinthesack;zeme1240-approximately23rdmembersareleft;zeme1240-thisinstitutecontainsapproximately1000students;zeme1240-approximately35kilosofriceareinthesack
 62-nyis1236,nyis1236,62,kɘta/kɘtago,,,,nyis1236-approximately20kilosofriceareinthesack;nyis1236-approximately50ofstudentsareattendingtheworkshop;nyis1236-approximatelyfifteenkilosofriceareinthesack;nyis1236-approximately23rdmembersareleft;nyis1236-thisinstitutecontainsapproximately1000students;nyis1236-approximately35kilosofriceareinthesack
 62-apat1240,apat1240,62,helɘheŋala,,,,apat1240-approximately20kilosofriceareinthesack;apat1240-approximately50ofstudentsareattendingtheworkshop;apat1240-approximatelyfifteenkilosofriceareinthesack;apat1240-approximately23rdmembersareleft;apat1240-thisinstitutecontainsapproximately1000students;apat1240-approximately35kilosofriceareinthesack
+62-noct1238,noct1238,62,tatoŋa,,,,noct1238-approximately20kilosofriceareinthesack;noct1238-approximatelyfifteenkilosofriceareinthesack;noct1238-approximately23rdmembersareleft;noct1238-thisinstitutecontainsapproximately1000students;noct1238-approximately35kilosofriceareinthesack
+62-idum1241,idum1241,62,buʃi,,,,idum1241-approximately20kilosofriceareinthesack;idum1241-approximately50ofstudentsareattendingtheworkshop;idum1241-approximatelyfifteenkilosofriceareinthesack;idum1241-approximately23rdmembersareleft;idum1241-thisinstitutecontainsapproximately1000students;idum1241-approximately35kilosofriceareinthesack
+62-miju1243,miju1243,62,sau,,,,miju1243-approximately20kilosofriceareinthesack;miju1243-approximately50ofstudentsareattendingtheworkshop;miju1243-approximatelyfifteenkilosofriceareinthesack;miju1243-thisinstitutecontainsapproximately1000students;miju1243-approximately35kilosofriceareinthesack
+62-koro1316,koro1316,62,kə:,,,,koro1316-approximately20kilosofriceareinthesack;koro1316-approximately50ofstudentsareattendingtheworkshop;koro1316-approximatelyfifteenkilosofriceareinthesack;koro1316-approximately23rdmembersareleft;koro1316-thisinstitutecontainsapproximately1000students;koro1316-approximately35kilosofriceareinthesack
 62-pada1257,pada1257,62,kopɘ,,,,pada1257-approximately20kilosofriceareinthesack;pada1257-approximatelyfifteenkilosofriceareinthesack;pada1257-thisinstitutecontainsapproximately1000students;pada1257-approximately35kilosofriceareinthesack
 62-tikh1243,tikh1243,62,apaŋpintʰum (maximum),,,,tikh1243-approximately20kilosofriceareinthesack;tikh1243-approximatelyfifteenkilosofriceareinthesack
+62-tsha1245,tsha1245,62,maʦa,,,,tsha1245-approximately20kilosofriceareinthesack;tsha1245-approximately50ofstudentsareattendingtheworkshop;tsha1245-approximatelyfifteenkilosofriceareinthesack;tsha1245-thisinstitutecontainsapproximately1000students;tsha1245-approximately35kilosofriceareinthesack
+62-wanc1238,wanc1238,62,ʧɪtan,,,,wanc1238-approximately20kilosofriceareinthesack;wanc1238-approximately50ofstudentsareattendingtheworkshop;wanc1238-approximatelyfifteenkilosofriceareinthesack;wanc1238-thisinstitutecontainsapproximately1000students;wanc1238-approximately35kilosofriceareinthesack
 63-lada1244,lada1244,63,is,,,,lada1244-agroupoftwogirlsplayed;lada1244-agroupoffivegirlsplayed;lada1244-agroupoffourgirlsplayed;lada1244-agroupoftwelveboysreached;lada1244-agroupoftwentyfiveboysreached;lada1244-agroupoftwentyboysreached
 63-khoi1251,khoi1251,63,kəupul,,,,khoi1251-agroupoftwogirlsplayed;khoi1251-agroupoffivegirlsplayed;khoi1251-agroupoffourgirlsplayed;khoi1251-agroupoftwelveboysreached;khoi1251-agroupoftwentyfiveboysreached;khoi1251-agroupoftwentyboysreached
 63-aona1235,aona1235,63,tuluk,,,,aona1235-agroupoftwogirlsplayed;aona1235-agroupoffivegirlsplayed;aona1235-agroupoffourgirlsplayed;aona1235-agroupoftwelveboysreached;aona1235-agroupoftwentyfiveboysreached;aona1235-agroupoftwentyboysreached
@@ -3421,13 +3802,19 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 63-poch1243,poch1243,63,ɹikʰu,,,,poch1243-agroupoftwogirlsplayed;poch1243-agroupoffivegirlsplayed;poch1243-agroupoffourgirlsplayed;poch1243-agroupoftwelveboysreached;poch1243-agroupoftwentyfiveboysreached;poch1243-agroupoftwentyboysreached
 63-sang1321,sang1321,63,məloŋ,,,,sang1321-agroupoftwogirlsplayed;sang1321-agroupoffivegirlsplayed;sang1321-agroupoffourgirlsplayed;sang1321-agroupoftwelveboysreached;sang1321-agroupoftwentyfiveboysreached;sang1321-agroupoftwentyboysreached
 63-yimc1240,yimc1240,63,jɪŋɘ,,,,yimc1240-agroupoftwogirlsplayed;yimc1240-agroupoffivegirlsplayed;yimc1240-agroupoffourgirlsplayed;yimc1240-agroupoftwelveboysreached;yimc1240-agroupoftwentyfiveboysreached;yimc1240-agroupoftwentyboysreached
+63-khez1235,khez1235,63,koɹo,,,,khez1235-agroupoftwogirlsplayed;khez1235-agroupoffivegirlsplayed;khez1235-agroupoffourgirlsplayed;khez1235-agroupoftwelveboysreached;khez1235-agroupoftwentyfiveboysreached;khez1235-agroupoftwentyboysreached
 63-khia1236,khia1236,63,ohoi,,,,khia1236-agroupoftwogirlsplayed;khia1236-agroupoffivegirlsplayed;khia1236-agroupoffourgirlsplayed;khia1236-agroupoftwelveboysreached;khia1236-agroupoftwentyfiveboysreached;khia1236-agroupoftwentyboysreached
 63-sout2732,sout2732,63,lówa,,,,sout2732-agroupoftwogirlsplayed;sout2732-agroupoffivegirlsplayed;sout2732-agroupoffourgirlsplayed;sout2732-agroupoftwelveboysreached;sout2732-agroupoftwentyfiveboysreached;sout2732-agroupoftwentyboysreached
 63-sumi1235,sumi1235,63,aloʤi,,,,sumi1235-agroupoftwogirlsplayed;sumi1235-agroupoffivegirlsplayed;sumi1235-agroupoffourgirlsplayed;sumi1235-agroupoftwelveboysreached;sumi1235-agroupoftwentyfiveboysreached;sumi1235-agroupoftwentyboysreached
 63-zeme1240,zeme1240,63,bau,,,,zeme1240-agroupoftwogirlsplayed;zeme1240-agroupoffivegirlsplayed;zeme1240-agroupoffourgirlsplayed;zeme1240-agroupoftwelveboysreached;zeme1240-agroupoftwentyfiveboysreached;zeme1240-agroupoftwentyboysreached
 63-nyis1236,nyis1236,63,aʧamʧam,,,,nyis1236-agroupoftwogirlsplayed;nyis1236-agroupoffivegirlsplayed;nyis1236-agroupoffourgirlsplayed;nyis1236-agroupoftwelveboysreached;nyis1236-agroupoftwentyfiveboysreached;nyis1236-agroupoftwentyboysreached
 63-apat1240,apat1240,63,iŋkətoŋeho,,,,apat1240-agroupoftwogirlsplayed;apat1240-agroupoffivegirlsplayed;apat1240-agroupoffourgirlsplayed;apat1240-agroupoftwelveboysreached;apat1240-agroupoftwentyfiveboysreached;apat1240-agroupoftwentyboysreached
+63-noct1238,noct1238,63,kʰu-tʰe,,,,noct1238-agroupoftwogirlsplayed;noct1238-agroupoffivegirlsplayed;noct1238-agroupoffourgirlsplayed;noct1238-agroupoftwelveboysreached;noct1238-agroupoftwentyfiveboysreached;noct1238-agroupoftwentyboysreached
+63-idum1241,idum1241,63,áləmbɹo,,,,idum1241-agroupoftwogirlsplayed;idum1241-agroupoffivegirlsplayed;idum1241-agroupoffourgirlsplayed;idum1241-agroupoftwelveboysreached;idum1241-agroupoftwentyfiveboysreached;idum1241-agroupoftwentyboysreached
 63-pada1257,pada1257,63,ope,,,,pada1257-agroupoftwogirlsplayed;pada1257-agroupoffivegirlsplayed;pada1257-agroupoffourgirlsplayed;pada1257-agroupoftwelveboysreached;pada1257-agroupoftwentyfiveboysreached;pada1257-agroupoftwentyboysreached
+63-diga1241,diga1241,63,tahu,,,,diga1241-agroupoftwogirlsplayed;diga1241-agroupoffivegirlsplayed;diga1241-agroupoffourgirlsplayed;diga1241-agroupoftwelveboysreached;diga1241-agroupoftwentyfiveboysreached;diga1241-agroupoftwentyboysreached
+63-tsha1245,tsha1245,63,ʧutʰu,,,,tsha1245-agroupoftwogirlsplayed;tsha1245-agroupoffivegirlsplayed;tsha1245-agroupoffourgirlsplayed;tsha1245-agroupoftwelveboysreached;tsha1245-agroupoftwentyboysreached
+63-wanc1238,wanc1238,63,koŋ,,,,wanc1238-agroupoftwogirlsplayed;wanc1238-agroupoffivegirlsplayed;wanc1238-agroupoffourgirlsplayed;wanc1238-agroupoftwelveboysreached;wanc1238-agroupoftwentyfiveboysreached;wanc1238-agroupoftwentyboysreached
 64-spit1240,spit1240,64,nɨ/jɑnju,,,,spit1240-twopairofsocks;spit1240-pairofsocksarelyinghere
 64-lada1244,lada1244,64,nis,,,,lada1244-twopairofsocks;lada1244-pairofsocksarelyinghere
 64-khoi1251,khoi1251,64,kʰənni/čurɑ,,,,khoi1251-twopairofsocks;khoi1251-pairofsocksarelyinghere
@@ -3449,13 +3836,21 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 64-phom1236,phom1236,64,ʧuɹa,,,,phom1236-twopairofsocks;phom1236-pairofsocksarelyinghere
 64-poch1243,poch1243,64,ʧi,,,,poch1243-twopairofsocks;poch1243-pairofsocksarelyinghere
 64-sang1321,sang1321,64,aɲə (two),,,,sang1321-twopairofsocks;sang1321-pairofsocksarelyinghere
+64-khez1235,khez1235,64,pa,,,,khez1235-twopairofsocks;khez1235-pairofsocksarelyinghere
 64-sout2732,sout2732,64,kɘpəŋpəŋ,,,,sout2732-twopairofsocks;sout2732-pairofsocksarelyinghere
 64-sumi1235,sumi1235,64,tɘna,,,,sumi1235-twopairofsocks;sumi1235-pairofsocksarelyinghere
 64-zeme1240,zeme1240,64,kɘna (two),,,,zeme1240-twopairofsocks;zeme1240-pairofsocksarelyinghere
 64-nyis1236,nyis1236,64,piam,,,,nyis1236-twopairofsocks;nyis1236-pairofsocksarelyinghere
 64-apat1240,apat1240,64,ʤa,,,,apat1240-twopairofsocks;apat1240-pairofsocksarelyinghere
+64-noct1238,noct1238,64,ʧut,,,,noct1238-twopairofsocks;noct1238-pairofsocksarelyinghere
+64-idum1241,idum1241,64,kani (two),,,,idum1241-twopairofsocks;idum1241-pairofsocksarelyinghere
+64-miju1243,miju1243,64,ʣam-mo,,,,miju1243-twopairofsocks;miju1243-pairofsocksarelyinghere
+64-koro1316,koro1316,64,ge,,,,koro1316-twopairofsocks;koro1316-pairofsocksarelyinghere
 64-pada1257,pada1257,64,aniko (two),,,,pada1257-twopairofsocks;pada1257-pairofsocksarelyinghere
+64-diga1241,diga1241,64,dɘɹu,,,,diga1241-twopairofsocks
 64-tikh1243,tikh1243,64,ʤuɹa,,,,tikh1243-twopairofsocks;tikh1243-pairofsocksarelyinghere
+64-tsha1245,tsha1245,64,ʧa,,,,tsha1245-twopairofsocks;tsha1245-pairofsocksarelyinghere
+64-wanc1238,wanc1238,64,ani (two),,,,wanc1238-twopairofsocks;wanc1238-pairofsocksarelyinghere
 65-lada1244,lada1244,65,tʃʰerpɑ-mɑŋmoik/dərǰən,,,,lada1244-iwenttheredozenoftimes
 65-khoi1251,khoi1251,65,dərǰən,,,,khoi1251-iwenttheredozenoftimes
 65-aona1235,aona1235,65,əipən,,,,aona1235-iwenttheredozenoftimes
@@ -3472,14 +3867,20 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 65-maon1238,maon1238,65,liližuʋo koppo (many times),,,,maon1238-iwenttheredozenoftimes
 65-chok1243,chok1243,65,vakɘpɘ-vove (many times),,,,chok1243-iwenttheredozenoftimes
 65-poch1243,poch1243,65,təɹaluke,,,,poch1243-iwenttheredozenoftimes
+65-khez1235,khez1235,65,vakutɹu (many times),,,,khez1235-iwenttheredozenoftimes
 65-khia1236,khia1236,65,paikɘtiam (many times),,,,khia1236-iwenttheredozenoftimes
 65-sout2732,sout2732,65,gɘ̀gɘ̀láso (many),,,,sout2732-iwenttheredozenoftimes
 65-sumi1235,sumi1235,65,χotʰu kutomu (many times),,,,sumi1235-iwenttheredozenoftimes
 65-zeme1240,zeme1240,65,kɹɘu kɘna (twelve),,,,zeme1240-iwenttheredozenoftimes
 65-nyis1236,nyis1236,65,ləɹiŋle (twelve times),,,,nyis1236-iwenttheredozenoftimes
 65-apat1240,apat1240,65,ɹoliaŋ-niχə (ten-twenty times),,,,apat1240-iwenttheredozenoftimes
+65-noct1238,noct1238,65,melɘŋ (several/many),,,,noct1238-iwenttheredozenoftimes
+65-idum1241,idum1241,65,bɘ-holo-ni (ten-two),,,,idum1241-iwenttheredozenoftimes
+65-koro1316,koro1316,65,o:dɘŋga (many),,,,koro1316-iwenttheredozenoftimes
 65-pada1257,pada1257,65,boʤeko (many),,,,pada1257-iwenttheredozenoftimes
 65-tikh1243,tikh1243,65,dozɘn,,,,tikh1243-iwenttheredozenoftimes
+65-tsha1245,tsha1245,65,kʰaihakni (more than twenty times),,,,tsha1245-iwenttheredozenoftimes
+65-wanc1238,wanc1238,65,ʧɘpiʧɘpi (many times),,,,wanc1238-iwenttheredozenoftimes
 66-lada1244,lada1244,66,dərǰən pʰet,,,,lada1244-iboughthalfadozeneggs
 66-khoi1251,khoi1251,66,tʰlɑŋkʰəi,,,,khoi1251-iboughthalfadozeneggs
 66-aona1235,aona1235,66,kʰrok,,,,aona1235-iboughthalfadozeneggs
@@ -3496,12 +3897,16 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 66-chok1243,chok1243,66,haf dozɘ,,,,chok1243-iboughthalfadozeneggs
 66-phom1236,phom1236,66,toɹzən atʰa,,,,phom1236-iboughthalfadozeneggs
 66-poch1243,poch1243,66,təɹaluke viɹu / hina aɹəʧi kəʒila,,,,poch1243-iboughthalfadozeneggs
+66-khez1235,khez1235,66,doɹzon paɹ̥a,,,,khez1235-iboughthalfadozeneggs
 66-sout2732,sout2732,66,dozɘn poŋpaha,,,,sout2732-iboughthalfadozeneggs
 66-sumi1235,sumi1235,66,doɹzən tɘχa,,,,sumi1235-iboughthalfadozeneggs
 66-zeme1240,zeme1240,66,ɘnɹibum ɘŋkaŋ,,,,zeme1240-iboughthalfadozeneggs
 66-apat1240,apat1240,66,pata taʧe (half of one egg tray set),,,,apat1240-iboughthalfadozeneggs
+66-idum1241,idum1241,66,taɹ̥o (six),,,,idum1241-iboughthalfadozeneggs
+66-koro1316,koro1316,66,sɘfi-ge (six),,,,koro1316-iboughthalfadozeneggs
 66-pada1257,pada1257,66,boʤeko (many),,,,pada1257-iboughthalfadozeneggs
 66-tikh1243,tikh1243,66,dozɘn adʰa,,,,tikh1243-iboughthalfadozeneggs
+66-tsha1245,tsha1245,66,kʰum (six),,,,tsha1245-iboughthalfadozeneggs
 1-bant1281,bant1281,1,ɘk,,,,bant1281-oneboy;bant1281-onesheep;bant1281-onegirl;bant1281-onetree;bant1281-ihaveonebrother;bant1281-ihaveonesister;bant1281-ihaveonealmirah;bant1281-ihaveonebag
 1-bahi1252,bahi1252,1,kʌŋ,,,,bahi1252-oneboy;bahi1252-onesheep;bahi1252-onegirl;bahi1252-onetree;bahi1252-ihaveonebrother;bahi1252-ihaveonesister;bahi1252-ihaveonealmirah;bahi1252-ihaveonebag
 1-caml1239,caml1239,1,i,,,,caml1239-oneboy;caml1239-onesheep;caml1239-onegirl;caml1239-onetree;caml1239-ihaveonebrother;caml1239-ihaveonesister;caml1239-ihaveonealmirah;caml1239-ihaveonebag
@@ -3510,8 +3915,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 1-khal1275,khal1275,1,tu,,,,khal1275-oneboy;khal1275-onesheep;khal1275-onegirl;khal1275-onetree;khal1275-ihaveonebrother;khal1275-ihaveonesister;khal1275-ihaveonealmirah;khal1275-ihaveonebag
 1-koii1238,koii1238,1,uk,,,,koii1238-oneboy;koii1238-onesheep;koii1238-onegirl;koii1238-onetree;koii1238-ihaveonebrother;koii1238-ihaveonesister;koii1238-ihaveonealmirah;koii1238-ihaveonebag
 1-kulu1253,kulu1253,1,ik,,,,kulu1253-oneboy;kulu1253-onesheep;kulu1253-onegirl;kulu1253-onetree;kulu1253-ihaveonebrother;kulu1253-ihaveonesister;kulu1253-ihaveonealmirah;kulu1253-ihaveonebag
+1-nach1240,nach1240,1,uk,,,,nach1240-oneboy;nach1240-onesheep;nach1240-onegirl;nach1240-onetree;nach1240-ihaveonebrother;nach1240-ihaveonesister;nach1240-ihaveonealmirah;nach1240-ihaveonebag
 1-puma1239,puma1239,1,ək,,,,puma1239-oneboy;puma1239-onegirl;puma1239-onetree;puma1239-ihaveonebrother;puma1239-ihaveonesister;puma1239-ihaveonebag
 1-samp1249,samp1249,1,itta,,,,samp1249-oneboy;samp1249-onesheep;samp1249-onegirl;samp1249-onetree;samp1249-ihaveonebrother;samp1249-ihaveonesister;samp1249-ihaveonealmirah;samp1249-ihaveonebag
+1-sunw1242,sunw1242,1,ka,,,,sunw1242-oneboy;sunw1242-onesheep;sunw1242-onegirl;sunw1242-onetree;sunw1242-ihaveonebrother;sunw1242-ihaveonesister;sunw1242-ihaveonealmirah;sunw1242-ihaveonebag
 1-thul1246,thul1246,1,ko,,,,thul1246-oneboy;thul1246-onesheep;thul1246-onegirl;thul1246-onetree;thul1246-ihaveonebrother;thul1246-ihaveonesister;thul1246-ihaveonealmirah;thul1246-ihaveonebag
 1-wamb1257,wamb1257,1,kwal,,,,wamb1257-oneboy;wamb1257-onesheep;wamb1257-onegirl;wamb1257-onetree;wamb1257-ihaveonebrother;wamb1257-ihaveonesister;wamb1257-ihaveonealmirah;wamb1257-ihaveonebag
 1-yakk1236,yakk1236,1,e,,,,yakk1236-oneboy;yakk1236-onesheep;yakk1236-onegirl;yakk1236-onetree;yakk1236-ihaveonebrother;yakk1236-ihaveonesister;yakk1236-ihaveonealmirah;yakk1236-ihaveonebag
@@ -3534,8 +3941,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 2-khal1275,khal1275,2,sak,,,,khal1275-twoboys;khal1275-twogirls;khal1275-ihavetwobrothers;khal1275-ihavetwosisters;khal1275-ihavetwoalmirahs
 2-koii1238,koii1238,2,dui,,,,koii1238-twoboys;koii1238-twogirls;koii1238-ihavetwobrothers;koii1238-ihavetwosisters;koii1238-ihavetwoalmirahs
 2-kulu1253,kulu1253,2,nis,,,,kulu1253-twoboys;kulu1253-twogirls;kulu1253-ihavetwobrothers;kulu1253-ihavetwosisters;kulu1253-ihavetwoalmirahs
+2-nach1240,nach1240,2,nis,,,,nach1240-twoboys;nach1240-twogirls;nach1240-ihavetwobrothers;nach1240-ihavetwosisters;nach1240-ihavetwoalmirahs
 2-puma1239,puma1239,2,əsə,,,,puma1239-twoboys;puma1239-twogirls;puma1239-ihavetwobrothers;puma1239-ihavetwosisters
 2-samp1249,samp1249,2,hisa,,,,samp1249-twoboys;samp1249-twogirls;samp1249-ihavetwobrothers;samp1249-ihavetwosisters;samp1249-ihavetwoalmirahs
+2-sunw1242,sunw1242,2,niʔsi,,,,sunw1242-twoboys;sunw1242-twogirls;sunw1242-ihavetwobrothers;sunw1242-ihavetwosisters;sunw1242-ihavetwoalmirahs
 2-thul1246,thul1246,2,nə,,,,thul1246-twoboys;thul1246-twogirls;thul1246-ihavetwobrothers;thul1246-ihavetwosisters;thul1246-ihavetwoalmirahs
 2-wamb1257,wamb1257,2,nis,,,,wamb1257-twoboys;wamb1257-twogirls;wamb1257-ihavetwobrothers;wamb1257-ihavetwosisters;wamb1257-ihavetwoalmirahs
 2-yakk1236,yakk1236,2,hi/hitsi,,,,yakk1236-twoboys;yakk1236-twogirls;yakk1236-ihavetwobrothers;yakk1236-ihavetwosisters;yakk1236-ihavetwoalmirahs
@@ -3558,8 +3967,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 3-khal1275,khal1275,3,suk,,,,khal1275-threegirls;khal1275-ihavethreesisters;khal1275-ihavethreebags
 3-koii1238,koii1238,3,tin,,,,koii1238-threegirls;koii1238-ihavethreesisters;koii1238-ihavethreebags
 3-kulu1253,kulu1253,3,suk,,,,kulu1253-threegirls;kulu1253-ihavethreesisters;kulu1253-ihavethreebags
+3-nach1240,nach1240,3,suk,,,,nach1240-threegirls;nach1240-ihavethreesisters;nach1240-ihavethreebags
 3-puma1239,puma1239,3,sum,,,,puma1239-threegirls;puma1239-ihavethreesisters;puma1239-ihavethreebags
 3-samp1249,samp1249,3,sumka,,,,samp1249-threegirls;samp1249-ihavethreesisters;samp1249-ihavethreebags
+3-sunw1242,sunw1242,3,sã,,,,sunw1242-threegirls;sunw1242-ihavethreesisters;sunw1242-ihavethreebags
 3-thul1246,thul1246,3,su,,,,thul1246-threegirls;thul1246-ihavethreesisters;thul1246-ihavethreebags
 3-wamb1257,wamb1257,3,sum,,,,wamb1257-threegirls;wamb1257-ihavethreesisters;wamb1257-ihavethreebags
 3-yakk1236,yakk1236,3,su/sum,,,,yakk1236-threegirls;yakk1236-ihavethreesisters;yakk1236-ihavethreebags
@@ -3582,8 +3993,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 4-khal1275,khal1275,4,bʰɛl,,,,khal1275-ihavefourbags
 4-koii1238,koii1238,4,tsar,,,,koii1238-ihavefourbags
 4-kulu1253,kulu1253,4,lik,,,,kulu1253-ihavefourbags
+4-nach1240,nach1240,4,lik,,,,nach1240-ihavefourbags
 4-puma1239,puma1239,4,tsuk,,,,puma1239-ihavefourbags
 4-samp1249,samp1249,4,lə̃ka,,,,samp1249-ihavefourbags
+4-sunw1242,sunw1242,4,tsar,,,,sunw1242-ihavefourbags
 4-thul1246,thul1246,4,blə,,,,thul1246-ihavefourbags
 4-wamb1257,wamb1257,4,pʰib,,,,wamb1257-ihavefourbags
 4-yakk1236,yakk1236,4,na,,,,yakk1236-ihavefourbags
@@ -3606,8 +4019,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 5-khal1275,khal1275,5,bʰjoŋ,,,,khal1275-fivesheep
 5-koii1238,koii1238,5,pãts,,,,koii1238-fivesheep
 5-kulu1253,kulu1253,5,ŋak,,,,kulu1253-fivesheep
+5-nach1240,nach1240,5,ŋak,,,,nach1240-fivesheep
 5-puma1239,puma1239,5,tsʰit,,,,
 5-samp1249,samp1249,5,nə̃ka,,,,samp1249-fivesheep
+5-sunw1242,sunw1242,5,pãts,,,,sunw1242-fivesheep
 5-thul1246,thul1246,5,ŋo,,,,thul1246-fivesheep
 5-wamb1257,wamb1257,5,ŋa,,,,wamb1257-fivesheep
 5-yakk1236,yakk1236,5,pʰa,,,,yakk1236-fivesheep
@@ -3630,8 +4045,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 6-khal1275,khal1275,6,tsʰʌ,,,,
 6-koii1238,koii1238,6,tsʰʌ,,,,
 6-kulu1253,kulu1253,6,tuk,,,,
+6-nach1240,nach1240,6,tuk,,,,
 6-puma1239,puma1239,6,tsʰet,,,,
 6-samp1249,samp1249,6,tsuki,,,,
+6-sunw1242,sunw1242,6,tsʰʌ,,,,
 6-thul1246,thul1246,6,ru,,,,
 6-wamb1257,wamb1257,6,ruk,,,,
 6-yakk1236,yakk1236,6,ja,,,,
@@ -3654,8 +4071,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 7-khal1275,khal1275,7,sat,,,,
 7-koii1238,koii1238,7,sat,,,,
 7-kulu1253,kulu1253,7,nup,,,,
+7-nach1240,nach1240,7,nup,,,,
 7-puma1239,puma1239,7,set,,,,
 7-samp1249,samp1249,7,sawa,,,,
+7-sunw1242,sunw1242,7,sat,,,,
 7-thul1246,thul1246,7,jet,,,,
 7-wamb1257,wamb1257,7,tsani,,,,
 7-yakk1236,yakk1236,7,la,,,,
@@ -3678,8 +4097,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 8-khal1275,khal1275,8,aʈʰ,,,,khal1275-eighttrees
 8-koii1238,koii1238,8,aʈʰ,,,,koii1238-eighttrees
 8-kulu1253,kulu1253,8,rek,,,,kulu1253-eighttrees
+8-nach1240,nach1240,8,rek,,,,nach1240-eighttrees
 8-puma1239,puma1239,8,ret,,,,puma1239-eighttrees
 8-samp1249,samp1249,8,reka,,,,samp1249-eighttrees
+8-sunw1242,sunw1242,8,aʈʰ,,,,sunw1242-eighttrees
 8-thul1246,thul1246,8,let,,,,thul1246-eighttrees
 8-wamb1257,wamb1257,8,ret,,,,wamb1257-eighttrees
 8-yakk1236,yakk1236,8,ta,,,,yakk1236-eighttrees
@@ -3702,8 +4123,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 9-khal1275,khal1275,9,nʌu,,,,
 9-koii1238,koii1238,9,nʌu,,,,
 9-kulu1253,kulu1253,9,bʌu,,,,
+9-nach1240,nach1240,9,bʰʌu,,,,
 9-puma1239,puma1239,9,let,,,,
 9-samp1249,samp1249,9,ŋǝka,,,,
+9-sunw1242,sunw1242,9,nʌu,,,,
 9-thul1246,thul1246,9,gu,,,,
 9-wamb1257,wamb1257,9,nu,,,,
 9-yakk1236,yakk1236,9,pa,,,,
@@ -3726,8 +4149,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 10-khal1275,khal1275,10,tʌdʌm,,,,
 10-koii1238,koii1238,10,dʌs,,,,
 10-kulu1253,kulu1253,10,ikpoŋ,,,,
+10-nach1240,nach1240,10,pʌu,,,,
 10-puma1239,puma1239,10,dzʰup,,,,
 10-samp1249,samp1249,10,ithop,,,,
+10-sunw1242,sunw1242,10,dʌs,,,,
 10-thul1246,thul1246,10,ko-dʰjum,,,,
 10-wamb1257,wamb1257,10,kwal-sjako,,,,
 10-yakk1236,yakk1236,10,e-kʰeŋ,,,,
@@ -3750,8 +4175,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 11-khal1275,khal1275,11,lɛlmim,,,,khal1275-firstman;khal1275-firstwoman
 11-koii1238,koii1238,11,pʌhilo,,,,koii1238-firstman;koii1238-firstwoman
 11-kulu1253,kulu1253,11,laispi,,,,kulu1253-firstman;kulu1253-firstwoman
+11-nach1240,nach1240,11,laispi,,,,nach1240-firstman;nach1240-firstwoman
 11-puma1239,puma1239,11,busit/ək-kətep,,,,puma1239-firstman;puma1239-firstwoman
 11-samp1249,samp1249,11,it-lam,,,,samp1249-firstman;samp1249-firstwoman
+11-sunw1242,sunw1242,11,ŋoĩti,,,,sunw1242-firstman;sunw1242-firstwoman
 11-thul1246,thul1246,11,ŋado,,,,thul1246-firstman;thul1246-firstwoman
 11-wamb1257,wamb1257,11,ɗambi,,,,wamb1257-firstman;wamb1257-firstwoman
 11-dung1252,dung1252,11,pusʌ,,,,dung1252-firstman;dung1252-firstwoman
@@ -3771,8 +4198,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 12-khal1275,khal1275,12,lʉpphi,,,,khal1275-secondman;khal1275-secondwoman
 12-koii1238,koii1238,12,dosro,,,,koii1238-secondman;koii1238-secondwoman
 12-kulu1253,kulu1253,12,dospi,,,,kulu1253-secondman;kulu1253-secondwoman
+12-nach1240,nach1240,12,dʌskapi,,,,nach1240-secondman;nach1240-secondwoman
 12-puma1239,puma1239,12,daŋ/əsə-kətep,,,,puma1239-secondman;puma1239-secondwoman
 12-samp1249,samp1249,12,his-lam,,,,samp1249-secondman;samp1249-secondwoman
+12-sunw1242,sunw1242,12,datɛ,,,,sunw1242-secondman;sunw1242-secondwoman
 12-thul1246,thul1246,12,tsəktʰjo,,,,thul1246-secondman;thul1246-secondwoman
 12-wamb1257,wamb1257,12,nʌuʈhaŋ,,,,
 12-nort2727,nort2727,12,lumpi,,,,nort2727-secondman;nort2727-secondwoman
@@ -3790,8 +4219,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 13-jeru1240,jeru1240,13,nʌupʰalna,,,,jeru1240-thirdman;jeru1240-thirdwoman
 13-khal1275,khal1275,13,kʰɛle,,,,khal1275-thirdman;khal1275-thirdwoman
 13-koii1238,koii1238,13,tesro,,,,koii1238-thirdman;koii1238-thirdwoman
+13-nach1240,nach1240,13,umdʌskapi,,,,nach1240-thirdman;nach1240-thirdwoman
 13-puma1239,puma1239,13,sum/sum-kətep,,,,puma1239-thirdman;puma1239-thirdwoman
 13-samp1249,samp1249,13,sum-lam,,,,samp1249-thirdman;samp1249-thirdwoman
+13-sunw1242,sunw1242,13,ŋolɛ,,,,sunw1242-thirdman;sunw1242-thirdwoman
 13-nort2727,nort2727,13,ɖɛŋpi,,,,
 13-mewa1252,mewa1252,13,momikʰu?ma?mubʌ,,,,mewa1252-thirdman;mewa1252-thirdwoman
 13-belh1239,belh1239,13,tesro,,,,belh1239-thirdman;belh1239-thirdwoman
@@ -3800,6 +4231,7 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 14-bahi1252,bahi1252,14,le-tʰam,,,,bahi1252-forthman;bahi1252-forthwoman
 14-caml1239,caml1239,14,lju-ruŋ,,,,caml1239-forthman;caml1239-forthwoman
 14-koii1238,koii1238,14,tsʌutʰo,,,,koii1238-forthman;koii1238-forthwoman
+14-nach1240,nach1240,14,abedʌska,,,,nach1240-forthman;nach1240-forthwoman
 14-puma1239,puma1239,14,tsuk-kətep,,,,puma1239-forthman;puma1239-forthwoman
 14-samp1249,samp1249,14,lə̃k-lam,,,,samp1249-forthman;samp1249-forthwoman
 14-belh1239,belh1239,14,tsʌutʰʌu,,,,belh1239-forthman;belh1239-forthwoman
@@ -3956,8 +4388,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 33-khal1275,khal1275,33,kʰoŋle,,,,khal1275-iate12ofthepizza
 33-koii1238,koii1238,33,adʰi,,,,koii1238-iate12ofthepizza
 33-kulu1253,kulu1253,33,mʌrapi,,,,kulu1253-iate12ofthepizza
+33-nach1240,nach1240,33,hapa,,,,nach1240-iate12ofthepizza
 33-puma1239,puma1239,33,ək-ɖʰaŋ,,,,puma1239-iate12ofthepizza
 33-samp1249,samp1249,33,bəkʰələ,,,,samp1249-iate12ofthepizza
+33-sunw1242,sunw1242,33,pʰɛkjo-ka,,,,sunw1242-iate12ofthepizza
 33-thul1246,thul1246,33,pʰwaktsjolə,,,,thul1246-iate12ofthepizza
 33-wamb1257,wamb1257,33,kwalpʰaktsjal,,,,wamb1257-iate12ofthepizza
 33-yakk1236,yakk1236,33,utsabelek,,,,yakk1236-iate12ofthepizza
@@ -3977,8 +4411,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 34-dumi1241,dumi1241,34,dui tihai,,,,dumi1241-iate23ofthepizza
 34-khal1275,khal1275,34,suk bʰag-bi sak bʰag,,,,khal1275-iate23ofthepizza
 34-koii1238,koii1238,34,tin bʰag-bi dui bʰag,,,,koii1238-iate23ofthepizza
+34-nach1240,nach1240,34,suk-ham-pi nis-ham,,,,nach1240-iate23ofthepizza
 34-puma1239,puma1239,34,sum-do əsə,,,,puma1239-iate23ofthepizza
 34-samp1249,samp1249,34,sumka-pi hisa,,,,samp1249-iate23ofthepizza
+34-sunw1242,sunw1242,34,tin-bʰag-mi dui-bʰag,,,,sunw1242-iate23ofthepizza
 34-chhi1245,chhi1245,34,sumtse tsoiʈa-be: hitstse tsoiʈa,,,,chhi1245-iate23ofthepizza
 34-muga1241,muga1241,34,sumtsi bʰag-be hitstsi bʰag,,,,muga1241-iate23ofthepizza
 34-chhu1238,chhu1238,34,sum-bʰag-a-mi si-bʰag-a,,,,chhu1238-iate23ofthepizza
@@ -3989,8 +4425,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 35-dumi1241,dumi1241,35,tin tsəutʰai,,,,dumi1241-iread34ofthebook
 35-khal1275,khal1275,35,bʰɛl bʰag-bi suk bʰag,,,,khal1275-iread34ofthebook
 35-koii1238,koii1238,35,tsar bʰag-bi tin bʰag,,,,koii1238-iread34ofthebook
+35-nach1240,nach1240,35,lik-ham-pi suk-ham,,,,nach1240-iread34ofthebook
 35-puma1239,puma1239,35,tsuk-do sum,,,,puma1239-iread34ofthebook
 35-samp1249,samp1249,35,ə̃ka-pi sumka,,,,samp1249-iread34ofthebook
+35-sunw1242,sunw1242,35,tsar-bʰag-mi tin-bʰag,,,,sunw1242-iread34ofthebook
 35-chhi1245,chhi1245,35,tsar-bʰaga-be: sumtse-bʰaga,,,,chhi1245-iread34ofthebook
 35-muga1241,muga1241,35,tsar bʰag-be sumtsi bʰag,,,,muga1241-iread34ofthebook
 35-chhu1238,chhu1238,35,tsar-bʰag-a-mi sum-bʰag-a,,,,chhu1238-iread34ofthebook
@@ -4001,8 +4439,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 36-dumi1241,dumi1241,36,ek tsəutʰai,,,,dumi1241-iread14ofthebook
 36-khal1275,khal1275,36,bʰɛl bʰag-bi tu bʰag,,,,khal1275-iread14ofthebook
 36-koii1238,koii1238,36,tsar bʰag-bi uk bʰag,,,,koii1238-iread14ofthebook
+36-nach1240,nach1240,36,lik-ham-pi uk-ham,,,,nach1240-iread14ofthebook
 36-puma1239,puma1239,36,tsuk-do ək,,,,puma1239-iread14ofthebook
 36-samp1249,samp1249,36,lə̃ka-pi itta,,,,samp1249-iread14ofthebook
+36-sunw1242,sunw1242,36,tsar-bʰag-mi bʰag-ka,,,,sunw1242-iread14ofthebook
 36-chhi1245,chhi1245,36,tsar-bʰaga-be: ʈʰiʈʈa-bʰaga,,,,chhi1245-iread14ofthebook
 36-muga1241,muga1241,36,tsar bʰag-be ʈʰili bʰag,,,,muga1241-iread14ofthebook
 36-chhu1238,chhu1238,36,tsar-bʰag-a-mi ʈi-bʰag-a,,,,chhu1238-iread14ofthebook
@@ -4013,8 +4453,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 37-dumi1241,dumi1241,37,ek pãtsəu bʰag,,,,dumi1241-iate15ofthepizza
 37-khal1275,khal1275,37,bʰjoŋ bʰag-bi tu bʰag,,,,khal1275-iate15ofthepizza
 37-koii1238,koii1238,37,pãts bʰag-bi uk bʰag,,,,koii1238-iate15ofthepizza
+37-nach1240,nach1240,37,ŋak-ham-pi uk-ham,,,,nach1240-iate15ofthepizza
 37-puma1239,puma1239,37,tsʰik-do ək,,,,puma1239-iate15ofthepizza
 37-samp1249,samp1249,37,nə̃ka-pi itta,,,,samp1249-iate15ofthepizza
+37-sunw1242,sunw1242,37,pãts-bʰag-mi bʰag-ka,,,,sunw1242-iate15ofthepizza
 37-chhi1245,chhi1245,37,pãts-eɖa tsoiʈa-be: ʈʰiʈʈa tsoiʈa,,,,chhi1245-iate15ofthepizza
 37-muga1241,muga1241,37,pãts bʰag-be ʈʰili bʰag,,,,muga1241-iate15ofthepizza
 37-chhu1238,chhu1238,37,pa͂ts-bʰag-a-mi kolok-bʰag-a,,,,chhu1238-iate15ofthepizza
@@ -4025,8 +4467,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 38-dumi1241,dumi1241,38,sat-bi dui bʰag,,,,dumi1241-iread27ofthebook
 38-khal1275,khal1275,38,sat bʰag-bi sak bʰag,,,,khal1275-iread27ofthebook
 38-koii1238,koii1238,38,sat bʰag-bi dui bʰag,,,,koii1238-iread27ofthebook
+38-nach1240,nach1240,38,nuk-ham-pi nis-ham,,,,nach1240-iread27ofthebook
 38-puma1239,puma1239,38,set-do əsə,,,,puma1239-iread27ofthebook
 38-samp1249,samp1249,38,sawa-pi hisa,,,,samp1249-iread27ofthebook
+38-sunw1242,sunw1242,38,sat-bʰag-mi dui-bʰag,,,,sunw1242-iread27ofthebook
 38-chhi1245,chhi1245,38,sat-bʰaga-be: hitstse-bʰaga,,,,chhi1245-iread27ofthebook
 38-muga1241,muga1241,38,sat bʰag-be hitstsi bʰag,,,,muga1241-iread27ofthebook
 38-chhu1238,chhu1238,38,sat-bʰag-a-mi sip-bʰag-a,,,,chhu1238-iread27ofthebook
@@ -4037,8 +4481,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 39-dumi1241,dumi1241,39,sat-bi tin bʰag,,,,dumi1241-iread37ofthebook
 39-khal1275,khal1275,39,sat bʰag-bi suk bʰag,,,,khal1275-iread37ofthebook
 39-koii1238,koii1238,39,sat bʰag-bi tin bʰag,,,,koii1238-iread37ofthebook
+39-nach1240,nach1240,39,nuk-ham-pi suk-ham,,,,nach1240-iread37ofthebook
 39-puma1239,puma1239,39,set-do sum,,,,puma1239-iread37ofthebook
 39-samp1249,samp1249,39,sumka nuwabə,,,,samp1249-iread37ofthebook
+39-sunw1242,sunw1242,39,sat-bʰag-mi tin-bʰag,,,,sunw1242-iread37ofthebook
 39-chhi1245,chhi1245,39,sat-bʰaga-be: sumtse-bʰaga,,,,chhi1245-iread37ofthebook
 39-muga1241,muga1241,39,sat bʰag-be sumtsi bʰag,,,,muga1241-iread37ofthebook
 39-chhu1238,chhu1238,39,sat-bʰag-a-mi sum-bʰag-a,,,,chhu1238-iread37ofthebook
@@ -4049,24 +4495,30 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 40-dumi1241,dumi1241,40,pãts-bi tin bʰag,,,,dumi1241-iread35ofthebook
 40-khal1275,khal1275,40,bʰjoŋ bʰag-bi suk bʰag,,,,khal1275-iread35ofthebook
 40-koii1238,koii1238,40,pãts bʰag-bi tin bʰag,,,,koii1238-iread35ofthebook
+40-nach1240,nach1240,40,ŋuk-ham-pi suk-ham,,,,nach1240-iread35ofthebook
 40-puma1239,puma1239,40,tsʰik-do sum,,,,puma1239-iread35ofthebook
 40-samp1249,samp1249,40,nə̃ka-pi sumka,,,,samp1249-iread35ofthebook
+40-sunw1242,sunw1242,40,pãts-bʰag-mi tin-bʰag,,,,sunw1242-iread35ofthebook
 41-bant1281,bant1281,41,tuk bʰuŋ-da hwa bʰuŋ,,,,bant1281-iate26ofthepizza
 41-bahi1252,bahi1252,41,rukwa pʰala-di niksi pʰala,,,,bahi1252-iate26ofthepizza
 41-caml1239,caml1239,41,tuka-da haka-ruŋ,,,,caml1239-iate26ofthepizza
 41-dumi1241,dumi1241,41,tsʰə-bi dui bʰag,,,,dumi1241-iate26ofthepizza
 41-khal1275,khal1275,41,tsʰʌ bʰag-bi sak bʰag,,,,khal1275-iate26ofthepizza
 41-koii1238,koii1238,41,tsʰʌ bʰag-bi dui bʰag,,,,koii1238-iate26ofthepizza
+41-nach1240,nach1240,41,tuk-ham-pi nis-ham,,,,nach1240-iate26ofthepizza
 41-puma1239,puma1239,41,tsʰet-do əsə,,,,puma1239-iate26ofthepizza
 41-samp1249,samp1249,41,tsuki-pi hisa,,,,samp1249-iate26ofthepizza
+41-sunw1242,sunw1242,41,tsʰʌ-bʰag-mi dui-bʰag,,,,sunw1242-iate26ofthepizza
 42-bant1281,bant1281,42,pʌ-tuk bʰuŋ-da ɘk bʰuŋ,,,,bant1281-iate116ofthrpizza
 42-bahi1252,bahi1252,42,kʌdem rukwa pʰala-di kʌŋ pʰala,,,,bahi1252-iate116ofthrpizza
 42-caml1239,caml1239,42,i-tuka-da i-ruŋ,,,,caml1239-iate116ofthrpizza
 42-dumi1241,dumi1241,42,sohrə-bi tuk bʰag,,,,dumi1241-iate116ofthrpizza
 42-khal1275,khal1275,42,sohrʌ bʰag-bi tu bʰag,,,,khal1275-iate116ofthrpizza
 42-koii1238,koii1238,42,sorhʌ bʰag-bi uk bʰag,,,,koii1238-iate116ofthrpizza
+42-nach1240,nach1240,42,pʌu-tuk-pi uk-ham,,,,nach1240-iate116ofthrpizza
 42-puma1239,puma1239,42,dzʰup-tsʰet-do ək,,,,puma1239-iate116ofthrpizza
 42-samp1249,samp1249,42,it-tsuk-pi itta,,,,samp1249-iate116ofthrpizza
+42-sunw1242,sunw1242,42,sorhʌ-bʰag-mi bʰag-ka,,,,sunw1242-iate116ofthrpizza
 42-chhi1245,chhi1245,42,sorhʌ-eɖa tsoiʈa-be: ʈʰiʈʈa tsoiʈa,,,,chhi1245-iate116ofthrpizza
 42-muga1241,muga1241,42,sorʌh bʰag-be ʈʰili bʰag,,,,muga1241-iate116ofthrpizza
 42-chhu1238,chhu1238,42,sorʌh-bʰag-a-mi ʈi-bʰag-a,,,,chhu1238-iate116ofthrpizza
@@ -4077,8 +4529,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 43-dumi1241,dumi1241,43,dəs-bi tuk bʰag,,,,dumi1241-iread110partofthebook
 43-khal1275,khal1275,43,tʌdʌm bʰag-bi tu bʰag,,,,khal1275-iread110partofthebook
 43-koii1238,koii1238,43,dʌs bʰag-bi uk bʰag,,,,koii1238-iread110partofthebook
+43-nach1240,nach1240,43,pʌu-ham-pi uk-ham,,,,nach1240-iread110partofthebook
 43-puma1239,puma1239,43,dzʰup-do ək,,,,puma1239-iread110partofthebook
 43-samp1249,samp1249,43,it-hop-pi itta,,,,samp1249-iread110partofthebook
+43-sunw1242,sunw1242,43,dʌs-bʰag-mi bʰag-ka,,,,sunw1242-iread110partofthebook
 43-chhi1245,chhi1245,43,dʌs-bʰaga-be: ʈʰiʈʈa bʰaga,,,,chhi1245-iread110partofthebook
 43-muga1241,muga1241,43,dʌs bʰag kitab-be ʈʰili bʰag,,,,muga1241-iread110partofthebook
 43-chhu1238,chhu1238,43,dʌs-bʰag-a kitab-mi ʈi-bʰag-a,,,,chhu1238-iread110partofthebook
@@ -4091,8 +4545,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 44-khal1275,khal1275,44,tuk-kʰep,,,,khal1275-imethimonce
 44-koii1238,koii1238,44,uk-ban,,,,koii1238-imethimonce
 44-kulu1253,kulu1253,44,i-lam,,,,kulu1253-imethimonce
+44-nach1240,nach1240,44,uk-tul,,,,nach1240-imethimonce
 44-puma1239,puma1239,44,ək-rəŋ,,,,puma1239-imethimonce
 44-samp1249,samp1249,44,i-dəppʰe,,,,samp1249-imethimonce
+44-sunw1242,sunw1242,44,ka-le,,,,sunw1242-imethimonce
 44-thul1246,thul1246,44,ko-lam,,,,thul1246-imethimonce
 44-wamb1257,wamb1257,44,kwal-kʰepa,,,,wamb1257-imethimonce
 44-yakk1236,yakk1236,44,e-ma,,,,yakk1236-imethimonce
@@ -4114,8 +4570,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 45-khal1275,khal1275,45,sak-kʰep,,,,khal1275-imethimtwice
 45-koii1238,koii1238,45,dui-ban,,,,koii1238-imethimtwice
 45-kulu1253,kulu1253,45,nis-lam,,,,kulu1253-imethimtwice
+45-nach1240,nach1240,45,nis-tul,,,,nach1240-imethimtwice
 45-puma1239,puma1239,45,əsə-rəŋ,,,,puma1239-imethimtwice
 45-samp1249,samp1249,45,hisa-dəppʰe,,,,samp1249-imethimtwice
+45-sunw1242,sunw1242,45,niʔsi-kʰep,,,,sunw1242-imethimtwice
 45-thul1246,thul1246,45,nə-lam,,,,thul1246-imethimtwice
 45-wamb1257,wamb1257,45,nis-kʰepa,,,,wamb1257-imethimtwice
 45-yakk1236,yakk1236,45,hi-ma,,,,yakk1236-imethimtwice
@@ -4137,8 +4595,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 46-khal1275,khal1275,46,suk-kʰep,,,,khal1275-imethimthrice
 46-koii1238,koii1238,46,tin-ban,,,,koii1238-imethimthrice
 46-kulu1253,kulu1253,46,suk-lam,,,,kulu1253-imethimthrice
+46-nach1240,nach1240,46,suk-tul,,,,nach1240-imethimthrice
 46-puma1239,puma1239,46,sum-rəŋ,,,,puma1239-imethimthrice
 46-samp1249,samp1249,46,sumka-dəppʰe,,,,samp1249-imethimthrice
+46-sunw1242,sunw1242,46,sã-kʰep,,,,sunw1242-imethimthrice
 46-thul1246,thul1246,46,su-lam,,,,thul1246-imethimthrice
 46-wamb1257,wamb1257,46,sum-kʰepa,,,,wamb1257-imethimthrice
 46-yakk1236,yakk1236,46,su-ma,,,,yakk1236-imethimthrice
@@ -4159,8 +4619,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 47-khal1275,khal1275,47,bʰɛl-kʰep,,,,khal1275-imethimforthtime
 47-koii1238,koii1238,47,tsar-ban,,,,koii1238-imethimforthtime
 47-kulu1253,kulu1253,47,lik-lam,,,,kulu1253-imethimforthtime
+47-nach1240,nach1240,47,lik-tul,,,,nach1240-imethimforthtime
 47-puma1239,puma1239,47,tsuk-rəŋ,,,,puma1239-imethimforthtime
 47-samp1249,samp1249,47,lə̃ka-dəppʰe,,,,samp1249-imethimforthtime
+47-sunw1242,sunw1242,47,tsar-kʰep,,,,sunw1242-imethimforthtime
 47-thul1246,thul1246,47,blə-lam,,,,thul1246-imethimforthtime
 47-wamb1257,wamb1257,47,pʰib-kʰepa,,,,wamb1257-imethimforthtime
 47-yakk1236,yakk1236,47,na-ma,,,,yakk1236-imethimforthtime
@@ -4181,8 +4643,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 48-khal1275,khal1275,48,nʌu-kʰep,,,,khal1275-icalledherninetimes
 48-koii1238,koii1238,48,nʌu-ban,,,,koii1238-icalledherninetimes
 48-kulu1253,kulu1253,48,bʰʌu-lam,,,,kulu1253-icalledherninetimes
+48-nach1240,nach1240,48,bʰʌu-tul,,,,nach1240-icalledherninetimes
 48-puma1239,puma1239,48,let-rəŋ,,,,puma1239-icalledherninetimes
 48-samp1249,samp1249,48,ŋəka-dəppʰe,,,,samp1249-icalledherninetimes
+48-sunw1242,sunw1242,48,nʌu-kʰep,,,,sunw1242-icalledherninetimes
 48-thul1246,thul1246,48,gu-lam,,,,thul1246-icalledherninetimes
 48-wamb1257,wamb1257,48,nu-kʰepa,,,,wamb1257-icalledherninetimes
 48-yakk1236,yakk1236,48,pa-ma,,,,yakk1236-icalledherninetimes
@@ -4203,8 +4667,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 49-khal1275,khal1275,49,pʌtstsis-kʰep,,,,khal1275-icalledhimtwentyfivetimes
 49-koii1238,koii1238,49,pʌtstsis-ban,,,,koii1238-icalledhimtwentyfivetimes
 49-kulu1253,kulu1253,49,nis-poŋ-ŋak-lam,,,,kulu1253-icalledhimtwentyfivetimes
+49-nach1240,nach1240,49,nis-ŋak-tul,,,,nach1240-icalledhimtwentyfivetimes
 49-puma1239,puma1239,49,lup-tsʰik-rəŋ,,,,puma1239-icalledhimtwentyfivetimes
 49-samp1249,samp1249,49,his-nə̃k-dəppʰe,,,,samp1249-icalledhimtwentyfivetimes
+49-sunw1242,sunw1242,49,pʌtstsis-kʰep,,,,sunw1242-icalledhimtwentyfivetimes
 49-thul1246,thul1246,49,nə-dʰjum ŋo-lam,,,,thul1246-icalledhimtwentyfivetimes
 49-wamb1257,wamb1257,49,nis-ŋa-kʰepa,,,,wamb1257-icalledhimtwentyfivetimes
 49-yakk1236,yakk1236,49,muktapi-pats-ma,,,,yakk1236-icalledhimtwentyfivetimes
@@ -4225,8 +4691,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 50-khal1275,khal1275,50,pʌndrʌ-kʰep,,,,khal1275-icalledherfifteentimes
 50-koii1238,koii1238,50,pʌndrʌ-ban,,,,koii1238-icalledherfifteentimes
 50-kulu1253,kulu1253,50,ik-poŋ-ŋak-lam,,,,kulu1253-icalledherfifteentimes
+50-nach1240,nach1240,50,pʌu-ŋak-tul,,,,nach1240-icalledherfifteentimes
 50-puma1239,puma1239,50,dzʰup-tsʰit-rəŋ,,,,puma1239-icalledherfifteentimes
 50-samp1249,samp1249,50,it-nə̃k-dəppʰe,,,,samp1249-icalledherfifteentimes
+50-sunw1242,sunw1242,50,pʌndrʌh-kʰep,,,,sunw1242-icalledherfifteentimes
 50-thul1246,thul1246,50,ko-dʰjum ŋo-lam,,,,thul1246-icalledherfifteentimes
 50-wamb1257,wamb1257,50,kwal-ŋa-kʰepa,,,,wamb1257-icalledherfifteentimes
 50-yakk1236,yakk1236,50,muktapi-sumtsi-ma,,,,yakk1236-icalledherfifteentimes
@@ -4247,8 +4715,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 51-khal1275,khal1275,51,tu-tʌŋ,,,,khal1275-thereisonlyonechild
 51-koii1238,koii1238,51,oko matrʌi,,,,koii1238-thereisonlyonechild
 51-kulu1253,kulu1253,51,ik-bum ŋaŋ,,,,kulu1253-thereisonlyonechild
+51-nach1240,nach1240,51,uk-bou ŋa,,,,nach1240-thereisonlyonechild
 51-puma1239,puma1239,51,ək-ta ŋe/ək-ta mattəi,,,,puma1239-thereisonlyonechild
 51-samp1249,samp1249,51,itta-mattəi,,,,samp1249-thereisonlyonechild
+51-sunw1242,sunw1242,51,ka-la,,,,sunw1242-thereisonlyonechild
 51-thul1246,thul1246,51,ko-le koŋŋa,,,,thul1246-thereisonlyonechild
 51-wamb1257,wamb1257,51,kwal ŋa,,,,wamb1257-thereisonlyonechild
 51-yakk1236,yakk1236,51,eko-se,,,,yakk1236-thereisonlyonechild
@@ -4271,8 +4741,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 52-khal1275,khal1275,52,sak-tʌŋ,,,,
 52-koii1238,koii1238,52,dui-oʈa matrʌi,,,,
 52-kulu1253,kulu1253,52,nis-tsi ŋaŋ,,,,
+52-nach1240,nach1240,52,nis-bou ŋa,,,,
 52-puma1239,puma1239,52,əsə-ra ŋe/əsə-ra mattəi,,,,
 52-samp1249,samp1249,52,hisa-mattəi,,,,
+52-sunw1242,sunw1242,52,niʔsi-la,,,,
 52-thul1246,thul1246,52,nə-le koŋŋa,,,,
 52-wamb1257,wamb1257,52,nis-gwaɖ ŋa,,,,
 52-yakk1236,yakk1236,52,hitsi-se,,,,
@@ -4295,8 +4767,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 53-khal1275,khal1275,53,suk-pu-tʌŋ,,,,
 53-koii1238,koii1238,53,tin-oʈa matrʌi,,,,
 53-kulu1253,kulu1253,53,sup-tsi ŋaŋ,,,,
+53-nach1240,nach1240,53,tsuk-bou ŋa,,,,
 53-puma1239,puma1239,53,sum-ra ŋe/sum-ra mattəi,,,,
 53-samp1249,samp1249,53,sumka-mattəi,,,,
+53-sunw1242,sunw1242,53,sã-la,,,,
 53-thul1246,thul1246,53,su-le koŋŋa,,,,
 53-wamb1257,wamb1257,53,sum-gwaɖ ŋa,,,,
 53-yakk1236,yakk1236,53,sumtsi-se,,,,
@@ -4319,8 +4793,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 54-khal1275,khal1275,54,bʰɛl-pu-tʌŋ,,,,khal1275-heateonlyfourmangoes
 54-koii1238,koii1238,54,tsar-oʈa matrʌi,,,,koii1238-heateonlyfourmangoes
 54-kulu1253,kulu1253,54,lik-tsi ŋaŋ,,,,kulu1253-heateonlyfourmangoes
+54-nach1240,nach1240,54,lik-bou ŋa,,,,nach1240-heateonlyfourmangoes
 54-puma1239,puma1239,54,tsuk-ra ŋe/tsuk-ra mattəi,,,,puma1239-heateonlyfourmangoes
 54-samp1249,samp1249,54,lə̃ka-mattəi,,,,samp1249-heateonlyfourmangoes
+54-sunw1242,sunw1242,54,tsar-la,,,,sunw1242-heateonlyfourmangoes
 54-thul1246,thul1246,54,blə-le koŋŋa,,,,thul1246-heateonlyfourmangoes
 54-wamb1257,wamb1257,54,pʰib-gwaɖ ŋa,,,,wamb1257-heateonlyfourmangoes
 54-yakk1236,yakk1236,54,na-se,,,,yakk1236-heateonlyfourmangoes
@@ -4343,8 +4819,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 55-khal1275,khal1275,55,bʰom-tʌŋ,,,,
 55-koii1238,koii1238,55,pãts-oʈa matrʌi,,,,
 55-kulu1253,kulu1253,55,ŋak-tsi ŋaŋ,,,,
+55-nach1240,nach1240,55,ŋak-bou ŋa,,,,
 55-puma1239,puma1239,55,tsʰik-ra ŋe/tsʰik-ra mattəi,,,,
 55-samp1249,samp1249,55,nə̃ka-mattəi,,,,
+55-sunw1242,sunw1242,55,pãts-oʈa la,,,,
 55-thul1246,thul1246,55,ŋo-le koŋŋa,,,,
 55-wamb1257,wamb1257,55,ŋa:-gwaɖ ŋa,,,,
 55-yakk1236,yakk1236,55,muktapi eko-se,,,,
@@ -4367,8 +4845,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 56-khal1275,khal1275,56,tʌdʌm-tʌŋ,,,,
 56-koii1238,koii1238,56,dʌs-oʈa matrʌi,,,,
 56-kulu1253,kulu1253,56,ik-poŋ ŋaŋ,,,,
+56-nach1240,nach1240,56,pʌu-bou ŋa,,,,
 56-puma1239,puma1239,56,dzʰup-ra ŋe/dzʰup-ra mattəi,,,,
 56-samp1249,samp1249,56,it-hop-mattəi,,,,
+56-sunw1242,sunw1242,56,dʌs-oʈa la,,,,
 56-thul1246,thul1246,56,ko-dʰjum-le koŋŋa,,,,
 56-wamb1257,wamb1257,56,kwal-sjako ŋa,,,,
 56-yakk1236,yakk1236,56,muktapi hitsi-se,,,,
@@ -4391,8 +4871,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 57-khal1275,khal1275,57,kʰɵleŋ-bi tu,,,,
 57-koii1238,koii1238,57,dzʌmmʌi-bi oko,,,,
 57-kulu1253,kulu1253,57,i-i-bum/bʌu,,,,
+57-nach1240,nach1240,57,kʰʌlʌ-pi uk-bou,,,,
 57-puma1239,puma1239,57,ək-ta ək-ta,,,,
 57-samp1249,samp1249,57,dzʰara-pi itta,,,,
+57-sunw1242,sunw1242,57,nelʌ-mi ka,,,,
 57-thul1246,thul1246,57,ko-ko-le,,,,
 57-wamb1257,wamb1257,57,kwaŋ kwaŋ,,,,
 57-yakk1236,yakk1236,57,eko eko,,,,
@@ -4414,8 +4896,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 58-khal1275,khal1275,58,kʰɵleŋ-bi suk,,,,
 58-koii1238,koii1238,58,dzʌmmʌi-bi tin,,,,
 58-kulu1253,kulu1253,58,su-suk-bʌu,,,,
+58-nach1240,nach1240,58,kʰʌlʌ-pi nis-bou,,,,
 58-puma1239,puma1239,58,sum-ra sum-ra,,,,
 58-samp1249,samp1249,58,dzʰara-pi sumka,,,,
+58-sunw1242,sunw1242,58,nelʌ-mi sã,,,,
 58-thul1246,thul1246,58,su-su-le,,,,
 58-wamb1257,wamb1257,58,sum sum-gwaɖ,,,,
 58-yakk1236,yakk1236,58,sumtsi sumtsi,,,,
@@ -4437,8 +4921,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 59-khal1275,khal1275,59,kʰɵleŋ-bi bʰjoŋ,,,,
 59-koii1238,koii1238,59,dzʌmmʌi-bi pãts,,,,
 59-kulu1253,kulu1253,59,ŋa-ŋak-bʌu,,,,
+59-nach1240,nach1240,59,kʰʌlʌ-pi ŋak-bou,,,,
 59-puma1239,puma1239,59,tsʰik-ra tsʰik-ra,,,,
 59-samp1249,samp1249,59,dzʰara-pi nə̃ka,,,,
+59-sunw1242,sunw1242,59,nelʌ-mi pãts,,,,
 59-thul1246,thul1246,59,ŋo-ŋo-le,,,,
 59-wamb1257,wamb1257,59,ŋa ŋa-gwaɖ,,,,
 59-yakk1236,yakk1236,59,muktapi eko eko,,,,
@@ -4460,8 +4946,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 60-khal1275,khal1275,60,tu-tu-bʌ,,,,
 60-koii1238,koii1238,60,uk uk,,,,
 60-kulu1253,kulu1253,60,i-bʌu i-bʌu,,,,
+60-nach1240,nach1240,60,uk-wou uk-bou mumhʌ,,,,
 60-puma1239,puma1239,60,ək-poŋ ək-poŋ,,,,
 60-samp1249,samp1249,60,ittaitta,,,,
+60-sunw1242,sunw1242,60,ka-la ka,,,,
 60-thul1246,thul1246,60,ko-le atʰam ko-le,,,,
 60-wamb1257,wamb1257,60,kwaŋ kwaŋ pa-sakʰo,,,,
 60-yakk1236,yakk1236,60,eko eko,,,,
@@ -4483,8 +4971,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 61-khal1275,khal1275,61,sak-sak-pu,,,,
 61-koii1238,koii1238,61,dui dui,,,,
 61-kulu1253,kulu1253,61,ni-nis-bʌu,,,,
+61-nach1240,nach1240,61,nis-wou nis-bou mumhʌ,,,,
 61-puma1239,puma1239,61,əsə-poŋ əsə-poŋ,,,,
 61-samp1249,samp1249,61,hisahisa,,,,
+61-sunw1242,sunw1242,61,niʔsi-la niʔsi,,,,
 61-thul1246,thul1246,61,nə-le atʰam nə-le,,,,
 61-wamb1257,wamb1257,61,nis nis pa-sakʰo,,,,
 61-yakk1236,yakk1236,61,sum-paŋ sum-paŋ,,,,
@@ -4506,8 +4996,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 62-khal1275,khal1275,62,rʌbʌ,,,,khal1275-approximately20kilosofriceareinthesack;khal1275-approximately50ofstudentsareattendingtheworkshop;khal1275-approximatelyfifteenkilosofriceareinthesack;khal1275-approximately23rdmembersareleft;khal1275-thisinstitutecontainsapproximately1000students;khal1275-approximately35kilosofriceareinthesack
 62-koii1238,koii1238,62,lʌgbʰʌg,,,,koii1238-approximately20kilosofriceareinthesack;koii1238-approximately50ofstudentsareattendingtheworkshop;koii1238-approximatelyfifteenkilosofriceareinthesack;koii1238-approximately23rdmembersareleft;koii1238-thisinstitutecontainsapproximately1000students;koii1238-approximately35kilosofriceareinthesack
 62-kulu1253,kulu1253,62,kʰomokʰomo,,,,kulu1253-approximately20kilosofriceareinthesack;kulu1253-approximately50ofstudentsareattendingtheworkshop;kulu1253-approximatelyfifteenkilosofriceareinthesack;kulu1253-approximately23rdmembersareleft;kulu1253-thisinstitutecontainsapproximately1000students;kulu1253-approximately35kilosofriceareinthesack
+62-nach1240,nach1240,62,leipmanleip,,,,nach1240-approximately20kilosofriceareinthesack;nach1240-approximately50ofstudentsareattendingtheworkshop;nach1240-approximatelyfifteenkilosofriceareinthesack;nach1240-approximately23rdmembersareleft;nach1240-thisinstitutecontainsapproximately1000students;nach1240-approximately35kilosofriceareinthesack
 62-puma1239,puma1239,62,leŋ,,,,puma1239-approximately20kilosofriceareinthesack;puma1239-approximately50ofstudentsareattendingtheworkshop;puma1239-approximatelyfifteenkilosofriceareinthesack;puma1239-approximately23rdmembersareleft;puma1239-thisinstitutecontainsapproximately1000students;puma1239-approximately35kilosofriceareinthesack
 62-samp1249,samp1249,62,dəttadətta,,,,samp1249-approximately20kilosofriceareinthesack;samp1249-approximately50ofstudentsareattendingtheworkshop;samp1249-approximatelyfifteenkilosofriceareinthesack;samp1249-approximately23rdmembersareleft;samp1249-thisinstitutecontainsapproximately1000students;samp1249-approximately35kilosofriceareinthesack
+62-sunw1242,sunw1242,62,lʌgbʰʌg,,,,sunw1242-approximately20kilosofriceareinthesack;sunw1242-approximately50ofstudentsareattendingtheworkshop;sunw1242-approximatelyfifteenkilosofriceareinthesack;sunw1242-approximately23rdmembersareleft;sunw1242-thisinstitutecontainsapproximately1000students;sunw1242-approximately35kilosofriceareinthesack
 62-thul1246,thul1246,62,dzʰənnəi,,,,thul1246-approximately20kilosofriceareinthesack;thul1246-approximatelyfifteenkilosofriceareinthesack;thul1246-thisinstitutecontainsapproximately1000students;thul1246-approximately35kilosofriceareinthesack
 62-wamb1257,wamb1257,62,kwalo,,,,wamb1257-approximately20kilosofriceareinthesack;wamb1257-approximately50ofstudentsareattendingtheworkshop;wamb1257-approximatelyfifteenkilosofriceareinthesack;wamb1257-approximately23rdmembersareleft;wamb1257-thisinstitutecontainsapproximately1000students;wamb1257-approximately35kilosofriceareinthesack
 62-chhi1245,chhi1245,62,asuk,,,,chhi1245-approximately20kilosofriceareinthesack;chhi1245-approximately50ofstudentsareattendingtheworkshop;chhi1245-approximately23rdmembersareleft;chhi1245-thisinstitutecontainsapproximately1000students;chhi1245-approximately35kilosofriceareinthesack
@@ -4525,8 +5017,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 63-jeru1240,jeru1240,63,hul,,,,jeru1240-agroupoftwogirlsplayed;jeru1240-agroupoffivegirlsplayed;jeru1240-agroupoffourgirlsplayed;jeru1240-agroupoftwelveboysreached;jeru1240-agroupoftwentyfiveboysreached;jeru1240-agroupoftwentyboysreached
 63-khal1275,khal1275,63,grup,,,,khal1275-agroupoftwogirlsplayed;khal1275-agroupoffivegirlsplayed;khal1275-agroupoffourgirlsplayed;khal1275-agroupoftwelveboysreached;khal1275-agroupoftwentyfiveboysreached;khal1275-agroupoftwentyboysreached
 63-koii1238,koii1238,63,grup,,,,koii1238-agroupoftwogirlsplayed;koii1238-agroupoffivegirlsplayed;koii1238-agroupoffourgirlsplayed;koii1238-agroupoftwelveboysreached;koii1238-agroupoftwentyfiveboysreached;koii1238-agroupoftwentyboysreached
+63-nach1240,nach1240,63,umto,,,,nach1240-agroupoftwogirlsplayed;nach1240-agroupoffivegirlsplayed;nach1240-agroupoffourgirlsplayed;nach1240-agroupoftwelveboysreached;nach1240-agroupoftwentyfiveboysreached;nach1240-agroupoftwentyboysreached
 63-puma1239,puma1239,63,dzʰum,,,,puma1239-agroupoftwogirlsplayed;puma1239-agroupoffivegirlsplayed;puma1239-agroupoffourgirlsplayed;puma1239-agroupoftwelveboysreached;puma1239-agroupoftwentyfiveboysreached;puma1239-agroupoftwentyboysreached
 63-samp1249,samp1249,63,dəbʰəi,,,,samp1249-agroupoftwogirlsplayed;samp1249-agroupoffivegirlsplayed;samp1249-agroupoffourgirlsplayed;samp1249-agroupoftwelveboysreached;samp1249-agroupoftwentyfiveboysreached;samp1249-agroupoftwentyboysreached
+63-sunw1242,sunw1242,63,sʌmuhʌ,,,,sunw1242-agroupoftwogirlsplayed;sunw1242-agroupoffivegirlsplayed;sunw1242-agroupoffourgirlsplayed;sunw1242-agroupoftwelveboysreached;sunw1242-agroupoftwentyfiveboysreached;sunw1242-agroupoftwentyboysreached
 63-thul1246,thul1246,63,grup,,,,thul1246-agroupoftwogirlsplayed;thul1246-agroupoffivegirlsplayed;thul1246-agroupoffourgirlsplayed;thul1246-agroupoftwelveboysreached;thul1246-agroupoftwentyfiveboysreached;thul1246-agroupoftwentyboysreached
 63-yakk1236,yakk1236,63,grup,,,,yakk1236-agroupoftwogirlsplayed;yakk1236-agroupoffivegirlsplayed;yakk1236-agroupoffourgirlsplayed;yakk1236-agroupoftwelveboysreached;yakk1236-agroupoftwentyfiveboysreached;yakk1236-agroupoftwentyboysreached
 63-chhi1245,chhi1245,63,sʌmuhʌ,,,,chhi1245-agroupoftwogirlsplayed;chhi1245-agroupoffivegirlsplayed;chhi1245-agroupoffourgirlsplayed;chhi1245-agroupoftwelveboysreached;chhi1245-agroupoftwentyfiveboysreached;chhi1245-agroupoftwentyboysreached
@@ -4544,8 +5038,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 64-khal1275,khal1275,64,dzor,,,,khal1275-twopairofsocks;khal1275-pairofsocksarelyinghere
 64-koii1238,koii1238,64,dzor,,,,koii1238-twopairofsocks;koii1238-pairofsocksarelyinghere
 64-kulu1253,kulu1253,64,dzor,,,,kulu1253-twopairofsocks;kulu1253-pairofsocksarelyinghere
+64-nach1240,nach1240,64,nis (two),,,,nach1240-twopairofsocks;nach1240-pairofsocksarelyinghere
 64-puma1239,puma1239,64,əsə (two),,,,puma1239-twopairofsocks;puma1239-pairofsocksarelyinghere
 64-samp1249,samp1249,64,kʰəpduŋ,,,,samp1249-twopairofsocks;samp1249-pairofsocksarelyinghere
+64-sunw1242,sunw1242,64,dzor,,,,sunw1242-twopairofsocks;sunw1242-pairofsocksarelyinghere
 64-thul1246,thul1246,64,nitsi,,,,thul1246-twopairofsocks;thul1246-pairofsocksarelyinghere
 64-wamb1257,wamb1257,64,dzor,,,,wamb1257-twopairofsocks;wamb1257-pairofsocksarelyinghere
 64-yakk1236,yakk1236,64,dzor,,,,yakk1236-twopairofsocks;yakk1236-pairofsocksarelyinghere
@@ -4567,8 +5063,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 65-khal1275,khal1275,65,gʰoɔlɛ kʰep (many times),,,,khal1275-iwenttheredozenoftimes
 65-koii1238,koii1238,65,dʰerʌikʌ-tsoʈi (many times),,,,koii1238-iwenttheredozenoftimes
 65-kulu1253,kulu1253,65,detto (many),,,,kulu1253-iwenttheredozenoftimes
+65-nach1240,nach1240,65,dʌu dʌu (time-time),,,,nach1240-iwenttheredozenoftimes
 65-puma1239,puma1239,65,dzʰup-əsə kərəŋ (ten-two times),,,,puma1239-iwenttheredozenoftimes
 65-samp1249,samp1249,65,sappʰi dəppʰe (many times),,,,samp1249-iwenttheredozenoftimes
+65-sunw1242,sunw1242,65,iskʌka-kʰep (many times),,,,sunw1242-iwenttheredozenoftimes
 65-thul1246,thul1246,65,hapa halam (many times),,,,thul1246-iwenttheredozenoftimes
 65-wamb1257,wamb1257,65,baɖe-kʰep (many times),,,,wamb1257-iwenttheredozenoftimes
 65-yakk1236,yakk1236,65,pjak (many),,,,yakk1236-iwenttheredozenoftimes
@@ -4591,8 +5089,10 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 66-khal1275,khal1275,66,adʰi dʌrdzan,,,,khal1275-iboughthalfadozeneggs
 66-koii1238,koii1238,66,adʰi dʌrdzan,,,,koii1238-iboughthalfadozeneggs
 66-kulu1253,kulu1253,66,tuk (six),,,,kulu1253-iboughthalfadozeneggs
+66-nach1240,nach1240,66,tuk (six),,,,nach1240-iboughthalfadozeneggs
 66-puma1239,puma1239,66,tsʰek (six),,,,puma1239-iboughthalfadozeneggs
 66-samp1249,samp1249,66,bəkʰələ boduŋ,,,,samp1249-iboughthalfadozeneggs
+66-sunw1242,sunw1242,66,adʰa dʌrdzʌn,,,,sunw1242-iboughthalfadozeneggs
 66-thul1246,thul1246,66,ru (six),,,,thul1246-iboughthalfadozeneggs
 66-wamb1257,wamb1257,66,adʰa dʌrdzʌn,,,,wamb1257-iboughthalfadozeneggs
 66-yakk1236,yakk1236,66,ja (six),,,,yakk1236-iboughthalfadozeneggs
@@ -5490,3 +5990,58 @@ ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
 66-mala1464,mala1464,66,ərɑ ɖəzən,,,,mala1464-iboughthalfadozeneggs
 66-telu1262,telu1262,66,ərdʰɑ ɖɑdʒənu,,,,telu1262-iboughthalfadozeneggs
 66-kuru1301,kuru1301,66,ədʰɑ dərǰən,,,,kuru1301-iboughthalfadozeneggs
+1-kham1290,kham1290,1,əlɘŋ,,,,kham1290-oneboy;kham1290-onesheep;kham1290-onegirl;kham1290-onetree;kham1290-ihaveonebrother;kham1290-ihaveonesister;kham1290-ihaveonealmirah;kham1290-ihaveonebag
+2-kham1290,kham1290,2,sɔŋ,,,,kham1290-twoboys;kham1290-twogirls;kham1290-ihavetwobrothers;kham1290-ihavetwosisters;kham1290-ihavetwoalmirahs
+3-kham1290,kham1290,3,sɑm,,,,kham1290-threegirls;kham1290-ihavethreesisters;kham1290-ihavethreebags
+4-kham1290,kham1290,4,si,,,,kham1290-ihavefourbags
+5-kham1290,kham1290,5,hɑ,,,,kham1290-fivesheep
+6-kham1290,kham1290,6,hop,,,,
+7-kham1290,kham1290,7,cet,,,,
+8-kham1290,kham1290,8,pɛt,,,,kham1290-eighttrees
+9-kham1290,kham1290,9,kɑo,,,,
+10-kham1290,kham1290,10,sip,,,,
+11-kham1290,kham1290,11,ontʰɑ̃ŋ,,,,kham1290-firstman;kham1290-firstwoman
+12-kham1290,kham1290,12,sɔŋ-nɔmbər,,,,kham1290-secondman;kham1290-secondwoman
+13-kham1290,kham1290,13,sɑm-nɔmbər,,,,kham1290-thirdman;kham1290-thirdwoman
+14-kham1290,kham1290,14,si-nɔmbər,,,,kham1290-forthman;kham1290-forthwoman
+15-kham1290,kham1290,15,hɑ-nɔmbər,,,,kham1290-fifthman;kham1290-fifthwoman
+16-kham1290,kham1290,16,hop-nɔmbər,,,,kham1290-sixthwoman
+17-kham1290,kham1290,17,cet-nɔmbər,,,,kham1290-seventhboy
+18-kham1290,kham1290,18,pɛt-nɔmbər,,,,kham1290-eighthgirl
+19-kham1290,kham1290,19,kɑo-nɔmbər,,,,
+20-kham1290,kham1290,20,sip-nɔmbər,,,,
+21-kham1290,kham1290,21,siplɘŋ-nɔmbər,,,,
+22-kham1290,kham1290,22,sipsɔŋ-nɔmbər,,,,
+23-kham1290,kham1290,23,sipsɑm-nɔmbər,,,,
+24-kham1290,kham1290,24,sipsi-nɔmbər,,,,
+25-kham1290,kham1290,25,siphɑ-nɔmbər,,,,
+26-kham1290,kham1290,26,siphop-nɔmbər,,,,
+27-kham1290,kham1290,27,sipcet-nɔmbər,,,,
+28-kham1290,kham1290,28,sippɛt-nɔmbər,,,,
+29-kham1290,kham1290,29,sipkɑo-nɔmbər,,,,
+30-kham1290,kham1290,30,sɑo-nɔmbər,,,,
+31-kham1290,kham1290,31,sɑolɘŋ-nɔmbər,,,,
+32-kham1290,kham1290,32,sɑosɔŋ-nɔmbər,,,,
+44-kham1290,kham1290,44,pɑnlɘŋ,,,,kham1290-imethimonce
+45-kham1290,kham1290,45,sɔŋpɑnsɑ,,,,kham1290-imethimtwice
+46-kham1290,kham1290,46,sɑmpɑnsɑ,,,,kham1290-imethimthrice
+47-kham1290,kham1290,47,šipɑnsɑ,,,,kham1290-imethimforthtime
+48-kham1290,kham1290,48,kɑopɑnsɑ,,,,kham1290-icalledherninetimes
+49-kham1290,kham1290,49,šɑohɑ,,,,kham1290-icalledhimtwentyfivetimes
+50-kham1290,kham1290,50,šiphɑ,,,,kham1290-icalledherfifteentimes
+51-kham1290,kham1290,51,əlɘŋ nɑe,,,,kham1290-thereisonlyonechild
+52-kham1290,kham1290,52,sɔŋ ənnɑe,,,,
+53-kham1290,kham1290,53,sɑm ənnɑe,,,,
+54-kham1290,kham1290,54,si ənnɑe,,,,kham1290-heateonlyfourmangoes
+55-kham1290,kham1290,55,hɑ ənnɑe,,,,
+56-kham1290,kham1290,56,šip ənnɑe,,,,
+57-kham1290,kham1290,57,əlɘŋ təməŋ məi,,,,
+58-kham1290,kham1290,58,sɑm təməŋ məi,,,,
+59-kham1290,kham1290,59,hɑ təməŋ məi,,,,
+60-kham1290,kham1290,60,əlɘŋ- əlɘŋ mɑlɑ,,,,
+61-kham1290,kham1290,61,sɔŋən sɔŋən mɑlɑ,,,,
+62-kham1290,kham1290,62,muʈɑ-muʈɑ,,,,kham1290-approximately20kilosofriceareinthesack;kham1290-approximatelyfifteenkilosofriceareinthesack;kham1290-thisinstitutecontainsapproximately1000students;kham1290-approximately35kilosofriceareinthesack
+63-kham1290,kham1290,63,hum,,,,kham1290-agroupoftwogirlsplayed;kham1290-agroupoffivegirlsplayed;kham1290-agroupoffourgirlsplayed;kham1290-agroupoftwelveboysreached;kham1290-agroupoftwentyfiveboysreached;kham1290-agroupoftwentyboysreached
+64-kham1290,kham1290,64,sɔŋ (two),,,,kham1290-twopairofsocks;kham1290-pairofsocksarelyinghere
+65-kham1290,kham1290,65,ɖəzən,,,,kham1290-iwenttheredozenoftimes
+66-kham1290,kham1290,66,kou ɖəzən/ɑdʰɑ dərǰən,,,,kham1290-iboughthalfadozeneggs
